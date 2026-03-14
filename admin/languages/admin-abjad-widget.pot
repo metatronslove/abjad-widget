@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget Admin 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Abdil Murat ÜNALAN <maviveyesil83@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.0\n"
+"X-Domain: abjad-widget-admin\n"
+
+#: admin/class-abjad-widget-admin.php:45
+msgid "Abjad Widget"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:46
+msgid "Abjad Widget Dashboard"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:47
+msgid "Widget Ayarları"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:48
+msgid "Stil Düzenleyici"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:49
+msgid "Kod Düzenleyici"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:52
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:53
+msgid "Yükleniyor..."
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:54
+msgid "İçerik yüklenirken bir hata oluştu."
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:57
+msgid "Buton Ayarları"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:58
+msgid "Buton Tipi"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:59
+msgid "Emoji"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:60
+msgid "SVG Kodu"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:61
+msgid "PNG Resim URL"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:62
+msgid "Buton Emojisi"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:63
+msgid "SVG Kodu"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:64
+msgid "PNG Resim URL"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:65
+msgid "Ayarları Kaydet"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:66
+msgid "Ayarlar başarıyla kaydedildi."
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:69
+msgid "Özel CSS"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:70
+msgid "Widget görünümünü özelleştirmek için CSS kodları ekleyin."
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:71
+msgid "CSS'i Kaydet"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:72
+msgid "CSS başarıyla kaydedildi."
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:73
+msgid "Varsayılana Dön"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:76
+msgid "Özel JavaScript"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:77
+msgid "Widget davranışını değiştirmek için JavaScript kodu ekleyin. Yanlış kod widget'ı bozabilir!"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:78
+msgid "JavaScript'i Kaydet"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:79
+msgid "JavaScript başarıyla kaydedildi."
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:80
+msgid "Varsayılana Dön"
+msgstr ""
+
+#: admin/class-abjad-widget-admin.php:81
+msgid "UYARI"
+msgstr ""
+
+#: admin/partials/admin-dashboard.php:15
+msgid "Hoş geldiniz! Bu panelden widget haberlerini ve duyurularını takip edebilirsiniz."
+msgstr ""
+
+#: admin/partials/admin-settings.php:26
+msgid "Genel"
+msgstr ""
+
+#: admin/partials/admin-settings.php:27
+msgid "Buton"
+msgstr ""
+
+#: admin/partials/admin-settings.php:31
+msgid "Widget Durumu"
+msgstr ""
+
+#: admin/partials/admin-settings.php:34
+msgid "Widget aktif"
+msgstr ""
+
+#: admin/partials/admin-settings.php:35
+msgid "Bu kutuyu işaretleyerek widget'ı aktif hale getirebilirsiniz."
+msgstr ""
+
+#: admin/partials/admin-settings.php:40
+msgid "Buy Me a Coffee ID"
+msgstr ""
+
+#: admin/partials/admin-settings.php:41
+msgid "Buy Me a Coffee kullanıcı adınız"
+msgstr ""
+
+#: admin/partials/admin-settings.php:47
+msgid "Buton Rengi"
+msgstr ""
+
+#: admin/partials/admin-settings.php:53
+msgid "Pozisyon"
+msgstr ""
+
+#: admin/partials/admin-settings.php:54
+msgid "Sol"
+msgstr ""
+
+#: admin/partials/admin-settings.php:55
+msgid "Sağ"
+msgstr ""
+
+#: admin/partials/admin-settings.php:60
+msgid "Buton Mesajı"
+msgstr ""
+
+#: admin/partials/admin-settings.php:66
+msgid "Açıklama"
+msgstr ""
+
+#: admin/partials/admin-settings.php:87
+msgid "Örnek: 🔮, ☯️, ✨"
+msgstr ""
+
+#: admin/partials/admin-settings.php:96
+msgid "SVG kodunu yapıştırın"
+msgstr ""
+
+#: admin/partials/admin-settings.php:104
+msgid "Resim URL'sini girin"
+msgstr ""
+
+#: admin/partials/admin-style-editor.php:24
+msgid "Yaptığınız değişiklikler widget görünümünü doğrudan etkiler. CSS bilginiz yoksa varsayılan ayarları kullanmanız önerilir."
+msgstr ""
+
+#: admin/partials/admin-style-editor.php:37
+msgid "Canlı Önizleme"
+msgstr ""
+
+#: admin/partials/admin-code-editor.php:23
+msgid "Yanlış JavaScript kodu widget'ın çalışmasını engelleyebilir. Değişiklik yapmadan önce yedek alın."
+msgstr ""
+
+#: admin/js/abjad-widget-admin.js:76
+msgid "Geçerli bir URL giriniz."
+msgstr ""
