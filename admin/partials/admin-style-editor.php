@@ -8,60 +8,64 @@
  * @subpackage Admin
  */
 
-$style_options = get_option('abjad_widget_style', array('custom_css' => ''));
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly.
+}
+
+$abjad_widget_style_options = get_option( 'abjad_widget_style', array( 'custom_css' => '' ) );
 
 // Extract default CSS from the public file for the reset button.
-$default_css_file = plugin_dir_path(dirname(__FILE__)) . 'public/abjadwidget-js.php';
-$default_css = '';
-if (file_exists($default_css_file)) {
-    $content = file_get_contents($default_css_file);
-    preg_match('/style\.textContent = `(.*?)`;/s', $content, $matches);
-    if (isset($matches[1])) {
-        $default_css = $matches[1];
+$abjad_widget_default_css_file = plugin_dir_path( dirname( __FILE__ ) ) . 'public/abjadwidget-js.php';
+$abjad_widget_default_css = '';
+if ( file_exists( $abjad_widget_default_css_file ) ) {
+    $abjad_widget_content = file_get_contents( $abjad_widget_default_css_file );
+    preg_match( '/style\.textContent = `(.*?)`;/s', $abjad_widget_content, $matches );
+    if ( isset( $matches[1] ) ) {
+        $abjad_widget_default_css = $matches[1];
     }
 }
 ?>
 
 <div class="wrap abjad-style-editor-page">
-    <h1><?php _e('Style Editor', 'abjad-widget-admin'); ?></h1>
-    
+    <h1><?php esc_html_e( 'Style Editor', 'abjad-widget' ); ?></h1>
+
     <div class="notice notice-warning">
         <p>
-            <strong><?php _e('WARNING', 'abjad-widget-admin'); ?>:</strong>
-            <?php _e('Your changes will directly affect the widget appearance. If you don\'t know CSS, it\'s recommended to use default settings.', 'abjad-widget-admin'); ?>
+            <strong><?php esc_html_e( 'WARNING', 'abjad-widget' ); ?>:</strong>
+            <?php esc_html_e( 'Your changes will directly affect the widget appearance. If you don\'t know CSS, it\'s recommended to use default settings.', 'abjad-widget' ); ?>
         </p>
     </div>
-    
+
     <div class="notice notice-info">
         <p>
-            <?php _e('Add custom CSS to customize the widget appearance. This CSS will be applied after the default widget styles, so you can override any rule.', 'abjad-widget-admin'); ?>
+            <?php esc_html_e( 'Add custom CSS to customize the widget appearance. This CSS will be applied after the default widget styles, so you can override any rule.', 'abjad-widget' ); ?>
         </p>
         <p>
-            <?php _e('Changes are visible immediately on the frontend after saving. No preview is available here because the widget is dynamic, but you can test on your site.', 'abjad-widget-admin'); ?>
+            <?php esc_html_e( 'Changes are visible immediately on the frontend after saving. No preview is available here because the widget is dynamic, but you can test on your site.', 'abjad-widget' ); ?>
         </p>
     </div>
-    
+
     <form method="post" action="options.php">
-        <?php settings_fields('abjad_widget_style_options'); ?>
-        
+        <?php settings_fields( 'abjad_widget_style_options' ); ?>
+
         <div class="abjad-editor-container">
             <div class="abjad-editor-toolbar">
                 <button type="button" class="button" id="reset-css">
-                    <?php _e('Reset to Default', 'abjad-widget-admin'); ?>
+                    <?php esc_html_e( 'Reset to Default', 'abjad-widget' ); ?>
                 </button>
             </div>
-            
+
             <div class="abjad-editor-main">
                 <textarea id="custom_css" 
                           name="abjad_widget_style[custom_css]" 
                           class="large-text code" 
-                          rows="20"><?php echo esc_textarea($style_options['custom_css']); ?></textarea>
+                          rows="20"><?php echo esc_textarea( $abjad_widget_style_options['custom_css'] ); ?></textarea>
             </div>
-            
-            <p class="description"><?php _e('Enter your custom CSS rules here. They will be injected into the widget.', 'abjad-widget-admin'); ?></p>
+
+            <p class="description"><?php esc_html_e( 'Enter your custom CSS rules here. They will be injected into the widget.', 'abjad-widget' ); ?></p>
         </div>
-        
-        <?php submit_button(__('Save CSS', 'abjad-widget-admin')); ?>
+
+        <?php submit_button( esc_html__( 'Save CSS', 'abjad-widget' ) ); ?>
     </form>
 </div>
 
@@ -119,12 +123,12 @@ jQuery(document).ready(function($) {
             }
         }
     });
-    
+
     var cssEditor = editor.codemirror;
-    
+
     $('#reset-css').on('click', function() {
-        if (confirm('<?php echo esc_js(__('All your changes will be lost. Are you sure?', 'abjad-widget-admin')); ?>')) {
-            var defaultCss = <?php echo json_encode($default_css); ?>;
+        if (confirm('<?php echo esc_js( __( 'All your changes will be lost. Are you sure?', 'abjad-widget' ) ); ?>')) {
+            var defaultCss = <?php echo wp_json_encode( $abjad_widget_default_css ); ?>;
             cssEditor.setValue(defaultCss);
         }
     });

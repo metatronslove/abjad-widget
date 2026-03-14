@@ -12,29 +12,38 @@
  * Domain Path:       /languages
  */
 
-if (!defined('WPINC')) {
-    die;
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly.
 }
 
-define('ABJAD_WIDGET_VERSION', '1.0.0');
+define( 'ABJAD_WIDGET_VERSION', '1.0.0' );
 
-function activate_abjad_widget() {
-    require_once plugin_dir_path(__FILE__) . 'includes/class-abjad-widget-activator.php';
+/**
+ * Activate the plugin.
+ */
+function abjad_widget_activate() {
+    require_once plugin_dir_path( __FILE__ ) . 'includes/class-abjad-widget-activator.php';
     Abjad_Widget_Activator::activate();
 }
 
-function deactivate_abjad_widget() {
-    require_once plugin_dir_path(__FILE__) . 'includes/class-abjad-widget-deactivator.php';
+/**
+ * Deactivate the plugin.
+ */
+function abjad_widget_deactivate() {
+    require_once plugin_dir_path( __FILE__ ) . 'includes/class-abjad-widget-deactivator.php';
     Abjad_Widget_Deactivator::deactivate();
 }
 
-register_activation_hook(__FILE__, 'activate_abjad_widget');
-register_deactivation_hook(__FILE__, 'deactivate_abjad_widget');
+register_activation_hook( __FILE__, 'abjad_widget_activate' );
+register_deactivation_hook( __FILE__, 'abjad_widget_deactivate' );
 
-require plugin_dir_path(__FILE__) . 'includes/class-abjad-widget.php';
+require plugin_dir_path( __FILE__ ) . 'includes/class-abjad-widget.php';
 
-function run_abjad_widget() {
+/**
+ * Run the plugin.
+ */
+function abjad_widget_run() {
     $plugin = new Abjad_Widget();
     $plugin->run();
 }
-run_abjad_widget();
+abjad_widget_run();

@@ -1,9 +1,9 @@
 === Abjad Widget ===
-Contributors: abdilmurat
+Contributors: metatronslove
 Donate link: https://www.buymeacoffee.com/metatronslove
-Tags: abjad, ebced, bastet, huddam, gematria, numerology, occult, islamic, mysticism, arabic, hebrew, turkish
+Tags: abjad, ebced, huddam, gematria, numerology
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.9
 Stable tag: 1.0.0
 Requires PHP: 7.2
 License: GPLv2 or later

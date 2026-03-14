@@ -1,39 +1,37 @@
 <?php
 /**
  * Abjad Widget Dynamic JavaScript Generator
- * 
+ *
  * This is the ONLY JavaScript file for the widget in production.
  * It reads all settings from database and generates the widget code dynamically.
- * 
+ *
  * @package AbjadWidget
  * @since 1.0.0
  */
-if (!defined('ABSPATH')) {
-   header('Content-Type: text/plain');
-   echo '// Direct access not allowed';
-   exit;
+
+if ( ! defined( 'ABSPATH' ) ) {
+    header( 'Content-Type: text/plain' );
+    echo '// Direct access not allowed';
+    exit;
 }
 
-// WordPress'i yükle (admin-ajax.php gibi çalışsın)
-require_once(dirname(__FILE__) . '/../../../../wp-load.php');
-
 // JavaScript header'ı gönder
-header('Content-Type: application/javascript; charset=UTF-8');
-header('X-Content-Type-Options: nosniff');
+header( 'Content-Type: application/javascript; charset=UTF-8' );
+header( 'X-Content-Type-Options: nosniff' );
 
 // Cache kontrolü
-if (defined('WP_DEBUG') && WP_DEBUG) {
-    header('Cache-Control: no-cache, must-revalidate, max-age=0');
+if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+    header( 'Cache-Control: no-cache, must-revalidate, max-age=0' );
 } else {
-    header('Cache-Control: public, max-age=3600');
-    header('Expires: ' . gmdate('D, d M Y H:i:s', time() + 3600) . ' GMT');
+    header( 'Cache-Control: public, max-age=3600' );
+    header( 'Expires: ' . gmdate( 'D, d M Y H:i:s', time() + 3600 ) . ' GMT' );
 }
 
 // =========================================================================
 // VERİTABANINDAN TÜM AYARLARI OKU
 // =========================================================================
 
-$widget_options = get_option('abjad_widget_settings', array(
+$abjad_widget_options = get_option( 'abjad_widget_settings', array(
     'id'            => 'metatronslove',
     'color'         => '#FFDD00',
     'position'      => 'right',
@@ -44,28 +42,28 @@ $widget_options = get_option('abjad_widget_settings', array(
     'button_emoji'  => '🔮',
     'button_svg'    => '',
     'button_png_url' => ''
-));
+) );
 
-$style_options = get_option('abjad_widget_style', array('custom_css' => ''));
-$code_options = get_option('abjad_widget_code', array('custom_js' => ''));
+$abjad_widget_style_options = get_option( 'abjad_widget_style', array( 'custom_css' => '' ) );
+$abjad_widget_code_options  = get_option( 'abjad_widget_code', array( 'custom_js' => '' ) );
 
-$plugin_url = plugin_dir_url(__FILE__);
+$abjad_widget_plugin_url = plugin_dir_url( __FILE__ );
 
 // =========================================================================
 // BUTON İÇERİĞİNİ OLUŞTUR
 // =========================================================================
 
-$button_content = '🔮';
-switch ($widget_options['button_type']) {
+$abjad_widget_button_content = '🔮';
+switch ( $abjad_widget_options['button_type'] ) {
     case 'emoji':
-        $button_content = !empty($widget_options['button_emoji']) ? $widget_options['button_emoji'] : '🔮';
+        $abjad_widget_button_content = ! empty( $abjad_widget_options['button_emoji'] ) ? $abjad_widget_options['button_emoji'] : '🔮';
         break;
     case 'svg':
-        $button_content = !empty($widget_options['button_svg']) ? trim($widget_options['button_svg']) : '🔮';
+        $abjad_widget_button_content = ! empty( $abjad_widget_options['button_svg'] ) ? trim( $abjad_widget_options['button_svg'] ) : '🔮';
         break;
     case 'png':
-        $button_content = !empty($widget_options['button_png_url']) 
-            ? '<img src="' . esc_url($widget_options['button_png_url']) . '" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">' 
+        $abjad_widget_button_content = ! empty( $abjad_widget_options['button_png_url'] )
+            ? '<img src="' . esc_url( $abjad_widget_options['button_png_url'] ) . '" style="width:100%;height:100%;object-fit:cover;border-radius:50%;">'
             : '🔮';
         break;
 }
@@ -74,7 +72,7 @@ switch ($widget_options['button_type']) {
 // VARSAYILAN WIDGET KODU (DAHİLİ)
 // =========================================================================
 
-$default_js = <<<'EOT'
+$abjad_widget_default_js = <<<'EOT'
 /**
  * abjadwidget.js – Occult Abjad Calculator Widget
  * 
@@ -2943,48 +2941,51 @@ EOT;
 // Başlık yorumu
 echo "/*\n";
 echo " * Abjad Widget - Dynamic Build\n";
-echo " * Version: " . ABJAD_WIDGET_VERSION . "\n";
-echo " * Build Date: " . date('Y-m-d H:i:s') . "\n";
-echo " * Site: " . esc_js(get_site_url()) . "\n";
+echo " * Version: " . esc_js( ABJAD_WIDGET_VERSION ) . "\n";
+echo " * Build Date: " . esc_js( gmdate( 'Y-m-d H:i:s' ) ) . "\n";
+echo " * Site: " . esc_js( get_site_url() ) . "\n";
 echo " */\n\n";
 
 // Özel CSS varsa ekle
-if (!empty($style_options['custom_css'])) {
-    $custom_css = str_replace('`', '\\`', $style_options['custom_css']);
-    $custom_css = str_replace('${', '\\${', $custom_css);
-    echo "window.abjadWidgetCustomCSS = `{$custom_css}`;\n\n";
+if ( ! empty( $abjad_widget_style_options['custom_css'] ) ) {
+    $abjad_widget_custom_css = str_replace( '`', '\\`', $abjad_widget_style_options['custom_css'] );
+    $abjad_widget_custom_css = str_replace( '${', '\\${', $abjad_widget_custom_css );
+    echo "window.abjadWidgetCustomCSS = " . wp_json_encode( $abjad_widget_custom_css ) . ";\n\n";
 }
 
 // Yapılandırmayı ekle
-echo "window.widgetId = '{$widget_id}';\n";
-echo "window.config = " . json_encode(array(
-    'id' => $widget_options['id'],
-    'color' => $widget_options['color'],
-    'position' => $widget_options['position'],
-    'message' => $widget_options['message'],
-    'description' => $widget_options['description'],
-    'button_content' => $button_content,
-    'pluginUrl' => $plugin_url
-), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . ";\n\n";
+echo "window.widgetId = " . wp_json_encode( $widget_id ) . ";\n";
+$abjad_widget_config = array(
+    'id'            => $abjad_widget_options['id'],
+    'color'         => $abjad_widget_options['color'],
+    'position'      => $abjad_widget_options['position'],
+    'message'       => $abjad_widget_options['message'],
+    'description'   => $abjad_widget_options['description'],
+    'button_content' => $abjad_widget_button_content,
+    'pluginUrl'     => $abjad_widget_plugin_url
+);
+echo "window.config = " . wp_json_encode( $abjad_widget_config, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE ) . ";\n\n";
 
 // ============================================================================
 // KULLANICI ÖZEL JAVASCRIPT - SON KISIM
 // ============================================================================
 
-if (!empty($code_options['custom_js'])) {
+if ( ! empty( $abjad_widget_code_options['custom_js'] ) ) {
     echo "\n\n// =============================================\n";
     echo "// KULLANICI ÖZEL KODLARI\n";
     echo "// =============================================\n\n";
     
     // Özel kodu olduğu gibi ekle (zaten güvenli mi diye kontrol etmeye gerek yok,
     // çünkü kullanıcı bilinçli olarak ekliyor)
-    echo $code_options['custom_js'];
+    // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+    echo $abjad_widget_code_options['custom_js'];
     echo "\n";
 }
 
 echo "\n// =============================================\n";
 echo "// Widget başlatıldı\n";
-echo "console.log('Abjad Widget v" . ABJAD_WIDGET_VERSION . " yüklendi');\n";
+echo "console.log('Abjad Widget v" . esc_js( ABJAD_WIDGET_VERSION ) . " yüklendi');\n";
 
 // Varsayılan JS'i ekle
-echo $default_js;
+// phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+echo $abjad_widget_default_js;
