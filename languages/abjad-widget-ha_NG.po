@@ -1,0 +1,530 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Hausa <ha_NG>\n"
+"Language: ha-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Saitunan Abjad"
+
+msgid "Abjad Value"
+msgstr "Darajar Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Sakamakon lissafin Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Lissafin Abjad an ɓoye"
+
+msgid "Abjad not calculated"
+msgstr "Abjad bai lissafa ba"
+
+msgid "Abjad order"
+msgstr "Tsarin Abjad"
+
+msgid "Add elements"
+msgstr "Ƙara abubuwa"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Hawa"
+
+msgid "All"
+msgstr "Duk"
+
+msgid "Arabic"
+msgstr "Larabci"
+
+msgid "Arabic letters"
+msgstr "Haruffan Larabci"
+
+msgid "Arabic numbers"
+msgstr "Lambobin Larabci"
+
+msgid "As data for operation"
+msgstr "A matsayin bayanai don aiki"
+
+msgid "Bast loop results"
+msgstr "Sakamakon zagaye na Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast bai lissafa ba"
+
+msgid "Bast repetition count"
+msgstr "Yawan maimaitawar Bast"
+
+msgid "Bast results hidden"
+msgstr "Sakamakon Bast an ɓoye"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Tsarin Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda na Bastet"
+
+msgid "Bastet table"
+msgstr "Jadawalin Bastet"
+
+msgid "Big"
+msgstr "Babba"
+
+msgid "Bigger"
+msgstr "Mafi girma"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Sayi min kofi"
+
+msgid "Calculate"
+msgstr "Lissafa"
+
+msgid "Calculate Abjad"
+msgstr "Lissafa Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Lissafa Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Lissafa Huddam"
+
+msgid "Calculation details"
+msgstr "Bayanin lissafi"
+
+msgid "Choose Keyboard Layout"
+msgstr "Zaɓi Tsarin Makullan Keyboard"
+
+msgid "Clear text box"
+msgstr "Share akwatin rubutu"
+
+msgid "Click row for details"
+msgstr "Danna layi don cikakkun bayanai"
+
+msgid "Close Keyboard"
+msgstr "Rufe Makullan Keyboard"
+
+msgid "Closed"
+msgstr "An rufe"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Alamar kuwashi shine rarrabewa na asali kuma dole ne a ci gaba da duba shi!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Rarrabewa na shigar bayanai:"
+
+msgid "Data type profile"
+msgstr "Fahimtar nau'in bayanai"
+
+msgid "Dead keys"
+msgstr "Maballan da ba su aiki"
+
+msgid "Decrease keyboard size"
+msgstr "Rage girman Makullan Keyboard"
+
+msgid "Don't calculate"
+msgstr "Kada ka lissafa"
+
+msgid "Duty entity name results"
+msgstr "Sakamakon sunan kayan aiki"
+
+msgid "Duty entity type"
+msgstr "Nau'in kayan aiki"
+
+msgid "Earth"
+msgstr "Duniya"
+
+msgid "Element classification"
+msgstr "Rarraba abubuwa"
+
+msgid "Element classification method"
+msgstr "Hanyar rarraba abubuwa"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Shigar da rubutu... Haruffan Larabci, Yahudanci, Turanci, lambobi"
+
+msgid "Entered data"
+msgstr "An shigar bayanai"
+
+msgid "Entry"
+msgstr "Shigarwa"
+
+msgid "Entry letter count"
+msgstr "Yawan haruffa na shigarwa"
+
+msgid "Evil"
+msgstr "Mugun"
+
+msgid "Fire"
+msgstr "Wuta"
+
+msgid "For entered data"
+msgstr "Don bayanan da aka shigar"
+
+msgid "Frequency in Quran"
+msgstr "Yawan zango a Qur'ani"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Yahudanci"
+
+msgid "Hebrew alphabet elements"
+msgstr "Abubuwan Alfabetin Yahudanci"
+
+msgid "Hebrew letters"
+msgstr "Haruffan Yahudanci"
+
+msgid "High"
+msgstr "Mafi girma"
+
+msgid "Hija order"
+msgstr "Tsarin Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Sunan Huddam an ɓoye"
+
+msgid "Huddam not calculated"
+msgstr "Huddam bai lissafa ba"
+
+msgid "Iklil's order"
+msgstr "Tsarin Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Ƙara girman Makullan Keyboard"
+
+msgid "Indian numbers"
+msgstr "Lambobin Indiya"
+
+msgid "Interface language"
+msgstr "Harshe na Sadarwa"
+
+msgid "Let character quantity decide"
+msgstr "Bada damar yawan haruffa ya yanke shawara"
+
+msgid "Letter count"
+msgstr "Yawan haruffa"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ka yi so ayyukana? Sayi min kofi!"
+
+msgid "Low"
+msgstr "Mafi ƙasa"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Aƙalla"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Harshe na karanta lambobi"
+
+msgid "Numerical values"
+msgstr "Darajar lambobi"
+
+msgid "Open"
+msgstr "Bude"
+
+msgid "Order"
+msgstr "Tsari"
+
+msgid "Possible phrases"
+msgstr "Kalmar da ake iya yi"
+
+msgid "Program settings"
+msgstr "Saitunan Shirin"
+
+msgid "Pronunciation"
+msgstr "Sautin magana"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Regularly preferred classification"
+msgstr "Rarrabawa da ake so akai-akai"
+
+msgid "Reset"
+msgstr "Sake saita"
+
+msgid "Separators"
+msgstr "Rarrabewa"
+
+msgid "Settings"
+msgstr "Saituna"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Nuna numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Nuna Makullan Waya"
+
+msgid "Small"
+msgstr "Ƙanana"
+
+msgid "Small + letter count"
+msgstr "Ƙanana + yawan haruffa"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Tallafi"
+
+msgid "Taken (letter)"
+msgstr "An ɗauke (harafi)"
+
+msgid "Taken (letter; abjad)"
+msgstr "An ɗauke (harafi; abjad)"
+
+msgid "Taken Letters"
+msgstr "Haruffan da aka ɗauke"
+
+msgid "Text or number cell"
+msgstr "Celle na rubutu ko lamba"
+
+msgid "Thank you for your support!"
+msgstr "Na gode da goyon bayan ku!"
+
+msgid "Total"
+msgstr "Jimla"
+
+msgid "Turkish"
+msgstr "Turanci"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkish Alphabet Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Abubuwan Alfabetin Turanci"
+
+msgid "Turkish letters"
+msgstr "Haruffan Turanci"
+
+msgid "Undefined characters"
+msgstr "Haruffa da ba a san su ba"
+
+msgid "Value"
+msgstr "Daraja"
+
+msgid "Value & Detail"
+msgstr "Daraja & Bayani"
+
+msgid "Version"
+msgstr "Sigara"
+
+msgid "Water"
+msgstr "Ruwa"
+
+msgid "When data is entered"
+msgstr "Lokacin da aka shigar bayanai"
+
+msgid "When reading large digits"
+msgstr "Lokacin karanta manyan lambobi"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "an lissafa abjad kuma an ƙara yawan haruffa"
+
+msgid "abjad() functions settings"
+msgstr "saitunan aikin abjad()"
+
+msgid "add to initial value"
+msgstr "ƙara zuwa darajar farko"
+
+msgid "and"
+msgstr "da"
+
+msgid "auto calculate immediately"
+msgstr "lissafa kai tsaye"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "saitunan aikin bastet() da nutket()"
+
+msgid "count once"
+msgstr "ƙidaya sau ɗaya"
+
+msgid "count twice"
+msgstr "ƙidaya sau biyu"
+
+msgid "display with Arabic numbers"
+msgstr "nuna tare da lambobin Larabci"
+
+msgid "display with Indian numbers"
+msgstr "nuna tare da lambobin Indiya"
+
+msgid "do not add to initial value"
+msgstr "kada ka ƙara zuwa darajar farko"
+
+msgid "do not force to other functions"
+msgstr "kada ka tilasta zuwa ayyukan daban"
+
+msgid "do not purify"
+msgstr "kada ka tsarkake"
+
+msgid "force to other functions"
+msgstr "tilasta zuwa ayyukan daban"
+
+msgid "group multiplier letters"
+msgstr "ƙarin haruffa na rukuni"
+
+msgid "hide"
+msgstr "ɓoye"
+
+msgid "hide abjad values"
+msgstr "ɓoye darajar abjad"
+
+msgid "hide bast results"
+msgstr "ɓoye sakamakon bast"
+
+msgid "hide huddam names"
+msgstr "ɓoye sunayen huddam"
+
+msgid "huddam() function settings"
+msgstr "saitunan aikin huddam()"
+
+msgid "no bast applied."
+msgstr "babu bast da aka yi amfani da shi."
+
+msgid "no data entered"
+msgstr "babu bayanai da aka shigar"
+
+msgid "other suffix"
+msgstr "suffix na daban"
+
+msgid "purify data"
+msgstr "tsarkake bayanai"
+
+msgid "repeat multiplier for each digit"
+msgstr "maimaita maimaitawa ga kowace lamba"
+
+msgid "show"
+msgstr "nuna"
+
+msgid "show abjad values"
+msgstr "nuna darajar abjad"
+
+msgid "show bast results"
+msgstr "nuna sakamakon bast"
+
+msgid "show huddam names"
+msgstr "nuna sunayen huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "lokaci bast da aka yi amfani da shi."
+
+msgid "use calculated abjad results"
+msgstr "yi amfani da sakamakon lissafin abjad"
+
+msgid "use calculated abjad total"
+msgstr "yi amfani da jimlar lissafin abjad"
+
+msgid "use calculated bast results"
+msgstr "yi amfani da sakamakon lissafin bast"
+
+msgid "use entered data directly"
+msgstr "yi amfani da bayanai kai tsaye"
+
+msgid "use entered data total"
+msgstr "yi amfani da jimlar bayanai"
+
+msgid "use in all bast repetitions"
+msgstr "yi amfani a duk maimaitawar bast"
+
+msgid "use only at beginning if possible"
+msgstr "yi amfani kawai a farkon idan zai yiwu"
+
+msgid "wait for settings and data entry"
+msgstr "sa su jira saituna da shigar bayanai"

@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Hungarian <hu_HU>\n"
+"Language: hu-HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad beállítások"
+
+msgid "Abjad Value"
+msgstr "Abjad érték"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Abjad számítás eredmények"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad számítások rejtve"
+
+msgid "Abjad not calculated"
+msgstr "Abjad nem számítva"
+
+msgid "Abjad order"
+msgstr "Abjad sorrend"
+
+msgid "Add elements"
+msgstr "Elemek hozzáadása"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Levegő"
+
+msgid "All"
+msgstr "Összes"
+
+msgid "Arabic"
+msgstr "Arab"
+
+msgid "Arabic letters"
+msgstr "Arab betűk"
+
+msgid "Arabic numbers"
+msgstr "Arab számok"
+
+msgid "As data for operation"
+msgstr "Műveleti adatokként"
+
+msgid "Bast loop results"
+msgstr "Bast hurok eredmények"
+
+msgid "Bast not calculated"
+msgstr "Bast nem számítva"
+
+msgid "Bast repetition count"
+msgstr "Bast ismétlési szám"
+
+msgid "Bast results hidden"
+msgstr "Bast eredmények rejtve"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet sorrend"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet táblázat"
+
+msgid "Big"
+msgstr "Nagy"
+
+msgid "Bigger"
+msgstr "Nagyobb"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Vásárolj nekem egy kávét"
+
+msgid "Calculate"
+msgstr "Számítsd ki"
+
+msgid "Calculate Abjad"
+msgstr "Számítsd ki az Abjadot"
+
+msgid "Calculate Bastet"
+msgstr "Számítsd ki a Bastetet"
+
+msgid "Calculate Huddam"
+msgstr "Számítsd ki a Huddamot"
+
+msgid "Calculation details"
+msgstr "Számítás részletei"
+
+msgid "Choose Keyboard Layout"
+msgstr "Billentyűzet elrendezés kiválasztása"
+
+msgid "Clear text box"
+msgstr "Szövegmező törlése"
+
+msgid "Click row for details"
+msgstr "Kattints a sorra a részletekért"
+
+msgid "Close Keyboard"
+msgstr "Billentyűzet bezárása"
+
+msgid "Closed"
+msgstr "Lezárt"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "A vessző az alapértelmezett elválasztó és be kell jelölni!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Adatbevitel elválasztók:"
+
+msgid "Data type profile"
+msgstr "Adattípus profil"
+
+msgid "Dead keys"
+msgstr "Halott billentyűk"
+
+msgid "Decrease keyboard size"
+msgstr "Billentyűzet méretének csökkentése"
+
+msgid "Don't calculate"
+msgstr "Ne számítsd ki"
+
+msgid "Duty entity name results"
+msgstr "Kötelezettségi entitás név eredmények"
+
+msgid "Duty entity type"
+msgstr "Kötelezettségi entitás típus"
+
+msgid "Earth"
+msgstr "Föld"
+
+msgid "Element classification"
+msgstr "Elem osztályozás"
+
+msgid "Element classification method"
+msgstr "Elem osztályozás módszere"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Írd be a szöveget... Arab, héber, török betűk, számok"
+
+msgid "Entered data"
+msgstr "Bevitt adatok"
+
+msgid "Entry"
+msgstr "Bevitel"
+
+msgid "Entry letter count"
+msgstr "Beviteli betűszám"
+
+msgid "Evil"
+msgstr "Rossz"
+
+msgid "Fire"
+msgstr "Tűz"
+
+msgid "For entered data"
+msgstr "A bevitt adatokhoz"
+
+msgid "Frequency in Quran"
+msgstr "Gyakoriság a Koránban"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Héber"
+
+msgid "Hebrew alphabet elements"
+msgstr "Héber ábécé elemei"
+
+msgid "Hebrew letters"
+msgstr "Héber betűk"
+
+msgid "High"
+msgstr "Magas"
+
+msgid "Hija order"
+msgstr "Hija sorrend"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam nevek rejtve"
+
+msgid "Huddam not calculated"
+msgstr "Huddam nem számítva"
+
+msgid "Iklil's order"
+msgstr "Iklil sorrend"
+
+msgid "Increase keyboard size"
+msgstr "Billentyűzet méretének növelése"
+
+msgid "Indian numbers"
+msgstr "Indiai számok"
+
+msgid "Interface language"
+msgstr "Felhasználói felület nyelve"
+
+msgid "Let character quantity decide"
+msgstr "Hagyd, hogy a karakter mennyiség dönt"
+
+msgid "Letter count"
+msgstr "Betűszám"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Szereted a projektjeimet? Vásárolj nekem egy kávét!"
+
+msgid "Low"
+msgstr "Alacsony"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija sorrend"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Szám olvasás nyelve"
+
+msgid "Numerical values"
+msgstr "Numerikus értékek"
+
+msgid "Open"
+msgstr "Megnyit"
+
+msgid "Order"
+msgstr "Rendezés"
+
+msgid "Possible phrases"
+msgstr "Lehetséges kifejezések"
+
+msgid "Program settings"
+msgstr "Program beállítások"
+
+msgid "Pronunciation"
+msgstr "Felszólás"
+
+msgid "Regular expression"
+msgstr "Reguláris kifejezés"
+
+msgid "Regularly preferred classification"
+msgstr "Rendszeresen preferált osztályozás"
+
+msgid "Reset"
+msgstr "Visszaállítás"
+
+msgid "Separators"
+msgstr "Elválasztók"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad sorrend"
+
+msgid "Show numpad"
+msgstr "Mutasd a számjegy táblát"
+
+msgid "Show virtual keyboard"
+msgstr "Mutasd a virtuális billentyűzetet"
+
+msgid "Small"
+msgstr "Kicsi"
+
+msgid "Small + letter count"
+msgstr "Kicsi + betűszám"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Taken (letter)"
+msgstr "Felvett (betű)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Felvett (betű; abjad)"
+
+msgid "Taken Letters"
+msgstr "Felvett betűk"
+
+msgid "Text or number cell"
+msgstr "Szöveg vagy szám cella"
+
+msgid "Thank you for your support!"
+msgstr "Köszönöm a támogatásod!"
+
+msgid "Total"
+msgstr "Összesen"
+
+msgid "Turkish"
+msgstr "Török"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Török ábécé Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Török ábécé elemei"
+
+msgid "Turkish letters"
+msgstr "Török betűk"
+
+msgid "Undefined characters"
+msgstr "Meghatározatlan karakterek"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "Value & Detail"
+msgstr "Érték és részlet"
+
+msgid "Version"
+msgstr "Verzió"
+
+msgid "Water"
+msgstr "Víz"
+
+msgid "When data is entered"
+msgstr "Amikor a data be van bevitt"
+
+msgid "When reading large digits"
+msgstr "Nagy számjegyek olvasása"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad számítva és betűszám hozzáadva"
+
+msgid "abjad() functions settings"
+msgstr "abjad() függvény beállítások"
+
+msgid "add to initial value"
+msgstr "hozzáadni a kezdeti értékhez"
+
+msgid "and"
+msgstr "és"
+
+msgid "auto calculate immediately"
+msgstr "automatikus számítás azonnal"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() és nutket() függvény beállítások"
+
+msgid "count once"
+msgstr "számolás egyszer"
+
+msgid "count twice"
+msgstr "számolás kétszer"
+
+msgid "display with Arabic numbers"
+msgstr "megjelenítés arab számokkal"
+
+msgid "display with Indian numbers"
+msgstr "megjelenítés indiai számokkal"
+
+msgid "do not add to initial value"
+msgstr "ne add hozzá a kezdeti értékhez"
+
+msgid "do not force to other functions"
+msgstr "ne kényszeríts más funkciókra"
+
+msgid "do not purify"
+msgstr "ne tisztíts"
+
+msgid "force to other functions"
+msgstr "kényszeríts más funkciókra"
+
+msgid "group multiplier letters"
+msgstr "csoportos szorzó betűk"
+
+msgid "hide"
+msgstr "rejt"
+
+msgid "hide abjad values"
+msgstr "rejt abjad értékek"
+
+msgid "hide bast results"
+msgstr "rejt bast eredmények"
+
+msgid "hide huddam names"
+msgstr "rejt huddam nevek"
+
+msgid "huddam() function settings"
+msgstr "huddam() függvény beállítások"
+
+msgid "no bast applied."
+msgstr "nincs bast alkalmazva."
+
+msgid "no data entered"
+msgstr "nincs bevitt adat"
+
+msgid "other suffix"
+msgstr "másik utótag"
+
+msgid "purify data"
+msgstr "adat tisztítása"
+
+msgid "repeat multiplier for each digit"
+msgstr "ismétlő szorzó minden számjegyhez"
+
+msgid "show"
+msgstr "mutat"
+
+msgid "show abjad values"
+msgstr "mutat abjad értékek"
+
+msgid "show bast results"
+msgstr "mutat bast eredmények"
+
+msgid "show huddam names"
+msgstr "mutat huddam nevek"
+
+msgid "suffix"
+msgstr "utótag"
+
+msgid "times bast applied."
+msgstr "szorok bast alkalmazva."
+
+msgid "use calculated abjad results"
+msgstr "használd a számított abjad eredményeket"
+
+msgid "use calculated abjad total"
+msgstr "használd a számított abjad összegét"
+
+msgid "use calculated bast results"
+msgstr "használd a számított bast eredményeket"
+
+msgid "use entered data directly"
+msgstr "használd a bevitt adatokat közvetlenül"
+
+msgid "use entered data total"
+msgstr "használd a bevitt adat összegét"
+
+msgid "use in all bast repetitions"
+msgstr "használd az összes bast ismétlésben"
+
+msgid "use only at beginning if possible"
+msgstr "csak a kezdetben használd, ha lehetséges"
+
+msgid "wait for settings and data entry"
+msgstr "várj a beállításokra és adatbevitelre"

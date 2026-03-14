@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Igbo <ig_NG>\n"
+"Language: ig-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Ntọala Abjad"
+
+msgid "Abjad Value"
+msgstr "Uru Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Nsonaazụ mgbakọ Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Nsonaazụ mgbakọ Abjad echekwara"
+
+msgid "Abjad not calculated"
+msgstr "Abjad emeghị mgbakọ"
+
+msgid "Abjad order"
+msgstr "Usoro Abjad"
+
+msgid "Add elements"
+msgstr "Tinye ihe"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Ikuku"
+
+msgid "All"
+msgstr "Nke niile"
+
+msgid "Arabic"
+msgstr "Arabic"
+
+msgid "Arabic letters"
+msgstr "Mkpụrụedemede Arabic"
+
+msgid "Arabic numbers"
+msgstr "Nọmba Arabic"
+
+msgid "As data for operation"
+msgstr "Dịka data maka ọrụ"
+
+msgid "Bast loop results"
+msgstr "Nsonaazụ loop Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast emeghị mgbakọ"
+
+msgid "Bast repetition count"
+msgstr "Akaụntụ mmegharị Bast"
+
+msgid "Bast results hidden"
+msgstr "Nsonaazụ Bast echekwara"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Usoro Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tebulu Bastet"
+
+msgid "Big"
+msgstr "Mbara"
+
+msgid "Bigger"
+msgstr "Mbara karịa"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Zụọ m kọfị"
+
+msgid "Calculate"
+msgstr "Tụlee"
+
+msgid "Calculate Abjad"
+msgstr "Tụlee Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Tụlee Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Tụlee Huddam"
+
+msgid "Calculation details"
+msgstr "Nkọwa mgbakọ"
+
+msgid "Choose Keyboard Layout"
+msgstr "Họrọ Nhazi Bọtịnụ"
+
+msgid "Clear text box"
+msgstr "Hichapụ igbe ederede"
+
+msgid "Click row for details"
+msgstr "Pịa ahịrị maka nkọwa"
+
+msgid "Close Keyboard"
+msgstr "Mechie Bọtịnụ"
+
+msgid "Closed"
+msgstr "Mechiri"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma bụ ngwakọta a na-eji ma ga-anọgide na-echere!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Ngwakọta mgbakọ data:"
+
+msgid "Data type profile"
+msgstr "Profail ụdị data"
+
+msgid "Dead keys"
+msgstr "Ụchịchị miri emi"
+
+msgid "Decrease keyboard size"
+msgstr "Belata nha bọtịnụ"
+
+msgid "Don't calculate"
+msgstr "Ekwela mgbakọ"
+
+msgid "Duty entity name results"
+msgstr "Nsonaazụ aha onye ọrụ"
+
+msgid "Duty entity type"
+msgstr "Ụdị onye ọrụ"
+
+msgid "Earth"
+msgstr "Uwa"
+
+msgid "Element classification"
+msgstr "Classification element"
+
+msgid "Element classification method"
+msgstr "Usoro classification element"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Tinye ederede... mkpụrụedemede Arabic, Hebrew, Turkish, nọmba"
+
+msgid "Entered data"
+msgstr "Data a nyefere"
+
+msgid "Entry"
+msgstr "Ụzọ"
+
+msgid "Entry letter count"
+msgstr "Akaụntụ mkpụrụedemede"
+
+msgid "Evil"
+msgstr "Mara mma"
+
+msgid "Fire"
+msgstr "Anwụ"
+
+msgid "For entered data"
+msgstr "Maka data a nyefere"
+
+msgid "Frequency in Quran"
+msgstr "Ọtụtụ n'ịgụ Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Element abia Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Mkpụrụedemede Hebrew"
+
+msgid "High"
+msgstr "Mgbu"
+
+msgid "Hija order"
+msgstr "Usoro Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Aha Huddam egburu"
+
+msgid "Huddam not calculated"
+msgstr "Huddam emeghị mgbakọ"
+
+msgid "Iklil's order"
+msgstr "Usoro Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Tụkwasị nha bọtịnụ"
+
+msgid "Indian numbers"
+msgstr "Nọmba Indian"
+
+msgid "Interface language"
+msgstr "Asụsụ interface"
+
+msgid "Let character quantity decide"
+msgstr "Ka ọnụ ọgụgụ mkpụrụedemede kpebie"
+
+msgid "Letter count"
+msgstr "Akaụntụ mkpụrụedemede"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Na-achọ ọrụ m? Zụọ m kọfị!"
+
+msgid "Low"
+msgstr "Nke nta"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Mma dị nta"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Asụsụ ịgụ nọmba"
+
+msgid "Numerical values"
+msgstr "Uru nọmba"
+
+msgid "Open"
+msgstr "Mepee"
+
+msgid "Order"
+msgstr "Usoro"
+
+msgid "Possible phrases"
+msgstr "Ederede nwere ike"
+
+msgid "Program settings"
+msgstr "Echekwa usoro"
+
+msgid "Pronunciation"
+msgstr "Igbo okwu"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Regularly preferred classification"
+msgstr "Classification nke nwere mmasị"
+
+msgid "Reset"
+msgstr "Wepụ"
+
+msgid "Separators"
+msgstr "Ngwakọta"
+
+msgid "Settings"
+msgstr "Echekwa"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Gosi numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Gosi bọtịnụ onye na-adịghị ahụ anya"
+
+msgid "Small"
+msgstr "Obere"
+
+msgid "Small + letter count"
+msgstr "Obere + akaụntụ mkpụrụedemede"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Nkwado"
+
+msgid "Taken (letter)"
+msgstr "Nweta (mkpụrụedemede)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Nweta (mkpụrụedemede; abjad)"
+
+msgid "Taken Letters"
+msgstr "Mkpụrụedemede Nwetara"
+
+msgid "Text or number cell"
+msgstr "Cell ederede ma ọ bụ nọmba"
+
+msgid "Thank you for your support!"
+msgstr "Daalụ maka nkwado gị!"
+
+msgid "Total"
+msgstr "Nke niile"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkish Alphabet Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turkish alphabet elements"
+
+msgid "Turkish letters"
+msgstr "Turkish letters"
+
+msgid "Undefined characters"
+msgstr "Mkpụrụedemede a na-amaghị"
+
+msgid "Value"
+msgstr "Uru"
+
+msgid "Value & Detail"
+msgstr "Uru & Nkọwa"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Mmiri"
+
+msgid "When data is entered"
+msgstr "Mgbe data a na-nyefee"
+
+msgid "When reading large digits"
+msgstr "Mgbe ị na-agụ nnukwu nọmba"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad a mụtara na akaụntụ mkpụrụedemede e nyere"
+
+msgid "abjad() functions settings"
+msgstr "Echekwa ọrụ abjad()"
+
+msgid "add to initial value"
+msgstr "tinye na uru mbido"
+
+msgid "and"
+msgstr "na"
+
+msgid "auto calculate immediately"
+msgstr "tụlee n'ọnọdụ"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Echekwa ọrụ bastet() na nutket()"
+
+msgid "count once"
+msgstr "gụ otu oge"
+
+msgid "count twice"
+msgstr "gụ otu oge abụọ"
+
+msgid "display with Arabic numbers"
+msgstr "gosi na nọmba Arabic"
+
+msgid "display with Indian numbers"
+msgstr "gosi na nọmba Indian"
+
+msgid "do not add to initial value"
+msgstr "ezie e nweghị ike tinye"
+
+msgid "do not force to other functions"
+msgstr "ezie e nweghị ike itinye"
+
+msgid "do not purify"
+msgstr "ezie e nweghị ike imezi"
+
+msgid "force to other functions"
+msgstr "itinye n'ọrụ ndị ọzọ"
+
+msgid "group multiplier letters"
+msgstr "gụ isi mkpụrụedemede"
+
+msgid "hide"
+msgstr "gburu"
+
+msgid "hide abjad values"
+msgstr "gburu uru abjad"
+
+msgid "hide bast results"
+msgstr "gburu nsonaazụ bast"
+
+msgid "hide huddam names"
+msgstr "gburu aha huddam"
+
+msgid "huddam() function settings"
+msgstr "Echekwa ọrụ huddam()"
+
+msgid "no bast applied."
+msgstr "Enweghị bast eji"
+
+msgid "no data entered"
+msgstr "Enweghị data enyere"
+
+msgid "other suffix"
+msgstr "suffix ọzọ"
+
+msgid "purify data"
+msgstr "dezie data"
+
+msgid "repeat multiplier for each digit"
+msgstr "gbakwunye isi maka ọ bụla nọmba"
+
+msgid "show"
+msgstr "gosi"
+
+msgid "show abjad values"
+msgstr "gosi uru abjad"
+
+msgid "show bast results"
+msgstr "gosi nsonaazụ bast"
+
+msgid "show huddam names"
+msgstr "gosi aha huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "oge bast eji"
+
+msgid "use calculated abjad results"
+msgstr "ji nsonaazụ abjad a mụtara"
+
+msgid "use calculated abjad total"
+msgstr "ji nkenke abjad a mụtara"
+
+msgid "use calculated bast results"
+msgstr "ji nsonaazụ bast a mụtara"
+
+msgid "use entered data directly"
+msgstr "ji data a nyefere ozugbo"
+
+msgid "use entered data total"
+msgstr "ji nkenke data a nyefere"
+
+msgid "use in all bast repetitions"
+msgstr "ji n'ime ihe niile bast"
+
+msgid "use only at beginning if possible"
+msgstr "ji naanị n'ọnụ ụzọ ma ọ bụrụ na ọ ga-ekwe omume"
+
+msgid "wait for settings and data entry"
+msgstr "cheere ọnọdụ na data"

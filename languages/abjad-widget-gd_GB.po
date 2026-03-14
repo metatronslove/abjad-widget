@@ -1,0 +1,531 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Scottish Gaelic <gd_GB>\n"
+"Language: gd-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Rèitichidhean Abjad"
+
+msgid "Abjad Value"
+msgstr "Luach Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Toradh a’ mionaidachaidh Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Mionaidachaidhean Abjad falaichte"
+
+msgid "Abjad not calculated"
+msgstr "Cha deach a mionaidachadh Abjad"
+
+msgid "Abjad order"
+msgstr "Òrdugh Abjad"
+
+msgid "Add elements"
+msgstr "Cuir na h-èileamaidean ris"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Adhar"
+
+msgid "All"
+msgstr "A h-uile"
+
+msgid "Arabic"
+msgstr "Arabais"
+
+msgid "Arabic letters"
+msgstr "Litrichean Arabais"
+
+msgid "Arabic numbers"
+msgstr "Àireamhan Arabais"
+
+msgid "As data for operation"
+msgstr "Mar dàta airson obrachadh"
+
+msgid "Bast loop results"
+msgstr "Toradh na loapa Bast"
+
+msgid "Bast not calculated"
+msgstr "Cha deach a mionaidachadh Bast"
+
+msgid "Bast repetition count"
+msgstr "Coimhlint atharrachaidh Bast"
+
+msgid "Bast results hidden"
+msgstr "Toradh Bast falaichte"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Òrdugh Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Clàr Bastet"
+
+msgid "Big"
+msgstr "Mòr"
+
+msgid "Bigger"
+msgstr "Barrachd Mòr"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Còrr mi càfe"
+
+msgid "Calculate"
+msgstr "Càlch"
+
+msgid "Calculate Abjad"
+msgstr "Càlch Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Càlch Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Càlch Huddam"
+
+msgid "Calculation details"
+msgstr "Mion-fhiosrachadh a’ mionaidachaidh"
+
+msgid "Choose Keyboard Layout"
+msgstr "Tagh lèar-chlàr a’ bhangair"
+
+msgid "Clear text box"
+msgstr "Falamhaich boisc reatha"
+
+msgid "Click row for details"
+msgstr "Cliceadh riog air an fhuinneog airson mion-fhiosrachadh"
+
+msgid "Close Keyboard"
+msgstr "Dùin a’ bhangair"
+
+msgid "Closed"
+msgstr "Dùin"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Tha a’ chòmhainn na sgàthair bhunaiteach is feumaidh a bhith air a shanadh!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Sgàtharan inntrigaidh dàta:"
+
+msgid "Data type profile"
+msgstr "Pròifil seòrsa dàta"
+
+msgid "Dead keys"
+msgstr "Iuchraichean marbhaidh"
+
+msgid "Decrease keyboard size"
+msgstr "Lùghdaich meud a’ bhangair"
+
+msgid "Don't calculate"
+msgstr "Na càlch"
+
+msgid "Duty entity name results"
+msgstr "Toradh ainm an t-èid-obrach"
+
+msgid "Duty entity type"
+msgstr "Seòrsa an t-èid-obrach"
+
+msgid "Earth"
+msgstr "Talamh"
+
+msgid "Element classification"
+msgstr "Clasadh àilèamaid"
+
+msgid "Element classification method"
+msgstr "Modh clasadh àilèamaid"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr ""
+"Cuir a-steach teacsa... Litrichean Arabais, Hebraich, Turcach, àireamhan"
+
+msgid "Entered data"
+msgstr "Dàta a-steach"
+
+msgid "Entry"
+msgstr "Inntrig"
+
+msgid "Entry letter count"
+msgstr "Coimhlint litrichean an inntrige"
+
+msgid "Evil"
+msgstr "Mhara"
+
+msgid "Fire"
+msgstr "Aithir"
+
+msgid "For entered data"
+msgstr "Air a’ chòmhnant airson dàta a-steach"
+
+msgid "Frequency in Quran"
+msgstr "Fionaid ann am Qur’an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebraich"
+
+msgid "Hebrew alphabet elements"
+msgstr "Eileamaidean abairt Hebraich"
+
+msgid "Hebrew letters"
+msgstr "Litrichean Hebraich"
+
+msgid "High"
+msgstr "Àrd"
+
+msgid "Hija order"
+msgstr "Òrdugh Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Ainmean Huddam falaichte"
+
+msgid "Huddam not calculated"
+msgstr "Cha deach a mionaidachadh Huddam"
+
+msgid "Iklil's order"
+msgstr "Òrdugh Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Mairidh a’ bhangair"
+
+msgid "Indian numbers"
+msgstr "Àireamhan India"
+
+msgid "Interface language"
+msgstr "Cànan eadar-aghaidh"
+
+msgid "Let character quantity decide"
+msgstr "Cuir leis an luach caractar a shònrachadh"
+
+msgid "Letter count"
+msgstr "Coimhlint litri"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Tha thu a’ còrr mo pròiseactan? Còrr mi càfe!"
+
+msgid "Low"
+msgstr "Ìseal"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Òrdugh Hija Maghribian"
+
+msgid "Minimum"
+msgstr "Mion-"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Cànan leughadh àireamhan"
+
+msgid "Numerical values"
+msgstr "Luachain àireamhan"
+
+msgid "Open"
+msgstr "Fosgail"
+
+msgid "Order"
+msgstr "Òrdugh"
+
+msgid "Possible phrases"
+msgstr "Frasaichean comasach"
+
+msgid "Program settings"
+msgstr "Rèitichidhean prògram"
+
+msgid "Pronunciation"
+msgstr "Fuaim"
+
+msgid "Regular expression"
+msgstr "Eisimplear deireannach"
+
+msgid "Regularly preferred classification"
+msgstr "Clasadh a tha a’ dol air a’ chùram"
+
+msgid "Reset"
+msgstr "Ath-shuidheachadh"
+
+msgid "Separators"
+msgstr "Sgàtharan"
+
+msgid "Settings"
+msgstr "Rèitichidhean"
+
+msgid "Shamsee abjad order"
+msgstr "Òrdugh abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Seall numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Seall an iuchair-lìn virtual"
+
+msgid "Small"
+msgstr "Beaga"
+
+msgid "Small + letter count"
+msgstr "Beaga + coimhlint litri"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Taic"
+
+msgid "Taken (letter)"
+msgstr "Ghabhail (litri)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Ghabhail (litri; abjad)"
+
+msgid "Taken Letters"
+msgstr "Litrichean ghabhail"
+
+msgid "Text or number cell"
+msgstr "Cealla teacsa no àireamh"
+
+msgid "Thank you for your support!"
+msgstr "Tapadh leat airson na taic!"
+
+msgid "Total"
+msgstr "A' toirt seachad"
+
+msgid "Turkish"
+msgstr "Turcach"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad a’ bhangair Turcach"
+
+msgid "Turkish alphabet elements"
+msgstr "Eileamaidean a’ bhangair Turcach"
+
+msgid "Turkish letters"
+msgstr "Litrichean Turcach"
+
+msgid "Undefined characters"
+msgstr "Caractar neo-aithnichte"
+
+msgid "Value"
+msgstr "Luach"
+
+msgid "Value & Detail"
+msgstr "Luach & Mion-fhiosrachadh"
+
+msgid "Version"
+msgstr "Seòrsa"
+
+msgid "Water"
+msgstr "Uisge"
+
+msgid "When data is entered"
+msgstr "Nuair a tha dàta ann a-steach"
+
+msgid "When reading large digits"
+msgstr "Nuair a leughas àireamhan mhòr"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad air a mionaidachadh agus coimhlint litri air a chur ris"
+
+msgid "abjad() functions settings"
+msgstr "Rèitichidhean nan foincseanan abjad()"
+
+msgid "add to initial value"
+msgstr "cuir ris luach toiseach"
+
+msgid "and"
+msgstr "agus"
+
+msgid "auto calculate immediately"
+msgstr "càlch gun fhaclan"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Rèitichidhean nan foincseanan bastet() agus nutket()"
+
+msgid "count once"
+msgstr "coimhlint aon turas"
+
+msgid "count twice"
+msgstr "coimhlint dà turas"
+
+msgid "display with Arabic numbers"
+msgstr "taisbean le àireamhan Arabais"
+
+msgid "display with Indian numbers"
+msgstr "taisbean le àireamhan India"
+
+msgid "do not add to initial value"
+msgstr "cha chur ris luach toiseach"
+
+msgid "do not force to other functions"
+msgstr "cha dèan fòrsadh dhan foincseanan eile"
+
+msgid "do not purify"
+msgstr "cha dearbhadh"
+
+msgid "force to other functions"
+msgstr "for seo dhan foincseanan eile"
+
+msgid "group multiplier letters"
+msgstr "litrichean co-mheasaiche grup"
+
+msgid "hide"
+msgstr "falaich"
+
+msgid "hide abjad values"
+msgstr "falaich luachabjad"
+
+msgid "hide bast results"
+msgstr "falaich toradh bast"
+
+msgid "hide huddam names"
+msgstr "falaich ainm huddam"
+
+msgid "huddam() function settings"
+msgstr "Rèitichidhean foincsean huddam()"
+
+msgid "no bast applied."
+msgstr "cha dho mhìneachadh a th' ann."
+
+msgid "no data entered"
+msgstr "cha deach dàta a-steach"
+
+msgid "other suffix"
+msgstr "post ann"
+
+msgid "purify data"
+msgstr "fionnadh dàta"
+
+msgid "repeat multiplier for each digit"
+msgstr "ath-dhèan co-mheasaiche airson gach àireamh"
+
+msgid "show"
+msgstr "seall"
+
+msgid "show abjad values"
+msgstr "seall luach abjad"
+
+msgid "show bast results"
+msgstr "seall toradh bast"
+
+msgid "show huddam names"
+msgstr "seall ainm huddam"
+
+msgid "suffix"
+msgstr "post"
+
+msgid "times bast applied."
+msgstr "amannan a th' ann le bast."
+
+msgid "use calculated abjad results"
+msgstr "cleachd toradh abjad a mionaidachadh"
+
+msgid "use calculated abjad total"
+msgstr "cleachd meadhan abjad a mionaidachadh"
+
+msgid "use calculated bast results"
+msgstr "cleachd toradh bast a mionaidachadh"
+
+msgid "use entered data directly"
+msgstr "cleachd dàta a-steach dìreach"
+
+msgid "use entered data total"
+msgstr "cleachd meadhan dàta a-steach"
+
+msgid "use in all bast repetitions"
+msgstr "cleachd anns na h-atharrachaidhean uile bast"
+
+msgid "use only at beginning if possible"
+msgstr "cleachd ach aig a’ bharr ma tha sin ann"
+
+msgid "wait for settings and data entry"
+msgstr "faighneachd airson rèitichidhean agus inntrigaidh dàta"

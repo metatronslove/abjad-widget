@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Kongo <kg_CD>\n"
+"Language: kg-CD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Lima ya Abjad"
+
+msgid "Abjad Value"
+msgstr "Babu ya Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Bomi ya kukomisa Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Buliyo ya kukomisa Abjad"
+
+msgid "Abjad not calculated"
+msgstr "Abjad te yoko komisa"
+
+msgid "Abjad order"
+msgstr "Mubala ya Abjad"
+
+msgid "Add elements"
+msgstr "Komele element"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Mikila"
+
+msgid "All"
+msgstr "Bongwe"
+
+msgid "Arabic"
+msgstr "Kari"
+
+msgid "Arabic letters"
+msgstr "Bomu kari"
+
+msgid "Arabic numbers"
+msgstr "Bomu mari ya kari"
+
+msgid "As data for operation"
+msgstr "Bomu data mpo yolela"
+
+msgid "Bast loop results"
+msgstr "Bast loop results"
+
+msgid "Bast not calculated"
+msgstr "Bast te yoko komisa"
+
+msgid "Bast repetition count"
+msgstr "Bast repetition count"
+
+msgid "Bast results hidden"
+msgstr "Bast results hidden"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Mubala ya Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Table ya Bastet"
+
+msgid "Big"
+msgstr "Boko"
+
+msgid "Bigger"
+msgstr "Boko moko"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Kanyikisa me kofe"
+
+msgid "Calculate"
+msgstr "Kukomisa"
+
+msgid "Calculate Abjad"
+msgstr "Kukomisa Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kukomisa Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kukomisa Huddam"
+
+msgid "Calculation details"
+msgstr "Bomu kukomisa"
+
+msgid "Choose Keyboard Layout"
+msgstr "Kosembela layout ya keyboard"
+
+msgid "Clear text box"
+msgstr "Loba textbox"
+
+msgid "Click row for details"
+msgstr "Kliki row mpo ya bomu"
+
+msgid "Close Keyboard"
+msgstr "Kufuta keyboard"
+
+msgid "Closed"
+msgstr "Kufuta"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma esala bumbu ya default mpe yeleyo bokuye!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separators ya data yolela:"
+
+msgid "Data type profile"
+msgstr "Profile ya data type"
+
+msgid "Dead keys"
+msgstr "Keys ya kufuma"
+
+msgid "Decrease keyboard size"
+msgstr "Taka size ya keyboard"
+
+msgid "Don't calculate"
+msgstr "Te kukomisa"
+
+msgid "Duty entity name results"
+msgstr "Buliyo ya kisilu entity"
+
+msgid "Duty entity type"
+msgstr "Yombwa ya kisilu entity"
+
+msgid "Earth"
+msgstr "Mambu"
+
+msgid "Element classification"
+msgstr "Classification ya element"
+
+msgid "Element classification method"
+msgstr "Method ya classification ya element"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Pangisa text... Kari, Hebrew, Turkish bomu, numbers"
+
+msgid "Entered data"
+msgstr "Data yolela"
+
+msgid "Entry"
+msgstr "Buliyo"
+
+msgid "Entry letter count"
+msgstr "Buliyo ya bomu bimu"
+
+msgid "Evil"
+msgstr "Mokolo"
+
+msgid "Fire"
+msgstr "Kikolo"
+
+msgid "For entered data"
+msgstr "Bokakula ya data yolela"
+
+msgid "Frequency in Quran"
+msgstr "Frequency mpo ya Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Element ya alfabet Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Bomu Hebrew"
+
+msgid "High"
+msgstr "Yoko"
+
+msgid "Hija order"
+msgstr "Mubala ya Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam naam yolela"
+
+msgid "Huddam not calculated"
+msgstr "Huddam te yoko komisa"
+
+msgid "Iklil's order"
+msgstr "Mubala ya Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kota size ya keyboard"
+
+msgid "Indian numbers"
+msgstr "Bomu numbers ya Indian"
+
+msgid "Interface language"
+msgstr "Language ya interface"
+
+msgid "Let character quantity decide"
+msgstr "Yolela quantity ya character"
+
+msgid "Letter count"
+msgstr "Bomu count"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Bokapita projekti? Kanyikisa me kofe!"
+
+msgid "Low"
+msgstr "Nkombo"
+
+msgid "Maghribian abjad"
+msgstr "Abjad ya Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Mubala ya Maghribian hija"
+
+msgid "Minimum"
+msgstr "Bongwe ya minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Language ya kumona number"
+
+msgid "Numerical values"
+msgstr "Bomu values ya number"
+
+msgid "Open"
+msgstr "Kopula"
+
+msgid "Order"
+msgstr "Mubala"
+
+msgid "Possible phrases"
+msgstr "Phrase oyo"
+
+msgid "Program settings"
+msgstr "Setting ya program"
+
+msgid "Pronunciation"
+msgstr "Pronunciation"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Regularly preferred classification"
+msgstr "Classification oyo esala"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Separators"
+msgstr "Separators"
+
+msgid "Settings"
+msgstr "Setting"
+
+msgid "Shamsee abjad order"
+msgstr "Mubala ya Shamsee abjad"
+
+msgid "Show numpad"
+msgstr "Loba numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Loba virtual keyboard"
+
+msgid "Small"
+msgstr "Mpe"
+
+msgid "Small + letter count"
+msgstr "Mpe + bomu count"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Taken (letter)"
+msgstr "Taken (letter)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Taken (letter; abjad)"
+
+msgid "Taken Letters"
+msgstr "Taken Letters"
+
+msgid "Text or number cell"
+msgstr "Text or number cell"
+
+msgid "Thank you for your support!"
+msgstr "Thank you for your support!"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad ya Turkish alphabet"
+
+msgid "Turkish alphabet elements"
+msgstr "Element ya Turkish alphabet"
+
+msgid "Turkish letters"
+msgstr "Bomu Turkish"
+
+msgid "Undefined characters"
+msgstr "Character oyo te ye buko"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Value & Detail"
+msgstr "Value & Detail"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Moko"
+
+msgid "When data is entered"
+msgstr "Bola data yolela"
+
+msgid "When reading large digits"
+msgstr "Bokakula number ya libela"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad calculated and letter count added"
+
+msgid "abjad() functions settings"
+msgstr "abjad() functions settings"
+
+msgid "add to initial value"
+msgstr "add to initial value"
+
+msgid "and"
+msgstr "and"
+
+msgid "auto calculate immediately"
+msgstr "auto calculate immediately"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() and nutket() functions settings"
+
+msgid "count once"
+msgstr "count once"
+
+msgid "count twice"
+msgstr "count twice"
+
+msgid "display with Arabic numbers"
+msgstr "display with Arabic numbers"
+
+msgid "display with Indian numbers"
+msgstr "display with Indian numbers"
+
+msgid "do not add to initial value"
+msgstr "do not add to initial value"
+
+msgid "do not force to other functions"
+msgstr "do not force to other functions"
+
+msgid "do not purify"
+msgstr "do not purify"
+
+msgid "force to other functions"
+msgstr "force to other functions"
+
+msgid "group multiplier letters"
+msgstr "group multiplier letters"
+
+msgid "hide"
+msgstr "hide"
+
+msgid "hide abjad values"
+msgstr "hide abjad values"
+
+msgid "hide bast results"
+msgstr "hide bast results"
+
+msgid "hide huddam names"
+msgstr "hide huddam names"
+
+msgid "huddam() function settings"
+msgstr "huddam() function settings"
+
+msgid "no bast applied."
+msgstr "no bast applied."
+
+msgid "no data entered"
+msgstr "no data entered"
+
+msgid "other suffix"
+msgstr "other suffix"
+
+msgid "purify data"
+msgstr "purify data"
+
+msgid "repeat multiplier for each digit"
+msgstr "repeat multiplier for each digit"
+
+msgid "show"
+msgstr "show"
+
+msgid "show abjad values"
+msgstr "show abjad values"
+
+msgid "show bast results"
+msgstr "show bast results"
+
+msgid "show huddam names"
+msgstr "show huddam names"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "times bast applied."
+
+msgid "use calculated abjad results"
+msgstr "use calculated abjad results"
+
+msgid "use calculated abjad total"
+msgstr "use calculated abjad total"
+
+msgid "use calculated bast results"
+msgstr "use calculated bast results"
+
+msgid "use entered data directly"
+msgstr "use entered data directly"
+
+msgid "use entered data total"
+msgstr "use entered data total"
+
+msgid "use in all bast repetitions"
+msgstr "use in all bast repetitions"
+
+msgid "use only at beginning if possible"
+msgstr "use only at beginning if possible"
+
+msgid "wait for settings and data entry"
+msgstr "wait for settings and data entry"
