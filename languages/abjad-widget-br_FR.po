@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Breton <br_FR>\n"
+"Language: br-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Arventennoù Abjad"
+
+msgid "Abjad Value"
+msgstr "Gwerzh Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Disoc'h kalkulaadenn Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Kalkulaadoù Abjad kaset"
+
+msgid "Abjad not calculated"
+msgstr "N'eo ket kalkulet Abjad"
+
+msgid "Abjad order"
+msgstr "Urzh Abjad"
+
+msgid "Add elements"
+msgstr "Ouzhpennañ elfennoù"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Aod"
+
+msgid "All"
+msgstr "Pep"
+
+msgid "Arabic"
+msgstr "Arabi"
+
+msgid "Arabic letters"
+msgstr "Alfabed Arabi"
+
+msgid "Arabic numbers"
+msgstr "Niveroù Arabi"
+
+msgid "As data for operation"
+msgstr "Evel roadennoù evit an oberiant"
+
+msgid "Bast loop results"
+msgstr "Disoc'h buell Bast"
+
+msgid "Bast not calculated"
+msgstr "N'eo ket kalkulet Bast"
+
+msgid "Bast repetition count"
+msgstr "Niverad adreistadur Bast"
+
+msgid "Bast results hidden"
+msgstr "Disoc'hoù Bast kaset"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Urzh Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Taol Bastet"
+
+msgid "Big"
+msgstr "Brav"
+
+msgid "Bigger"
+msgstr "Bravoc'h"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Ezout un neñ"
+
+msgid "Calculate"
+msgstr "Kalkulañ"
+
+msgid "Calculate Abjad"
+msgstr "Kalkulañ Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kalkulañ Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kalkulañ Huddam"
+
+msgid "Calculation details"
+msgstr "Munudoù kalkulaadenn"
+
+msgid "Choose Keyboard Layout"
+msgstr "Dibabit ur c'hornenn"
+
+msgid "Clear text box"
+msgstr "Skarzhañ ar voest testenn"
+
+msgid "Click row for details"
+msgstr "Klikit ar renk evit munudoù"
+
+msgid "Close Keyboard"
+msgstr "Serriñ ar c'hornenn"
+
+msgid "Closed"
+msgstr "Serr"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Emañ ar poentoù kourenn dre-ziouer ha ret e vo chom e-blec'h !"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Seferezhioù enankañ roadennoù:"
+
+msgid "Data type profile"
+msgstr "Profil roadennoù"
+
+msgid "Dead keys"
+msgstr "Stalioù dorn"
+
+msgid "Decrease keyboard size"
+msgstr "Diminuzañ ment ar c'hornenn"
+
+msgid "Don't calculate"
+msgstr "N'eo ket kalkulaet"
+
+msgid "Duty entity name results"
+msgstr "Disoc'h anv c'hizad"
+
+msgid "Duty entity type"
+msgstr "Seur c'hizad"
+
+msgid "Earth"
+msgstr "Ter"
+
+msgid "Element classification"
+msgstr "Klasifikadur elfennoù"
+
+msgid "Element classification method"
+msgstr "Method klasifikadur elfennoù"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Ebarri testenn... Alfabed Arabi, Hebre, Alfabed Turk, Niveroù"
+
+msgid "Entered data"
+msgstr "Roadennoù enanket"
+
+msgid "Entry"
+msgstr "Enankadenn"
+
+msgid "Entry letter count"
+msgstr "Niverad al lizherennoù enankadenn"
+
+msgid "Evil"
+msgstr "Kell"
+
+msgid "Fire"
+msgstr "Trev"
+
+msgid "For entered data"
+msgstr "Evit roadennoù enanket"
+
+msgid "Frequency in Quran"
+msgstr "Sikour e Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebre"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elfennoù alfabed Hebre"
+
+msgid "Hebrew letters"
+msgstr "Lizherennoù Hebre"
+
+msgid "High"
+msgstr "Uhel"
+
+msgid "Hija order"
+msgstr "Urzh Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Anvioù Huddam kaset"
+
+msgid "Huddam not calculated"
+msgstr "N'eo ket kalkulet Huddam"
+
+msgid "Iklil's order"
+msgstr "Urzh Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kreskañ ment ar c'hornenn"
+
+msgid "Indian numbers"
+msgstr "Niveroù Ind"
+
+msgid "Interface language"
+msgstr "Yezh ar c'hroes"
+
+msgid "Let character quantity decide"
+msgstr "Levezit niverad al lizherennoù"
+
+msgid "Letter count"
+msgstr "Niverad lizherennoù"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "C'hortozit ho prozoù? Ezout un neñ!"
+
+msgid "Low"
+msgstr "Izhel"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Urzh Hija Maghribian"
+
+msgid "Minimum"
+msgstr "Bihanoc'h"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Yezh liziadur niveroù"
+
+msgid "Numerical values"
+msgstr "Gwerioù niverel"
+
+msgid "Open"
+msgstr "Digeriñ"
+
+msgid "Order"
+msgstr "Urzh"
+
+msgid "Possible phrases"
+msgstr "Kavaloù posupl"
+
+msgid "Program settings"
+msgstr "Arventennoù ar goulev"
+
+msgid "Pronunciation"
+msgstr "Lennad"
+
+msgid "Regular expression"
+msgstr "Treuzaskañ reizh"
+
+msgid "Regularly preferred classification"
+msgstr "Klasifikadur a-zivis prenet"
+
+msgid "Reset"
+msgstr "Adderaouekaat"
+
+msgid "Separators"
+msgstr "Seferezhioù"
+
+msgid "Settings"
+msgstr "Arventennoù"
+
+msgid "Shamsee abjad order"
+msgstr "Urzh Abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Diskouez numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Diskouez c'hornenn ilvezel"
+
+msgid "Small"
+msgstr "Bihan"
+
+msgid "Small + letter count"
+msgstr "Bihan + niverad lizherennoù"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Skoazell"
+
+msgid "Taken (letter)"
+msgstr "Kemmet (lizherenn)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Kemmet (lizherenn; abjad)"
+
+msgid "Taken Letters"
+msgstr "Lizherennoù kemmet"
+
+msgid "Text or number cell"
+msgstr "Golenn testenn pe niver"
+
+msgid "Thank you for your support!"
+msgstr "Trugarez d'ober ho skoazell!"
+
+msgid "Total"
+msgstr "Hollad"
+
+msgid "Turkish"
+msgstr "Turk"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad alfabed Turk"
+
+msgid "Turkish alphabet elements"
+msgstr "Elfennoù alfabed Turk"
+
+msgid "Turkish letters"
+msgstr "Alfabed Turk"
+
+msgid "Undefined characters"
+msgstr "Lizherennoù d'ar c'hemm"
+
+msgid "Value"
+msgstr "Gwerzh"
+
+msgid "Value & Detail"
+msgstr "Gwerzh & Munudoù"
+
+msgid "Version"
+msgstr "Stumm"
+
+msgid "Water"
+msgstr "Dour"
+
+msgid "When data is entered"
+msgstr "Pa enanket roadennoù"
+
+msgid "When reading large digits"
+msgstr "Pa lizherat niveroù bras"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad kalkulaet hag niverad lizherennoù ouzhpennet"
+
+msgid "abjad() functions settings"
+msgstr "Arventennoù ar c'hefluskerioù abjad()"
+
+msgid "add to initial value"
+msgstr "Ouzhpennañ d' werzh hini"
+
+msgid "and"
+msgstr "ha"
+
+msgid "auto calculate immediately"
+msgstr "Kalkulañ emgefreek"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Arventennoù ar c'hefluskerioù bastet() ha nutket()"
+
+msgid "count once"
+msgstr "Kountañ unan"
+
+msgid "count twice"
+msgstr "Kountañ daou"
+
+msgid "display with Arabic numbers"
+msgstr "Diskouez gant niveroù Arabi"
+
+msgid "display with Indian numbers"
+msgstr "Diskouez gant niveroù Ind"
+
+msgid "do not add to initial value"
+msgstr "Arventenn diouzh ouzhpennañ d' werzh hini"
+
+msgid "do not force to other functions"
+msgstr "Arventenn diouzh arloañ d' funksioù all"
+
+msgid "do not purify"
+msgstr "Diouzh purifañ"
+
+msgid "force to other functions"
+msgstr "Arloañ d' funksioù all"
+
+msgid "group multiplier letters"
+msgstr "Llizherennoù multiplikadur"
+
+msgid "hide"
+msgstr "Kas"
+
+msgid "hide abjad values"
+msgstr "Kas gwerzhioù Abjad"
+
+msgid "hide bast results"
+msgstr "Kas disoc'hoù Bast"
+
+msgid "hide huddam names"
+msgstr "Kas anvioù Huddam"
+
+msgid "huddam() function settings"
+msgstr "Arventennoù ar c'heflusker huddam()"
+
+msgid "no bast applied."
+msgstr "N'eo ket ebet bast arvezet."
+
+msgid "no data entered"
+msgstr "N'eo ket roadennoù enanket"
+
+msgid "other suffix"
+msgstr "suffiex all"
+
+msgid "purify data"
+msgstr "Purifañ roadennoù"
+
+msgid "repeat multiplier for each digit"
+msgstr "Adkrouiñ multiplikadur evit pep niver"
+
+msgid "show"
+msgstr "Diskouez"
+
+msgid "show abjad values"
+msgstr "Diskouez gwerzhioù Abjad"
+
+msgid "show bast results"
+msgstr "Diskouez disoc'hoù Bast"
+
+msgid "show huddam names"
+msgstr "Diskouez anvioù Huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "Adkrouet gant bast."
+
+msgid "use calculated abjad results"
+msgstr "Arverañ disoc'hoù abjad kalkulaet"
+
+msgid "use calculated abjad total"
+msgstr "Arverañ hollad abjad kalkulaet"
+
+msgid "use calculated bast results"
+msgstr "Arverañ disoc'hoù Bast kalkulaet"
+
+msgid "use entered data directly"
+msgstr "Arverañ roadennoù enanket diouzhtu"
+
+msgid "use entered data total"
+msgstr "Arverañ hollad roadennoù enanket"
+
+msgid "use in all bast repetitions"
+msgstr "Arverañ e pep adreistadur Bast"
+
+msgid "use only at beginning if possible"
+msgstr "Arverañ hepken war an diaez ma c'haller"
+
+msgid "wait for settings and data entry"
+msgstr "C'hortoz evit arventennoù ha roadennoù enanket"

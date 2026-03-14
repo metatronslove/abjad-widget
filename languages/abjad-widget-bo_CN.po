@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Tibetan <bo_CN>\n"
+"Language: bo-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "ཨབེནཊ"
+
+msgid "Abjad Settings"
+msgstr "ཨབེནཊ ཚོད་འཛིན"
+
+msgid "Abjad Value"
+msgstr "ཨབེནཊ གནས་གནད"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "ཨབེནཊ གནད འཕྲིལ་རིན"
+
+msgid "Abjad calculations hidden"
+msgstr "ཨབེནཊ གནད མིའདོད"
+
+msgid "Abjad not calculated"
+msgstr "ཨབེནཊ གནད མི་འགན"
+
+msgid "Abjad order"
+msgstr "ཨབེནཊ རིགས་"
+
+msgid "Add elements"
+msgstr "གཞུགས་ དབུད་དུའུ"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "དབུས་"
+
+msgid "All"
+msgstr "གཉིས་ཀའི"
+
+msgid "Arabic"
+msgstr "ཨར་བི"
+
+msgid "Arabic letters"
+msgstr "ཨར་བི གཞན་གནད"
+
+msgid "Arabic numbers"
+msgstr "ཨར་བི གནད།"
+
+msgid "As data for operation"
+msgstr "འཛིན་གནད གཞག"
+
+msgid "Bast loop results"
+msgstr "བརྟགས རིགས གནད"
+
+msgid "Bast not calculated"
+msgstr "བརྟགས གནད མི་འགན"
+
+msgid "Bast repetition count"
+msgstr "བརྟགས གནད འདིག"
+
+msgid "Bast results hidden"
+msgstr "བརྟགས གནད མིའདོད"
+
+msgid "Bastet"
+msgstr "བཱསཏིཊ"
+
+msgid "Bastet order"
+msgstr "བཱསཏིཊ རིགས་"
+
+msgid "Bastet shadda"
+msgstr "བཱསཏིཊ ཤུ་དད"
+
+msgid "Bastet table"
+msgstr "བཱསཏིཊ གཞགས་"
+
+msgid "Big"
+msgstr "རིམ་"
+
+msgid "Bigger"
+msgstr "རིམ གཙོར"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "ངར འབུལེར་བའི"
+
+msgid "Calculate"
+msgstr "གཏུབ་"
+
+msgid "Calculate Abjad"
+msgstr "ཨབེནཊ གཏུབ་"
+
+msgid "Calculate Bastet"
+msgstr "བཱསཏིཊ གཏུབ་"
+
+msgid "Calculate Huddam"
+msgstr "ཧུདཏམ གཏུབ་"
+
+msgid "Calculation details"
+msgstr "གཏུབ བཤད་"
+
+msgid "Choose Keyboard Layout"
+msgstr "ལྡེ་མིག ཚོད་འཛིན་"
+
+msgid "Clear text box"
+msgstr "འཛིན བསུད་"
+
+msgid "Click row for details"
+msgstr "གནད་རེདམེད་"
+
+msgid "Close Keyboard"
+msgstr "ལྡེ་མིག ལམའི"
+
+msgid "Closed"
+msgstr "ལུག"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "གནད་ དོན་གཞག གིའི དུའུ"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "འཛིན་གནད གཞག་"
+
+msgid "Data type profile"
+msgstr "གནད་གིརིགས་"
+
+msgid "Dead keys"
+msgstr "དོར་འགོད་"
+
+msgid "Decrease keyboard size"
+msgstr "ལྡེ་མིག གནས་ཀའི"
+
+msgid "Don't calculate"
+msgstr "གཏུབ་མི་"
+
+msgid "Duty entity name results"
+msgstr "གཉེར་བརྟེན གནད་"
+
+msgid "Duty entity type"
+msgstr "གཉེར་བརྟེན རིགས་"
+
+msgid "Earth"
+msgstr "དབུས་"
+
+msgid "Element classification"
+msgstr "གནད་ཚིག གཞག"
+
+msgid "Element classification method"
+msgstr "གནད་ཚིག ལོགས།"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "འཛིན་ཚོགས་... ཨར་བི, ཧིབ, ཊའུར, གནད།"
+
+msgid "Entered data"
+msgstr "འཛིན་གནད"
+
+msgid "Entry"
+msgstr "འཛིན"
+
+msgid "Entry letter count"
+msgstr "འཛིན གཞན འདོག"
+
+msgid "Evil"
+msgstr "རེག"
+
+msgid "Fire"
+msgstr "ལྕགས་"
+
+msgid "For entered data"
+msgstr "འཛིན་གནད གིའི"
+
+msgid "Frequency in Quran"
+msgstr "འགུ རིགས་"
+
+msgid "Gematria"
+msgstr "གནད་འཕྲིལ"
+
+msgid "Hebrew"
+msgstr "ཧིབ"
+
+msgid "Hebrew alphabet elements"
+msgstr "ཧིབ གཞན་གཞག"
+
+msgid "Hebrew letters"
+msgstr "ཧིབ གཞན"
+
+msgid "High"
+msgstr "རིམ"
+
+msgid "Hija order"
+msgstr "ཧིཇ རིགས"
+
+msgid "Hisab al jumal"
+msgstr "ཧིག གནད"
+
+msgid "Huddam"
+msgstr "ཧུདཏམ"
+
+msgid "Huddam names hidden"
+msgstr "ཧུདཏམ གནད མིའདོད"
+
+msgid "Huddam not calculated"
+msgstr "ཧུདཏམ གནད མི་འགན"
+
+msgid "Iklil's order"
+msgstr "ཨིཀལིལར རིགས"
+
+msgid "Increase keyboard size"
+msgstr "ལྡེ་མིག གནས་བརྒྱུར"
+
+msgid "Indian numbers"
+msgstr "རྒྱུའམར གནད"
+
+msgid "Interface language"
+msgstr "འབདན་རིགས"
+
+msgid "Let character quantity decide"
+msgstr "གཞན འདོག གཞག"
+
+msgid "Letter count"
+msgstr "གཞན རིགས"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "གནད སོར? ངར འབུལེར"
+
+msgid "Low"
+msgstr "འཇམ"
+
+msgid "Maghribian abjad"
+msgstr "མགརིབཊི ཨབེནཊ"
+
+msgid "Maghribian hija order"
+msgstr "མགརིབཊི ཧིཇ"
+
+msgid "Minimum"
+msgstr "མིན"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "གནད གསར"
+
+msgid "Numerical values"
+msgstr "གནད གཙུག"
+
+msgid "Open"
+msgstr "ཁ་ཕབ"
+
+msgid "Order"
+msgstr "རིགས"
+
+msgid "Possible phrases"
+msgstr "དབུས་གཞག"
+
+msgid "Program settings"
+msgstr "ལོག་པའི ཚོད"
+
+msgid "Pronunciation"
+msgstr "བདག"
+
+msgid "Regular expression"
+msgstr "གཏུད གཞག"
+
+msgid "Regularly preferred classification"
+msgstr "གཞགསག བརྒྱུར"
+
+msgid "Reset"
+msgstr "བསྟག"
+
+msgid "Separators"
+msgstr "གཞགས"
+
+msgid "Settings"
+msgstr "ཚོད"
+
+msgid "Shamsee abjad order"
+msgstr "ཤམསི ཨབེནཊ རིགས"
+
+msgid "Show numpad"
+msgstr "འཕུལ གཞག"
+
+msgid "Show virtual keyboard"
+msgstr "བདོད ལེབ"
+
+msgid "Small"
+msgstr "གཙུག"
+
+msgid "Small + letter count"
+msgstr "གཙུག + གཞན"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "གནད"
+
+msgid "Taken (letter)"
+msgstr "གནད (གཞན)"
+
+msgid "Taken (letter; abjad)"
+msgstr "གནད (གཞན;ཨབེནཊ)"
+
+msgid "Taken Letters"
+msgstr "གནད གཞན"
+
+msgid "Text or number cell"
+msgstr "འཛིན རེའང"
+
+msgid "Thank you for your support!"
+msgstr "གནད གཞག"
+
+msgid "Total"
+msgstr "གཞན"
+
+msgid "Turkish"
+msgstr "ཊརིག"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "ཊརིག ལེནི ཨབེནཊ"
+
+msgid "Turkish alphabet elements"
+msgstr "ཊརིག ལེནི གཞན"
+
+msgid "Turkish letters"
+msgstr "ཊརིག ལེནི གཞན"
+
+msgid "Undefined characters"
+msgstr "མཚམས མེད"
+
+msgid "Value"
+msgstr "གནད"
+
+msgid "Value & Detail"
+msgstr "གནད & གཞག"
+
+msgid "Version"
+msgstr "དེའུ"
+
+msgid "Water"
+msgstr "རོད"
+
+msgid "When data is entered"
+msgstr "འཛིན་གནད"
+
+msgid "When reading large digits"
+msgstr "རེད་ལུག"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "ཨབེནཊ གཏུབ དང་ གཞན གནད་"
+
+msgid "abjad() functions settings"
+msgstr "ཨབེནཊ() གཞགས"
+
+msgid "add to initial value"
+msgstr "གནད འགོད་"
+
+msgid "and"
+msgstr "དང་"
+
+msgid "auto calculate immediately"
+msgstr "གཏུབ སོད"
+
+msgid "bast"
+msgstr "བརྟགས"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "བཱསཏིཊ() དང་ ནུཏགེ() གཞགས"
+
+msgid "count once"
+msgstr "གཏུད འདུག"
+
+msgid "count twice"
+msgstr "གཏུད གཉིས"
+
+msgid "display with Arabic numbers"
+msgstr "འཁོར་བཅར་ ཨར་བི གནད"
+
+msgid "display with Indian numbers"
+msgstr "འཁོར་བཅར་ རྒྱུའམར གནད"
+
+msgid "do not add to initial value"
+msgstr "གནད མིའདོད"
+
+msgid "do not force to other functions"
+msgstr "འདུག མིའདོད"
+
+msgid "do not purify"
+msgstr "གནད འགོད"
+
+msgid "force to other functions"
+msgstr "འདུག གཏུད"
+
+msgid "group multiplier letters"
+msgstr "གཞན གདམ་བརྒྱུར"
+
+msgid "hide"
+msgstr "གཞག"
+
+msgid "hide abjad values"
+msgstr "ཨབེནཊ གནད གཞག"
+
+msgid "hide bast results"
+msgstr "བརྟགས གནད གཞག"
+
+msgid "hide huddam names"
+msgstr "ཧུདཏམ གནད གཞག"
+
+msgid "huddam() function settings"
+msgstr "ཧུདཏམ() གཞག"
+
+msgid "no bast applied."
+msgstr "བརྟགས མིའདོད."
+
+msgid "no data entered"
+msgstr "འཛིན མིའདོད"
+
+msgid "other suffix"
+msgstr "གཞགསག"
+
+msgid "purify data"
+msgstr "གནད འགོད"
+
+msgid "repeat multiplier for each digit"
+msgstr "གཞན རྒྱུར གཏུད"
+
+msgid "show"
+msgstr "བཤད"
+
+msgid "show abjad values"
+msgstr "ཨབེནཊ གནད བཤད"
+
+msgid "show bast results"
+msgstr "བརྟགས གནད བཤད"
+
+msgid "show huddam names"
+msgstr "ཧུདཏམ གནད བཤད"
+
+msgid "suffix"
+msgstr "གཞག"
+
+msgid "times bast applied."
+msgstr "བརྟགས འདིག."
+
+msgid "use calculated abjad results"
+msgstr "ཨབེནཊ གཏུབ གནད འདིག"
+
+msgid "use calculated abjad total"
+msgstr "ཨབེནཊ གཏུབ གནད དོན"
+
+msgid "use calculated bast results"
+msgstr "བརྟགས གཏུབ གནད"
+
+msgid "use entered data directly"
+msgstr "འཛིན་གནད སོགས"
+
+msgid "use entered data total"
+msgstr "འཛིན་གནད གནད"
+
+msgid "use in all bast repetitions"
+msgstr "བརྟགས གནད གཞག"
+
+msgid "use only at beginning if possible"
+msgstr "རིགས་གཞག"
+
+msgid "wait for settings and data entry"
+msgstr "ཚོད འཛིན གིའི"

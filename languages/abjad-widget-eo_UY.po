@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Esperanto <eo_UY>\n"
+"Language: eo-UY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad-agordoj"
+
+msgid "Abjad Value"
+msgstr "Valoro de Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Rezultoj de Abjad kalkulo"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad kalkuloj kaŝitaj"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ne kalkulita"
+
+msgid "Abjad order"
+msgstr "Abjad ordono"
+
+msgid "Add elements"
+msgstr "Aldonu elementojn"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Aero"
+
+msgid "All"
+msgstr "Ĉio"
+
+msgid "Arabic"
+msgstr "Arabia"
+
+msgid "Arabic letters"
+msgstr "Arabaj literoj"
+
+msgid "Arabic numbers"
+msgstr "Arabaj nombroj"
+
+msgid "As data for operation"
+msgstr "Kiel datumoj por operacio"
+
+msgid "Bast loop results"
+msgstr "Rezultoj de Bast-bouko"
+
+msgid "Bast not calculated"
+msgstr "Bast ne kalkulita"
+
+msgid "Bast repetition count"
+msgstr "Nombro de Bast ripetoj"
+
+msgid "Bast results hidden"
+msgstr "Bast rezultoj kaŝitaj"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet ordono"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tabelo"
+
+msgid "Big"
+msgstr "Granda"
+
+msgid "Bigger"
+msgstr "Pli granda"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Aĉetu al mi kafon"
+
+msgid "Calculate"
+msgstr "Kalkulu"
+
+msgid "Calculate Abjad"
+msgstr "Kalkulu Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kalkulu Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kalkulu Huddam"
+
+msgid "Calculation details"
+msgstr "Detaloj de kalkulo"
+
+msgid "Choose Keyboard Layout"
+msgstr "Elektu klavaro-distribuon"
+
+msgid "Clear text box"
+msgstr "Vakigu tekstan skatolon"
+
+msgid "Click row for details"
+msgstr "Klaku vicon por detaloj"
+
+msgid "Close Keyboard"
+msgstr "Fermu klavaron"
+
+msgid "Closed"
+msgstr "Fermita"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma estas defaŭlta apartigilo kaj devas esti kontrolita!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separigiloj por enigo de datumoj:"
+
+msgid "Data type profile"
+msgstr "Profilo de datumtipo"
+
+msgid "Dead keys"
+msgstr "Mortaj klavoj"
+
+msgid "Decrease keyboard size"
+msgstr "Malpliigu klavaron grandon"
+
+msgid "Don't calculate"
+msgstr "Ne kalkulu"
+
+msgid "Duty entity name results"
+msgstr "Rezultoj de nomo de deviga entiteto"
+
+msgid "Duty entity type"
+msgstr "Tipo de deviga entiteto"
+
+msgid "Earth"
+msgstr "Tero"
+
+msgid "Element classification"
+msgstr "Klasifikado de elemento"
+
+msgid "Element classification method"
+msgstr "Metodo de klasifikado de elemento"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Enigu tekston... Arabaj, Hebreaj, Turkaj literoj, nombroj"
+
+msgid "Entered data"
+msgstr "Enigitaj datumoj"
+
+msgid "Entry"
+msgstr "Enigo"
+
+msgid "Entry letter count"
+msgstr "Nombro de literoj en enigo"
+
+msgid "Evil"
+msgstr "Malbona"
+
+msgid "Fire"
+msgstr "Fajro"
+
+msgid "For entered data"
+msgstr "Por enigitaj datumoj"
+
+msgid "Frequency in Quran"
+msgstr "Frekvenco en la Koran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrea"
+
+msgid "Hebrew alphabet elements"
+msgstr "Hebreaj alfabeto-elementoj"
+
+msgid "Hebrew letters"
+msgstr "Hebreaj literoj"
+
+msgid "High"
+msgstr "Alta"
+
+msgid "Hija order"
+msgstr "Hija ordono"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam-nomoj kaŝitaj"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ne kalkulita"
+
+msgid "Iklil's order"
+msgstr "Iklil ordono"
+
+msgid "Increase keyboard size"
+msgstr "Pligrandigu klavaron"
+
+msgid "Indian numbers"
+msgstr "Indiaj nombroj"
+
+msgid "Interface language"
+msgstr "Interfaca lingvo"
+
+msgid "Let character quantity decide"
+msgstr "Lasu la kvanton da signoj decidi"
+
+msgid "Letter count"
+msgstr "Litero-nombro"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ĉu vi ŝatas miajn projektojn? Aĉetu al mi kafon!"
+
+msgid "Low"
+msgstr "Malalta"
+
+msgid "Maghribian abjad"
+msgstr "Maghribia abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribia hija ordono"
+
+msgid "Minimum"
+msgstr "Minimumo"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Lingvo por legi nombrojn"
+
+msgid "Numerical values"
+msgstr "Ciferecaj valoroj"
+
+msgid "Open"
+msgstr "Malferma"
+
+msgid "Order"
+msgstr "Ordo"
+
+msgid "Possible phrases"
+msgstr "Eblaj frazoj"
+
+msgid "Program settings"
+msgstr "Programagordoj"
+
+msgid "Pronunciation"
+msgstr "Prononco"
+
+msgid "Regular expression"
+msgstr "Regula esprimo"
+
+msgid "Regularly preferred classification"
+msgstr "Regule preferata klasifikado"
+
+msgid "Reset"
+msgstr "Restarigu"
+
+msgid "Separators"
+msgstr "Apartigiloj"
+
+msgid "Settings"
+msgstr "Agordoj"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad ordono"
+
+msgid "Show numpad"
+msgstr "Montru numpadon"
+
+msgid "Show virtual keyboard"
+msgstr "Montru virtualan klavaron"
+
+msgid "Small"
+msgstr "Malgranda"
+
+msgid "Small + letter count"
+msgstr "Malgranda + litero-nombro"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Subteno"
+
+msgid "Taken (letter)"
+msgstr "Prenita (litro)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Prenita (litro; abjad)"
+
+msgid "Taken Letters"
+msgstr "Prenitaj literoj"
+
+msgid "Text or number cell"
+msgstr "Teksto aŭ nombro ĉelo"
+
+msgid "Thank you for your support!"
+msgstr "Dankon pro via subteno!"
+
+msgid "Total"
+msgstr "Totala"
+
+msgid "Turkish"
+msgstr "Turka"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turka alfabeto Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turkaj alfabeto-elementoj"
+
+msgid "Turkish letters"
+msgstr "Turkaj literoj"
+
+msgid "Undefined characters"
+msgstr "Nedifinitaj signoj"
+
+msgid "Value"
+msgstr "Valoro"
+
+msgid "Value & Detail"
+msgstr "Valoro & Detalo"
+
+msgid "Version"
+msgstr "Versio"
+
+msgid "Water"
+msgstr "Akvo"
+
+msgid "When data is entered"
+msgstr "Kiam datumoj enigataj"
+
+msgid "When reading large digits"
+msgstr "Kiam legi grandajn ciferecajn"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad kalkulita kaj litero-nombro aldonita"
+
+msgid "abjad() functions settings"
+msgstr "agordoj de abjad() funkcioj"
+
+msgid "add to initial value"
+msgstr "aldonu al komenca valoro"
+
+msgid "and"
+msgstr "kaj"
+
+msgid "auto calculate immediately"
+msgstr "aŭtomate kalkulu tuj"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "agordoj de bastet() kaj nutket() funkcioj"
+
+msgid "count once"
+msgstr "nombro unufoje"
+
+msgid "count twice"
+msgstr "nombro dufoje"
+
+msgid "display with Arabic numbers"
+msgstr "montri kun arabaj nombroj"
+
+msgid "display with Indian numbers"
+msgstr "montri kun indiaj nombroj"
+
+msgid "do not add to initial value"
+msgstr "ne aldonu al komenca valoro"
+
+msgid "do not force to other functions"
+msgstr "ne devigu al aliaj funkcioj"
+
+msgid "do not purify"
+msgstr "ne purigu"
+
+msgid "force to other functions"
+msgstr "devigu al aliaj funkcioj"
+
+msgid "group multiplier letters"
+msgstr "grupaj multiplikantaj literoj"
+
+msgid "hide"
+msgstr "kaŝi"
+
+msgid "hide abjad values"
+msgstr "kaŝi abjad valorojn"
+
+msgid "hide bast results"
+msgstr "kaŝi bast rezultojn"
+
+msgid "hide huddam names"
+msgstr "kaŝi huddam-nomojn"
+
+msgid "huddam() function settings"
+msgstr "agordoj de huddam() funkcio"
+
+msgid "no bast applied."
+msgstr "neniu bast aplikita."
+
+msgid "no data entered"
+msgstr "neniu datumoj enigataj"
+
+msgid "other suffix"
+msgstr "alia sufikso"
+
+msgid "purify data"
+msgstr "purigu datumojn"
+
+msgid "repeat multiplier for each digit"
+msgstr "ripetu multiplikanton por ĉiu cifereco"
+
+msgid "show"
+msgstr "montri"
+
+msgid "show abjad values"
+msgstr "montri abjad valorojn"
+
+msgid "show bast results"
+msgstr "montri bast rezultojn"
+
+msgid "show huddam names"
+msgstr "montri huddam-nomojn"
+
+msgid "suffix"
+msgstr "sufikso"
+
+msgid "times bast applied."
+msgstr "foje bast aplikita."
+
+msgid "use calculated abjad results"
+msgstr "uzu kalkulitajn abjad rezultojn"
+
+msgid "use calculated abjad total"
+msgstr "uzu kalkulitan abjad totalon"
+
+msgid "use calculated bast results"
+msgstr "uzu kalkulitajn bast rezultojn"
+
+msgid "use entered data directly"
+msgstr "uzu enigitajn datumojn rekte"
+
+msgid "use entered data total"
+msgstr "uzu enigitajn datumojn totalon"
+
+msgid "use in all bast repetitions"
+msgstr "uzu en ĉiuj bast ripetoj"
+
+msgid "use only at beginning if possible"
+msgstr "uzu nur ĉe komenco se eble"
+
+msgid "wait for settings and data entry"
+msgstr "atentu pri agordoj kaj datumoj enigo"

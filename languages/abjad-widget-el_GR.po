@@ -1,0 +1,531 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Greek <el_GR>\n"
+"Language: el-GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Ρυθμίσεις Αμπζάτ"
+
+msgid "Abjad Value"
+msgstr "Τιμή Αμπζάτ"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Αποτελέσματα υπολογισμού Αμπζάτ"
+
+msgid "Abjad calculations hidden"
+msgstr "Απόκρυψη υπολογισμών Αμπζάτ"
+
+msgid "Abjad not calculated"
+msgstr "Το Αμπζάτ δεν υπολογίστηκε"
+
+msgid "Abjad order"
+msgstr "Σειρά Αμπζάτ"
+
+msgid "Add elements"
+msgstr "Προσθήκη στοιχείων"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Αερά"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Arabic"
+msgstr "Αραβικά"
+
+msgid "Arabic letters"
+msgstr "Αραβικοί χαρακτήρες"
+
+msgid "Arabic numbers"
+msgstr "Αραβικοί αριθμοί"
+
+msgid "As data for operation"
+msgstr "Ως δεδομένα για λειτουργία"
+
+msgid "Bast loop results"
+msgstr "Αποτελέσματα βρόχου Bast"
+
+msgid "Bast not calculated"
+msgstr "Το Bast δεν υπολογίστηκε"
+
+msgid "Bast repetition count"
+msgstr "Πλήθος επαναλήψεων Bast"
+
+msgid "Bast results hidden"
+msgstr "Απόκρυψη αποτελεσμάτων Bast"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Σειρά Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Πίνακας Bastet"
+
+msgid "Big"
+msgstr "Μεγάλο"
+
+msgid "Bigger"
+msgstr "Μεγαλύτερο"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Αγοράστε μου έναν καφέ"
+
+msgid "Calculate"
+msgstr "Υπολογίστε"
+
+msgid "Calculate Abjad"
+msgstr "Υπολογίστε το Αμπζάτ"
+
+msgid "Calculate Bastet"
+msgstr "Υπολογίστε το Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Υπολογίστε το Huddam"
+
+msgid "Calculation details"
+msgstr "Λεπτομέρειες υπολογισμού"
+
+msgid "Choose Keyboard Layout"
+msgstr "Επιλέξτε διάταξη πληκτρολογίου"
+
+msgid "Clear text box"
+msgstr "Εκκαθάριση γραμμής κειμένου"
+
+msgid "Click row for details"
+msgstr "Κάντε κλικ στη σειρά για λεπτομέρειες"
+
+msgid "Close Keyboard"
+msgstr "Κλείσιμο πληκτρολογίου"
+
+msgid "Closed"
+msgstr "Κλειστό"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Η κόμμα είναι ο προεπιλεγμένος διαχωριστής και πρέπει να παραμείνει "
+"επιλεγμένη!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Διαχωριστές εισόδου δεδομένων:"
+
+msgid "Data type profile"
+msgstr "Προφίλ τύπου δεδομένων"
+
+msgid "Dead keys"
+msgstr "Κλειδιά νεκρά"
+
+msgid "Decrease keyboard size"
+msgstr "Μείωση μεγέθους πληκτρολογίου"
+
+msgid "Don't calculate"
+msgstr "Μην υπολογίζετε"
+
+msgid "Duty entity name results"
+msgstr "Αποτελέσματα ονόματος οντότητας υποχρέωσης"
+
+msgid "Duty entity type"
+msgstr "Τύπος οντότητας υποχρέωσης"
+
+msgid "Earth"
+msgstr "Γη"
+
+msgid "Element classification"
+msgstr "Κατηγοριοποίηση στοιχείου"
+
+msgid "Element classification method"
+msgstr "Μέθοδος κατηγοριοποίησης στοιχείου"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Εισάγετε κείμενο... Αραβικά, Εβραϊκά, Τουρκικά γράμματα, αριθμοί"
+
+msgid "Entered data"
+msgstr "Εισαχθέντα δεδομένα"
+
+msgid "Entry"
+msgstr "Καταχώρηση"
+
+msgid "Entry letter count"
+msgstr "Καταχώρηση πλήθους γραμμάτων"
+
+msgid "Evil"
+msgstr "Κακό"
+
+msgid "Fire"
+msgstr "Φωτιά"
+
+msgid "For entered data"
+msgstr "Για εισαχθέντα δεδομένα"
+
+msgid "Frequency in Quran"
+msgstr "Συχνότητα στο Κοράνι"
+
+msgid "Gematria"
+msgstr "Γεμματρία"
+
+msgid "Hebrew"
+msgstr "Εβραϊκά"
+
+msgid "Hebrew alphabet elements"
+msgstr "Στοιχεία εβραϊκού αλφαβήτου"
+
+msgid "Hebrew letters"
+msgstr "Εβραϊκά γράμματα"
+
+msgid "High"
+msgstr "Υψηλό"
+
+msgid "Hija order"
+msgstr "Σειρά Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Κρυφά ονόματα Huddam"
+
+msgid "Huddam not calculated"
+msgstr "Το Huddam δεν υπολογίστηκε"
+
+msgid "Iklil's order"
+msgstr "Σειρά Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Αύξηση μεγέθους πληκτρολογίου"
+
+msgid "Indian numbers"
+msgstr "Ινδικοί αριθμοί"
+
+msgid "Interface language"
+msgstr "Γλώσσα διεπαφής"
+
+msgid "Let character quantity decide"
+msgstr "Αφήστε τον αριθμό χαρακτήρων να αποφασίσει"
+
+msgid "Letter count"
+msgstr "Πλήθος γραμμάτων"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Σου αρέσουν τα έργα μου; Αγοράστε μου έναν καφέ!"
+
+msgid "Low"
+msgstr "Χαμηλό"
+
+msgid "Maghribian abjad"
+msgstr "Μαγρυβιανό αμπζάτ"
+
+msgid "Maghribian hija order"
+msgstr "Σειρά Maghribian hija"
+
+msgid "Minimum"
+msgstr "Ελάχιστο"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Γλώσσα ανάγνωσης αριθμών"
+
+msgid "Numerical values"
+msgstr "Αριθμητικές τιμές"
+
+msgid "Open"
+msgstr "Άνοιγμα"
+
+msgid "Order"
+msgstr "Σειρά"
+
+msgid "Possible phrases"
+msgstr "Πιθανά φράσεις"
+
+msgid "Program settings"
+msgstr "Ρυθμίσεις προγράμματος"
+
+msgid "Pronunciation"
+msgstr "Προφορά"
+
+msgid "Regular expression"
+msgstr "Κανονική έκφραση"
+
+msgid "Regularly preferred classification"
+msgstr "Κανονική προτιμητέα κατηγοριοποίηση"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Separators"
+msgstr "Διαχωριστές"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Shamsee abjad order"
+msgstr "Σειρά Shamsee abjad"
+
+msgid "Show numpad"
+msgstr "Εμφάνιση αριθμητικού πληκτρολογίου"
+
+msgid "Show virtual keyboard"
+msgstr "Εμφάνιση εικονικού πληκτρολογίου"
+
+msgid "Small"
+msgstr "Μικρό"
+
+msgid "Small + letter count"
+msgstr "Μικρό + πλήθος γραμμάτων"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Taken (letter)"
+msgstr "Πάρε (γράμμα)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Πάρε (γράμμα; abjad)"
+
+msgid "Taken Letters"
+msgstr "Πάρτες γράμματα"
+
+msgid "Text or number cell"
+msgstr "Κελί κειμένου ή αριθμού"
+
+msgid "Thank you for your support!"
+msgstr "Ευχαριστώ για την υποστήριξή σας!"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Turkish"
+msgstr "Τουρκικά"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Τουρκικό Αλφάβητο Αμπζάτ"
+
+msgid "Turkish alphabet elements"
+msgstr "Στοιχεία Τουρκικού αλφαβήτου"
+
+msgid "Turkish letters"
+msgstr "Τουρκικά γράμματα"
+
+msgid "Undefined characters"
+msgstr "Μη ορισμένοι χαρακτήρες"
+
+msgid "Value"
+msgstr "Τιμή"
+
+msgid "Value & Detail"
+msgstr "Τιμή & Λεπτομέρεια"
+
+msgid "Version"
+msgstr "Έκδοση"
+
+msgid "Water"
+msgstr "Νερό"
+
+msgid "When data is entered"
+msgstr "Όταν εισάγονται δεδομένα"
+
+msgid "When reading large digits"
+msgstr "Όταν διαβάζονται μεγάλοι αριθμοί"
+
+msgid "[apostrophe]"
+msgstr "[στίξη]"
+
+msgid "[arabic comma]"
+msgstr "[αραβική κόμμα]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[αραβικό κλειστό παρενθέσεις]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[αραβικό ανοιχτό παρενθέσεις]"
+
+msgid "[arabic semicolon]"
+msgstr "[αραβικό ελληνικό ερωτηματικό]"
+
+msgid "[close parenthesis]"
+msgstr "[κλειστό παρενθέσεις]"
+
+msgid "[comma]"
+msgstr "[κόμμα]"
+
+msgid "[dot]"
+msgstr "[τελεία]"
+
+msgid "[end of ayah]"
+msgstr "[τέλος αια]"
+
+msgid "[new-line]"
+msgstr "[νέας γραμμή]"
+
+msgid "[open parenthesis]"
+msgstr "[ανοιχτό παρενθέσεις]"
+
+msgid "[parenthesis]"
+msgstr "[παρενθέσεις]"
+
+msgid "[quote]"
+msgstr "[citation]"
+
+msgid "[semicolon]"
+msgstr "[ερωτηματικό]"
+
+msgid "[space]"
+msgstr "[διάστημα]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Υπολογισμένο αμπζάτ και προστέθηκε πλήθος γραμμάτων"
+
+msgid "abjad() functions settings"
+msgstr "Ρυθμίσεις συναρτήσεων abjad()"
+
+msgid "add to initial value"
+msgstr "προσθήκη στην αρχική τιμή"
+
+msgid "and"
+msgstr "και"
+
+msgid "auto calculate immediately"
+msgstr "αυτόματη άμεση υπολογισμός"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Ρυθμίσεις συναρτήσεων bastet() και nutket()"
+
+msgid "count once"
+msgstr "μετρήστε μία φορά"
+
+msgid "count twice"
+msgstr "μετρήστε δύο φορές"
+
+msgid "display with Arabic numbers"
+msgstr "εμφάνιση με αραβικούς αριθμούς"
+
+msgid "display with Indian numbers"
+msgstr "εμφάνιση με ινδικούς αριθμούς"
+
+msgid "do not add to initial value"
+msgstr "μην προσθέτετε στην αρχική τιμή"
+
+msgid "do not force to other functions"
+msgstr "μην εξαναγκάζετε σε άλλες συναρτήσεις"
+
+msgid "do not purify"
+msgstr "μην καθαρίζετε"
+
+msgid "force to other functions"
+msgstr "εξαναγκάστε σε άλλες συναρτήσεις"
+
+msgid "group multiplier letters"
+msgstr "ομάδα πολλαπλασιαστών γραμμάτων"
+
+msgid "hide"
+msgstr "κρύψτε"
+
+msgid "hide abjad values"
+msgstr "κρύψτε τις τιμές αμπζάτ"
+
+msgid "hide bast results"
+msgstr "κρύψτε τα αποτελέσματα bast"
+
+msgid "hide huddam names"
+msgstr "κρύψτε τα ονόματα huddam"
+
+msgid "huddam() function settings"
+msgstr "Ρυθμίσεις συνάρτησης huddam()"
+
+msgid "no bast applied."
+msgstr "καμιά bast εφαρμόστηκε."
+
+msgid "no data entered"
+msgstr "καμιά δεδομένα εισήχθησαν"
+
+msgid "other suffix"
+msgstr "άλλη κατάληξη"
+
+msgid "purify data"
+msgstr "καθαρίστε δεδομένα"
+
+msgid "repeat multiplier for each digit"
+msgstr "επανάληψη πολλαπλασιαστών για κάθε ψηφίο"
+
+msgid "show"
+msgstr "εμφάνιση"
+
+msgid "show abjad values"
+msgstr "εμφάνιση τιμών αμπζάτ"
+
+msgid "show bast results"
+msgstr "εμφάνιση αποτελεσμάτων bast"
+
+msgid "show huddam names"
+msgstr "εμφάνιση ονομάτων huddam"
+
+msgid "suffix"
+msgstr "κατάληξη"
+
+msgid "times bast applied."
+msgstr "φορές bast εφαρμόστηκαν."
+
+msgid "use calculated abjad results"
+msgstr "χρησιμοποιήστε υπολογισμένα αποτελέσματα αμπζάτ"
+
+msgid "use calculated abjad total"
+msgstr "χρησιμοποιήστε συνολικό υπολογισμένο αμπζάτ"
+
+msgid "use calculated bast results"
+msgstr "χρησιμοποιήστε υπολογισμένα αποτελέσματα bast"
+
+msgid "use entered data directly"
+msgstr "χρησιμοποιήστε εισαχθέντα δεδομένα απευθείας"
+
+msgid "use entered data total"
+msgstr "χρησιμοποιήστε συνολικό εισαχθέντα δεδομένα"
+
+msgid "use in all bast repetitions"
+msgstr "χρήση σε όλες τις επαναλήψεις bast"
+
+msgid "use only at beginning if possible"
+msgstr "χρησιμοποιήστε μόνο στην αρχή αν είναι δυνατόν"
+
+msgid "wait for settings and data entry"
+msgstr "περιμένετε για ρυθμίσεις και εισαγωγή δεδομένων"
