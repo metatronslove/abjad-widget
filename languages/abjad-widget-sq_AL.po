@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Albanian <sq_AL>\n"
+"Language: sq-AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Parametrat e Abjad"
+
+msgid "Abjad Value"
+msgstr "Vlera Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Rezultatet e llogaritjes së Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Llogaritjet e Abjad janë fshehur"
+
+msgid "Abjad not calculated"
+msgstr "Abjad nuk është llogaritur"
+
+msgid "Abjad order"
+msgstr "Renditja e Abjad"
+
+msgid "Add elements"
+msgstr "Shto elemente"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Ajri"
+
+msgid "All"
+msgstr "Të gjitha"
+
+msgid "Arabic"
+msgstr "Arabi"
+
+msgid "Arabic letters"
+msgstr "Shkronjat arabi"
+
+msgid "Arabic numbers"
+msgstr "Numrat arabi"
+
+msgid "As data for operation"
+msgstr "Si të dhëna për operim"
+
+msgid "Bast loop results"
+msgstr "Rezultatet e rrotullimit Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast nuk është llogaritur"
+
+msgid "Bast repetition count"
+msgstr "Numri i përsëritjeve të Bast"
+
+msgid "Bast results hidden"
+msgstr "Rezultatet e Bast janë fshehur"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Renditja e Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda e Bastet"
+
+msgid "Bastet table"
+msgstr "Tabela e Bastet"
+
+msgid "Big"
+msgstr "Madh"
+
+msgid "Bigger"
+msgstr "Më i madh"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Bli një kafe për mua"
+
+msgid "Calculate"
+msgstr "Llogarit"
+
+msgid "Calculate Abjad"
+msgstr "Llogarit Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Llogarit Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Llogarit Huddam"
+
+msgid "Calculation details"
+msgstr "Detajet e llogaritjes"
+
+msgid "Choose Keyboard Layout"
+msgstr "Zgjidh Layout-in e Tastierës"
+
+msgid "Clear text box"
+msgstr "Pastro kaxën e tekstit"
+
+msgid "Click row for details"
+msgstr "Kliko rreshtin për detaje"
+
+msgid "Close Keyboard"
+msgstr "Mbyll tastierën"
+
+msgid "Closed"
+msgstr "Mbyllur"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Presja është ndarësja e parazgjedhur dhe duhet të mbetet e zgjedhur!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separuesit e shënjestrimit të të dhënave:"
+
+msgid "Data type profile"
+msgstr "Profili i tipit të të dhënave"
+
+msgid "Dead keys"
+msgstr "Taste të vdekur"
+
+msgid "Decrease keyboard size"
+msgstr "Zvogëlo madhësinë e tastierës"
+
+msgid "Don't calculate"
+msgstr "Mos llogaris"
+
+msgid "Duty entity name results"
+msgstr "Rezultatet e emrit të entitetit të detyrës"
+
+msgid "Duty entity type"
+msgstr "Tipi i entitetit të detyrës"
+
+msgid "Earth"
+msgstr "Toka"
+
+msgid "Element classification"
+msgstr "Klasifikimi i elementit"
+
+msgid "Element classification method"
+msgstr "Metoda e klasifikimit të elementit"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Shkruaj tekst... shkronja arabi, hebraike, turke, numra"
+
+msgid "Entered data"
+msgstr "Të dhënat e futur"
+
+msgid "Entry"
+msgstr "Shënim"
+
+msgid "Entry letter count"
+msgstr "Numri i shkronjave të shënimit"
+
+msgid "Evil"
+msgstr "Eke"
+
+msgid "Fire"
+msgstr "Ish"
+
+msgid "For entered data"
+msgstr "Për të dhënat e futur"
+
+msgid "Frequency in Quran"
+msgstr "Frequenca në Kuran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebraik"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elementët e alfabetit hebraik"
+
+msgid "Hebrew letters"
+msgstr "Shkronjat hebraike"
+
+msgid "High"
+msgstr "i lartë"
+
+msgid "Hija order"
+msgstr "Renditja e Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Emrat e Huddam janë fshehur"
+
+msgid "Huddam not calculated"
+msgstr "Huddam nuk është llogaritur"
+
+msgid "Iklil's order"
+msgstr "Renditja e Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Rrit madhësinë e tastierës"
+
+msgid "Indian numbers"
+msgstr "Numrat indiane"
+
+msgid "Interface language"
+msgstr "Gjuha e ndërfaqes"
+
+msgid "Let character quantity decide"
+msgstr "Lejo që sasia e karaktereve të vendosë"
+
+msgid "Letter count"
+msgstr "Numri i shkronjave"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Pëlqen projektet e mia? Bli një kafe për mua!"
+
+msgid "Low"
+msgstr "i ulët"
+
+msgid "Maghribian abjad"
+msgstr "Abjad maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Renditja e hija maghribian"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Gjuha e leximit të numrave"
+
+msgid "Numerical values"
+msgstr "Vlera numerike"
+
+msgid "Open"
+msgstr "Hap"
+
+msgid "Order"
+msgstr "Renditje"
+
+msgid "Possible phrases"
+msgstr "Fraza të mundshme"
+
+msgid "Program settings"
+msgstr "Parametrat e programit"
+
+msgid "Pronunciation"
+msgstr "Prononimi"
+
+msgid "Regular expression"
+msgstr "Shprehje të rregullta"
+
+msgid "Regularly preferred classification"
+msgstr "Klasifikimi i preferuar rregullisht"
+
+msgid "Reset"
+msgstr "Rivendos"
+
+msgid "Separators"
+msgstr "Separues"
+
+msgid "Settings"
+msgstr "Parametrat"
+
+msgid "Shamsee abjad order"
+msgstr "Renditja e abjadit Shamsee"
+
+msgid "Show numpad"
+msgstr "Shfaq numrat"
+
+msgid "Show virtual keyboard"
+msgstr "Shfaq tastierën virtuale"
+
+msgid "Small"
+msgstr "Të vogël"
+
+msgid "Small + letter count"
+msgstr "Të vogël + numri i shkronjave"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Mbështetje"
+
+msgid "Taken (letter)"
+msgstr "U marrë (shkronja)"
+
+msgid "Taken (letter; abjad)"
+msgstr "U marrë (shkronja; abjad)"
+
+msgid "Taken Letters"
+msgstr "Shkronjat e marrë"
+
+msgid "Text or number cell"
+msgstr "Qelia e tekstit ose numrit"
+
+msgid "Thank you for your support!"
+msgstr "Faleminderit për mbështetjen tuaj!"
+
+msgid "Total"
+msgstr "Totali"
+
+msgid "Turkish"
+msgstr "Turqisht"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad i alfabetit turk"
+
+msgid "Turkish alphabet elements"
+msgstr "Elementët e alfabetit turk"
+
+msgid "Turkish letters"
+msgstr "Shkronjat turke"
+
+msgid "Undefined characters"
+msgstr "Karakterë të papërcaktuara"
+
+msgid "Value"
+msgstr "Vlerë"
+
+msgid "Value & Detail"
+msgstr "Vlerë & Detaj"
+
+msgid "Version"
+msgstr "Versioni"
+
+msgid "Water"
+msgstr "U"
+
+msgid "When data is entered"
+msgstr "Kur të dhënat e futen"
+
+msgid "When reading large digits"
+msgstr "Kur lexon digje të mëdha"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad llogaritur dhe numri i shkronjave shtuar"
+
+msgid "abjad() functions settings"
+msgstr "parametrat e funksioneve abjad()"
+
+msgid "add to initial value"
+msgstr "shto në vlerën fillestare"
+
+msgid "and"
+msgstr "dhe"
+
+msgid "auto calculate immediately"
+msgstr "llogarit automatikisht menjëherë"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "parametrat e funksioneve bastet() dhe nutket()"
+
+msgid "count once"
+msgstr "numëroni një herë"
+
+msgid "count twice"
+msgstr "numëroni dy herë"
+
+msgid "display with Arabic numbers"
+msgstr "trego me numra arabi"
+
+msgid "display with Indian numbers"
+msgstr "trego me numra indiane"
+
+msgid "do not add to initial value"
+msgstr "mos shtoni në vlerën fillestare"
+
+msgid "do not force to other functions"
+msgstr "mos forconi tek funksionet e tjera"
+
+msgid "do not purify"
+msgstr "mos pastro"
+
+msgid "force to other functions"
+msgstr "forconi tek funksionet e tjera"
+
+msgid "group multiplier letters"
+msgstr "shkronjat e shumëzuesit të grupit"
+
+msgid "hide"
+msgstr "fshij"
+
+msgid "hide abjad values"
+msgstr "fshij vlerat e abjad"
+
+msgid "hide bast results"
+msgstr "fshij rezultatet e bast"
+
+msgid "hide huddam names"
+msgstr "fshij emrat e huddam"
+
+msgid "huddam() function settings"
+msgstr "parametrat e funksionit huddam()"
+
+msgid "no bast applied."
+msgstr "asnjë bast i aplikuar."
+
+msgid "no data entered"
+msgstr "asnjë të dhënë e futur"
+
+msgid "other suffix"
+msgstr "pjesë tjetër të shkurtimit"
+
+msgid "purify data"
+msgstr "pastro të dhënat"
+
+msgid "repeat multiplier for each digit"
+msgstr "përsërit shumëzuesin për çdo cifre"
+
+msgid "show"
+msgstr "trego"
+
+msgid "show abjad values"
+msgstr "trego vlerat e abjad"
+
+msgid "show bast results"
+msgstr "trego rezultatet e bast"
+
+msgid "show huddam names"
+msgstr "trego emrat e huddam"
+
+msgid "suffix"
+msgstr "pjesë e shkurtimit"
+
+msgid "times bast applied."
+msgstr "herë bast i aplikuar."
+
+msgid "use calculated abjad results"
+msgstr "përdorni rezultatet e llogaritur të abjad"
+
+msgid "use calculated abjad total"
+msgstr "përdorni totalin e llogaritur të abjad"
+
+msgid "use calculated bast results"
+msgstr "përdorni rezultatet e llogaritur të bast"
+
+msgid "use entered data directly"
+msgstr "përdorni të dhënat e futur drejtpërdrejt"
+
+msgid "use entered data total"
+msgstr "përdorni totalin e të dhënave të futur"
+
+msgid "use in all bast repetitions"
+msgstr "përdorni në të gjitha përsëritjet e bast"
+
+msgid "use only at beginning if possible"
+msgstr "përdorni vetëm në fillim nëse është e mundur"
+
+msgid "wait for settings and data entry"
+msgstr "kushkoni për parametrat dhe shënimin e të dhënave"

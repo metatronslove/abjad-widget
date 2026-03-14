@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Swedish (Finland) <sv_FI>\n"
+"Language: sv-FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad-inställningar"
+
+msgid "Abjad Value"
+msgstr "Abjad-värde"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Abjad-beregningsresultat"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad-berekningsresultat dolda"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ej beräknad"
+
+msgid "Abjad order"
+msgstr "Abjadordning"
+
+msgid "Add elements"
+msgstr "Lägg till element"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Luft"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "Arabic"
+msgstr "Arabiska"
+
+msgid "Arabic letters"
+msgstr "Arabiska bokstäver"
+
+msgid "Arabic numbers"
+msgstr "Arabiska siffror"
+
+msgid "As data for operation"
+msgstr "Som data för operation"
+
+msgid "Bast loop results"
+msgstr "Bast-loopresultat"
+
+msgid "Bast not calculated"
+msgstr "Bast ej beräknad"
+
+msgid "Bast repetition count"
+msgstr "Bast-repetitionsantal"
+
+msgid "Bast results hidden"
+msgstr "Bastresultat dolda"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastetordning"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet-tabell"
+
+msgid "Big"
+msgstr "Stor"
+
+msgid "Bigger"
+msgstr "Större"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Köp mig en kaffe"
+
+msgid "Calculate"
+msgstr "Beräkna"
+
+msgid "Calculate Abjad"
+msgstr "Beräkna Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Beräkna Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Beräkna Huddam"
+
+msgid "Calculation details"
+msgstr "Beräkningsdetaljer"
+
+msgid "Choose Keyboard Layout"
+msgstr "Välj tangentbordslayout"
+
+msgid "Clear text box"
+msgstr "Töm textrutan"
+
+msgid "Click row for details"
+msgstr "Klicka på rad för detaljer"
+
+msgid "Close Keyboard"
+msgstr "Stäng tangentbord"
+
+msgid "Closed"
+msgstr "Stängd"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Kommatecknet är standardavgränsare och måste förbli markerat!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Data-inmatningsavgränsare:"
+
+msgid "Data type profile"
+msgstr "Datatypprofil"
+
+msgid "Dead keys"
+msgstr "Döda tangenter"
+
+msgid "Decrease keyboard size"
+msgstr "Minska tangentbordsstorlek"
+
+msgid "Don't calculate"
+msgstr "Beräkna inte"
+
+msgid "Duty entity name results"
+msgstr "Resultat för pliktentitetsnamn"
+
+msgid "Duty entity type"
+msgstr "Pliktentitetstyp"
+
+msgid "Earth"
+msgstr "Jord"
+
+msgid "Element classification"
+msgstr "Elementklassificering"
+
+msgid "Element classification method"
+msgstr "Elementklassificeringsmetod"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Ange text... arabiska, hebreiska, turkiska bokstäver, siffror"
+
+msgid "Entered data"
+msgstr "Inmatade data"
+
+msgid "Entry"
+msgstr "Inmatning"
+
+msgid "Entry letter count"
+msgstr "Inmatningsbokstavsantal"
+
+msgid "Evil"
+msgstr "Ond"
+
+msgid "Fire"
+msgstr "Eld"
+
+msgid "For entered data"
+msgstr "För inmatade data"
+
+msgid "Frequency in Quran"
+msgstr "Frekvens i Koran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebreiska"
+
+msgid "Hebrew alphabet elements"
+msgstr "Hebreiska alfabetselement"
+
+msgid "Hebrew letters"
+msgstr "Hebreiska bokstäver"
+
+msgid "High"
+msgstr "Hög"
+
+msgid "Hija order"
+msgstr "Hijaordning"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddamnamn dolda"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ej beräknad"
+
+msgid "Iklil's order"
+msgstr "Iklils order"
+
+msgid "Increase keyboard size"
+msgstr "Öka tangentbordsstorlek"
+
+msgid "Indian numbers"
+msgstr "Indiska siffror"
+
+msgid "Interface language"
+msgstr "Gränssnittsspråk"
+
+msgid "Let character quantity decide"
+msgstr "Låt teckenkvantitet bestämma"
+
+msgid "Letter count"
+msgstr "Bokstavsantal"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Gillar du mina projekt? Köp mig en kaffe!"
+
+msgid "Low"
+msgstr "Låg"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hijaordning"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Tal-läsningsspråk"
+
+msgid "Numerical values"
+msgstr "Numeriska värden"
+
+msgid "Open"
+msgstr "Öppna"
+
+msgid "Order"
+msgstr "Ordning"
+
+msgid "Possible phrases"
+msgstr "Möjliga fraser"
+
+msgid "Program settings"
+msgstr "Programinställningar"
+
+msgid "Pronunciation"
+msgstr "Uttal"
+
+msgid "Regular expression"
+msgstr "Reguljärt uttryck"
+
+msgid "Regularly preferred classification"
+msgstr "Vanligt föredragen klassificering"
+
+msgid "Reset"
+msgstr "Återställ"
+
+msgid "Separators"
+msgstr "Avgränsare"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjadordning"
+
+msgid "Show numpad"
+msgstr "Visa numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Visa virtuellt tangentbord"
+
+msgid "Small"
+msgstr "Liten"
+
+msgid "Small + letter count"
+msgstr "Liten + bokstavsantal"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Stöd"
+
+msgid "Taken (letter)"
+msgstr "Tagen (bokstav)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Tagen (bokstav; abjad)"
+
+msgid "Taken Letters"
+msgstr "Tagna bokstäver"
+
+msgid "Text or number cell"
+msgstr "Text- eller talcell"
+
+msgid "Thank you for your support!"
+msgstr "Tack för ditt stöd!"
+
+msgid "Total"
+msgstr "Totalt"
+
+msgid "Turkish"
+msgstr "Turkiska"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkiska alfabetet Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turkiska alfabetselement"
+
+msgid "Turkish letters"
+msgstr "Turkiska bokstäver"
+
+msgid "Undefined characters"
+msgstr "Odefinierade tecken"
+
+msgid "Value"
+msgstr "Värde"
+
+msgid "Value & Detail"
+msgstr "Värde & Detalj"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Vatten"
+
+msgid "When data is entered"
+msgstr "När data matas in"
+
+msgid "When reading large digits"
+msgstr "Vid läsning av stora siffror"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad beräknad och bokstavsantal tillagt"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funktionsinställningar"
+
+msgid "add to initial value"
+msgstr "lägg till initialt värde"
+
+msgid "and"
+msgstr "och"
+
+msgid "auto calculate immediately"
+msgstr "beräkna automatiskt omedelbart"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() och nutket() funktionsinställningar"
+
+msgid "count once"
+msgstr "räkna en gång"
+
+msgid "count twice"
+msgstr "räkna två gånger"
+
+msgid "display with Arabic numbers"
+msgstr "visa med arabiska siffror"
+
+msgid "display with Indian numbers"
+msgstr "visa med indiska siffror"
+
+msgid "do not add to initial value"
+msgstr "lägg inte till initialt värde"
+
+msgid "do not force to other functions"
+msgstr "tvinga inte till andra funktioner"
+
+msgid "do not purify"
+msgstr "rensera inte"
+
+msgid "force to other functions"
+msgstr "tvinga till andra funktioner"
+
+msgid "group multiplier letters"
+msgstr "gruppmultiplikatorbokstäver"
+
+msgid "hide"
+msgstr "göm"
+
+msgid "hide abjad values"
+msgstr "göm abjad-värden"
+
+msgid "hide bast results"
+msgstr "göm bastresultat"
+
+msgid "hide huddam names"
+msgstr "göm huddamnamn"
+
+msgid "huddam() function settings"
+msgstr "huddam() funktionsinställningar"
+
+msgid "no bast applied."
+msgstr "ingen bast tillämpad."
+
+msgid "no data entered"
+msgstr "inga data inmatade"
+
+msgid "other suffix"
+msgstr "annat suffix"
+
+msgid "purify data"
+msgstr "rensera data"
+
+msgid "repeat multiplier for each digit"
+msgstr "upprepa multiplikator för varje siffra"
+
+msgid "show"
+msgstr "visa"
+
+msgid "show abjad values"
+msgstr "visa abjad-värden"
+
+msgid "show bast results"
+msgstr "visa bastresultat"
+
+msgid "show huddam names"
+msgstr "visa huddamnamn"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "gånger bast tillämpad."
+
+msgid "use calculated abjad results"
+msgstr "använd beräknade abjad-resultat"
+
+msgid "use calculated abjad total"
+msgstr "använd beräknat abjad totalt"
+
+msgid "use calculated bast results"
+msgstr "använd beräknade bast-resultat"
+
+msgid "use entered data directly"
+msgstr "använd inmatade data direkt"
+
+msgid "use entered data total"
+msgstr "använd inmatade data totalt"
+
+msgid "use in all bast repetitions"
+msgstr "använd i alla bast-repetitioner"
+
+msgid "use only at beginning if possible"
+msgstr "använd endast i början om möjligt"
+
+msgid "wait for settings and data entry"
+msgstr "vänta på inställningar och datainmatning"

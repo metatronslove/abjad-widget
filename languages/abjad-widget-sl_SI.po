@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Slovenian <sl_SI>\n"
+"Language: sl-SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Nastavitve Abjad"
+
+msgid "Abjad Value"
+msgstr "Vrednost Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Rezultati izračuna Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Skriti izračuni Abjad"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ni izračunan"
+
+msgid "Abjad order"
+msgstr "Red Abjad"
+
+msgid "Add elements"
+msgstr "Dodaj elemente"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Vazduh"
+
+msgid "All"
+msgstr "Vse"
+
+msgid "Arabic"
+msgstr "Arabski"
+
+msgid "Arabic letters"
+msgstr "Arabske črke"
+
+msgid "Arabic numbers"
+msgstr "Arabska števila"
+
+msgid "As data for operation"
+msgstr "Kot podatki za operacijo"
+
+msgid "Bast loop results"
+msgstr "Rezultati zanke Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast ni izračunan"
+
+msgid "Bast repetition count"
+msgstr "Število ponovitev Bast"
+
+msgid "Bast results hidden"
+msgstr "Skriti rezultati Bast"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Red Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Tabela Bastet"
+
+msgid "Big"
+msgstr "Velik"
+
+msgid "Bigger"
+msgstr "Bolj velik"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Kupite mi kavo"
+
+msgid "Calculate"
+msgstr "Izračunaj"
+
+msgid "Calculate Abjad"
+msgstr "Izračunaj Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Izračunaj Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Izračunaj Huddam"
+
+msgid "Calculation details"
+msgstr "Podrobnosti izračuna"
+
+msgid "Choose Keyboard Layout"
+msgstr "Izberite razpored tipkovnice"
+
+msgid "Clear text box"
+msgstr "Počistite besedilno polje"
+
+msgid "Click row for details"
+msgstr "Kliknite vrstico za podrobnosti"
+
+msgid "Close Keyboard"
+msgstr "Zaprite tipkovnico"
+
+msgid "Closed"
+msgstr "Zaprt"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Zarez je privzeti ločilec in mora ostati potrjen!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Ločilniki vnosa podatkov:"
+
+msgid "Data type profile"
+msgstr "Profil vrste podatkov"
+
+msgid "Dead keys"
+msgstr "Mrtve tipke"
+
+msgid "Decrease keyboard size"
+msgstr "Zmanjšajte velikost tipkovnice"
+
+msgid "Don't calculate"
+msgstr "Ne izračunavajte"
+
+msgid "Duty entity name results"
+msgstr "Rezultati imena obvezne entitete"
+
+msgid "Duty entity type"
+msgstr "Tip obvezne entitete"
+
+msgid "Earth"
+msgstr "Zemlja"
+
+msgid "Element classification"
+msgstr "Klasifikacija elementa"
+
+msgid "Element classification method"
+msgstr "Metoda klasifikacije elementa"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Vnesite besedilo... Arabske, hebrejske, turoške črke, številke"
+
+msgid "Entered data"
+msgstr "Vnesti podatki"
+
+msgid "Entry"
+msgstr "Vnos"
+
+msgid "Entry letter count"
+msgstr "Število črk v vnosa"
+
+msgid "Evil"
+msgstr "Zlo"
+
+msgid "Fire"
+msgstr "Ogrev"
+
+msgid "For entered data"
+msgstr "Za vnešen podatki"
+
+msgid "Frequency in Quran"
+msgstr "Pogostnost v Kur'anu"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrejščina"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elementi hebrejske abecede"
+
+msgid "Hebrew letters"
+msgstr "Hebrejske črke"
+
+msgid "High"
+msgstr "Visok"
+
+msgid "Hija order"
+msgstr "Red Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Skriti imena Huddam"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ni izračunan"
+
+msgid "Iklil's order"
+msgstr "Red Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Povečajte velikost tipkovnice"
+
+msgid "Indian numbers"
+msgstr "Indijska števila"
+
+msgid "Interface language"
+msgstr "Jezik vmesnika"
+
+msgid "Let character quantity decide"
+msgstr "Naj količina znakov odloči"
+
+msgid "Letter count"
+msgstr "Število črk"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Vam se zdijo moji projekti? Kupite mi kavo!"
+
+msgid "Low"
+msgstr "Nizko"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghrib"
+
+msgid "Maghribian hija order"
+msgstr "Red Maghribian hija"
+
+msgid "Minimum"
+msgstr "Najmanjše"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Jezik branja števil"
+
+msgid "Numerical values"
+msgstr "Številne vrednosti"
+
+msgid "Open"
+msgstr "Odpri"
+
+msgid "Order"
+msgstr "Red"
+
+msgid "Possible phrases"
+msgstr "Možni stavki"
+
+msgid "Program settings"
+msgstr "Nastavitve programa"
+
+msgid "Pronunciation"
+msgstr "Izgovorjava"
+
+msgid "Regular expression"
+msgstr "Regularni izraz"
+
+msgid "Regularly preferred classification"
+msgstr "Običajno prednostna klasifikacija"
+
+msgid "Reset"
+msgstr "Ponastavi"
+
+msgid "Separators"
+msgstr "Ločilniki"
+
+msgid "Settings"
+msgstr "Nastavitve"
+
+msgid "Shamsee abjad order"
+msgstr "Red Shamsee abjad"
+
+msgid "Show numpad"
+msgstr "Pokaži numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Pokaži virtualno tipkovnico"
+
+msgid "Small"
+msgstr "Majhen"
+
+msgid "Small + letter count"
+msgstr "Majhen + število črk"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Taken (letter)"
+msgstr "Zanesen (črka)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Zanesen (črka; abjad)"
+
+msgid "Taken Letters"
+msgstr "Zanesene črke"
+
+msgid "Text or number cell"
+msgstr "Polje besedila ali številke"
+
+msgid "Thank you for your support!"
+msgstr "Hvala za vašo podporo!"
+
+msgid "Total"
+msgstr "Skupaj"
+
+msgid "Turkish"
+msgstr "Turščina"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turški abjad abecede"
+
+msgid "Turkish alphabet elements"
+msgstr "Elementi turške abecede"
+
+msgid "Turkish letters"
+msgstr "Turške črke"
+
+msgid "Undefined characters"
+msgstr "Neopredeljeni znaki"
+
+msgid "Value"
+msgstr "Vrednost"
+
+msgid "Value & Detail"
+msgstr "Vrednost & Podrobnost"
+
+msgid "Version"
+msgstr "Različica"
+
+msgid "Water"
+msgstr "Voda"
+
+msgid "When data is entered"
+msgstr "Ko se vnesejo podatki"
+
+msgid "When reading large digits"
+msgstr "Pri branju velikih števil"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad izračunan in število črk dodano"
+
+msgid "abjad() functions settings"
+msgstr "Nastavitve funkcij abjad()"
+
+msgid "add to initial value"
+msgstr "dodaj k začetni vrednosti"
+
+msgid "and"
+msgstr "in"
+
+msgid "auto calculate immediately"
+msgstr "samodejno izračunaj takoj"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Nastavitve funkcij bastet() in nutket()"
+
+msgid "count once"
+msgstr "štej enkrat"
+
+msgid "count twice"
+msgstr "štej dvakrat"
+
+msgid "display with Arabic numbers"
+msgstr "prikaži z arabskimi številkami"
+
+msgid "display with Indian numbers"
+msgstr "prikaži z indijskimi številkami"
+
+msgid "do not add to initial value"
+msgstr "ne dodaj k začetni vrednosti"
+
+msgid "do not force to other functions"
+msgstr "ne prisili v druge funkcije"
+
+msgid "do not purify"
+msgstr "ne čisti"
+
+msgid "force to other functions"
+msgstr "prisili v druge funkcije"
+
+msgid "group multiplier letters"
+msgstr "skupinska množilna črka"
+
+msgid "hide"
+msgstr "skrij"
+
+msgid "hide abjad values"
+msgstr "skrij vrednosti abjad"
+
+msgid "hide bast results"
+msgstr "skrij rezultate bast"
+
+msgid "hide huddam names"
+msgstr "skrij imena huddam"
+
+msgid "huddam() function settings"
+msgstr "Nastavitve funkcije huddam()"
+
+msgid "no bast applied."
+msgstr "bast ni uporabljen."
+
+msgid "no data entered"
+msgstr "ni vnešenih podatkov"
+
+msgid "other suffix"
+msgstr "druga pripona"
+
+msgid "purify data"
+msgstr "očistite podatke"
+
+msgid "repeat multiplier for each digit"
+msgstr "ponovite večnik za vsako številko"
+
+msgid "show"
+msgstr "pokaži"
+
+msgid "show abjad values"
+msgstr "pokaži vrednosti abjad"
+
+msgid "show bast results"
+msgstr "pokaži rezultate bast"
+
+msgid "show huddam names"
+msgstr "pokaži imena huddam"
+
+msgid "suffix"
+msgstr "pripona"
+
+msgid "times bast applied."
+msgstr "krat bast uporabljen."
+
+msgid "use calculated abjad results"
+msgstr "uporabite izračunane vrednosti abjad"
+
+msgid "use calculated abjad total"
+msgstr "uporabite izračunani skupni abjad"
+
+msgid "use calculated bast results"
+msgstr "uporabite izračunane rezultate bast"
+
+msgid "use entered data directly"
+msgstr "uporabite vnešene podatke neposredno"
+
+msgid "use entered data total"
+msgstr "uporabite skupno vnešene podatke"
+
+msgid "use in all bast repetitions"
+msgstr "uporabite v vseh ponovitvah bast"
+
+msgid "use only at beginning if possible"
+msgstr "uporabite le na začetku, če je mogoče"
+
+msgid "wait for settings and data entry"
+msgstr "počakajte na nastavitve in vnos podatkov"

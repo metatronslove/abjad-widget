@@ -1,0 +1,532 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Swahili (Kenya) <sw_KE>\n"
+"Language: sw-KE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Mipangilio ya Abjad"
+
+msgid "Abjad Value"
+msgstr "Thamani ya Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Matokeo ya hesabu ya Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Matokeo ya hesabu ya Abjad yamefichwa"
+
+msgid "Abjad not calculated"
+msgstr "Abjad haijahesabwa"
+
+msgid "Abjad order"
+msgstr "Mpangilio wa Abjad"
+
+msgid "Add elements"
+msgstr "Ongeza vipengele"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Rehe"
+
+msgid "All"
+msgstr "Yote"
+
+msgid "Arabic"
+msgstr "Kiarabu"
+
+msgid "Arabic letters"
+msgstr "Herufi za Kiarabu"
+
+msgid "Arabic numbers"
+msgstr "Nambari za Kiarabu"
+
+msgid "As data for operation"
+msgstr "Kama data kwa uendeshaji"
+
+msgid "Bast"
+msgstr "bast"
+
+msgid "Bast loop results"
+msgstr "Matokeo ya mzunguko wa Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast haijahesabwa"
+
+msgid "Bast repetition count"
+msgstr "Idadi ya kurudia ya Bast"
+
+msgid "Bast results hidden"
+msgstr "Matokeo ya Bast yamefichwa"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Mpangilio wa Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda ya Bastet"
+
+msgid "Bastet table"
+msgstr "Jedwali la Bastet"
+
+msgid "Big"
+msgstr "Kubwa"
+
+msgid "Bigger"
+msgstr "Kubwa zaidi"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Nunua kahawa"
+
+msgid "Calculate"
+msgstr "Hesabu"
+
+msgid "Calculate Abjad"
+msgstr "Hesabu Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Hesabu Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Hesabu Huddam"
+
+msgid "Calculation details"
+msgstr "Maelezo ya Hesabu"
+
+msgid "Choose Keyboard Layout"
+msgstr "Chagua Mpangilio wa Ki-Keyboard"
+
+msgid "Clear text box"
+msgstr "Futa sanduku la maandishi"
+
+msgid "Click row for details"
+msgstr "Bofya mstari kwa maelezo"
+
+msgid "Close Keyboard"
+msgstr "Funga ki-Keyboard"
+
+msgid "Closed"
+msgstr "Imefungwa"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma ni tofauti ya msingi na lazima ibaki imechaguliwa!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separators za ingizo la data:"
+
+msgid "Data type profile"
+msgstr "Profi ya aina ya data"
+
+msgid "Dead keys"
+msgstr "Mishone bila nguvu"
+
+msgid "Decrease keyboard size"
+msgstr "Punguza ukubwa wa ki-Keyboard"
+
+msgid "Don't calculate"
+msgstr "Usihesabu"
+
+msgid "Duty entity name results"
+msgstr "Matokeo ya jina la taasisi ya wajibu"
+
+msgid "Duty entity type"
+msgstr "Aina ya taasisi ya wajibu"
+
+msgid "Earth"
+msgstr "Earth"
+
+msgid "Element classification"
+msgstr "Uuganishaji wa kipengele"
+
+msgid "Element classification method"
+msgstr "Njia ya uuganishaji wa kipengele"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Weka maandishi... herufi za Kiarabu, Kihebrea, Kituruki, nambari"
+
+msgid "Entered data"
+msgstr "Data iliyoingizwa"
+
+msgid "Entry"
+msgstr "Ingizo"
+
+msgid "Entry letter count"
+msgstr "Idadi ya herufi za ingizo"
+
+msgid "Evil"
+msgstr "Uovu"
+
+msgid "Fire"
+msgstr "Mli"
+
+msgid "For entered data"
+msgstr "Kwa data iliyoungizwa"
+
+msgid "Frequency in Quran"
+msgstr "Manovoto katika Qurani"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Kihebrea"
+
+msgid "Hebrew alphabet elements"
+msgstr "Vipengele vya alfabeti ya Kihebrea"
+
+msgid "Hebrew letters"
+msgstr "Herufi za Kihebrea"
+
+msgid "High"
+msgstr "Juu"
+
+msgid "Hija order"
+msgstr "Hija order"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Majina ya Huddam yaliyoifichwa"
+
+msgid "Huddam not calculated"
+msgstr "Huddam haijahesabwa"
+
+msgid "Iklil's order"
+msgstr "Iklil's order"
+
+msgid "Increase keyboard size"
+msgstr "Ongeza ukubwa wa ki-Keyboard"
+
+msgid "Indian numbers"
+msgstr "Nambari za Kiindi"
+
+msgid "Interface language"
+msgstr "Lugha ya utumishi"
+
+msgid "Let character quantity decide"
+msgstr "Rejea kiasi cha herufi kutambua"
+
+msgid "Letter count"
+msgstr "Idadi ya herufi"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Upenda miradi yangu? Nunua kahawa!"
+
+msgid "Low"
+msgstr "Chini"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Kipimo cha chini"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Lugha ya kusoma nambari"
+
+msgid "Numerical values"
+msgstr "Manovoto ya nambari"
+
+msgid "Open"
+msgstr "Fungua"
+
+msgid "Order"
+msgstr "Mpangilio"
+
+msgid "Possible phrases"
+msgstr "Maneno yanayoweza kutokea"
+
+msgid "Program settings"
+msgstr "Mipangilio ya programu"
+
+msgid "Pronunciation"
+msgstr "Sauti"
+
+msgid "Regular expression"
+msgstr "Madhumuni ya kawaida"
+
+msgid "Regularly preferred classification"
+msgstr "Uuganishaji wa kawaida unapendekezwa"
+
+msgid "Reset"
+msgstr "Weka upya"
+
+msgid "Separators"
+msgstr "Separators"
+
+msgid "Settings"
+msgstr "Mipangilio"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Onyesha numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Onyesha ki-Keyboard cha kibinafsi"
+
+msgid "Small"
+msgstr "Ndogo"
+
+msgid "Small + letter count"
+msgstr "Ndogo + Idadi ya herufi"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Msaada"
+
+msgid "Taken (letter)"
+msgstr "Chukuliwa (herufi)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Chukuliwa (herufi; abjad)"
+
+msgid "Taken Letters"
+msgstr "Herufi zilizochukuliwa"
+
+msgid "Text or number cell"
+msgstr "Selili ya maandishi au nambari"
+
+msgid "Thank you for your support!"
+msgstr "Asante kwa msaada wako!"
+
+msgid "Total"
+msgstr "Jumla"
+
+msgid "Turkish"
+msgstr "Kituruki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad ya alfabeti ya Kituruki"
+
+msgid "Turkish alphabet elements"
+msgstr "Vipengele vya alfabeti ya Kituruki"
+
+msgid "Turkish letters"
+msgstr "Herufi za Kituruki"
+
+msgid "Undefined characters"
+msgstr "Herufi zisizojulikana"
+
+msgid "Value"
+msgstr "Thamani"
+
+msgid "Value & Detail"
+msgstr "Thamani & Maelezo"
+
+msgid "Version"
+msgstr "Toleo"
+
+msgid "Water"
+msgstr "Maji"
+
+msgid "When data is entered"
+msgstr "Wakati data inavyoungizwa"
+
+msgid "When reading large digits"
+msgstr "Wakati kusoma nambari kubwa"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad imehesabwa na idadi ya herufi imeongeza"
+
+msgid "abjad() functions settings"
+msgstr "Mipangilio ya kazi za abjad()"
+
+msgid "add to initial value"
+msgstr "Ongeza kwa thamani ya mwanzo"
+
+msgid "and"
+msgstr "na"
+
+msgid "auto calculate immediately"
+msgstr "Hesabu kiotomatiki mara moja"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Mipangilio ya kazi za bastet() na nutket()"
+
+msgid "count once"
+msgstr "Hesabu mara moja"
+
+msgid "count twice"
+msgstr "Hesabu mara mbili"
+
+msgid "display with Arabic numbers"
+msgstr "Onyesha kwa nambari za Kiarabu"
+
+msgid "display with Indian numbers"
+msgstr "Onyesha kwa nambari za Kiindi"
+
+msgid "do not add to initial value"
+msgstr "Usiongeze kwa thamani ya mwanzo"
+
+msgid "do not force to other functions"
+msgstr "Usitambue kwa kazi nyingine"
+
+msgid "do not purify"
+msgstr "Usitafusishe"
+
+msgid "force to other functions"
+msgstr "Weka kwa kazi nyingine"
+
+msgid "group multiplier letters"
+msgstr "Herufi za muamrizi wa kikomo"
+
+msgid "hide"
+msgstr "Fichia"
+
+msgid "hide abjad values"
+msgstr "Fichia thamani za abjad"
+
+msgid "hide bast results"
+msgstr "Fichia matokeo ya bast"
+
+msgid "hide huddam names"
+msgstr "Fichia majina ya huddam"
+
+msgid "huddam() function settings"
+msgstr "Mipangilio ya kazi ya huddam()"
+
+msgid "no bast applied."
+msgstr "Hakuna bast iliyotumika."
+
+msgid "no data entered"
+msgstr "Hakuna data iliyoungizwa"
+
+msgid "other suffix"
+msgstr "Nyaraka nyingine"
+
+msgid "purify data"
+msgstr "Tafusa data"
+
+msgid "repeat multiplier for each digit"
+msgstr "Onyesha kipengele cha kila nambari"
+
+msgid "show"
+msgstr "Onyesha"
+
+msgid "show abjad values"
+msgstr "Onyesha thamani za abjad"
+
+msgid "show bast results"
+msgstr "Onyesha matokeo ya bast"
+
+msgid "show huddam names"
+msgstr "Onyesha majina ya huddam"
+
+msgid "suffix"
+msgstr "Nyaraka"
+
+msgid "times bast applied."
+msgstr "Mara bast iliyotumika."
+
+msgid "use calculated abjad results"
+msgstr "Tumia matokeo ya abjad iliyohesabwa"
+
+msgid "use calculated abjad total"
+msgstr "Tumia jumla ya abjad iliyohesabwa"
+
+msgid "use calculated bast results"
+msgstr "Tumia matokeo ya bast iliyohesabwa"
+
+msgid "use entered data directly"
+msgstr "Tumia data iliyoingizwa moja kwa moja"
+
+msgid "use entered data total"
+msgstr "Tumia jumla ya data iliyoingizwa"
+
+msgid "use in all bast repetitions"
+msgstr "Tumia katika kila mara ya bast"
+
+msgid "use only at beginning if possible"
+msgstr "Tumia tu mwanzoni ikiwa inawezekana"
+
+msgid "wait for settings and data entry"
+msgstr "Subiri mipangilio na ingizo la data"

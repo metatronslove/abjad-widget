@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Turkish <tr_TR>\n"
+"Language: tr-TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad Ayarları"
+
+msgid "Abjad Value"
+msgstr "Abjad Değeri"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Abjad hesaplama sonuçları"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad hesaplamaları gizli"
+
+msgid "Abjad not calculated"
+msgstr "Abjad hesaplanmadı"
+
+msgid "Abjad order"
+msgstr "Abjad sırası"
+
+msgid "Add elements"
+msgstr "Eleman ekle"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Hava"
+
+msgid "All"
+msgstr "Tüm"
+
+msgid "Arabic"
+msgstr "Arapça"
+
+msgid "Arabic letters"
+msgstr "Arap harfleri"
+
+msgid "Arabic numbers"
+msgstr "Arap rakamları"
+
+msgid "As data for operation"
+msgstr "İşlem için veri olarak"
+
+msgid "Bast loop results"
+msgstr "Bast döngü sonuçları"
+
+msgid "Bast not calculated"
+msgstr "Bast hesaplanmadı"
+
+msgid "Bast repetition count"
+msgstr "Bast tekrarlama sayısı"
+
+msgid "Bast results hidden"
+msgstr "Bast sonuçları gizli"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet sırası"
+
+msgid "Bastet shadda"
+msgstr "Bastet şaddası"
+
+msgid "Bastet table"
+msgstr "Bastet tablosu"
+
+msgid "Big"
+msgstr "Büyük"
+
+msgid "Bigger"
+msgstr "Daha büyük"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Bana bir kahve al"
+
+msgid "Calculate"
+msgstr "Hesapla"
+
+msgid "Calculate Abjad"
+msgstr "Abjad Hesapla"
+
+msgid "Calculate Bastet"
+msgstr "Bastet Hesapla"
+
+msgid "Calculate Huddam"
+msgstr "Huddam Hesapla"
+
+msgid "Calculation details"
+msgstr "Hesaplama detayları"
+
+msgid "Choose Keyboard Layout"
+msgstr "Klavye Düzeni Seç"
+
+msgid "Clear text box"
+msgstr "Metin kutusunu temizle"
+
+msgid "Click row for details"
+msgstr "Detay için satıra tıkla"
+
+msgid "Close Keyboard"
+msgstr "Klavye Kapat"
+
+msgid "Closed"
+msgstr "Kapalı"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Virgül varsayılan ayırıcıdır ve işaretli kalmalıdır!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Veri girişi ayırıcıları:"
+
+msgid "Data type profile"
+msgstr "Veri tipi profili"
+
+msgid "Dead keys"
+msgstr "Ölü tuşlar"
+
+msgid "Decrease keyboard size"
+msgstr "Klavye boyutunu küçült"
+
+msgid "Don't calculate"
+msgstr "Hesaplamayın"
+
+msgid "Duty entity name results"
+msgstr "Görev birimi adı sonuçları"
+
+msgid "Duty entity type"
+msgstr "Görev birimi tipi"
+
+msgid "Earth"
+msgstr "Yer"
+
+msgid "Element classification"
+msgstr "Eleman sınıflandırması"
+
+msgid "Element classification method"
+msgstr "Eleman sınıflandırma yöntemi"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Metin girin... Arapça, İbranice, Türkçe harfler, sayılar"
+
+msgid "Entered data"
+msgstr "Girilen veri"
+
+msgid "Entry"
+msgstr "Giriş"
+
+msgid "Entry letter count"
+msgstr "Giriş harf sayısı"
+
+msgid "Evil"
+msgstr "Kötü"
+
+msgid "Fire"
+msgstr "Ateş"
+
+msgid "For entered data"
+msgstr "Girilen veri için"
+
+msgid "Frequency in Quran"
+msgstr "Kuran'daki sıklık"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "İbranice"
+
+msgid "Hebrew alphabet elements"
+msgstr "İbranice alfabesi elemanları"
+
+msgid "Hebrew letters"
+msgstr "İbranice harfler"
+
+msgid "High"
+msgstr "Yüksek"
+
+msgid "Hija order"
+msgstr "Hija sırası"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam isimleri gizli"
+
+msgid "Huddam not calculated"
+msgstr "Huddam hesaplanmadı"
+
+msgid "Iklil's order"
+msgstr "Iklil'in sırası"
+
+msgid "Increase keyboard size"
+msgstr "Klavye boyutunu büyüt"
+
+msgid "Indian numbers"
+msgstr "Hint rakamları"
+
+msgid "Interface language"
+msgstr "Arayüz dili"
+
+msgid "Let character quantity decide"
+msgstr "Karakter miktarının karar vermesine izin ver"
+
+msgid "Letter count"
+msgstr "Harf sayısı"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Projelerimi beğendiniz mi? Bana bir kahve al!"
+
+msgid "Low"
+msgstr "Düşük"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija sırası"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Sayı okuma dili"
+
+msgid "Numerical values"
+msgstr "Sayısal değerler"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Order"
+msgstr "Sıra"
+
+msgid "Possible phrases"
+msgstr "Olası ifadeler"
+
+msgid "Program settings"
+msgstr "Program ayarları"
+
+msgid "Pronunciation"
+msgstr "Telaffuz"
+
+msgid "Regular expression"
+msgstr "Düzenli ifade"
+
+msgid "Regularly preferred classification"
+msgstr "Düzenli tercih edilen sınıflandırma"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "Separators"
+msgstr "Ayırıcılar"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad sırası"
+
+msgid "Show numpad"
+msgstr "Numpad göster"
+
+msgid "Show virtual keyboard"
+msgstr "Sanal klavye göster"
+
+msgid "Small"
+msgstr "Küçük"
+
+msgid "Small + letter count"
+msgstr "Küçük + harf sayısı"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Destek"
+
+msgid "Taken (letter)"
+msgstr "Alınan (harf)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Alınan (harf; abjad)"
+
+msgid "Taken Letters"
+msgstr "Alınan Harfler"
+
+msgid "Text or number cell"
+msgstr "Metin veya sayı hücresi"
+
+msgid "Thank you for your support!"
+msgstr "Destek için teşekkür ederiz!"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Turkish"
+msgstr "Türkçe"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Türk Alfabesi Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Türk alfabesi elemanları"
+
+msgid "Turkish letters"
+msgstr "Türk harfleri"
+
+msgid "Undefined characters"
+msgstr "Tanımsız karakterler"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "Value & Detail"
+msgstr "Değer & Detay"
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Water"
+msgstr "Su"
+
+msgid "When data is entered"
+msgstr "Veri girildiğinde"
+
+msgid "When reading large digits"
+msgstr "Büyük rakamlar okurken"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad hesaplandı ve harf sayısı eklendi"
+
+msgid "abjad() functions settings"
+msgstr "abjad() fonksiyonları ayarları"
+
+msgid "add to initial value"
+msgstr "başlangıç değerine ekle"
+
+msgid "and"
+msgstr "ve"
+
+msgid "auto calculate immediately"
+msgstr "otomatik olarak hemen hesapla"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ve nutket() fonksiyonları ayarları"
+
+msgid "count once"
+msgstr "bir kez say"
+
+msgid "count twice"
+msgstr "iki kez say"
+
+msgid "display with Arabic numbers"
+msgstr "Arap rakamlarıyla göster"
+
+msgid "display with Indian numbers"
+msgstr "Hint rakamlarıyla göster"
+
+msgid "do not add to initial value"
+msgstr "başlangıç değerine ekleme"
+
+msgid "do not force to other functions"
+msgstr "diğer fonksiyonlara zorlamama"
+
+msgid "do not purify"
+msgstr "temizleme yapma"
+
+msgid "force to other functions"
+msgstr "diğer fonksiyonlara zorla"
+
+msgid "group multiplier letters"
+msgstr "grup çarpan harfler"
+
+msgid "hide"
+msgstr "gizle"
+
+msgid "hide abjad values"
+msgstr "abjad değerlerini gizle"
+
+msgid "hide bast results"
+msgstr "bast sonuçlarını gizle"
+
+msgid "hide huddam names"
+msgstr "huddam isimlerini gizle"
+
+msgid "huddam() function settings"
+msgstr "huddam() fonksiyon ayarları"
+
+msgid "no bast applied."
+msgstr "bast uygulanmadı."
+
+msgid "no data entered"
+msgstr "veri girilmedi"
+
+msgid "other suffix"
+msgstr "diğer sonek"
+
+msgid "purify data"
+msgstr "veriyi temizle"
+
+msgid "repeat multiplier for each digit"
+msgstr "her rakam için çarpanı tekrarla"
+
+msgid "show"
+msgstr "göster"
+
+msgid "show abjad values"
+msgstr "abjad değerlerini göster"
+
+msgid "show bast results"
+msgstr "bast sonuçlarını göster"
+
+msgid "show huddam names"
+msgstr "huddam isimlerini göster"
+
+msgid "suffix"
+msgstr "sonek"
+
+msgid "times bast applied."
+msgstr "bast uygulandı."
+
+msgid "use calculated abjad results"
+msgstr "hesaplanmış abjad sonuçlarını kullan"
+
+msgid "use calculated abjad total"
+msgstr "hesaplanmış abjad toplamını kullan"
+
+msgid "use calculated bast results"
+msgstr "hesaplanmış bast sonuçlarını kullan"
+
+msgid "use entered data directly"
+msgstr "girilen veriyi doğrudan kullan"
+
+msgid "use entered data total"
+msgstr "girilen verinin toplamını kullan"
+
+msgid "use in all bast repetitions"
+msgstr "tüm bast tekrarlamalarında kullan"
+
+msgid "use only at beginning if possible"
+msgstr "mümkünse yalnızca başta kullan"
+
+msgid "wait for settings and data entry"
+msgstr "ayarlar ve veri girişi için bekle"

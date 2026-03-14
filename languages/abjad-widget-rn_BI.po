@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Rundi <rn_BI>\n"
+"Language: rn-BI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Imiterere ya Abjad"
+
+msgid "Abjad Value"
+msgstr "Agaciro ka Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Ibisubizo by’iyongera rya Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Ibyiyongera bya Abjad byahishwe"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ntabwo yarangiza"
+
+msgid "Abjad order"
+msgstr "Urutonde rwa Abjad"
+
+msgid "Add elements"
+msgstr "Ongera ibintu"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Ikirere"
+
+msgid "All"
+msgstr "Byose"
+
+msgid "Arabic"
+msgstr "Icyarabu"
+
+msgid "Arabic letters"
+msgstr "Inyuguti z’Icyarabu"
+
+msgid "Arabic numbers"
+msgstr "Imibare y’Icyarabu"
+
+msgid "As data for operation"
+msgstr "Nk’inkuru ku cyikorwa"
+
+msgid "Bast loop results"
+msgstr "Ibisubizo by’ipimiro rya Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast ntabwo yarangiza"
+
+msgid "Bast repetition count"
+msgstr "Umubare w’inyandiko ya Bast"
+
+msgid "Bast results hidden"
+msgstr "Ibisubizo bya Bast byahishwe"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Urutonde rwa Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda ya Bastet"
+
+msgid "Bastet table"
+msgstr "Ishami rya Bastet"
+
+msgid "Big"
+msgstr "Kinini"
+
+msgid "Bigger"
+msgstr "Kinini kurushaho"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Sokoza i meza"
+
+msgid "Calculate"
+msgstr "Igenzura"
+
+msgid "Calculate Abjad"
+msgstr "Igenzura rya Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Igenzura rya Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Igenzura rya Huddam"
+
+msgid "Calculation details"
+msgstr "Ibisobanuro by’iyongera"
+
+msgid "Choose Keyboard Layout"
+msgstr "Hitamo Imiterere ya Keyboard"
+
+msgid "Clear text box"
+msgstr "Siba Ibirimo"
+
+msgid "Click row for details"
+msgstr "Kanda umurongo kugira ngo ubone ibisobanuro"
+
+msgid "Close Keyboard"
+msgstr "Funga Keyboard"
+
+msgid "Closed"
+msgstr "Fungura"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Ikurura (,) ni separator ya by default kandi ikwiye kuba ifunganywe!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separators za gukurura inyandiko:"
+
+msgid "Data type profile"
+msgstr "Ishusho y’ubwoko bw’inyandiko"
+
+msgid "Dead keys"
+msgstr "Imyenda idakora"
+
+msgid "Decrease keyboard size"
+msgstr "Zimura ubugari bwa Keyboard"
+
+msgid "Don't calculate"
+msgstr "Ntugire iyongera"
+
+msgid "Duty entity name results"
+msgstr "Ibisubizo by'izina ry'inyandiko"
+
+msgid "Duty entity type"
+msgstr "Ubwoko bw'inyandiko"
+
+msgid "Earth"
+msgstr "Ubutaka"
+
+msgid "Element classification"
+msgstr "Kugaragaza inyandiko"
+
+msgid "Element classification method"
+msgstr "Uburyo bwo kwerekana inyandiko"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Andika inyandiko... Inyuguti z'Icyarabu, Ivayite, Icyi turek, imibare"
+
+msgid "Entered data"
+msgstr "Inyandiko yinjijwe"
+
+msgid "Entry"
+msgstr "Inyandiko"
+
+msgid "Entry letter count"
+msgstr "Umubare w’inyuguti"
+
+msgid "Evil"
+msgstr "Umwe"
+
+msgid "Fire"
+msgstr "Ishyari"
+
+msgid "For entered data"
+msgstr "For entered data"
+
+msgid "Frequency in Quran"
+msgstr "Umuvugurura mu Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibyivayite"
+
+msgid "Hebrew alphabet elements"
+msgstr "Ibyivayite inyuguti"
+
+msgid "Hebrew letters"
+msgstr "Inyuguti z'Ibyivayite"
+
+msgid "High"
+msgstr "Kirenga"
+
+msgid "Hija order"
+msgstr "Urutonde rwa Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Imazina ya Huddam byahishwe"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ntabwo yarangiza"
+
+msgid "Iklil's order"
+msgstr "Urutonde rwa Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kongera ubugari bwa Keyboard"
+
+msgid "Indian numbers"
+msgstr "Imibare y'India"
+
+msgid "Interface language"
+msgstr "Indimi y'Interineti"
+
+msgid "Let character quantity decide"
+msgstr "Koresha umubare w'inyuguti"
+
+msgid "Letter count"
+msgstr "Umubare w’inyuguti"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ushaka kugura imishinga yanjye? Sokoza i meza!"
+
+msgid "Low"
+msgstr "Muto"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Igiciriritse"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Indimi yo gusoma imibare"
+
+msgid "Numerical values"
+msgstr "Agaciro k’imibare"
+
+msgid "Open"
+msgstr "Fungura"
+
+msgid "Order"
+msgstr "Urutonde"
+
+msgid "Possible phrases"
+msgstr "Ishusho zishoboka"
+
+msgid "Program settings"
+msgstr "Ishusho ya program"
+
+msgid "Pronunciation"
+msgstr "Igenzura"
+
+msgid "Regular expression"
+msgstr "Expression y'ibikorwa"
+
+msgid "Regularly preferred classification"
+msgstr "Kugaragaza by'ubusa"
+
+msgid "Reset"
+msgstr "Simbura"
+
+msgid "Separators"
+msgstr "Separators"
+
+msgid "Settings"
+msgstr "Imiterere"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Erekana numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Erekana keyboard ya virtual"
+
+msgid "Small"
+msgstr "Muto"
+
+msgid "Small + letter count"
+msgstr "Muto + umubare w'inyuguti"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Inkunga"
+
+msgid "Taken (letter)"
+msgstr "Taken (inyuguti)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Taken (inyuguti; abjad)"
+
+msgid "Taken Letters"
+msgstr "Inyuguti zifashwe"
+
+msgid "Text or number cell"
+msgstr "Inyandiko cyangwa cell ya imibare"
+
+msgid "Thank you for your support!"
+msgstr "Murakoze ku mushinga wawe!"
+
+msgid "Total"
+msgstr "Ibiro byose"
+
+msgid "Turkish"
+msgstr "Icyi turek"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Icyi turek Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Icyi turek inyuguti"
+
+msgid "Turkish letters"
+msgstr "Inyuguti z'Icyi turek"
+
+msgid "Undefined characters"
+msgstr "Inyuguti zitamenyekanye"
+
+msgid "Value"
+msgstr "Agaciro"
+
+msgid "Value & Detail"
+msgstr "Agaciro & Ibisobanuro"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Amazi"
+
+msgid "When data is entered"
+msgstr "Iyo inyandiko yinjiye"
+
+msgid "When reading large digits"
+msgstr "Iyo gusoma imibare nini"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad yagenzuwe kandi umubare w’inyuguti wongerwaho"
+
+msgid "abjad() functions settings"
+msgstr "Imiterere y’functions za abjad()"
+
+msgid "add to initial value"
+msgstr "Ongeraho agaciro k'ibanze"
+
+msgid "and"
+msgstr "na"
+
+msgid "auto calculate immediately"
+msgstr "Gukora iyongera mu buryo bwikora"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Imiterere y’functions za bastet() na nutket()"
+
+msgid "count once"
+msgstr "Kuri kimwe"
+
+msgid "count twice"
+msgstr "Kuri ebyiri"
+
+msgid "display with Arabic numbers"
+msgstr "Erekana n’imibare y’Icyarabu"
+
+msgid "display with Indian numbers"
+msgstr "Erekana n’imibare y'India"
+
+msgid "do not add to initial value"
+msgstr "Ntongeremo agaciro k'ibanze"
+
+msgid "do not force to other functions"
+msgstr "Ntugabanye ku functions za andi"
+
+msgid "do not purify"
+msgstr "Ntukabone"
+
+msgid "force to other functions"
+msgstr "Fata mu functions za andi"
+
+msgid "group multiplier letters"
+msgstr "Ibigomba by'inyuguti"
+
+msgid "hide"
+msgstr "Hisha"
+
+msgid "hide abjad values"
+msgstr "Hisha agaciro ka Abjad"
+
+msgid "hide bast results"
+msgstr "Hisha ibisubizo bya Bast"
+
+msgid "hide huddam names"
+msgstr "Hisha amazina ya Huddam"
+
+msgid "huddam() function settings"
+msgstr "Imiterere ya function huddam()"
+
+msgid "no bast applied."
+msgstr "Nta bast yukoze."
+
+msgid "no data entered"
+msgstr "Nta data yinjijwe"
+
+msgid "other suffix"
+msgstr "Andi suffix"
+
+msgid "purify data"
+msgstr "Puhura data"
+
+msgid "repeat multiplier for each digit"
+msgstr "Kora multiplier kuri buri mibare"
+
+msgid "show"
+msgstr "Erekana"
+
+msgid "show abjad values"
+msgstr "Erekana agaciro ka Abjad"
+
+msgid "show bast results"
+msgstr "Erekana ibisubizo bya Bast"
+
+msgid "show huddam names"
+msgstr "Erekana amazina ya Huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "Igihe bast yukoze."
+
+msgid "use calculated abjad results"
+msgstr "Koresha ibisubizo by’iyongera rya Abjad"
+
+msgid "use calculated abjad total"
+msgstr "Koresha umubare wa total ya Abjad"
+
+msgid "use calculated bast results"
+msgstr "Koresha ibisubizo by’iyongera rya Bast"
+
+msgid "use entered data directly"
+msgstr "Koresha data yinjijwe byahuriranye"
+
+msgid "use entered data total"
+msgstr "Koresha umubare wa total wa data yinjijwe"
+
+msgid "use in all bast repetitions"
+msgstr "Koresha mu nyandiko yose ya Bast"
+
+msgid "use only at beginning if possible"
+msgstr "Koresha gusa ku ntangiriro niba bishoboka"
+
+msgid "wait for settings and data entry"
+msgstr "Tegereza imiterere n’inyandiko"

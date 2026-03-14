@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Uyghur <ug_CN>\n"
+"Language: ug-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad سەتىڭلىرى"
+
+msgid "Abjad Value"
+msgstr "Abjad قىممىتى"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Abjad ھېسابلاش نەتىجىسى"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad ھېسابلاشلىرى يوشۇرۇن"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ھېسابلانمىدى"
+
+msgid "Abjad order"
+msgstr "Abjad تەرتىپى"
+
+msgid "Add elements"
+msgstr "ئۈلگۈلەرنى قوشۇڭ"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "قوي"
+
+msgid "All"
+msgstr "بارلىق"
+
+msgid "Arabic"
+msgstr "ئەرەب"
+
+msgid "Arabic letters"
+msgstr "ئەرەب ھەرپلەر"
+
+msgid "Arabic numbers"
+msgstr "ئەرەب سانلار"
+
+msgid "As data for operation"
+msgstr "ئىشلىتىش ئۈچۈن سانلىق مەلۇمات"
+
+msgid "Bast loop results"
+msgstr "Bast ئالماشتۇرۇش نەتىجىلىرى"
+
+msgid "Bast not calculated"
+msgstr "Bast ھېسابلانمىدى"
+
+msgid "Bast repetition count"
+msgstr "Bast قايتۇرۇش سانى"
+
+msgid "Bast results hidden"
+msgstr "Bast نەتىجىلىرى يوشۇرۇن"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet تەرتىپى"
+
+msgid "Bastet shadda"
+msgstr "Bastet شاددى"
+
+msgid "Bastet table"
+msgstr "Bastet جەدۋەل"
+
+msgid "Big"
+msgstr "كۆپ"
+
+msgid "Bigger"
+msgstr "كۆپكەن"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "مەننى قەھۋە سېتىۋېلىڭ"
+
+msgid "Calculate"
+msgstr "ھېسابلا"
+
+msgid "Calculate Abjad"
+msgstr "Abjad ھېسابلا"
+
+msgid "Calculate Bastet"
+msgstr "Bastet ھېسابلا"
+
+msgid "Calculate Huddam"
+msgstr "Huddam ھېسابلا"
+
+msgid "Calculation details"
+msgstr "ھېسابلاش تەپسىلاتى"
+
+msgid "Choose Keyboard Layout"
+msgstr "كۇنۇپكا يۆنۈلۈشىنى تاللاڭ"
+
+msgid "Clear text box"
+msgstr "نۇسخا رايونىنى تازىلا"
+
+msgid "Click row for details"
+msgstr "تەپسىلات ئۈچۈن قۇرنى بېسىڭ"
+
+msgid "Close Keyboard"
+msgstr "كۇنۇپكا يەنىپ بەكچىلىك"
+
+msgid "Closed"
+msgstr "بەشىپتى"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "پەسەكتە ئايرىش نۇقتىسى بەلگىلەنگەن شەرت، بۇنى ئۆچۈرمەڭ!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "سانلىق مەلۇمات كىرگۈزۈش ئايرىقچىلار:"
+
+msgid "Data type profile"
+msgstr "سانلىق مەلۇمات تىپى پروفىلى"
+
+msgid "Dead keys"
+msgstr "ئۆلۈم كۇنۇپكىلىرى"
+
+msgid "Decrease keyboard size"
+msgstr "كۇنۇپكا ئۆلچىمىنى كىچىكلىتىڭ"
+
+msgid "Don't calculate"
+msgstr "ھېسابلاڭما"
+
+msgid "Duty entity name results"
+msgstr "دۇرۇس شىركەت ئىسمى نەتىجىلىرى"
+
+msgid "Duty entity type"
+msgstr "دۇرۇس شىركەت تىپى"
+
+msgid "Earth"
+msgstr "تۆكۈن"
+
+msgid "Element classification"
+msgstr "ئۈلگە سەھنىسى"
+
+msgid "Element classification method"
+msgstr "ئۈلگە سەھنىسى ئۇسۇلى"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "تېكىست كىرگۈزۈش... ئەرەب، ئىۋرۇپا، تۇركى خەتلىرى، سانلار"
+
+msgid "Entered data"
+msgstr "كىرگۈزۈلگەن سانلىق مەلۇمات"
+
+msgid "Entry"
+msgstr "كىرگۈزۈش"
+
+msgid "Entry letter count"
+msgstr "كىرگۈزۈش ھەرپ سانى"
+
+msgid "Evil"
+msgstr "بۇز"
+
+msgid "Fire"
+msgstr "ئاغىش"
+
+msgid "For entered data"
+msgstr "كىرگۈزۈلگەن سانلىق مەلۇمات ئۈچۈن"
+
+msgid "Frequency in Quran"
+msgstr "قۇرااندا تەكرارلىق"
+
+msgid "Gematria"
+msgstr "جېماترىا"
+
+msgid "Hebrew"
+msgstr "ئېۋرىيە"
+
+msgid "Hebrew alphabet elements"
+msgstr "ئېۋرىيە خەتلىرى"
+
+msgid "Hebrew letters"
+msgstr "ئېۋرىيە خەتلىرى"
+
+msgid "High"
+msgstr "يۇقىرى"
+
+msgid "Hija order"
+msgstr "Hija تەرتىپى"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam ئىسملىرى يوشۇرۇن"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ھېسابلانمىدى"
+
+msgid "Iklil's order"
+msgstr "Iklil's order"
+
+msgid "Increase keyboard size"
+msgstr "كۇنۇپكا ئۆلچىمىنى چوڭايتىش"
+
+msgid "Indian numbers"
+msgstr "ھىندى سانلار"
+
+msgid "Interface language"
+msgstr "مۇناسىۋەت تىلى"
+
+msgid "Let character quantity decide"
+msgstr "ھەرپ سانى بەلگىلەش"
+
+msgid "Letter count"
+msgstr "ھەرپ سانى"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "پروژىلىرىمنى بەك ياقتۇرامسىز؟ قەھۋە سېتىۋېلىڭ!"
+
+msgid "Low"
+msgstr "تۆۋەن"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "ئەڭ كىچىك"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "سان ئوقۇش تىلى"
+
+msgid "Numerical values"
+msgstr "سانلىق قىممەتلەر"
+
+msgid "Open"
+msgstr "ئوچۇق"
+
+msgid "Order"
+msgstr "تەرتىپ"
+
+msgid "Possible phrases"
+msgstr "مۇمكىن جۈملە"
+
+msgid "Program settings"
+msgstr "پروگرامما سەتىڭلىرى"
+
+msgid "Pronunciation"
+msgstr "ئۈنۈم"
+
+msgid "Regular expression"
+msgstr "نورمال ئىپادە"
+
+msgid "Regularly preferred classification"
+msgstr "مۇئامىلە يۆنىلگەن سەھنىسى"
+
+msgid "Reset"
+msgstr "ئەسلىگە قايتۇرۇش"
+
+msgid "Separators"
+msgstr "ئايرىقچىلار"
+
+msgid "Settings"
+msgstr "سەتىڭلەر"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "نۇمپاد كۆرسىتىڭ"
+
+msgid "Show virtual keyboard"
+msgstr "ۋىرۇتالى كۇنۇپكا كۆرسىتىڭ"
+
+msgid "Small"
+msgstr "كىچىك"
+
+msgid "Small + letter count"
+msgstr "كىچىك + ھەرپ سانى"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "قۇۋۋەت"
+
+msgid "Taken (letter)"
+msgstr "ئېلىپ قويۇلغان (ھەرپ)"
+
+msgid "Taken (letter; abjad)"
+msgstr "ئېلىپ قويۇلغان (ھەرپ؛ abjad)"
+
+msgid "Taken Letters"
+msgstr "ئېلىپ قويۇلغان خەتلەر"
+
+msgid "Text or number cell"
+msgstr "تېكىست ياكى سان خېتى"
+
+msgid "Thank you for your support!"
+msgstr "قۇۋۋەتڭىز ئۈچۈن رەھمەت!"
+
+msgid "Total"
+msgstr "ئوموم"
+
+msgid "Turkish"
+msgstr "تۇرك"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "تۇرك ئەبجدى"
+
+msgid "Turkish alphabet elements"
+msgstr "تۇرك خەتلىرى"
+
+msgid "Turkish letters"
+msgstr "تۇرك خەتلىرى"
+
+msgid "Undefined characters"
+msgstr "ئېنىق بولمىغان خەتلەر"
+
+msgid "Value"
+msgstr "قىممەت"
+
+msgid "Value & Detail"
+msgstr "قىممەت & تەپسىلات"
+
+msgid "Version"
+msgstr "نەشر"
+
+msgid "Water"
+msgstr "سۇ"
+
+msgid "When data is entered"
+msgstr "سانلىق مەلۇمات كىرگۈزۈلگەن ۋاقىتتا"
+
+msgid "When reading large digits"
+msgstr "كۆپ ساننى ئوقۇشتا"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad ھېسابلانغان ۋە ھەرپ سانى قوشۇلدى"
+
+msgid "abjad() functions settings"
+msgstr "abjad() فۇنكسىيىلىرى سەتىڭى"
+
+msgid "add to initial value"
+msgstr "دەسلەپكى قىممەتتە قوش"
+
+msgid "and"
+msgstr "ۋە"
+
+msgid "auto calculate immediately"
+msgstr "ئاپتوماتىك ھېسابلاش"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ۋە nutket() فۇنكسىيىلىرى سەتىڭى"
+
+msgid "count once"
+msgstr "بىر قېتىم ساناش"
+
+msgid "count twice"
+msgstr "ئىككى قېتىم ساناش"
+
+msgid "display with Arabic numbers"
+msgstr "ئەرەب سانلىرى بىلەن كۆرسىتىش"
+
+msgid "display with Indian numbers"
+msgstr "ھىندى سانلىرى بىلەن كۆرسىتىش"
+
+msgid "do not add to initial value"
+msgstr "دەسلەپكى قىممەتتە قوشماڭ"
+
+msgid "do not force to other functions"
+msgstr "باشقا فۇنكسىيىلىرىگە مەجبۇر قىلماڭ"
+
+msgid "do not purify"
+msgstr "تۈزىتىش قىلماڭ"
+
+msgid "force to other functions"
+msgstr "باشقا فۇنكسىيىلىرىگە مەجبۇر قىلىڭ"
+
+msgid "group multiplier letters"
+msgstr "گروپ كەمچە ھەرپلەر"
+
+msgid "hide"
+msgstr "يوشۇرۇن"
+
+msgid "hide abjad values"
+msgstr "abjad قىممەتلەرنى يوشۇرۇن"
+
+msgid "hide bast results"
+msgstr "bast نەتىجىلىرىنى يوشۇرۇن"
+
+msgid "hide huddam names"
+msgstr "huddam ئىسملىرىنى يوشۇرۇن"
+
+msgid "huddam() function settings"
+msgstr "huddam() فۇنكسىيىسى سەتىڭى"
+
+msgid "no bast applied."
+msgstr "bast قوللىنىلمىدى."
+
+msgid "no data entered"
+msgstr "سانلىق مەلۇمات كىرگۈزۈلمىدى"
+
+msgid "other suffix"
+msgstr "باشقا پاش"
+
+msgid "purify data"
+msgstr "سانلىق مەلۇماتنى تەڭشەش"
+
+msgid "repeat multiplier for each digit"
+msgstr "ھەر بىر سان ئۈچۈن تكرار كۆپچىلىك"
+
+msgid "show"
+msgstr "كۆرسەت"
+
+msgid "show abjad values"
+msgstr "abjad قىممەتلەرنى كۆرسەت"
+
+msgid "show bast results"
+msgstr "bast نەتىجىلىرىنى كۆرسەت"
+
+msgid "show huddam names"
+msgstr "huddam ئىسملىرىنى كۆرسەت"
+
+msgid "suffix"
+msgstr "پاش"
+
+msgid "times bast applied."
+msgstr "bast قوللىنىلغان سانى."
+
+msgid "use calculated abjad results"
+msgstr "ھېسابلانغان abjad نەتىجىلىرىنى ئىشلىتىڭ"
+
+msgid "use calculated abjad total"
+msgstr "ھېسابلانغان abjad جەمئىي قىممىتىنى ئىشلىتىڭ"
+
+msgid "use calculated bast results"
+msgstr "ھېسابلانغان bast نەتىجىلىرىنى ئىشلىتىڭ"
+
+msgid "use entered data directly"
+msgstr "كىرگۈزۈلگەن سانلىق مەلۇماتنى بىۋاسىتە ئىشلىتىڭ"
+
+msgid "use entered data total"
+msgstr "كىرگۈزۈلگەن سانلىق مەلۇمات جەمئىي قىممىتىنى ئىشلىتىڭ"
+
+msgid "use in all bast repetitions"
+msgstr "ھەممىسى bast قايتۇرۇشلىرىدا ئىشلىتىڭ"
+
+msgid "use only at beginning if possible"
+msgstr "قەيتۇرۇش بىلەن باشلىنىشقا قېتىش"
+
+msgid "wait for settings and data entry"
+msgstr "سەتىڭ ۋە سانلىق مەلۇمات كىرگۈزۈشنى كۈتۇڭ"

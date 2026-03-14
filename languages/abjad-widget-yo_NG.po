@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Yoruba <yo_NG>\n"
+"Language: yo-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Awọn Eto Abjad"
+
+msgid "Abjad Value"
+msgstr "Iye Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Awọn abajade iṣiro Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Awọn iṣiro Abjad ti a fi mọlẹ"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ko ṣe iṣiro"
+
+msgid "Abjad order"
+msgstr "Ìtòlẹ Abjad"
+
+msgid "Add elements"
+msgstr "Ṣe afikun awọn eroja"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Afẹfẹ"
+
+msgid "All"
+msgstr "Gbogbo"
+
+msgid "Arabic"
+msgstr "Araabiki"
+
+msgid "Arabic letters"
+msgstr "Àwọn lẹ́tà Araabiki"
+
+msgid "Arabic numbers"
+msgstr "Àwọn nọ́mbà Araabiki"
+
+msgid "As data for operation"
+msgstr "Gẹ́gẹ́ bí data fún iṣẹ́"
+
+msgid "Bast loop results"
+msgstr "Bast àkọsílẹ̀ abajade"
+
+msgid "Bast not calculated"
+msgstr "Bast ko ṣe iṣiro"
+
+msgid "Bast repetition count"
+msgstr "Iye àtẹ̀jáde Bast"
+
+msgid "Bast results hidden"
+msgstr "Bast abajade ti a fi mọlẹ"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Ìtòlẹ Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tabili Bastet"
+
+msgid "Big"
+msgstr "Bíi"
+
+msgid "Bigger"
+msgstr "Kìkí tóbi jù"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Ra mi kofi"
+
+msgid "Calculate"
+msgstr "Ṣe iṣiro"
+
+msgid "Calculate Abjad"
+msgstr "Ṣe iṣiro Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Ṣe iṣiro Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Ṣe iṣiro Huddam"
+
+msgid "Calculation details"
+msgstr "Àlàyé iṣiro"
+
+msgid "Choose Keyboard Layout"
+msgstr "Yan àtòjọ bọtini"
+
+msgid "Clear text box"
+msgstr "Pa àpótí ọrọ̀ mọ́"
+
+msgid "Click row for details"
+msgstr "Tẹ̀ ọ̀nà fún àlàyé"
+
+msgid "Close Keyboard"
+msgstr "Pa bọtini"
+
+msgid "Closed"
+msgstr "Ti pa"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Ìkànsí àkúnya jẹ́ àtọkànwá àti pé kí ó má yí"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Ìkànsí ìtẹ̀wọ̀n data:"
+
+msgid "Data type profile"
+msgstr "Iprofa oríṣi data"
+
+msgid "Dead keys"
+msgstr "Bọtini ìkú"
+
+msgid "Decrease keyboard size"
+msgstr "Din ìgbékalẹ̀ bọtini kù"
+
+msgid "Don't calculate"
+msgstr "Má ṣe iṣiro"
+
+msgid "Duty entity name results"
+msgstr "Awọn abajade orúkọ ohun iṣẹ́"
+
+msgid "Duty entity type"
+msgstr "Iru ohun iṣẹ́"
+
+msgid "Earth"
+msgstr "Ibi ilẹ̀"
+
+msgid "Element classification"
+msgstr "Ìtẹ́tọ́ eroja"
+
+msgid "Element classification method"
+msgstr "Ọna ìtẹ́tọ́ eroja"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Tẹ̀ ọrọ̀... Àwọn lẹ́tà Araabiki, Hebrew, Turkish, àkúnya"
+
+msgid "Entered data"
+msgstr "Data tí a tẹ"
+
+msgid "Entry"
+msgstr "Ìtẹ̀wọ̀n"
+
+msgid "Entry letter count"
+msgstr "Iye lẹ́tà ìtẹ̀wọ̀n"
+
+msgid "Evil"
+msgstr "Ìbànìkà"
+
+msgid "Fire"
+msgstr "Aga"
+
+msgid "For entered data"
+msgstr "Fun data tí a tẹ"
+
+msgid "Frequency in Quran"
+msgstr "Ìfarahan nínú Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Àwọn eroja alfabẹ́ Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Àwọn lẹ́tà Hebrew"
+
+msgid "High"
+msgstr "Giga"
+
+msgid "Hija order"
+msgstr "Ìtòlẹ Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Awọn orúkọ Huddam ti a fi mọlẹ"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ko ṣe iṣiro"
+
+msgid "Iklil's order"
+msgstr "Ìtòlẹ Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Gba ìgbékalẹ̀ bọtini pọ̀"
+
+msgid "Indian numbers"
+msgstr "Àwọn nọ́mbà Indian"
+
+msgid "Interface language"
+msgstr "Èdè ìbáṣepọ̀"
+
+msgid "Let character quantity decide"
+msgstr "Jẹ́ kí iye ohun kikọ̀ ṣàpẹẹrẹ"
+
+msgid "Letter count"
+msgstr "Iye lẹ́tà"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ṣé o fẹ́ àwọn iṣẹ́ mi? Ra mi kofi!"
+
+msgid "Low"
+msgstr "Kéré"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Ìtòlẹ Hija Maghribian"
+
+msgid "Minimum"
+msgstr "Kekere julọ"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Èdè ìtẹ̀wọ̀n nọ́mbà"
+
+msgid "Numerical values"
+msgstr "Iye nọmba"
+
+msgid "Open"
+msgstr "Ṣí"
+
+msgid "Order"
+msgstr "Tọ́kànwá"
+
+msgid "Possible phrases"
+msgstr "Ìbáṣe tó ṣeeṣe"
+
+msgid "Program settings"
+msgstr "Àwọn Eto Eto"
+
+msgid "Pronunciation"
+msgstr "Ìtẹ́yìnwá"
+
+msgid "Regular expression"
+msgstr "Ìmúlò àkọsílẹ̀"
+
+msgid "Regularly preferred classification"
+msgstr "Ìtẹ́tọ́ tó fẹ́ran ní àkójọpọ̀"
+
+msgid "Reset"
+msgstr "Tunṣe"
+
+msgid "Separators"
+msgstr "Ìkànsí"
+
+msgid "Settings"
+msgstr "Eto"
+
+msgid "Shamsee abjad order"
+msgstr "Ìtòlẹ Abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Fi numpad hàn"
+
+msgid "Show virtual keyboard"
+msgstr "Fi bọtini foju hàn"
+
+msgid "Small"
+msgstr "Kékèké"
+
+msgid "Small + letter count"
+msgstr "Kékèké + Iye lẹ́tà"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Ìtẹ́lọ́run"
+
+msgid "Taken (letter)"
+msgstr "Gba (ẹ̀tà)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Gba (ẹ̀tà; abjad)"
+
+msgid "Taken Letters"
+msgstr "Gba lẹ́tà"
+
+msgid "Text or number cell"
+msgstr "Ọ̀rọ̀ tàbí sẹ́ẹ̀lù nọ́mbà"
+
+msgid "Thank you for your support!"
+msgstr "Ẹ ṣé fún ìtẹ́lọ́run rẹ!"
+
+msgid "Total"
+msgstr "Gbogbo"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad Alphabet Turkish"
+
+msgid "Turkish alphabet elements"
+msgstr "Àwọn eroja alfabẹ́ Turkish"
+
+msgid "Turkish letters"
+msgstr "Àwọn lẹ́tà Turkish"
+
+msgid "Undefined characters"
+msgstr "Àwọn ohun kikọ̀ tí kò dájú"
+
+msgid "Value"
+msgstr "Iye"
+
+msgid "Value & Detail"
+msgstr "Iye & Àlàyé"
+
+msgid "Version"
+msgstr "Ẹ̀rọ"
+
+msgid "Water"
+msgstr "Omi"
+
+msgid "When data is entered"
+msgstr "Nígbà tí data bá tẹ"
+
+msgid "When reading large digits"
+msgstr "Nígbà tó ń kà àkọ́ọ̀lẹ̀ tó pọ̀"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad ti a ṣe iṣiro ati a fi iye lẹ́tà kun"
+
+msgid "abjad() functions settings"
+msgstr "Eto iṣẹ́ abjad()"
+
+msgid "add to initial value"
+msgstr "Ṣe afikun sí iye ibẹrẹ"
+
+msgid "and"
+msgstr "ati"
+
+msgid "auto calculate immediately"
+msgstr "Ṣe iṣiro aago lẹ́sẹ̀kẹsẹ"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Eto iṣẹ́ bastet() àti nutket()"
+
+msgid "count once"
+msgstr "Ka lẹ́ẹ̀kan"
+
+msgid "count twice"
+msgstr "Ka lẹ́ẹ̀meji"
+
+msgid "display with Arabic numbers"
+msgstr "Fi hàn pẹ̀lú nọ́mbà Araabiki"
+
+msgid "display with Indian numbers"
+msgstr "Fi hàn pẹ̀lú nọ́mbà Indian"
+
+msgid "do not add to initial value"
+msgstr "Má ṣe afikun sí iye ibẹrẹ"
+
+msgid "do not force to other functions"
+msgstr "Má ṣe fi ẹ̀yọ̀ sí iṣẹ́ míì"
+
+msgid "do not purify"
+msgstr "Má ṣe mọ́"
+
+msgid "force to other functions"
+msgstr "Fi ẹ̀yọ̀ sí iṣẹ́ míì"
+
+msgid "group multiplier letters"
+msgstr "Ìtẹ́ka lẹ́tà oníyà"
+
+msgid "hide"
+msgstr "Fi aiyé"
+
+msgid "hide abjad values"
+msgstr "Fi abjad iye sí aiyé"
+
+msgid "hide bast results"
+msgstr "Fi bast abajade sí aiyé"
+
+msgid "hide huddam names"
+msgstr "Fi huddam orúkọ sí aiyé"
+
+msgid "huddam() function settings"
+msgstr "Eto iṣẹ́ huddam()"
+
+msgid "no bast applied."
+msgstr "Ko si bast ti a lo."
+
+msgid "no data entered"
+msgstr "Ko si data ti a tẹ"
+
+msgid "other suffix"
+msgstr "Suffix míì"
+
+msgid "purify data"
+msgstr "Mọ data"
+
+msgid "repeat multiplier for each digit"
+msgstr "Tun yíyọ oníyà fún kọọkan nọ́mbà"
+
+msgid "show"
+msgstr "Fi hàn"
+
+msgid "show abjad values"
+msgstr "Fi abjad iye hàn"
+
+msgid "show bast results"
+msgstr "Fi bast abajade hàn"
+
+msgid "show huddam names"
+msgstr "Fi huddam orúkọ hàn"
+
+msgid "suffix"
+msgstr "Suffix"
+
+msgid "times bast applied."
+msgstr "Bast ti a lo ni igba."
+
+msgid "use calculated abjad results"
+msgstr "Lo abjad abajade ti a ṣe iṣiro"
+
+msgid "use calculated abjad total"
+msgstr "Lo abjad apapọ ti a ṣe iṣiro"
+
+msgid "use calculated bast results"
+msgstr "Lo bast abajade ti a ṣe iṣiro"
+
+msgid "use entered data directly"
+msgstr "Lo data tí a tẹ taara"
+
+msgid "use entered data total"
+msgstr "Lo apapọ data tí a tẹ"
+
+msgid "use in all bast repetitions"
+msgstr "Lo ninu gbogbo ìtẹ̀jáde bast"
+
+msgid "use only at beginning if possible"
+msgstr "Lo nikan ní àbẹ́rẹ̀ tí ó bá ṣee ṣe"
+
+msgid "wait for settings and data entry"
+msgstr "Duro fún eto àti ìtẹ̀wọ̀n data"
