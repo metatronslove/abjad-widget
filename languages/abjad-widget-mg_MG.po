@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Malagasy <mg_MG>\n"
+"Language: mg-MG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Fikirana Abjad"
+
+msgid "Abjad Value"
+msgstr "Sandan'ny Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Valiny kajy Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Kajy Abjad voatavina"
+
+msgid "Abjad not calculated"
+msgstr "Tsy voakajy Abjad"
+
+msgid "Abjad order"
+msgstr "Filaharan'ny Abjad"
+
+msgid "Add elements"
+msgstr "Ampio singa"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Rivotra"
+
+msgid "All"
+msgstr "Rehetra"
+
+msgid "Arabic"
+msgstr "Arabo"
+
+msgid "Arabic letters"
+msgstr "Tarika Arabo"
+
+msgid "Arabic numbers"
+msgstr "Isa Arabo"
+
+msgid "As data for operation"
+msgstr "Ho an'ny asa"
+
+msgid "Bast loop results"
+msgstr "Valiny fihodinana Bast"
+
+msgid "Bast not calculated"
+msgstr "Tsy voakajy Bast"
+
+msgid "Bast repetition count"
+msgstr "Isa fampiverimberina Bast"
+
+msgid "Bast results hidden"
+msgstr "Valiny Bast voatavina"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Filaharan'ny Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Latabatra Bastet"
+
+msgid "Big"
+msgstr "Lehibe"
+
+msgid "Bigger"
+msgstr "Lehibe kokoa"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Mividiana kafe ahy"
+
+msgid "Calculate"
+msgstr "Kajy"
+
+msgid "Calculate Abjad"
+msgstr "Kajy Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kajy Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kajy Huddam"
+
+msgid "Calculation details"
+msgstr "Antsipiriany kajy"
+
+msgid "Choose Keyboard Layout"
+msgstr "Safidio ny rafitra klavier"
+
+msgid "Clear text box"
+msgstr "Esory ny boaty soratra"
+
+msgid "Click row for details"
+msgstr "Tsindrio ny andalana ho an'ny antsipiriany"
+
+msgid "Close Keyboard"
+msgstr "Manidy klavier"
+
+msgid "Closed"
+msgstr "Mikatona"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Ny comma dia separator default ary tsy maintsy voatendry!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separator amin'ny fidirana angona:"
+
+msgid "Data type profile"
+msgstr "Profil amin'ny karazana angona"
+
+msgid "Dead keys"
+msgstr "Fanalahidy maty"
+
+msgid "Decrease keyboard size"
+msgstr "Afoana ny haben'ny klavier"
+
+msgid "Don't calculate"
+msgstr "Aza kajy"
+
+msgid "Duty entity name results"
+msgstr "Valiny anarana entin'ny andraikitra"
+
+msgid "Duty entity type"
+msgstr "Karazana entin'ny andraikitra"
+
+msgid "Earth"
+msgstr "Tany"
+
+msgid "Element classification"
+msgstr "Fampanandramana singa"
+
+msgid "Element classification method"
+msgstr "Fomba fampanandramana singa"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Ampidiro soratra... Tarika Arabo, Hebreo, Tarika Turki, isa"
+
+msgid "Entered data"
+msgstr "Angona nampidirina"
+
+msgid "Entry"
+msgstr "Fidirana"
+
+msgid "Entry letter count"
+msgstr "Isa tarika fidirana"
+
+msgid "Evil"
+msgstr "Maloto"
+
+msgid "Fire"
+msgstr "Hazo"
+
+msgid "For entered data"
+msgstr "Ho an'ny angona nampidirina"
+
+msgid "Frequency in Quran"
+msgstr "Faharetana amin'ny Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebreo"
+
+msgid "Hebrew alphabet elements"
+msgstr "Singa litera Hebreo"
+
+msgid "Hebrew letters"
+msgstr "Tarika Hebreo"
+
+msgid "High"
+msgstr "Ambony"
+
+msgid "Hija order"
+msgstr "Filaharan'ny Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Anaran'ny Huddam voatavina"
+
+msgid "Huddam not calculated"
+msgstr "Tsy voakajy Huddam"
+
+msgid "Iklil's order"
+msgstr "Filaharan'i Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Zanona ny haben'ny klavier"
+
+msgid "Indian numbers"
+msgstr "Isa Indiana"
+
+msgid "Interface language"
+msgstr "Fiteny interface"
+
+msgid "Let character quantity decide"
+msgstr "Avelao ny isan'ny tarika hanapa-kevitra"
+
+msgid "Letter count"
+msgstr "Isa tarika"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Tiako ve ireo tetikasa? Mividiana kafe ahy!"
+
+msgid "Low"
+msgstr "Ambany"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Filaharan'ny hija Maghribian"
+
+msgid "Minimum"
+msgstr "Farany ambany"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Fiteny fanovàna isa"
+
+msgid "Numerical values"
+msgstr "Sandan'ny isa"
+
+msgid "Open"
+msgstr "okafana"
+
+msgid "Order"
+msgstr "Filaharana"
+
+msgid "Possible phrases"
+msgstr "Fanehoana azo atao"
+
+msgid "Program settings"
+msgstr "Fikirana programa"
+
+msgid "Pronunciation"
+msgstr "Fiteny fanamafisana"
+
+msgid "Regular expression"
+msgstr "Fanombohana mitombina"
+
+msgid "Regularly preferred classification"
+msgstr "Fampanandramana tsy tapaka"
+
+msgid "Reset"
+msgstr "Avereno"
+
+msgid "Separators"
+msgstr "Separator"
+
+msgid "Settings"
+msgstr "Fikirana"
+
+msgid "Shamsee abjad order"
+msgstr "Filaharan'ny abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Asehoy numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Asehoy klavier virtoaly"
+
+msgid "Small"
+msgstr "Kely"
+
+msgid "Small + letter count"
+msgstr "Kely + isa tarika"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Fanohanana"
+
+msgid "Taken (letter)"
+msgstr "Ekena (tarika)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Ekena (tarika; abjad)"
+
+msgid "Taken Letters"
+msgstr "Tarika Ekena"
+
+msgid "Text or number cell"
+msgstr "Sangan-tsoratra na isa"
+
+msgid "Thank you for your support!"
+msgstr "Misaotra amin'ny fanohananao!"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad Litera Turki"
+
+msgid "Turkish alphabet elements"
+msgstr "Singa litera Turki"
+
+msgid "Turkish letters"
+msgstr "Tarika Turki"
+
+msgid "Undefined characters"
+msgstr "Tarika tsy voafaritra"
+
+msgid "Value"
+msgstr "Sandan'ny"
+
+msgid "Value & Detail"
+msgstr "Sandan'ny & antsipiriany"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Ala"
+
+msgid "When data is entered"
+msgstr "Rehefa asiana angona"
+
+msgid "When reading large digits"
+msgstr "Rehefa mamaky isa goavana"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "voatokana abjad sy ny isa tarika nampiana"
+
+msgid "abjad() functions settings"
+msgstr "Fikirana fiasa abjad()"
+
+msgid "add to initial value"
+msgstr "ampiana amin'ny sandan'ny voalohany"
+
+msgid "and"
+msgstr "ary"
+
+msgid "auto calculate immediately"
+msgstr "auto kajy avy hatrany"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Fikirana fiasa bastet() sy nutket()"
+
+msgid "count once"
+msgstr "isa indray"
+
+msgid "count twice"
+msgstr "isa indroa"
+
+msgid "display with Arabic numbers"
+msgstr "anehoana amin'ny isa Arabo"
+
+msgid "display with Indian numbers"
+msgstr "anehoana amin'ny isa Indiana"
+
+msgid "do not add to initial value"
+msgstr "tsy ampiana amin'ny sandan'ny voalohany"
+
+msgid "do not force to other functions"
+msgstr "tsy asiana adidy amin'ny fiasa hafa"
+
+msgid "do not purify"
+msgstr "tsy mamadio"
+
+msgid "force to other functions"
+msgstr "asiana adidy amin'ny fiasa hafa"
+
+msgid "group multiplier letters"
+msgstr "tarika multiplikator vondrona"
+
+msgid "hide"
+msgstr "avadiho"
+
+msgid "hide abjad values"
+msgstr "avadiho sandan'ny abjad"
+
+msgid "hide bast results"
+msgstr "avadiho valiny bast"
+
+msgid "hide huddam names"
+msgstr "avadiho anaran'ny huddam"
+
+msgid "huddam() function settings"
+msgstr "Fikirana fiasa huddam()"
+
+msgid "no bast applied."
+msgstr "tsy misy bast ampiharina."
+
+msgid "no data entered"
+msgstr "tsy nisy angona nampidirina"
+
+msgid "other suffix"
+msgstr "suffix hafa"
+
+msgid "purify data"
+msgstr "mamadio angona"
+
+msgid "repeat multiplier for each digit"
+msgstr "miverina multiplikator isaky ny isa"
+
+msgid "show"
+msgstr "asehoy"
+
+msgid "show abjad values"
+msgstr "asehoy sandan'ny abjad"
+
+msgid "show bast results"
+msgstr "asehoy valiny bast"
+
+msgid "show huddam names"
+msgstr "asehoy anaran'ny huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "fitaovana bast ampiharina"
+
+msgid "use calculated abjad results"
+msgstr "ampiasao valiny kajy abjad"
+
+msgid "use calculated abjad total"
+msgstr "ampiasao totalin'ny kajy abjad"
+
+msgid "use calculated bast results"
+msgstr "ampiasao valiny kajy bast"
+
+msgid "use entered data directly"
+msgstr "ampiasao angona nampidirina mivantana"
+
+msgid "use entered data total"
+msgstr "ampiasao totalin'ny angona nampidirina"
+
+msgid "use in all bast repetitions"
+msgstr "ampiasao amin'ny famerenana bast rehetra"
+
+msgid "use only at beginning if possible"
+msgstr "ampiasao fotsiny amin'ny fanombohana raha azo atao"
+
+msgid "wait for settings and data entry"
+msgstr "miandry fikirana sy fidirana angona"

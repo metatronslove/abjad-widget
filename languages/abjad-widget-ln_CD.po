@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Lingala <ln_CD>\n"
+"Language: ln-CD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Ezikɔlɔkɔ ya Abjad"
+
+msgid "Abjad Value"
+msgstr "Balɛ ya Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Bisimisi ya kotala Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Bisimisi ya kotala Abjad ezopimami"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ezoki te"
+
+msgid "Abjad order"
+msgstr "Mpanga ya Abjad"
+
+msgid "Add elements"
+msgstr "Lisoku mazi"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Nse"
+
+msgid "All"
+msgstr "Zese"
+
+msgid "Arabic"
+msgstr "Kiarabi"
+
+msgid "Arabic letters"
+msgstr "Balimi ya Kiarabi"
+
+msgid "Arabic numbers"
+msgstr "Mbolingo ya Kiarabi"
+
+msgid "As data for operation"
+msgstr "Kusilisa yo ndenge ya kolakisa"
+
+msgid "Bast loop results"
+msgstr "Bisimisi ya loop ya Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast ezoki te"
+
+msgid "Bast repetition count"
+msgstr "Koba ya koloba Bast"
+
+msgid "Bast results hidden"
+msgstr "Bisimisi ya Bast ezopimami"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Mpanga ya Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda ya Bastet"
+
+msgid "Bastet table"
+msgstr "Tabla ya Bastet"
+
+msgid "Big"
+msgstr "Mobimba"
+
+msgid "Bigger"
+msgstr "Mobimba mosusu"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Kopesa kofe"
+
+msgid "Calculate"
+msgstr "Kotala"
+
+msgid "Calculate Abjad"
+msgstr "Kotala Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kotala Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kotala Huddam"
+
+msgid "Calculation details"
+msgstr "Bisimisi ya kotala"
+
+msgid "Choose Keyboard Layout"
+msgstr "Bongisa layout ya clavier"
+
+msgid "Clear text box"
+msgstr "Bongisa kotisi ya tekst"
+
+msgid "Click row for details"
+msgstr "Kosepela fila mpo na bisimisi"
+
+msgid "Close Keyboard"
+msgstr "Kopesa clavier"
+
+msgid "Closed"
+msgstr "Ekomi"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Mikami ezali mpela mpe eza kombo ekozima!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separators ya koyekola data:"
+
+msgid "Data type profile"
+msgstr "Profili ya type ya data"
+
+msgid "Dead keys"
+msgstr "Balimi ya kokoko"
+
+msgid "Decrease keyboard size"
+msgstr "Koyoka clavier mpo na lokola"
+
+msgid "Don't calculate"
+msgstr "Toxala kolakisa"
+
+msgid "Duty entity name results"
+msgstr "Bisimisi ya nkombo ya entity ya duty"
+
+msgid "Duty entity type"
+msgstr "Type ya entity ya duty"
+
+msgid "Earth"
+msgstr "Lolo"
+
+msgid "Element classification"
+msgstr "Classification ya element"
+
+msgid "Element classification method"
+msgstr "Metode ya classification ya element"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Koma texte... Kiarabi, Kibre, Kiturki balimi, mbolingo"
+
+msgid "Entered data"
+msgstr "Data ya koyekola"
+
+msgid "Entry"
+msgstr "Koyekola"
+
+msgid "Entry letter count"
+msgstr "Kobikisi ya balimi ya koyekola"
+
+msgid "Evil"
+msgstr "Nzela"
+
+msgid "Fire"
+msgstr "Mboka"
+
+msgid "For entered data"
+msgstr "Bokomi data oyo"
+
+msgid "Frequency in Quran"
+msgstr "Mokili ya Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Kibre"
+
+msgid "Hebrew alphabet elements"
+msgstr "Balimi ya alphabet ya Kibre"
+
+msgid "Hebrew letters"
+msgstr "Balimi ya Kibre"
+
+msgid "High"
+msgstr "Pesa"
+
+msgid "Hija order"
+msgstr "Mpanga ya Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Nkombo ya Huddam ezopimami"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ezoki te"
+
+msgid "Iklil's order"
+msgstr "Mpanga ya Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kobongisa clavier"
+
+msgid "Indian numbers"
+msgstr "Mbolingo ya India"
+
+msgid "Interface language"
+msgstr "Limbu ya interface"
+
+msgid "Let character quantity decide"
+msgstr "Eza koyebisa koloba ya balimi"
+
+msgid "Letter count"
+msgstr "Kobikisi ya balimi"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Elo na ma projekti? Kopesa kofe!"
+
+msgid "Low"
+msgstr "Nzola"
+
+msgid "Maghribian abjad"
+msgstr "Abjad ya Maghrib"
+
+msgid "Maghribian hija order"
+msgstr "Mpanga ya hija ya Maghrib"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Limbu ya kosoma mbolingo"
+
+msgid "Numerical values"
+msgstr "Balimi ya mbolingo"
+
+msgid "Open"
+msgstr "Kombo"
+
+msgid "Order"
+msgstr "Mpanga"
+
+msgid "Possible phrases"
+msgstr "Bisimisi oyo esengeli"
+
+msgid "Program settings"
+msgstr "Zokɔlɔkɔ ya programma"
+
+msgid "Pronunciation"
+msgstr "Kusomba"
+
+msgid "Regular expression"
+msgstr "Ekasi ya regulu"
+
+msgid "Regularly preferred classification"
+msgstr "Classification oyo ebongi ekobela"
+
+msgid "Reset"
+msgstr "Kobongisa"
+
+msgid "Separators"
+msgstr "Separators"
+
+msgid "Settings"
+msgstr "Zokɔlɔkɔ"
+
+msgid "Shamsee abjad order"
+msgstr "Mpanga ya abjad ya Shamsee"
+
+msgid "Show numpad"
+msgstr "Bongisa numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Bongisa clavier ya virtual"
+
+msgid "Small"
+msgstr "Moke"
+
+msgid "Small + letter count"
+msgstr "Moke + kobikisi ya balimi"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Kobanda"
+
+msgid "Taken (letter)"
+msgstr "Tokamaki (balimi)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Tokamaki (balimi; abjad)"
+
+msgid "Taken Letters"
+msgstr "Balimi ya tokamaki"
+
+msgid "Text or number cell"
+msgstr "Cell ya tekst o mbolingo"
+
+msgid "Thank you for your support!"
+msgstr "Soki lokola lokola!"
+
+msgid "Total"
+msgstr "Mobongisi"
+
+msgid "Turkish"
+msgstr "Kiturki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad ya alphabet ya Kiturki"
+
+msgid "Turkish alphabet elements"
+msgstr "Balimi ya alphabet ya Kiturki"
+
+msgid "Turkish letters"
+msgstr "Balimi ya Kiturki"
+
+msgid "Undefined characters"
+msgstr "Balimi oyo ezali te"
+
+msgid "Value"
+msgstr "Balimi"
+
+msgid "Value & Detail"
+msgstr "Balimi & Bisimisi"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Moni"
+
+msgid "When data is entered"
+msgstr "Soki data ya koyekola"
+
+msgid "When reading large digits"
+msgstr "Soki kosoma mbolingo lokoki"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad ekotala mpe kobikisi ya balimi ekobaki"
+
+msgid "abjad() functions settings"
+msgstr "Zokɔlɔkɔ ya fonction abjad()"
+
+msgid "add to initial value"
+msgstr "Kobongisa na balimi ya init"
+
+msgid "and"
+msgstr "mpe"
+
+msgid "auto calculate immediately"
+msgstr "Kotala otomatiseka te"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Zokɔlɔkɔ ya fonction bastet() mpe nutket()"
+
+msgid "count once"
+msgstr "Kobikisi moko"
+
+msgid "count twice"
+msgstr "Kobikisi liboso"
+
+msgid "display with Arabic numbers"
+msgstr "Bongisa na mbolingo ya Kiarabi"
+
+msgid "display with Indian numbers"
+msgstr "Bongisa na mbolingo ya India"
+
+msgid "do not add to initial value"
+msgstr "Toxala kobongisa na balimi ya init"
+
+msgid "do not force to other functions"
+msgstr "Toxala kopesa na fonction ya mosusu"
+
+msgid "do not purify"
+msgstr "Toxala kosoma"
+
+msgid "force to other functions"
+msgstr "Kopesa na fonction ya mosusu"
+
+msgid "group multiplier letters"
+msgstr "Balimi ya gongo ya gongo"
+
+msgid "hide"
+msgstr "Kopimami"
+
+msgid "hide abjad values"
+msgstr "Kopimami balimi ya abjad"
+
+msgid "hide bast results"
+msgstr "Kopimami bisimisi ya bast"
+
+msgid "hide huddam names"
+msgstr "Kopimami nkombo ya huddam"
+
+msgid "huddam() function settings"
+msgstr "Zokɔlɔkɔ ya fonction huddam()"
+
+msgid "no bast applied."
+msgstr "Bast ekotama te."
+
+msgid "no data entered"
+msgstr "Data oyo ezali te"
+
+msgid "other suffix"
+msgstr "suffixe oyo"
+
+msgid "purify data"
+msgstr "Kosoma data"
+
+msgid "repeat multiplier for each digit"
+msgstr "Kobongisa gongo mpo na mbolingo nyonso"
+
+msgid "show"
+msgstr "Bongisa"
+
+msgid "show abjad values"
+msgstr "Bongisa balimi ya abjad"
+
+msgid "show bast results"
+msgstr "Bongisa bisimisi ya bast"
+
+msgid "show huddam names"
+msgstr "Bongisa nkombo ya huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "Bast ekotama liboso."
+
+msgid "use calculated abjad results"
+msgstr "Bongisa bisimisi ya abjad ekotala"
+
+msgid "use calculated abjad total"
+msgstr "Bongisa mobongisi ya abjad ekotala"
+
+msgid "use calculated bast results"
+msgstr "Bongisa bisimisi ya bast ekotala"
+
+msgid "use entered data directly"
+msgstr "Bongisa data oyo ekomaki"
+
+msgid "use entered data total"
+msgstr "Bongisa mobongisi ya data oyo"
+
+msgid "use in all bast repetitions"
+msgstr "Bongisa na bazinga nyonso ya bast"
+
+msgid "use only at beginning if possible"
+msgstr "Bongisa mokende oyo ekobanda"
+
+msgid "wait for settings and data entry"
+msgstr "Soki lokota zokɔlɔkɔ mpe data oyo"

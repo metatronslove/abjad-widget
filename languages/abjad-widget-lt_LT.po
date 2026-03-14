@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Lithuanian <lt_LT>\n"
+"Language: lt-LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad nustatymai"
+
+msgid "Abjad Value"
+msgstr "Abjad vertė"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Abjad skaičiavimo rezultatai"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad skaičiavimai paslėpti"
+
+msgid "Abjad not calculated"
+msgstr "Abjad neįskaičiuotas"
+
+msgid "Abjad order"
+msgstr "Abjad tvarka"
+
+msgid "Add elements"
+msgstr "Pridėti elementus"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Oras"
+
+msgid "All"
+msgstr "Visi"
+
+msgid "Arabic"
+msgstr "Arabų"
+
+msgid "Arabic letters"
+msgstr "Arabų raidės"
+
+msgid "Arabic numbers"
+msgstr "Arabų skaičiai"
+
+msgid "As data for operation"
+msgstr "Kaip duomenys veiksmui"
+
+msgid "Bast loop results"
+msgstr "Bast ciklo rezultatai"
+
+msgid "Bast not calculated"
+msgstr "Bast neįskaičiuotas"
+
+msgid "Bast repetition count"
+msgstr "Bast kartojimų skaičius"
+
+msgid "Bast results hidden"
+msgstr "Bast rezultatai paslėpti"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet tvarka"
+
+msgid "Bastet shadda"
+msgstr "Bastet šadda"
+
+msgid "Bastet table"
+msgstr "Bastet lentelė"
+
+msgid "Big"
+msgstr "Didelis"
+
+msgid "Bigger"
+msgstr "Didesnis"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Užsakyk man kavą"
+
+msgid "Calculate"
+msgstr "Skaičiuoti"
+
+msgid "Calculate Abjad"
+msgstr "Skaičiuoti Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Skaičiuoti Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Skaičiuoti Huddam"
+
+msgid "Calculation details"
+msgstr "Skaičiavimo detalės"
+
+msgid "Choose Keyboard Layout"
+msgstr "Pasirinkite klaviatūros išdėstymą"
+
+msgid "Clear text box"
+msgstr "Išvalyti teksto lauką"
+
+msgid "Click row for details"
+msgstr "Spustelėkite eilutę, kad gautumėte detales"
+
+msgid "Close Keyboard"
+msgstr "Užverti klaviatūrą"
+
+msgid "Closed"
+msgstr "Uždaryta"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Komanda yra numatytasis skyriklis ir turi būti pažymėta!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Duomenų įvedimo skyrikliai:"
+
+msgid "Data type profile"
+msgstr "Duomenų tipų profilis"
+
+msgid "Dead keys"
+msgstr "Mirusios raktai"
+
+msgid "Decrease keyboard size"
+msgstr "Sumažinti klaviatūros dydį"
+
+msgid "Don't calculate"
+msgstr "Neįskaičiuoti"
+
+msgid "Duty entity name results"
+msgstr "Pareigų subjektų pavadinimo rezultatai"
+
+msgid "Duty entity type"
+msgstr "Pareigų subjekto tipas"
+
+msgid "Earth"
+msgstr "Žemė"
+
+msgid "Element classification"
+msgstr "Elemento klasifikacija"
+
+msgid "Element classification method"
+msgstr "Elemento klasifikavimo metodas"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Įveskite tekstą... arabų, hebrajų, turkų raidės, skaičiai"
+
+msgid "Entered data"
+msgstr "Įvesti duomenys"
+
+msgid "Entry"
+msgstr "Įvedimas"
+
+msgid "Entry letter count"
+msgstr "Įvedimo raidžių skaičius"
+
+msgid "Evil"
+msgstr "Blogas"
+
+msgid "Fire"
+msgstr "Ugnis"
+
+msgid "For entered data"
+msgstr "Dėl įvestų duomenų"
+
+msgid "Frequency in Quran"
+msgstr "Dažnis Koranie"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrajų"
+
+msgid "Hebrew alphabet elements"
+msgstr "Hebrajų alfabeto elementai"
+
+msgid "Hebrew letters"
+msgstr "Hebrajų raidės"
+
+msgid "High"
+msgstr "Aukštas"
+
+msgid "Hija order"
+msgstr "Hija tvarka"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam vardai paslėpti"
+
+msgid "Huddam not calculated"
+msgstr "Huddam neįskaičiuotas"
+
+msgid "Iklil's order"
+msgstr "Iklil tvarka"
+
+msgid "Increase keyboard size"
+msgstr "Padidinti klaviatūros dydį"
+
+msgid "Indian numbers"
+msgstr "Indiečių skaičiai"
+
+msgid "Interface language"
+msgstr "Sąsajos kalba"
+
+msgid "Let character quantity decide"
+msgstr "Leisti raidžių kiekiui nuspręsti"
+
+msgid "Letter count"
+msgstr "Raidžių skaičius"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Patinka mano projektai? Užsakyk man kavą!"
+
+msgid "Low"
+msgstr "Žemas"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija tvarka"
+
+msgid "Minimum"
+msgstr "Minimalus"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Skaičiaus skaitymo kalba"
+
+msgid "Numerical values"
+msgstr "Skaitiniai reikšmės"
+
+msgid "Open"
+msgstr "Atverti"
+
+msgid "Order"
+msgstr "Tvarka"
+
+msgid "Possible phrases"
+msgstr "Galimi frazės"
+
+msgid "Program settings"
+msgstr "Programos nustatymai"
+
+msgid "Pronunciation"
+msgstr "Išsakyti"
+
+msgid "Regular expression"
+msgstr "Reguliari išraiška"
+
+msgid "Regularly preferred classification"
+msgstr "Reguliariai pageidaujama klasifikacija"
+
+msgid "Reset"
+msgstr "Atstatyti"
+
+msgid "Separators"
+msgstr "Skyrikliai"
+
+msgid "Settings"
+msgstr "Nustatymai"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad tvarka"
+
+msgid "Show numpad"
+msgstr "Rodyti skaitmenų klaviatūrą"
+
+msgid "Show virtual keyboard"
+msgstr "Rodyti virtualią klaviatūrą"
+
+msgid "Small"
+msgstr "Mažas"
+
+msgid "Small + letter count"
+msgstr "Mažas + raidžių skaičius"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Parama"
+
+msgid "Taken (letter)"
+msgstr "Paimtas (raidė)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Paimtas (raidė; abjad)"
+
+msgid "Taken Letters"
+msgstr "Paimtos raidės"
+
+msgid "Text or number cell"
+msgstr "Tekstas arba skaičių langelis"
+
+msgid "Thank you for your support!"
+msgstr "Ačiū už jūsų paramą!"
+
+msgid "Total"
+msgstr "Iš viso"
+
+msgid "Turkish"
+msgstr "Turkų"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkų alfabeto Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turkų alfabeto elementai"
+
+msgid "Turkish letters"
+msgstr "Turkų raidės"
+
+msgid "Undefined characters"
+msgstr "Neapibrėžtos raidės"
+
+msgid "Value"
+msgstr "Reikšmė"
+
+msgid "Value & Detail"
+msgstr "Reikšmė ir detalė"
+
+msgid "Version"
+msgstr "Versija"
+
+msgid "Water"
+msgstr "Vanduo"
+
+msgid "When data is entered"
+msgstr "Kai įvedami duomenys"
+
+msgid "When reading large digits"
+msgstr "Kai skaitant didelius skaitmenis"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad skaičiuotas ir pridėtas raidžių skaičius"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funkcijų nustatymai"
+
+msgid "add to initial value"
+msgstr "pridėti prie pradžios vertės"
+
+msgid "and"
+msgstr "ir"
+
+msgid "auto calculate immediately"
+msgstr "automatiškai skaičiuoti iš karto"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ir nutket() funkcijų nustatymai"
+
+msgid "count once"
+msgstr "skaičiuoti vieną kartą"
+
+msgid "count twice"
+msgstr "skaičiuoti du kartus"
+
+msgid "display with Arabic numbers"
+msgstr "rodyti su arabų skaičiais"
+
+msgid "display with Indian numbers"
+msgstr "rodyti su indiečių skaičiais"
+
+msgid "do not add to initial value"
+msgstr "nepridėti prie pradžios vertės"
+
+msgid "do not force to other functions"
+msgstr "nepriversti kitos funkcijos"
+
+msgid "do not purify"
+msgstr "nevalyti"
+
+msgid "force to other functions"
+msgstr "priversti kitas funkcijas"
+
+msgid "group multiplier letters"
+msgstr "grupinis daugybos raidės"
+
+msgid "hide"
+msgstr "slėpti"
+
+msgid "hide abjad values"
+msgstr "slėpti abjad reikšmes"
+
+msgid "hide bast results"
+msgstr "slėpti bast rezultatus"
+
+msgid "hide huddam names"
+msgstr "slėpti huddam vardus"
+
+msgid "huddam() function settings"
+msgstr "huddam() funkcijos nustatymai"
+
+msgid "no bast applied."
+msgstr "bast netaikytas."
+
+msgid "no data entered"
+msgstr "duomenys neįvesta"
+
+msgid "other suffix"
+msgstr "kitas priezastis"
+
+msgid "purify data"
+msgstr "valyti duomenis"
+
+msgid "repeat multiplier for each digit"
+msgstr "kartoti daugybą kiekvienam skaitmeni"
+
+msgid "show"
+msgstr "rodyti"
+
+msgid "show abjad values"
+msgstr "rodyti abjad reikšmes"
+
+msgid "show bast results"
+msgstr "rodyti bast rezultatus"
+
+msgid "show huddam names"
+msgstr "rodyti huddam vardus"
+
+msgid "suffix"
+msgstr "priezastis"
+
+msgid "times bast applied."
+msgstr "kartų bast taikytas."
+
+msgid "use calculated abjad results"
+msgstr "naudoti skaičiuotus abjad rezultatus"
+
+msgid "use calculated abjad total"
+msgstr "naudoti skaičiuotą abjad bendrą"
+
+msgid "use calculated bast results"
+msgstr "naudoti skaičiuotus bast rezultatus"
+
+msgid "use entered data directly"
+msgstr "naudoti įvestus duomenis tiesiogiai"
+
+msgid "use entered data total"
+msgstr "naudoti įvestų duomenų bendrą"
+
+msgid "use in all bast repetitions"
+msgstr "naudoti visose bast kartotose"
+
+msgid "use only at beginning if possible"
+msgstr "naudoti tik pradžioje, jei įmanoma"
+
+msgid "wait for settings and data entry"
+msgstr "palaukti nustatymų ir duomenų įvedimo"

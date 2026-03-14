@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Southern Ndebele <nr_ZA>\n"
+"Language: nr-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Izilungiselelo zeAbjad"
+
+msgid "Abjad Value"
+msgstr "Inani leAbjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Imiphumela yokubala iAbjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Ukucubungula kweAbjad kufihlwe"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ayibalo"
+
+msgid "Abjad order"
+msgstr "Uhlelo lweAbjad"
+
+msgid "Add elements"
+msgstr "Faka izinto"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Umoya"
+
+msgid "All"
+msgstr "Konke"
+
+msgid "Arabic"
+msgstr "Isi-Arabhu"
+
+msgid "Arabic letters"
+msgstr "Izincwadi ezesi-Arabhu"
+
+msgid "Arabic numbers"
+msgstr "Izibalo ezesi-Arabhu"
+
+msgid "As data for operation"
+msgstr "Njengolwazi lokusebenza"
+
+msgid "Bast loop results"
+msgstr "Imiphumela yokuphinda kabili"
+
+msgid "Bast not calculated"
+msgstr "Bast ayibalo"
+
+msgid "Bast repetition count"
+msgstr "Inani lokuphinda kabili"
+
+msgid "Bast results hidden"
+msgstr "Imiphumela yeBast ifihlwe"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Uhlelo lweBastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Itable yeBastet"
+
+msgid "Big"
+msgstr "Mkhulu"
+
+msgid "Bigger"
+msgstr "Mbukhulu"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Thenga i-café yami"
+
+msgid "Calculate"
+msgstr "Bala"
+
+msgid "Calculate Abjad"
+msgstr "Bala iAbjad"
+
+msgid "Calculate Bastet"
+msgstr "Bala iBastet"
+
+msgid "Calculate Huddam"
+msgstr "Bala iHuddam"
+
+msgid "Calculation details"
+msgstr "Imininingwane yokubala"
+
+msgid "Choose Keyboard Layout"
+msgstr "Khetha uhlelo lwembhalo"
+
+msgid "Clear text box"
+msgstr "Sula ibhokisi lombhalo"
+
+msgid "Click row for details"
+msgstr "Cindezela umgqomo ukwazi iminingwane"
+
+msgid "Close Keyboard"
+msgstr "Vala imbhalo"
+
+msgid "Closed"
+msgstr "Kuvaliwe"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "I-Comma ingeyokuhlukanisa okungokwemvelo futhi kufanele igcinwe!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Izingqikithi zokufaka idatha:"
+
+msgid "Data type profile"
+msgstr "Isikhawu samagama"
+
+msgid "Dead keys"
+msgstr "Amakholomu adlule"
+
+msgid "Decrease keyboard size"
+msgstr "Nciphisa usayizi wembhalo"
+
+msgid "Don't calculate"
+msgstr "Ungabala"
+
+msgid "Duty entity name results"
+msgstr "Imiphumela yegama leMphakathi"
+
+msgid "Duty entity type"
+msgstr "Uhlobo lwesisebenzi"
+
+msgid "Earth"
+msgstr "Indawo"
+
+msgid "Element classification"
+msgstr "Ukuhlukanisa kwezinto"
+
+msgid "Element classification method"
+msgstr "Indlela yokuhlukanisa izinto"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Faka umbhalo... Izincwadi ze-Arabhu, Hebrew, Turkish, nezinombolo"
+
+msgid "Entered data"
+msgstr "Idatha efakiwe"
+
+msgid "Entry"
+msgstr "Ukunikeza"
+
+msgid "Entry letter count"
+msgstr "Inani lezincwadi"
+
+msgid "Evil"
+msgstr "Umubi"
+
+msgid "Fire"
+msgstr "Umoya"
+
+msgid "For entered data"
+msgstr "Ngokusekelwe kwidatha efakiwe"
+
+msgid "Frequency in Quran"
+msgstr "Ihlandla ku-Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Isi-Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Izinto ze-alphabet yeHebrew"
+
+msgid "Hebrew letters"
+msgstr "Izincwadi zeHebrew"
+
+msgid "High"
+msgstr "Phezulu"
+
+msgid "Hija order"
+msgstr "Uhlelo lweHija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "AmaHname aHuddam afihlwe"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ayibalo"
+
+msgid "Iklil's order"
+msgstr "Uhlelo lwamaIklil"
+
+msgid "Increase keyboard size"
+msgstr "Khuphula usayizi wembhalo"
+
+msgid "Indian numbers"
+msgstr "Izibalo ze-India"
+
+msgid "Interface language"
+msgstr "Ulimi lwengaphandle"
+
+msgid "Let character quantity decide"
+msgstr "Vumela inani lezinhlamvu lisinqume"
+
+msgid "Letter count"
+msgstr "Inani lezincwadi"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Uthokozile ngomsebenzi? Thenga i-café yami!"
+
+msgid "Low"
+msgstr "Lansi"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Ombhalo mncane"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Ulimi lokufunda izinombolo"
+
+msgid "Numerical values"
+msgstr "Inani lezinombolo"
+
+msgid "Open"
+msgstr "Vula"
+
+msgid "Order"
+msgstr "Uhlelo"
+
+msgid "Possible phrases"
+msgstr "Izingxolo ezingabuyekeziwe"
+
+msgid "Program settings"
+msgstr "Izilungiselelo zohlelo"
+
+msgid "Pronunciation"
+msgstr "Ukwethula"
+
+msgid "Regular expression"
+msgstr "Imigomo evamile"
+
+msgid "Regularly preferred classification"
+msgstr "Ukuhlukaniswa okwenziwe njalo"
+
+msgid "Reset"
+msgstr "Setha kabusha"
+
+msgid "Separators"
+msgstr "Izingqikithi"
+
+msgid "Settings"
+msgstr "Izilungiselelo"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Bonisa numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Bonisa imbhalo ye-virtual"
+
+msgid "Small"
+msgstr "Ncane"
+
+msgid "Small + letter count"
+msgstr "Ncane + inani lezincwadi"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Ukusekela"
+
+msgid "Taken (letter)"
+msgstr "Kwenziwe (incwadi)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Kwenziwe (incwadi; abjad)"
+
+msgid "Taken Letters"
+msgstr "Izincwadi ezithathwe"
+
+msgid "Text or number cell"
+msgstr "Isigaba sombhalo noma inombolo"
+
+msgid "Thank you for your support!"
+msgstr "Ngiyabonga ngokweseka!"
+
+msgid "Total"
+msgstr "Jikelele"
+
+msgid "Turkish"
+msgstr "Isi-Turkish"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad ye-Alphabet ye-Turkish"
+
+msgid "Turkish alphabet elements"
+msgstr "Izinto ze-Alphabet ye-Turkish"
+
+msgid "Turkish letters"
+msgstr "Izincwadi zeTurkish"
+
+msgid "Undefined characters"
+msgstr "Amanxiweni angaziwa"
+
+msgid "Value"
+msgstr "Inani"
+
+msgid "Value & Detail"
+msgstr "Inani & Imininingwane"
+
+msgid "Version"
+msgstr "Ingqikithi"
+
+msgid "Water"
+msgstr "Amanzi"
+
+msgid "When data is entered"
+msgstr "Uma idatha ifakiwe"
+
+msgid "When reading large digits"
+msgstr "Uma ufunda izinombolo ezinkulu"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad ebala futhi inani le-incwadi lufakwe"
+
+msgid "abjad() functions settings"
+msgstr "Izilungiselelo ze-function abjad()"
+
+msgid "add to initial value"
+msgstr "engeza kumongo wokuqala"
+
+msgid "and"
+msgstr "kanye"
+
+msgid "auto calculate immediately"
+msgstr "Bala ngokuzenzakalelayo"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Izilungiselelo ze-function bastet() kanye ne-nutket()"
+
+msgid "count once"
+msgstr "Bala kanye"
+
+msgid "count twice"
+msgstr "Bala kabili"
+
+msgid "display with Arabic numbers"
+msgstr "Bonisa ngezinombolo ze-Arabhu"
+
+msgid "display with Indian numbers"
+msgstr "Bonisa ngezinombolo ze-India"
+
+msgid "do not add to initial value"
+msgstr "Ungengezi kumongo wokuqala"
+
+msgid "do not force to other functions"
+msgstr "Ungachazeki kwezinye izimiso"
+
+msgid "do not purify"
+msgstr "Ungacacisi"
+
+msgid "force to other functions"
+msgstr "Cacisa kwezinye izimiso"
+
+msgid "group multiplier letters"
+msgstr "Izincwadi ezisebenza ngeqembu"
+
+msgid "hide"
+msgstr "Fihla"
+
+msgid "hide abjad values"
+msgstr "Fihla ama-abuja"
+
+msgid "hide bast results"
+msgstr "Fihla imiphumela yeBast"
+
+msgid "hide huddam names"
+msgstr "Fihla amagama eHuddam"
+
+msgid "huddam() function settings"
+msgstr "Izilungiselelo ze-function huddam()"
+
+msgid "no bast applied."
+msgstr "Bast alikho"
+
+msgid "no data entered"
+msgstr "Idatha ayifakiwe"
+
+msgid "other suffix"
+msgstr "inye suffix"
+
+msgid "purify data"
+msgstr "Gcina idatha"
+
+msgid "repeat multiplier for each digit"
+msgstr "Phinda i-multiplication kusuka ku-izibalo"
+
+msgid "show"
+msgstr "Bonisa"
+
+msgid "show abjad values"
+msgstr "Bonisa ama-abuja"
+
+msgid "show bast results"
+msgstr "Bonisa imiphumela yeBast"
+
+msgid "show huddam names"
+msgstr "Bonisa amagama eHuddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "isikhathi se-bast esikhokhelwe."
+
+msgid "use calculated abjad results"
+msgstr "Sebenzisa imiphumela yeAbjad ebuyekezwe"
+
+msgid "use calculated abjad total"
+msgstr "Sebenzisa i-abuja eyinhlanganisela"
+
+msgid "use calculated bast results"
+msgstr "Sebenzisa imiphumela yeBast ebuyekezwe"
+
+msgid "use entered data directly"
+msgstr "Sebenzisa idatha efakiwe ngqo"
+
+msgid "use entered data total"
+msgstr "Sebenzisa yonke idatha efakiwe"
+
+msgid "use in all bast repetitions"
+msgstr "Sebenzisa yonke i-bast"
+
+msgid "use only at beginning if possible"
+msgstr "Sebenzisa kuphela ekuqaleni uma kungenzeka"
+
+msgid "wait for settings and data entry"
+msgstr "Linda izilungiselelo nezinto"

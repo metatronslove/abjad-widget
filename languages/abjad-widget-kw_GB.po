@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Cornish <kw_GB>\n"
+"Language: kw-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Kynowgh an Abjad"
+
+msgid "Abjad Value"
+msgstr "Werys an Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Gwra an Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Gwra an Abjad ow gwelles"
+
+msgid "Abjad not calculated"
+msgstr "Ny wellys an Abjad"
+
+msgid "Abjad order"
+msgstr "Urzh an Abjad"
+
+msgid "Add elements"
+msgstr "Oklow gwrys"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Aer"
+
+msgid "All"
+msgstr "Ynni"
+
+msgid "Arabic"
+msgstr "Arabysk"
+
+msgid "Arabic letters"
+msgstr "Lys Arabysk"
+
+msgid "Arabic numbers"
+msgstr "Niverow Arabysk"
+
+msgid "As data for operation"
+msgstr "Gans data er ober"
+
+msgid "Bast loop results"
+msgstr "Gwra an Vath"
+
+msgid "Bast not calculated"
+msgstr "Ny wellys an Vath"
+
+msgid "Bast repetition count"
+msgstr "Kount ow kelwel Vath"
+
+msgid "Bast results hidden"
+msgstr "Gwra an Vath ow gwelles"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Urzh an Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tabl"
+
+msgid "Big"
+msgstr "Mawn"
+
+msgid "Bigger"
+msgstr "Mawnys"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Kewth ow golon"
+
+msgid "Calculate"
+msgstr "Kell"
+
+msgid "Calculate Abjad"
+msgstr "Kell an Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kell an Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kell an Huddam"
+
+msgid "Calculation details"
+msgstr "Mernowgh an Gwra"
+
+msgid "Choose Keyboard Layout"
+msgstr "Dhevel y wul keyboard"
+
+msgid "Clear text box"
+msgstr "Lys y wul an testys"
+
+msgid "Click row for details"
+msgstr "Klik rag an gwra"
+
+msgid "Close Keyboard"
+msgstr "Slam keyboard"
+
+msgid "Closed"
+msgstr "Gwelth"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Kommeth yn owthres war an goll ha owthres ow gwelles!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Gwra owthres ow kresow:"
+
+msgid "Data type profile"
+msgstr "Proffyl an dyg"
+
+msgid "Dead keys"
+msgstr "Nys an"
+
+msgid "Decrease keyboard size"
+msgstr "Kemm y wul keyboard"
+
+msgid "Don't calculate"
+msgstr "Ny wellys"
+
+msgid "Duty entity name results"
+msgstr "Gwra an kyn ow"
+
+msgid "Duty entity type"
+msgstr "Kyn ow"
+
+msgid "Earth"
+msgstr "Garth"
+
+msgid "Element classification"
+msgstr "Klassifig ow"
+
+msgid "Element classification method"
+msgstr "Metow klasifig"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Enter testys... Arabysk, Hebrew, Turkish lys, niverow"
+
+msgid "Entered data"
+msgstr "Data ow"
+
+msgid "Entry"
+msgstr "Enter"
+
+msgid "Entry letter count"
+msgstr "Kount ow lys"
+
+msgid "Evil"
+msgstr "Lugh"
+
+msgid "Fire"
+msgstr "Tir"
+
+msgid "For entered data"
+msgstr "Gans data ow"
+
+msgid "Frequency in Quran"
+msgstr "Kymyth yn Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Lys ow alphabe"
+
+msgid "Hebrew letters"
+msgstr "Lys Hebrew"
+
+msgid "High"
+msgstr "Hig"
+
+msgid "Hija order"
+msgstr "Urzh Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam ow gwelles"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ny wellys"
+
+msgid "Iklil's order"
+msgstr "Urzh Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Leun y wul keyboard"
+
+msgid "Indian numbers"
+msgstr "Niverow Indian"
+
+msgid "Interface language"
+msgstr "Y wreny interface"
+
+msgid "Let character quantity decide"
+msgstr "Lys ow wra ow karn"
+
+msgid "Letter count"
+msgstr "Kount ow lys"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Kyn ow kyn? Kewth ow golon!"
+
+msgid "Low"
+msgstr "Low"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Urzh Maghribian Hija"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Y wreny ow niverow"
+
+msgid "Numerical values"
+msgstr "Werys ow niverow"
+
+msgid "Open"
+msgstr "Owthres"
+
+msgid "Order"
+msgstr "Urzh"
+
+msgid "Possible phrases"
+msgstr "Phrases ow"
+
+msgid "Program settings"
+msgstr "Gwedha an program"
+
+msgid "Pronunciation"
+msgstr "Prononynys"
+
+msgid "Regular expression"
+msgstr "Reghul ow"
+
+msgid "Regularly preferred classification"
+msgstr "Klassifig ow"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Separators"
+msgstr "Separatorow"
+
+msgid "Settings"
+msgstr "Gwedha"
+
+msgid "Shamsee abjad order"
+msgstr "Urzh Shamsee abjad"
+
+msgid "Show numpad"
+msgstr "Gwel numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Gwel keyboard gans"
+
+msgid "Small"
+msgstr "Kres"
+
+msgid "Small + letter count"
+msgstr "Kres + kount ow lys"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Taken (letter)"
+msgstr "Taken (letter)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Taken (letter; abjad)"
+
+msgid "Taken Letters"
+msgstr "Lys ow"
+
+msgid "Text or number cell"
+msgstr "Cell testys ow niverow"
+
+msgid "Thank you for your support!"
+msgstr "Trugys a gans ow korth!"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkish Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Lys ow alphabe Turkish"
+
+msgid "Turkish letters"
+msgstr "Lys Turkish"
+
+msgid "Undefined characters"
+msgstr "Karn ow ow"
+
+msgid "Value"
+msgstr "Werys"
+
+msgid "Value & Detail"
+msgstr "Werys & Mernowgh"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Wath"
+
+msgid "When data is entered"
+msgstr "Gans data ow"
+
+msgid "When reading large digits"
+msgstr "Gans ow lees ow"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad calculated and letter count added"
+
+msgid "abjad() functions settings"
+msgstr "abjad() functions settings"
+
+msgid "add to initial value"
+msgstr "add to initial value"
+
+msgid "and"
+msgstr "and"
+
+msgid "auto calculate immediately"
+msgstr "auto calculate immediately"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() and nutket() functions settings"
+
+msgid "count once"
+msgstr "count once"
+
+msgid "count twice"
+msgstr "count twice"
+
+msgid "display with Arabic numbers"
+msgstr "display with Arabic numbers"
+
+msgid "display with Indian numbers"
+msgstr "display with Indian numbers"
+
+msgid "do not add to initial value"
+msgstr "do not add to initial value"
+
+msgid "do not force to other functions"
+msgstr "do not force to other functions"
+
+msgid "do not purify"
+msgstr "do not purify"
+
+msgid "force to other functions"
+msgstr "force to other functions"
+
+msgid "group multiplier letters"
+msgstr "group multiplier letters"
+
+msgid "hide"
+msgstr "hide"
+
+msgid "hide abjad values"
+msgstr "hide abjad values"
+
+msgid "hide bast results"
+msgstr "hide bast results"
+
+msgid "hide huddam names"
+msgstr "hide huddam names"
+
+msgid "huddam() function settings"
+msgstr "huddam() function settings"
+
+msgid "no bast applied."
+msgstr "no bast applied."
+
+msgid "no data entered"
+msgstr "no data entered"
+
+msgid "other suffix"
+msgstr "other suffix"
+
+msgid "purify data"
+msgstr "purify data"
+
+msgid "repeat multiplier for each digit"
+msgstr "repeat multiplier for each digit"
+
+msgid "show"
+msgstr "show"
+
+msgid "show abjad values"
+msgstr "show abjad values"
+
+msgid "show bast results"
+msgstr "show bast results"
+
+msgid "show huddam names"
+msgstr "show huddam names"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "times bast applied."
+
+msgid "use calculated abjad results"
+msgstr "use calculated abjad results"
+
+msgid "use calculated abjad total"
+msgstr "use calculated abjad total"
+
+msgid "use calculated bast results"
+msgstr "use calculated bast results"
+
+msgid "use entered data directly"
+msgstr "use entered data directly"
+
+msgid "use entered data total"
+msgstr "use entered data total"
+
+msgid "use in all bast repetitions"
+msgstr "use in all bast repetitions"
+
+msgid "use only at beginning if possible"
+msgstr "use only at beginning if possible"
+
+msgid "wait for settings and data entry"
+msgstr "wait for settings and data entry"

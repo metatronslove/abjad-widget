@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Malay (Singapore) <ms_SG>\n"
+"Language: ms-SG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Tetapan Abjad"
+
+msgid "Abjad Value"
+msgstr "Nilai Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Hasil kiraan Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Kiraan Abjad disembunyikan"
+
+msgid "Abjad not calculated"
+msgstr "Abjad tidak dikira"
+
+msgid "Abjad order"
+msgstr "Tertib Abjad"
+
+msgid "Add elements"
+msgstr "Tambah unsur"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Udara"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Arabic"
+msgstr "Arab"
+
+msgid "Arabic letters"
+msgstr "Huruf Arab"
+
+msgid "Arabic numbers"
+msgstr "Nombor Arab"
+
+msgid "As data for operation"
+msgstr "Sebagai data untuk operasi"
+
+msgid "Bast loop results"
+msgstr "Hasil gelung Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast tidak dikira"
+
+msgid "Bast repetition count"
+msgstr "Kiraan ulang Bast"
+
+msgid "Bast results hidden"
+msgstr "Hasil Bast disembunyikan"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Tertib Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Jadual Bastet"
+
+msgid "Big"
+msgstr "Besar"
+
+msgid "Bigger"
+msgstr "Lebih Besar"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Beli saya kopi"
+
+msgid "Calculate"
+msgstr "Kira"
+
+msgid "Calculate Abjad"
+msgstr "Kira Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kira Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kira Huddam"
+
+msgid "Calculation details"
+msgstr "Perincian kiraan"
+
+msgid "Choose Keyboard Layout"
+msgstr "Pilih Susun atur Papan Kekunci"
+
+msgid "Clear text box"
+msgstr "Kosongkan kotak teks"
+
+msgid "Click row for details"
+msgstr "Klik baris untuk perincian"
+
+msgid "Close Keyboard"
+msgstr "Tutup Papan Kekunci"
+
+msgid "Closed"
+msgstr "Ditutup"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma adalah pemisah lalai dan mesti tetap ditandai!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Pemisah kemasukan data:"
+
+msgid "Data type profile"
+msgstr "Profil jenis data"
+
+msgid "Dead keys"
+msgstr "Kekunci mati"
+
+msgid "Decrease keyboard size"
+msgstr "Kurangkan saiz papan kekunci"
+
+msgid "Don't calculate"
+msgstr "Jangan kira"
+
+msgid "Duty entity name results"
+msgstr "Hasil nama entiti tanggungjawab"
+
+msgid "Duty entity type"
+msgstr "Jenis entiti tanggungjawab"
+
+msgid "Earth"
+msgstr "Tanah"
+
+msgid "Element classification"
+msgstr "Pengkategorian unsur"
+
+msgid "Element classification method"
+msgstr "Kaedah pengkategorian unsur"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Masukkan teks... Huruf Arab, Ibrani, Turki, nombor"
+
+msgid "Entered data"
+msgstr "Data dimasukkan"
+
+msgid "Entry"
+msgstr "Entri"
+
+msgid "Entry letter count"
+msgstr "Kiraan huruf masukan"
+
+msgid "Evil"
+msgstr "Jahat"
+
+msgid "Fire"
+msgstr "Api"
+
+msgid "For entered data"
+msgstr "Untuk data dimasukkan"
+
+msgid "Frequency in Quran"
+msgstr "Kekerapan dalam Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibrani"
+
+msgid "Hebrew alphabet elements"
+msgstr "Unsur abjad Ibrani"
+
+msgid "Hebrew letters"
+msgstr "Huruf Ibrani"
+
+msgid "High"
+msgstr "Tinggi"
+
+msgid "Hija order"
+msgstr "Tertib Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Nama Huddam disembunyikan"
+
+msgid "Huddam not calculated"
+msgstr "Huddam tidak dikira"
+
+msgid "Iklil's order"
+msgstr "Tertib Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Perbesar saiz papan kekunci"
+
+msgid "Indian numbers"
+msgstr "Nombor India"
+
+msgid "Interface language"
+msgstr "Bahasa antaramuka"
+
+msgid "Let character quantity decide"
+msgstr "Biarkan kuantiti aksara memutuskan"
+
+msgid "Letter count"
+msgstr "Kiraan huruf"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Suka projek saya? Beli saya kopi!"
+
+msgid "Low"
+msgstr "Rendah"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghrib"
+
+msgid "Maghribian hija order"
+msgstr "Tertib hija Maghrib"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Bahasa bacaan nombor"
+
+msgid "Numerical values"
+msgstr "Nilai numerik"
+
+msgid "Open"
+msgstr "Buka"
+
+msgid "Order"
+msgstr "Tertib"
+
+msgid "Possible phrases"
+msgstr "Ungkapan mungkin"
+
+msgid "Program settings"
+msgstr "Tetapan program"
+
+msgid "Pronunciation"
+msgstr "Pelafalan"
+
+msgid "Regular expression"
+msgstr "Ungkapan biasa"
+
+msgid "Regularly preferred classification"
+msgstr "Pengkategorian yang kerap dipilih"
+
+msgid "Reset"
+msgstr "Tetap semula"
+
+msgid "Separators"
+msgstr "Pemisah"
+
+msgid "Settings"
+msgstr "Tetapan"
+
+msgid "Shamsee abjad order"
+msgstr "Tertib abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Tunjukkan papan angka"
+
+msgid "Show virtual keyboard"
+msgstr "Tunjukkan papan kekunci maya"
+
+msgid "Small"
+msgstr "Kecil"
+
+msgid "Small + letter count"
+msgstr "Kecil + kira huruf"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Sokongan"
+
+msgid "Taken (letter)"
+msgstr "Diambil (huruf)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Diambil (huruf; abjad)"
+
+msgid "Taken Letters"
+msgstr "Huruf yang diambil"
+
+msgid "Text or number cell"
+msgstr "Sel teks atau nombor"
+
+msgid "Thank you for your support!"
+msgstr "Terima kasih atas sokongan anda!"
+
+msgid "Total"
+msgstr "Jumlah"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad Alfabet Turki"
+
+msgid "Turkish alphabet elements"
+msgstr "Unsur alfabah Turki"
+
+msgid "Turkish letters"
+msgstr "Huruf Turki"
+
+msgid "Undefined characters"
+msgstr "Aksara tidak ditakrifkan"
+
+msgid "Value"
+msgstr "Nilai"
+
+msgid "Value & Detail"
+msgstr "Nilai & Perincian"
+
+msgid "Version"
+msgstr "Versi"
+
+msgid "Water"
+msgstr "Air"
+
+msgid "When data is entered"
+msgstr "Apabila data dimasukkan"
+
+msgid "When reading large digits"
+msgstr "Apabila membaca digit besar"
+
+msgid "[apostrophe]"
+msgstr "[apostrof]"
+
+msgid "[arabic comma]"
+msgstr "[koma Arab]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[tanda kurung tutup Arab]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[tanda kurung buka Arab]"
+
+msgid "[arabic semicolon]"
+msgstr "[koma titik Arab]"
+
+msgid "[close parenthesis]"
+msgstr "[tanda kurung tutup]"
+
+msgid "[comma]"
+msgstr "[koma]"
+
+msgid "[dot]"
+msgstr "[titik]"
+
+msgid "[end of ayah]"
+msgstr "[akhir ayat]"
+
+msgid "[new-line]"
+msgstr "[baris baru]"
+
+msgid "[open parenthesis]"
+msgstr "[tanda kurung buka]"
+
+msgid "[parenthesis]"
+msgstr "[tanda kurung]"
+
+msgid "[quote]"
+msgstr "[kutipan]"
+
+msgid "[semicolon]"
+msgstr "[koma titik]"
+
+msgid "[space]"
+msgstr "[ruang]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad dikira dan kira huruf ditambah"
+
+msgid "abjad() functions settings"
+msgstr "tetapan fungsi abjad()"
+
+msgid "add to initial value"
+msgstr "tambah ke nilai awal"
+
+msgid "and"
+msgstr "dan"
+
+msgid "auto calculate immediately"
+msgstr "kira automatik segera"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "tetapan fungsi bastet() dan nutket()"
+
+msgid "count once"
+msgstr "kira sekali"
+
+msgid "count twice"
+msgstr "kira dua kali"
+
+msgid "display with Arabic numbers"
+msgstr "tunjukkan dengan nombor Arab"
+
+msgid "display with Indian numbers"
+msgstr "tunjukkan dengan nombor India"
+
+msgid "do not add to initial value"
+msgstr "jangan tambah ke nilai awal"
+
+msgid "do not force to other functions"
+msgstr "jangan paksa kepada fungsi lain"
+
+msgid "do not purify"
+msgstr "jangan memurnikan"
+
+msgid "force to other functions"
+msgstr "paksa kepada fungsi lain"
+
+msgid "group multiplier letters"
+msgstr "huruf pembanyak kumpulan"
+
+msgid "hide"
+msgstr "sembunyi"
+
+msgid "hide abjad values"
+msgstr "sembunyikan nilai abjad"
+
+msgid "hide bast results"
+msgstr "sembunyikan hasil bast"
+
+msgid "hide huddam names"
+msgstr "sembunyikan nama huddam"
+
+msgid "huddam() function settings"
+msgstr "tetapan fungsi huddam()"
+
+msgid "no bast applied."
+msgstr "tiada bast yang dilaksanakan."
+
+msgid "no data entered"
+msgstr "tiada data dimasukkan"
+
+msgid "other suffix"
+msgstr "akhiran lain"
+
+msgid "purify data"
+msgstr "memurnikan data"
+
+msgid "repeat multiplier for each digit"
+msgstr "ulang pembanyak untuk setiap digit"
+
+msgid "show"
+msgstr "tunjukkan"
+
+msgid "show abjad values"
+msgstr "tunjukkan nilai abjad"
+
+msgid "show bast results"
+msgstr "tunjukkan hasil bast"
+
+msgid "show huddam names"
+msgstr "tunjukkan nama huddam"
+
+msgid "suffix"
+msgstr "akhiran"
+
+msgid "times bast applied."
+msgstr "kali bast dilaksanakan."
+
+msgid "use calculated abjad results"
+msgstr "gunakan hasil abjad yang dikira"
+
+msgid "use calculated abjad total"
+msgstr "gunakan jumlah abjad yang dikira"
+
+msgid "use calculated bast results"
+msgstr "gunakan hasil bast yang dikira"
+
+msgid "use entered data directly"
+msgstr "gunakan data dimasukkan terus"
+
+msgid "use entered data total"
+msgstr "gunakan jumlah data dimasukkan"
+
+msgid "use in all bast repetitions"
+msgstr "gunakannya dalam semua pengulangan bast"
+
+msgid "use only at beginning if possible"
+msgstr "hanya gunakan di awal jika boleh"
+
+msgid "wait for settings and data entry"
+msgstr "tunggu tetapan dan kemasukan data"

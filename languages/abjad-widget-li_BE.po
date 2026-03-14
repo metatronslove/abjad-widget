@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Limburgish <li_BE>\n"
+"Language: li-BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad-Instellings"
+
+msgid "Abjad Value"
+msgstr "Abjad-Waarde"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Abjad-berekening-resultaten"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad-berekeningen verstop"
+
+msgid "Abjad not calculated"
+msgstr "Abjad nich berekende"
+
+msgid "Abjad order"
+msgstr "Abjad-reorden"
+
+msgid "Add elements"
+msgstr "Tosettelementen"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Lucht"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Arabic"
+msgstr "Arabies"
+
+msgid "Arabic letters"
+msgstr "Arabiese letters"
+
+msgid "Arabic numbers"
+msgstr "Arabiese nûmers"
+
+msgid "As data for operation"
+msgstr "As data veur operashun"
+
+msgid "Bast loop results"
+msgstr "Bast-lus-resultaten"
+
+msgid "Bast not calculated"
+msgstr "Bast nich berekende"
+
+msgid "Bast repetition count"
+msgstr "Bast herhalings-tell"
+
+msgid "Bast results hidden"
+msgstr "Bast-resultaten verstop"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet-reorden"
+
+msgid "Bastet shadda"
+msgstr "Bastet-shadda"
+
+msgid "Bastet table"
+msgstr "Bastet-tabel"
+
+msgid "Big"
+msgstr "Groot"
+
+msgid "Bigger"
+msgstr "Miener"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Koop mi 'n kopie"
+
+msgid "Calculate"
+msgstr "Bereken"
+
+msgid "Calculate Abjad"
+msgstr "Bereken Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Bereken Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Bereken Huddam"
+
+msgid "Calculation details"
+msgstr "Berekening-details"
+
+msgid "Choose Keyboard Layout"
+msgstr "Kies tippensplat"
+
+msgid "Clear text box"
+msgstr "Oetmaten tekstkruis"
+
+msgid "Click row for details"
+msgstr "Klik rige veur details"
+
+msgid "Close Keyboard"
+msgstr "Sluit tippensplat"
+
+msgid "Closed"
+msgstr "Gesloten"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Komma is de standaard scheider en moet check worrn!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Data-invoer-scheiders:"
+
+msgid "Data type profile"
+msgstr "Data-type profiel"
+
+msgid "Dead keys"
+msgstr "Stille toetsen"
+
+msgid "Decrease keyboard size"
+msgstr "Verminder tippensplatgrootte"
+
+msgid "Don't calculate"
+msgstr "Nich bereken"
+
+msgid "Duty entity name results"
+msgstr "Plicht-entiteit-naam-resultaten"
+
+msgid "Duty entity type"
+msgstr "Plicht-entiteit-type"
+
+msgid "Earth"
+msgstr "Aarde"
+
+msgid "Element classification"
+msgstr "Element klassifikaasje"
+
+msgid "Element classification method"
+msgstr "Element klassifikaasje-methode"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Voer tekst in... Arabies, Hebreeuws, Turks letters, nûmers"
+
+msgid "Entered data"
+msgstr "Ingevoerde data"
+
+msgid "Entry"
+msgstr "Invoer"
+
+msgid "Entry letter count"
+msgstr "Invoer-letter-tell"
+
+msgid "Evil"
+msgstr "Sluur"
+
+msgid "Fire"
+msgstr "Vuur"
+
+msgid "For entered data"
+msgstr "Veur ingevoerde data"
+
+msgid "Frequency in Quran"
+msgstr "Frekwens in Koraan"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+msgid "Hebrew alphabet elements"
+msgstr "Hebreeuws alfabet-elementen"
+
+msgid "Hebrew letters"
+msgstr "Hebreeuwse letters"
+
+msgid "High"
+msgstr "Hoge"
+
+msgid "Hija order"
+msgstr "Hija-reorden"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam-namen verstop"
+
+msgid "Huddam not calculated"
+msgstr "Huddam nich berekende"
+
+msgid "Iklil's order"
+msgstr "Iklil's-reorden"
+
+msgid "Increase keyboard size"
+msgstr "Vermeerder tippensplatgrootte"
+
+msgid "Indian numbers"
+msgstr "Indisch nûmers"
+
+msgid "Interface language"
+msgstr "Interface-taal"
+
+msgid "Let character quantity decide"
+msgstr "Laat karaktersaantal besluit"
+
+msgid "Letter count"
+msgstr "Letter-tell"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Leuk mien projekts? Koop mi 'n kopie!"
+
+msgid "Low"
+msgstr "Laag"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija-reorden"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Nummer-les-taal"
+
+msgid "Numerical values"
+msgstr "Numerische waarden"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "Possible phrases"
+msgstr "Moglikt zinnen"
+
+msgid "Program settings"
+msgstr "Programm-Instellings"
+
+msgid "Pronunciation"
+msgstr "Uitspraak"
+
+msgid "Regular expression"
+msgstr "Reguliere uitdrukking"
+
+msgid "Regularly preferred classification"
+msgstr "Regulier prefererte klassifikasie"
+
+msgid "Reset"
+msgstr "Herstel"
+
+msgid "Separators"
+msgstr "Scheiders"
+
+msgid "Settings"
+msgstr "Instellings"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad-reorden"
+
+msgid "Show numpad"
+msgstr "Toon numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Toon virtuele tippensplat"
+
+msgid "Small"
+msgstr "Liek"
+
+msgid "Small + letter count"
+msgstr "Liek + letter-tell"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Ondersteun"
+
+msgid "Taken (letter)"
+msgstr "Gekregen (letter)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Gekregen (letter; abjad)"
+
+msgid "Taken Letters"
+msgstr "Gekregen Letters"
+
+msgid "Text or number cell"
+msgstr "Tekst of nûmer cel"
+
+msgid "Thank you for your support!"
+msgstr "Bedankt veur joen ondersteun!"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Turkish"
+msgstr "Turks"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turks alfabet abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turks alfabet-elementen"
+
+msgid "Turkish letters"
+msgstr "Turks letters"
+
+msgid "Undefined characters"
+msgstr "Onbekende karakters"
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "Value & Detail"
+msgstr "Waarde & Detail"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Water"
+msgstr "Water"
+
+msgid "When data is entered"
+msgstr "Veur data ingegeven"
+
+msgid "When reading large digits"
+msgstr "Veur groot nûmer lees"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad berekende en letter-tell toevoegde"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funksjone-Instellings"
+
+msgid "add to initial value"
+msgstr "tovadd ainitiaal-waarde"
+
+msgid "and"
+msgstr "en"
+
+msgid "auto calculate immediately"
+msgstr "auto bereken glei"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() en nutket() funksjone-Instellings"
+
+msgid "count once"
+msgstr "telle eenmaal"
+
+msgid "count twice"
+msgstr "telle tweemaal"
+
+msgid "display with Arabic numbers"
+msgstr "toon met Arabies nûmers"
+
+msgid "display with Indian numbers"
+msgstr "toon met Indisch nûmers"
+
+msgid "do not add to initial value"
+msgstr "nich tovadd ainitiaal-waarde"
+
+msgid "do not force to other functions"
+msgstr "nich toverstuur veur oetere funksjone"
+
+msgid "do not purify"
+msgstr "nich purifieer"
+
+msgid "force to other functions"
+msgstr "toverstuur veur oetere funksjone"
+
+msgid "group multiplier letters"
+msgstr "groep-multipliers letters"
+
+msgid "hide"
+msgstr "verstop"
+
+msgid "hide abjad values"
+msgstr "verstop abjad-waarden"
+
+msgid "hide bast results"
+msgstr "verstop bast-resultaten"
+
+msgid "hide huddam names"
+msgstr "verstop huddam-namen"
+
+msgid "huddam() function settings"
+msgstr "huddam() funksjon-Instellings"
+
+msgid "no bast applied."
+msgstr "ni bast toegepast."
+
+msgid "no data entered"
+msgstr "ni data ingegeven"
+
+msgid "other suffix"
+msgstr "ander suffix"
+
+msgid "purify data"
+msgstr "purifieer data"
+
+msgid "repeat multiplier for each digit"
+msgstr "herhaal multiplier veur elk nûmer"
+
+msgid "show"
+msgstr "toon"
+
+msgid "show abjad values"
+msgstr "toon abjad-waarden"
+
+msgid "show bast results"
+msgstr "toon bast-resultaten"
+
+msgid "show huddam names"
+msgstr "toon huddam-namen"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "maal bast toegepast."
+
+msgid "use calculated abjad results"
+msgstr "gebruik berekende abjad-resultaten"
+
+msgid "use calculated abjad total"
+msgstr "gebruik berekende abjad-totaal"
+
+msgid "use calculated bast results"
+msgstr "gebruik berekende bast-resultaten"
+
+msgid "use entered data directly"
+msgstr "gebruik ingevoerde data direk"
+
+msgid "use entered data total"
+msgstr "gebruik ingevoerde data-totaal"
+
+msgid "use in all bast repetitions"
+msgstr "gebruik veur oetere bast-herhalingen"
+
+msgid "use only at beginning if possible"
+msgstr "gebruik enkel veur begin als mööglich"
+
+msgid "wait for settings and data entry"
+msgstr "wacht veur instellings en data-invoer"

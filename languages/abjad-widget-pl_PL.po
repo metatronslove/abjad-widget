@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Polish <pl_PL>\n"
+"Language: pl-PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Ustawienia Abjad"
+
+msgid "Abjad Value"
+msgstr "Wartość Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Wyniki obliczeń Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Ukryte obliczenia Abjad"
+
+msgid "Abjad not calculated"
+msgstr "Abjad nie obliczony"
+
+msgid "Abjad order"
+msgstr "Porządek Abjad"
+
+msgid "Add elements"
+msgstr "Dodaj elementy"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Powietrze"
+
+msgid "All"
+msgstr "Wszystko"
+
+msgid "Arabic"
+msgstr "Arabski"
+
+msgid "Arabic letters"
+msgstr "Litery arabskie"
+
+msgid "Arabic numbers"
+msgstr "Liczby arabskie"
+
+msgid "As data for operation"
+msgstr "Jako dane do operacji"
+
+msgid "Bast loop results"
+msgstr "Wyniki pętli Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast nie obliczony"
+
+msgid "Bast repetition count"
+msgstr "Liczba powtórzeń Bast"
+
+msgid "Bast results hidden"
+msgstr "Ukryte wyniki Bast"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Porządek Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Tabela Bastet"
+
+msgid "Big"
+msgstr "Duży"
+
+msgid "Bigger"
+msgstr "Większy"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Kup mi kawę"
+
+msgid "Calculate"
+msgstr "Oblicz"
+
+msgid "Calculate Abjad"
+msgstr "Oblicz Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Oblicz Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Oblicz Huddam"
+
+msgid "Calculation details"
+msgstr "Szczegóły obliczeń"
+
+msgid "Choose Keyboard Layout"
+msgstr "Wybierz układ klawiatury"
+
+msgid "Clear text box"
+msgstr "Wyczyść pole tekstowe"
+
+msgid "Click row for details"
+msgstr "Kliknij wiersz po szczegóły"
+
+msgid "Close Keyboard"
+msgstr "Zamknij klawiaturę"
+
+msgid "Closed"
+msgstr "Zamknięty"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Przecinek jest domyślnym separatorem i musi pozostać zaznaczony!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separatory wprowadzania danych:"
+
+msgid "Data type profile"
+msgstr "Profil typu danych"
+
+msgid "Dead keys"
+msgstr "Klawisze martwe"
+
+msgid "Decrease keyboard size"
+msgstr "Zmniejsz rozmiar klawiatury"
+
+msgid "Don't calculate"
+msgstr "Nie obliczaj"
+
+msgid "Duty entity name results"
+msgstr "Wyniki nazwy podmiotu obowiązku"
+
+msgid "Duty entity type"
+msgstr "Typ podmiotu obowiązku"
+
+msgid "Earth"
+msgstr "Ziemia"
+
+msgid "Element classification"
+msgstr "Klasifikacja elementów"
+
+msgid "Element classification method"
+msgstr "Metoda klasyfikacji elementów"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Wprowadź tekst... litery arabskie, hebrajskie, tureckie, liczby"
+
+msgid "Entered data"
+msgstr "Wprowadzone dane"
+
+msgid "Entry"
+msgstr "Wpis"
+
+msgid "Entry letter count"
+msgstr "Liczba liter wpisu"
+
+msgid "Evil"
+msgstr "Zło"
+
+msgid "Fire"
+msgstr "Ogień"
+
+msgid "For entered data"
+msgstr "Dla wprowadzonych danych"
+
+msgid "Frequency in Quran"
+msgstr "Częstotliwość w Koranie"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrajski"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elementy alfabetu hebrajskiego"
+
+msgid "Hebrew letters"
+msgstr "Litery hebrajskie"
+
+msgid "High"
+msgstr "Wysoki"
+
+msgid "Hija order"
+msgstr "Porządek Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Ukryte nazwy Huddam"
+
+msgid "Huddam not calculated"
+msgstr "Huddam nie obliczony"
+
+msgid "Iklil's order"
+msgstr "Porządek Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Zwiększ rozmiar klawiatury"
+
+msgid "Indian numbers"
+msgstr "Liczby indyjski"
+
+msgid "Interface language"
+msgstr "Język interfejsu"
+
+msgid "Let character quantity decide"
+msgstr "Pozwól liczbie znaków decydować"
+
+msgid "Letter count"
+msgstr "Liczba liter"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Podoba Ci się moje projekty? Kup mi kawę!"
+
+msgid "Low"
+msgstr "Niski"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Porządek Maghribian Hija"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Język odczytywania liczb"
+
+msgid "Numerical values"
+msgstr "Wartości numeryczne"
+
+msgid "Open"
+msgstr "Otwórz"
+
+msgid "Order"
+msgstr "Porządek"
+
+msgid "Possible phrases"
+msgstr "Możliwe frazy"
+
+msgid "Program settings"
+msgstr "Ustawienia programu"
+
+msgid "Pronunciation"
+msgstr "Wymowa"
+
+msgid "Regular expression"
+msgstr "Wyrażenie regularne"
+
+msgid "Regularly preferred classification"
+msgstr "Regularnie preferowana klasyfikacja"
+
+msgid "Reset"
+msgstr "Resetuj"
+
+msgid "Separators"
+msgstr "Separatory"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Shamsee abjad order"
+msgstr "Porządek abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Pokaż numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Pokaż wirtualną klawiaturę"
+
+msgid "Small"
+msgstr "Mały"
+
+msgid "Small + letter count"
+msgstr "Mały + liczba liter"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Wsparcie"
+
+msgid "Taken (letter)"
+msgstr "Wzięty (litera)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Wzięty (litera; abjad)"
+
+msgid "Taken Letters"
+msgstr "Wzięte litery"
+
+msgid "Text or number cell"
+msgstr "Komórka tekstowa lub liczbową"
+
+msgid "Thank you for your support!"
+msgstr "Dziękuję za wsparcie!"
+
+msgid "Total"
+msgstr "Suma"
+
+msgid "Turkish"
+msgstr "Turecki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad alfabetu tureckiego"
+
+msgid "Turkish alphabet elements"
+msgstr "Elementy alfabetu tureckiego"
+
+msgid "Turkish letters"
+msgstr "Litery tureckie"
+
+msgid "Undefined characters"
+msgstr "Nieokreślone znaki"
+
+msgid "Value"
+msgstr "Wartość"
+
+msgid "Value & Detail"
+msgstr "Wartość i szczegół"
+
+msgid "Version"
+msgstr "Wersja"
+
+msgid "Water"
+msgstr "Woda"
+
+msgid "When data is entered"
+msgstr "Gdy dane są wprowadzane"
+
+msgid "When reading large digits"
+msgstr "Podczas odczytywania dużych cyfr"
+
+msgid "[apostrophe]"
+msgstr "[apostrof]"
+
+msgid "[arabic comma]"
+msgstr "[arabicki przecinek]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabicki nawias zamknięty]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabicki nawias otwarty]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabicki średnik]"
+
+msgid "[close parenthesis]"
+msgstr "[zakończ nawias]"
+
+msgid "[comma]"
+msgstr "[przecinek]"
+
+msgid "[dot]"
+msgstr "[kropka]"
+
+msgid "[end of ayah]"
+msgstr "[koniec ayah]"
+
+msgid "[new-line]"
+msgstr "[nowa linia]"
+
+msgid "[open parenthesis]"
+msgstr "[otwarty nawias]"
+
+msgid "[parenthesis]"
+msgstr "[nawias]"
+
+msgid "[quote]"
+msgstr "[cudzysłów]"
+
+msgid "[semicolon]"
+msgstr "[średnik]"
+
+msgid "[space]"
+msgstr "[spacja]"
+
+msgid "[tab]"
+msgstr "[tabulator]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad obliczony i liczba liter dodana"
+
+msgid "abjad() functions settings"
+msgstr "ustawienia funkcji abjad()"
+
+msgid "add to initial value"
+msgstr "dodaj do wartości początkowej"
+
+msgid "and"
+msgstr "i"
+
+msgid "auto calculate immediately"
+msgstr "automatyczne obliczanie natychmiast"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "ustawienia funkcji bastet() i nutket()"
+
+msgid "count once"
+msgstr "licz jednorazowo"
+
+msgid "count twice"
+msgstr "licz podwójnie"
+
+msgid "display with Arabic numbers"
+msgstr "wyświetl z liczbami arabskimi"
+
+msgid "display with Indian numbers"
+msgstr "wyświetl z liczbami indyjskimi"
+
+msgid "do not add to initial value"
+msgstr "nie dodawaj do wartości początkowej"
+
+msgid "do not force to other functions"
+msgstr "nie wymuszaj na inne funkcje"
+
+msgid "do not purify"
+msgstr "nie oczyszczaj"
+
+msgid "force to other functions"
+msgstr "wymuś na inne funkcje"
+
+msgid "group multiplier letters"
+msgstr "litery wielokrotności grupy"
+
+msgid "hide"
+msgstr "ukryj"
+
+msgid "hide abjad values"
+msgstr "ukryj wartości abjad"
+
+msgid "hide bast results"
+msgstr "ukryj wyniki bast"
+
+msgid "hide huddam names"
+msgstr "ukryj nazwy huddam"
+
+msgid "huddam() function settings"
+msgstr "ustawienia funkcji huddam()"
+
+msgid "no bast applied."
+msgstr "brak zastosowanego bast."
+
+msgid "no data entered"
+msgstr "brak wprowadzonych danych"
+
+msgid "other suffix"
+msgstr "inny przyrostek"
+
+msgid "purify data"
+msgstr "oczyszcz dane"
+
+msgid "repeat multiplier for each digit"
+msgstr "powtarzaj wielokrotność dla każdej cyfry"
+
+msgid "show"
+msgstr "pokaż"
+
+msgid "show abjad values"
+msgstr "pokaż wartości abjad"
+
+msgid "show bast results"
+msgstr "pokaż wyniki bast"
+
+msgid "show huddam names"
+msgstr "pokaż nazwy huddam"
+
+msgid "suffix"
+msgstr "przyrostek"
+
+msgid "times bast applied."
+msgstr "raz bast zastosowany."
+
+msgid "use calculated abjad results"
+msgstr "użyj obliczonych wyników abjad"
+
+msgid "use calculated abjad total"
+msgstr "użyj obliczonej sumy abjad"
+
+msgid "use calculated bast results"
+msgstr "użyj obliczonych wyników bast"
+
+msgid "use entered data directly"
+msgstr "użyj bezpośrednio wprowadzonych danych"
+
+msgid "use entered data total"
+msgstr "użyj całkowitej sumy wprowadzonych danych"
+
+msgid "use in all bast repetitions"
+msgstr "użyj we wszystkich powtórzeniach bast"
+
+msgid "use only at beginning if possible"
+msgstr "użyj tylko na początku, jeśli możliwe"
+
+msgid "wait for settings and data entry"
+msgstr "czekaj na ustawienia i wprowadzanie danych"

@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Occitan <oc_FR>\n"
+"Language: oc-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Paramètres d'Abjad"
+
+msgid "Abjad Value"
+msgstr "Valor d'Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Resultats de calcul d'Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Calculs d'Abjad amagats"
+
+msgid "Abjad not calculated"
+msgstr "Abjad pas calculat"
+
+msgid "Abjad order"
+msgstr "Òrdre d'Abjad"
+
+msgid "Add elements"
+msgstr "Apondre elements"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Air"
+
+msgid "All"
+msgstr "Tot"
+
+msgid "Arabic"
+msgstr "Aràbic"
+
+msgid "Arabic letters"
+msgstr "Letras aràbicas"
+
+msgid "Arabic numbers"
+msgstr "Nombres aràbics"
+
+msgid "As data for operation"
+msgstr "Com donada per l'operacion"
+
+msgid "Bast loop results"
+msgstr "Resultats del bucle Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast pas calculat"
+
+msgid "Bast repetition count"
+msgstr "Compte de repeticions Bast"
+
+msgid "Bast results hidden"
+msgstr "Resultats Bast amagats"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Òrdre Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Mesa Bastet"
+
+msgid "Big"
+msgstr "Grand"
+
+msgid "Bigger"
+msgstr "Mai gran"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Pròva un cafè a ieu"
+
+msgid "Calculate"
+msgstr "Calcular"
+
+msgid "Calculate Abjad"
+msgstr "Calcular Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Calcular Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Calcular Huddam"
+
+msgid "Calculation details"
+msgstr "Detalhs de calcul"
+
+msgid "Choose Keyboard Layout"
+msgstr "Seleccionar la disposicion del clavièr"
+
+msgid "Clear text box"
+msgstr "Escafar la caixa de tèxte"
+
+msgid "Click row for details"
+msgstr "Clicar la linha per detalhs"
+
+msgid "Close Keyboard"
+msgstr "Tampar lo clavièr"
+
+msgid "Closed"
+msgstr "Tampat"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "La coma es lo separador per defaut e deu èsser marcat!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separadors de donada:"
+
+msgid "Data type profile"
+msgstr "Perfil de tipe de donada"
+
+msgid "Dead keys"
+msgstr "Claus mortes"
+
+msgid "Decrease keyboard size"
+msgstr "Redusir la talha del clavièr"
+
+msgid "Don't calculate"
+msgstr "Pas calcular"
+
+msgid "Duty entity name results"
+msgstr "Resultats del nom de l'entitat de devedura"
+
+msgid "Duty entity type"
+msgstr "Tipe d'entitat de devedura"
+
+msgid "Earth"
+msgstr "Terra"
+
+msgid "Element classification"
+msgstr "Clasificacion dels elements"
+
+msgid "Element classification method"
+msgstr "Metòde de clasificacion dels elements"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Picar tèxte... letras aràbicas, hebreicas, turques, nombres"
+
+msgid "Entered data"
+msgstr "Donadas introvadas"
+
+msgid "Entry"
+msgstr "Entrada"
+
+msgid "Entry letter count"
+msgstr "Compte de letras d'entrada"
+
+msgid "Evil"
+msgstr "Mal"
+
+msgid "Fire"
+msgstr "Fòra"
+
+msgid "For entered data"
+msgstr "Per las donadas introvadas"
+
+msgid "Frequency in Quran"
+msgstr "Frequéncia dins lo Qur'an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ebreu"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elements de l'alfabèth ebreu"
+
+msgid "Hebrew letters"
+msgstr "Letras ebreu"
+
+msgid "High"
+msgstr "Al"
+
+msgid "Hija order"
+msgstr "Òrdre Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Noms Huddam amagats"
+
+msgid "Huddam not calculated"
+msgstr "Huddam pas calculat"
+
+msgid "Iklil's order"
+msgstr "Òrdre d'Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Aumentar la talha del clavièr"
+
+msgid "Indian numbers"
+msgstr "Nombres indi"
+
+msgid "Interface language"
+msgstr "Lenga d'interfàcia"
+
+msgid "Let character quantity decide"
+msgstr "Lasse que la quantit de caractèrs decida"
+
+msgid "Letter count"
+msgstr "Compte de letras"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Aïdissas mes projèctes? Pròva un cafè a ieu!"
+
+msgid "Low"
+msgstr "Ba"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Òrdre Hija Maghribian"
+
+msgid "Minimum"
+msgstr "Minim"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Lenga de lectura de nombres"
+
+msgid "Numerical values"
+msgstr "Valors numèriques"
+
+msgid "Open"
+msgstr "Dobrir"
+
+msgid "Order"
+msgstr "Òrdre"
+
+msgid "Possible phrases"
+msgstr "Frases posibles"
+
+msgid "Program settings"
+msgstr "Paramètres del programa"
+
+msgid "Pronunciation"
+msgstr "Prononciacion"
+
+msgid "Regular expression"
+msgstr "Expresion regular"
+
+msgid "Regularly preferred classification"
+msgstr "Clasificacion preferida regular"
+
+msgid "Reset"
+msgstr "Reïnicializar"
+
+msgid "Separators"
+msgstr "Separadors"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Shamsee abjad order"
+msgstr "Òrdre d'abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Afichar lo numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Afichar lo clavièr virtual"
+
+msgid "Small"
+msgstr "Pichon"
+
+msgid "Small + letter count"
+msgstr "Pichon + compte de letras"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Souten"
+
+msgid "Taken (letter)"
+msgstr "Prenut (letra)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Prenut (letra; abjad)"
+
+msgid "Taken Letters"
+msgstr "Letras prenudas"
+
+msgid "Text or number cell"
+msgstr "Celula de tèxte o nombre"
+
+msgid "Thank you for your support!"
+msgstr "Mercé per vòstre sostengut!"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Turkish"
+msgstr "Turc"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad de l'alfabèth turc"
+
+msgid "Turkish alphabet elements"
+msgstr "Elements de l'alfabèth turc"
+
+msgid "Turkish letters"
+msgstr "Letras turques"
+
+msgid "Undefined characters"
+msgstr "Caractèrs indefinits"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Value & Detail"
+msgstr "Valor & Detalh"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Aiga"
+
+msgid "When data is entered"
+msgstr "Quand las donadas son introvadas"
+
+msgid "When reading large digits"
+msgstr "Quand lisissent de chifras grans"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad calculat e compte de letras adonc"
+
+msgid "abjad() functions settings"
+msgstr "paramètres de las foncions abjad()"
+
+msgid "add to initial value"
+msgstr "pondre sul valor inicial"
+
+msgid "and"
+msgstr "e"
+
+msgid "auto calculate immediately"
+msgstr "calcular automaticament ara"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "paramètres de las foncions bastet() e nutket()"
+
+msgid "count once"
+msgstr "comptar una vegada"
+
+msgid "count twice"
+msgstr "comptar dos còp"
+
+msgid "display with Arabic numbers"
+msgstr "afichar amb nombres aràbics"
+
+msgid "display with Indian numbers"
+msgstr "afichar amb nombres indi"
+
+msgid "do not add to initial value"
+msgstr "ne pas añadir sul valor inicial"
+
+msgid "do not force to other functions"
+msgstr "ne pas forçar a d'autras foncions"
+
+msgid "do not purify"
+msgstr "ne pas purificar"
+
+msgid "force to other functions"
+msgstr "forçar a d'autras foncions"
+
+msgid "group multiplier letters"
+msgstr "letters de multiplier de grup"
+
+msgid "hide"
+msgstr "amagar"
+
+msgid "hide abjad values"
+msgstr "amagar las valors d'Abjad"
+
+msgid "hide bast results"
+msgstr "amagar los resultats de Bast"
+
+msgid "hide huddam names"
+msgstr "amagar los noms Huddam"
+
+msgid "huddam() function settings"
+msgstr "paramètres de la foncion huddam()"
+
+msgid "no bast applied."
+msgstr "pas bast aplicat."
+
+msgid "no data entered"
+msgstr "pas de donadas introvadas"
+
+msgid "other suffix"
+msgstr "autre suffixe"
+
+msgid "purify data"
+msgstr "purificar las donadas"
+
+msgid "repeat multiplier for each digit"
+msgstr "repeter multiplier per cada cifra"
+
+msgid "show"
+msgstr "mostrar"
+
+msgid "show abjad values"
+msgstr "mostrar las valors d'Abjad"
+
+msgid "show bast results"
+msgstr "mostrar los resultats de Bast"
+
+msgid "show huddam names"
+msgstr "mostrar los noms Huddam"
+
+msgid "suffix"
+msgstr "suffixe"
+
+msgid "times bast applied."
+msgstr "fois bast aplicat."
+
+msgid "use calculated abjad results"
+msgstr "utilizar los resultats calculats d'Abjad"
+
+msgid "use calculated abjad total"
+msgstr "utilizar lo total calculat d'Abjad"
+
+msgid "use calculated bast results"
+msgstr "utilizar los resultats calculats de Bast"
+
+msgid "use entered data directly"
+msgstr "utilizar las donadas introvadas dirèctament"
+
+msgid "use entered data total"
+msgstr "utilizar lo total de las donadas introvadas"
+
+msgid "use in all bast repetitions"
+msgstr "utilizar dins totes las repeticions de Bast"
+
+msgid "use only at beginning if possible"
+msgstr "utilizar solament al començament se possible"
+
+msgid "wait for settings and data entry"
+msgstr "esperar pels paramètres e la donada"

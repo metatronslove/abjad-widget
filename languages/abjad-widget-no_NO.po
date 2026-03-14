@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Norwegian <no_NO>\n"
+"Language: no-NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad-innstillinger"
+
+msgid "Abjad Value"
+msgstr "Abjad-verdi"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Resultater av Abjad-beregning"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad-beregninger skjult"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ikke beregnet"
+
+msgid "Abjad order"
+msgstr "Abjad-rekkefølge"
+
+msgid "Add elements"
+msgstr "Legg til elementer"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Luft"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Arabic"
+msgstr "Arabisk"
+
+msgid "Arabic letters"
+msgstr "Arabiske bokstaver"
+
+msgid "Arabic numbers"
+msgstr "Arabiske tall"
+
+msgid "As data for operation"
+msgstr "Som data for operasjon"
+
+msgid "Bast loop results"
+msgstr "Resultater av Bast-løkke"
+
+msgid "Bast not calculated"
+msgstr "Bast ikke beregnet"
+
+msgid "Bast repetition count"
+msgstr "Bast-repetisjonskount"
+
+msgid "Bast results hidden"
+msgstr "Bast-resultater skjult"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet-rekkefølge"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet-tabell"
+
+msgid "Big"
+msgstr "Stor"
+
+msgid "Bigger"
+msgstr "Større"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Kjøp meg en kaffe"
+
+msgid "Calculate"
+msgstr "Beregn"
+
+msgid "Calculate Abjad"
+msgstr "Beregn Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Beregn Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Beregn Huddam"
+
+msgid "Calculation details"
+msgstr "Beregning detaljer"
+
+msgid "Choose Keyboard Layout"
+msgstr "Velg tastaturoppsett"
+
+msgid "Clear text box"
+msgstr "Tøm tekstboks"
+
+msgid "Click row for details"
+msgstr "Klikk på rad for detaljer"
+
+msgid "Close Keyboard"
+msgstr "Lukk tastatur"
+
+msgid "Closed"
+msgstr "Stengt"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Komma er standardseparator og må forbli avkrysset!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Separatører for datainngang:"
+
+msgid "Data type profile"
+msgstr "Datatypenprofil"
+
+msgid "Dead keys"
+msgstr "Døde taster"
+
+msgid "Decrease keyboard size"
+msgstr "Reduser tastaturstørrelse"
+
+msgid "Don't calculate"
+msgstr "Ikke beregn"
+
+msgid "Duty entity name results"
+msgstr "Resultater av pliktentitetens navn"
+
+msgid "Duty entity type"
+msgstr "Pliktentitetstype"
+
+msgid "Earth"
+msgstr "Jorden"
+
+msgid "Element classification"
+msgstr "Elementklassifisering"
+
+msgid "Element classification method"
+msgstr "Metode for elementklassifisering"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Skriv inn tekst... Arabiske, hebraiske, tyrkiske bokstaver, tall"
+
+msgid "Entered data"
+msgstr "Innført data"
+
+msgid "Entry"
+msgstr "Inngang"
+
+msgid "Entry letter count"
+msgstr "Inngang bokstavteller"
+
+msgid "Evil"
+msgstr "Ond"
+
+msgid "Fire"
+msgstr "Ild"
+
+msgid "For entered data"
+msgstr "For innført data"
+
+msgid "Frequency in Quran"
+msgstr "Frekvens i Koranen"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebraisk"
+
+msgid "Hebrew alphabet elements"
+msgstr "Hebraiske alfabet elementer"
+
+msgid "Hebrew letters"
+msgstr "Hebraiske bokstaver"
+
+msgid "High"
+msgstr "Høy"
+
+msgid "Hija order"
+msgstr "Hija-rekkefølge"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam-navn skjult"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ikke beregnet"
+
+msgid "Iklil's order"
+msgstr "Iklils rekkefølge"
+
+msgid "Increase keyboard size"
+msgstr "Øk tastaturstørrelse"
+
+msgid "Indian numbers"
+msgstr "Indiske tall"
+
+msgid "Interface language"
+msgstr "Grensesnittspråk"
+
+msgid "Let character quantity decide"
+msgstr "La antall tegn bestemme"
+
+msgid "Letter count"
+msgstr "Bokstavteller"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Liker du mine prosjekter? Kjøp meg en kaffe!"
+
+msgid "Low"
+msgstr "Lav"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija rekkefølge"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Talllesningsspråk"
+
+msgid "Numerical values"
+msgstr "Numeriske verdier"
+
+msgid "Open"
+msgstr "Åpne"
+
+msgid "Order"
+msgstr "Rekkefølge"
+
+msgid "Possible phrases"
+msgstr "Mulige setninger"
+
+msgid "Program settings"
+msgstr "Programinnstillinger"
+
+msgid "Pronunciation"
+msgstr "Uttale"
+
+msgid "Regular expression"
+msgstr "Regulært uttrykk"
+
+msgid "Regularly preferred classification"
+msgstr "Ofte foretrukket klassifisering"
+
+msgid "Reset"
+msgstr "Tilbakestill"
+
+msgid "Separators"
+msgstr "Separatører"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad rekkefølge"
+
+msgid "Show numpad"
+msgstr "Vis talltastatur"
+
+msgid "Show virtual keyboard"
+msgstr "Vis virtuelt tastatur"
+
+msgid "Small"
+msgstr "Liten"
+
+msgid "Small + letter count"
+msgstr "Liten + bokstavteller"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Støtte"
+
+msgid "Taken (letter)"
+msgstr "Tatt (bokstav)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Tatt (bokstav; abjad)"
+
+msgid "Taken Letters"
+msgstr "Tatte bokstaver"
+
+msgid "Text or number cell"
+msgstr "Tekst eller tall celle"
+
+msgid "Thank you for your support!"
+msgstr "Takk for støtten din!"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Turkish"
+msgstr "Tyrkisk"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Tyrkisk alfabetisk abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Tyrkiske alfabet elementer"
+
+msgid "Turkish letters"
+msgstr "Tyrkiske bokstaver"
+
+msgid "Undefined characters"
+msgstr "Udefinerte tegn"
+
+msgid "Value"
+msgstr "Verdi"
+
+msgid "Value & Detail"
+msgstr "Verdi & Detalj"
+
+msgid "Version"
+msgstr "Versjon"
+
+msgid "Water"
+msgstr "Vann"
+
+msgid "When data is entered"
+msgstr "Når data er innført"
+
+msgid "When reading large digits"
+msgstr "Når du leser store tall"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad beregnet og bokstavteller lagt til"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funksjonsinnstillinger"
+
+msgid "add to initial value"
+msgstr "legg til i startverdi"
+
+msgid "and"
+msgstr "og"
+
+msgid "auto calculate immediately"
+msgstr "beregn automatisk umiddelbart"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() og nutket() funksjonsinnstillinger"
+
+msgid "count once"
+msgstr "tell en gang"
+
+msgid "count twice"
+msgstr "tell to ganger"
+
+msgid "display with Arabic numbers"
+msgstr "vis med arabiske tall"
+
+msgid "display with Indian numbers"
+msgstr "vis med indiske tall"
+
+msgid "do not add to initial value"
+msgstr "ikke legg til i startverdi"
+
+msgid "do not force to other functions"
+msgstr "ikke tving til andre funksjoner"
+
+msgid "do not purify"
+msgstr "ikke rens"
+
+msgid "force to other functions"
+msgstr "tving til andre funksjoner"
+
+msgid "group multiplier letters"
+msgstr "gruppemultiplikator bokstaver"
+
+msgid "hide"
+msgstr "skjul"
+
+msgid "hide abjad values"
+msgstr "skjul abjad-verdier"
+
+msgid "hide bast results"
+msgstr "skjul bast-resultater"
+
+msgid "hide huddam names"
+msgstr "skjul huddam-navn"
+
+msgid "huddam() function settings"
+msgstr "huddam() funksjonsinnstillinger"
+
+msgid "no bast applied."
+msgstr "ingen bast brukt."
+
+msgid "no data entered"
+msgstr "ingen data innført"
+
+msgid "other suffix"
+msgstr "annen suffiks"
+
+msgid "purify data"
+msgstr "rens data"
+
+msgid "repeat multiplier for each digit"
+msgstr "gjenta multiplikator for hvert tall"
+
+msgid "show"
+msgstr "vis"
+
+msgid "show abjad values"
+msgstr "vis abjad-verdier"
+
+msgid "show bast results"
+msgstr "vis bast-resultater"
+
+msgid "show huddam names"
+msgstr "vis huddam-navn"
+
+msgid "suffix"
+msgstr "suffiks"
+
+msgid "times bast applied."
+msgstr "ganger bast brukt."
+
+msgid "use calculated abjad results"
+msgstr "bruk beregnede abjad-resultater"
+
+msgid "use calculated abjad total"
+msgstr "bruk beregnet abjad total"
+
+msgid "use calculated bast results"
+msgstr "bruk beregnede bast-resultater"
+
+msgid "use entered data directly"
+msgstr "bruk innført data direkte"
+
+msgid "use entered data total"
+msgstr "bruk innført data total"
+
+msgid "use in all bast repetitions"
+msgstr "bruk i alle bast-repetisjoner"
+
+msgid "use only at beginning if possible"
+msgstr "bruk bare i begynnelsen hvis mulig"
+
+msgid "wait for settings and data entry"
+msgstr "vent på innstillinger og datainngang"

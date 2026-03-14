@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Macedonian <mk_MK>\n"
+"Language: mk-MK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Абџад"
+
+msgid "Abjad Settings"
+msgstr "Поставки за Абџад"
+
+msgid "Abjad Value"
+msgstr "Вредност на Абџад"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Резултати од пресметката на Абџад"
+
+msgid "Abjad calculations hidden"
+msgstr "Пресметките на Абџад се скриени"
+
+msgid "Abjad not calculated"
+msgstr "Абџад не е пресметан"
+
+msgid "Abjad order"
+msgstr "Ред на Абџад"
+
+msgid "Add elements"
+msgstr "Додај елементи"
+
+msgid "Ahmad al Buni"
+msgstr "Ахмад ал Буни"
+
+msgid "Air"
+msgstr "Ват"
+
+msgid "All"
+msgstr "Сите"
+
+msgid "Arabic"
+msgstr "Арапски"
+
+msgid "Arabic letters"
+msgstr "Арапски букви"
+
+msgid "Arabic numbers"
+msgstr "Арапски цифри"
+
+msgid "As data for operation"
+msgstr "Како податоци за операција"
+
+msgid "Bast loop results"
+msgstr "Резултати од циклусот Баст"
+
+msgid "Bast not calculated"
+msgstr "Баст не е пресметан"
+
+msgid "Bast repetition count"
+msgstr "Број на повтори на Баст"
+
+msgid "Bast results hidden"
+msgstr "Резултати од Баст се скриени"
+
+msgid "Bastet"
+msgstr "Бастет"
+
+msgid "Bastet order"
+msgstr "Ред на Бастет"
+
+msgid "Bastet shadda"
+msgstr "Шада на Бастет"
+
+msgid "Bastet table"
+msgstr "Табела за Бастет"
+
+msgid "Big"
+msgstr "Голем"
+
+msgid "Bigger"
+msgstr "Поголем"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "Купи ми кафе"
+
+msgid "Calculate"
+msgstr "Преизчисли"
+
+msgid "Calculate Abjad"
+msgstr "Преизчисли Абџад"
+
+msgid "Calculate Bastet"
+msgstr "Преизчисли Бастет"
+
+msgid "Calculate Huddam"
+msgstr "Преизчисли Худдам"
+
+msgid "Calculation details"
+msgstr "Детали за пресметка"
+
+msgid "Choose Keyboard Layout"
+msgstr "Избери распоред на тастатура"
+
+msgid "Clear text box"
+msgstr "Исчисти кутија со текст"
+
+msgid "Click row for details"
+msgstr "Кликни на ред за детали"
+
+msgid "Close Keyboard"
+msgstr "Затвори тастатура"
+
+msgid "Closed"
+msgstr "Затворено"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Знакот со запирка е стандарден разделник и мора да остане означен!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "Разделници за внес на податоци:"
+
+msgid "Data type profile"
+msgstr "Профил на тип на податоци"
+
+msgid "Dead keys"
+msgstr "Мртви тастови"
+
+msgid "Decrease keyboard size"
+msgstr "Понижи големината на тастатурата"
+
+msgid "Don't calculate"
+msgstr "Не пресметувај"
+
+msgid "Duty entity name results"
+msgstr "Резултати од името на обврзната ентитет"
+
+msgid "Duty entity type"
+msgstr "Тип на обврзната ентитет"
+
+msgid "Earth"
+msgstr "Земја"
+
+msgid "Element classification"
+msgstr "Класификација на елемент"
+
+msgid "Element classification method"
+msgstr "Метод за класификација на елемент"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Внеси текст... Арапски, Еврейски, Турски букви, цифри"
+
+msgid "Entered data"
+msgstr "Внесени податоци"
+
+msgid "Entry"
+msgstr "Внес"
+
+msgid "Entry letter count"
+msgstr "Број на букви во внесот"
+
+msgid "Evil"
+msgstr "Зл"
+
+msgid "Fire"
+msgstr "Ватрени"
+
+msgid "For entered data"
+msgstr "За внесени податоци"
+
+msgid "Frequency in Quran"
+msgstr "Честота во Куран"
+
+msgid "Gematria"
+msgstr "Гематрија"
+
+msgid "Hebrew"
+msgstr "Еврейски"
+
+msgid "Hebrew alphabet elements"
+msgstr "Елементи од еврейскиот алфабет"
+
+msgid "Hebrew letters"
+msgstr "Еврейски букви"
+
+msgid "High"
+msgstr "Висок"
+
+msgid "Hija order"
+msgstr "Ред на Хија"
+
+msgid "Hisab al jumal"
+msgstr "Хисаб ал жумал"
+
+msgid "Huddam"
+msgstr "Худдам"
+
+msgid "Huddam names hidden"
+msgstr "Имената на Худдам се скриени"
+
+msgid "Huddam not calculated"
+msgstr "Худдам не е пресметан"
+
+msgid "Iklil's order"
+msgstr "Ред на Иклиль"
+
+msgid "Increase keyboard size"
+msgstr "Повеќе големина на тастатурата"
+
+msgid "Indian numbers"
+msgstr "Индийски цифри"
+
+msgid "Interface language"
+msgstr "Јазик на интерфејс"
+
+msgid "Let character quantity decide"
+msgstr "Позовете на количината на карактери"
+
+msgid "Letter count"
+msgstr "Број на букви"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Сите ми проекти? Купи ми кафе!"
+
+msgid "Low"
+msgstr "Нисок"
+
+msgid "Maghribian abjad"
+msgstr "Магрибски Абџад"
+
+msgid "Maghribian hija order"
+msgstr "Магрибски ред на Хија"
+
+msgid "Minimum"
+msgstr "Минимал"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Мухийиддин ибн Араби"
+
+msgid "Number reading language"
+msgstr "Јазик за читање на броеви"
+
+msgid "Numerical values"
+msgstr "Нумерички вредности"
+
+msgid "Open"
+msgstr "Отвори"
+
+msgid "Order"
+msgstr "Ред"
+
+msgid "Possible phrases"
+msgstr "Возможни фрази"
+
+msgid "Program settings"
+msgstr "Поставки на програмот"
+
+msgid "Pronunciation"
+msgstr "Изговор"
+
+msgid "Regular expression"
+msgstr "Регуларен израз"
+
+msgid "Regularly preferred classification"
+msgstr "Регуларно преферирана класификација"
+
+msgid "Reset"
+msgstr "Ресетирај"
+
+msgid "Separators"
+msgstr "Разделници"
+
+msgid "Settings"
+msgstr "Поставки"
+
+msgid "Shamsee abjad order"
+msgstr "Шамсе ред на Абџад"
+
+msgid "Show numpad"
+msgstr "Прикажи нумерички тастатур"
+
+msgid "Show virtual keyboard"
+msgstr "Прикажи виртуелна тастатура"
+
+msgid "Small"
+msgstr "Мали"
+
+msgid "Small + letter count"
+msgstr "Мали + број на букви"
+
+msgid "Sulayman al Huseyni"
+msgstr "Сулјман ал Хусеини"
+
+msgid "Support"
+msgstr "Поддршка"
+
+msgid "Taken (letter)"
+msgstr "Запет (буква)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Запет (буква; Абџад)"
+
+msgid "Taken Letters"
+msgstr "Запетени букви"
+
+msgid "Text or number cell"
+msgstr "Ќелија за текст или број"
+
+msgid "Thank you for your support!"
+msgstr "Благодариме за поддршката!"
+
+msgid "Total"
+msgstr "Вкупно"
+
+msgid "Turkish"
+msgstr "Турски"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Турски Алфабет Абџад"
+
+msgid "Turkish alphabet elements"
+msgstr "Елементи од турскиот алфабет"
+
+msgid "Turkish letters"
+msgstr "Турски букви"
+
+msgid "Undefined characters"
+msgstr "Неопределени карактери"
+
+msgid "Value"
+msgstr "Вредност"
+
+msgid "Value & Detail"
+msgstr "Вредност & Детали"
+
+msgid "Version"
+msgstr "Верзија"
+
+msgid "Water"
+msgstr "Вода"
+
+msgid "When data is entered"
+msgstr "Кога се внесуваат податоци"
+
+msgid "When reading large digits"
+msgstr "Кога се читаат големи цифри"
+
+msgid "[apostrophe]"
+msgstr "[апостроф]"
+
+msgid "[arabic comma]"
+msgstr "[арабска запирка]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[арабски затворачка]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[арабски отворена скобка]"
+
+msgid "[arabic semicolon]"
+msgstr "[арабски точка-запирка]"
+
+msgid "[close parenthesis]"
+msgstr "[затворачка]"
+
+msgid "[comma]"
+msgstr "[запирка]"
+
+msgid "[dot]"
+msgstr "[точка]"
+
+msgid "[end of ayah]"
+msgstr "[крај на ајах]"
+
+msgid "[new-line]"
+msgstr "[нов ред]"
+
+msgid "[open parenthesis]"
+msgstr "[отворачка]"
+
+msgid "[parenthesis]"
+msgstr "[скобка]"
+
+msgid "[quote]"
+msgstr "[цитат]"
+
+msgid "[semicolon]"
+msgstr "[точка-запирка]"
+
+msgid "[space]"
+msgstr "[простор]"
+
+msgid "[tab]"
+msgstr "[табулатор]"
+
+msgid "abjad calculated and letter count added"
+msgstr "абџад пресметан и додаден број на букви"
+
+msgid "abjad() functions settings"
+msgstr "поставки за функциите abjad()"
+
+msgid "add to initial value"
+msgstr "додај на почетна вредност"
+
+msgid "and"
+msgstr "и"
+
+msgid "auto calculate immediately"
+msgstr "автоматски пресметај веднаш"
+
+msgid "bast"
+msgstr "баст"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "поставки за функциите bastet() и nutket()"
+
+msgid "count once"
+msgstr "број едноставно"
+
+msgid "count twice"
+msgstr "број двапати"
+
+msgid "display with Arabic numbers"
+msgstr "прикажи со арапски цифри"
+
+msgid "display with Indian numbers"
+msgstr "прикажи со индийски цифри"
+
+msgid "do not add to initial value"
+msgstr "не додавај на почетна вредност"
+
+msgid "do not force to other functions"
+msgstr "не принудувај во други функции"
+
+msgid "do not purify"
+msgstr "не почиствувај"
+
+msgid "force to other functions"
+msgstr "принудувај во други функции"
+
+msgid "group multiplier letters"
+msgstr "групирај множители букви"
+
+msgid "hide"
+msgstr "сокриј"
+
+msgid "hide abjad values"
+msgstr "сокриј вредности на Абџад"
+
+msgid "hide bast results"
+msgstr "сокриј резултати од Баст"
+
+msgid "hide huddam names"
+msgstr "сокриј имиња на Худдам"
+
+msgid "huddam() function settings"
+msgstr "поставки за функцијата huddam()"
+
+msgid "no bast applied."
+msgstr "баст не е применет."
+
+msgid "no data entered"
+msgstr "не е внесен податок"
+
+msgid "other suffix"
+msgstr "друг суфикс"
+
+msgid "purify data"
+msgstr "почиствувај податоци"
+
+msgid "repeat multiplier for each digit"
+msgstr "повтори множител за секоја цифра"
+
+msgid "show"
+msgstr "прикажи"
+
+msgid "show abjad values"
+msgstr "прикажи вредности на Абџад"
+
+msgid "show bast results"
+msgstr "прикажи резултати од Баст"
+
+msgid "show huddam names"
+msgstr "прикажи имиња на Худдам"
+
+msgid "suffix"
+msgstr "суфикс"
+
+msgid "times bast applied."
+msgstr "пати се применува Баст."
+
+msgid "use calculated abjad results"
+msgstr "користи пресметани резултати од Абџад"
+
+msgid "use calculated abjad total"
+msgstr "користи пресметан вкупен резултат од Абџад"
+
+msgid "use calculated bast results"
+msgstr "користи пресметани резултати од Баст"
+
+msgid "use entered data directly"
+msgstr "користи внесени податоци директно"
+
+msgid "use entered data total"
+msgstr "користи вкупен внесен податок"
+
+msgid "use in all bast repetitions"
+msgstr "користи во сите баст повторы"
+
+msgid "use only at beginning if possible"
+msgstr "користи само на почеток ако е можно"
+
+msgid "wait for settings and data entry"
+msgstr "чеа за поставки и внес на податоци"

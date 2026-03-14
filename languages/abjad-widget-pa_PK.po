@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Punjabi (Shahmukhi) <pa_PK>\n"
+"Language: pa-PK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad Settings"
+
+msgid "Abjad Value"
+msgstr "Abjad Value"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "Abjad calculation results"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad calculations hidden"
+
+msgid "Abjad not calculated"
+msgstr "Abjad not calculated"
+
+msgid "Abjad order"
+msgstr "Abjad order"
+
+msgid "Add elements"
+msgstr "اجزاء شامل کرو"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "ہوا"
+
+msgid "All"
+msgstr "تمام"
+
+msgid "Arabic"
+msgstr "عربی"
+
+msgid "Arabic letters"
+msgstr "عربی حروف"
+
+msgid "Arabic numbers"
+msgstr "عربی اعداد"
+
+msgid "As data for operation"
+msgstr "عمل کے لیے ڈیٹا"
+
+msgid "Bast loop results"
+msgstr "بَسٹ لوپ کے نتائج"
+
+msgid "Bast not calculated"
+msgstr "بَسٹ حساب نہیں کیا گیا"
+
+msgid "Bast repetition count"
+msgstr "بَسٹ کی بار بار گنتی"
+
+msgid "Bast results hidden"
+msgstr "بَسٹ کے نتائج چھپے"
+
+msgid "Bastet"
+msgstr "بَسٹے"
+
+msgid "Bastet order"
+msgstr "بَسٹے کا حکم"
+
+msgid "Bastet shadda"
+msgstr "بَسٹے شدد"
+
+msgid "Bastet table"
+msgstr "بَسٹے کا جدول"
+
+msgid "Big"
+msgstr "بڑا"
+
+msgid "Bigger"
+msgstr "بڑا زیادہ"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "مجھے کافی خریدو"
+
+msgid "Calculate"
+msgstr "حساب کریں"
+
+msgid "Calculate Abjad"
+msgstr "ابجد کا حساب کریں"
+
+msgid "Calculate Bastet"
+msgstr "بَسٹے کا حساب کریں"
+
+msgid "Calculate Huddam"
+msgstr "ہُڈِم کا حساب کریں"
+
+msgid "Calculation details"
+msgstr "حساب کی تفصیلات"
+
+msgid "Choose Keyboard Layout"
+msgstr "کی بورڈ کی ترتیب منتخب کریں"
+
+msgid "Clear text box"
+msgstr "متن کا خانہ صاف کریں"
+
+msgid "Click row for details"
+msgstr "تفصیل کے لیے صفحہ پر کلک کریں"
+
+msgid "Close Keyboard"
+msgstr "کی بورڈ بند کریں"
+
+msgid "Closed"
+msgstr "بند"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "کاما ڈیفالٹ جدا کرنے والا ہے اور چیک رہنا ضروری ہے!"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "ڈیٹا انٹری کے جدا کرنے والے:"
+
+msgid "Data type profile"
+msgstr "ڈیٹا ٹائپ پروفائل"
+
+msgid "Dead keys"
+msgstr "موتی کیز"
+
+msgid "Decrease keyboard size"
+msgstr "کی بورڈ کا سائز کم کریں"
+
+msgid "Don't calculate"
+msgstr "حساب نہ کریں"
+
+msgid "Duty entity name results"
+msgstr "دائت نام کے نتائج"
+
+msgid "Duty entity type"
+msgstr "دائت کی قسم"
+
+msgid "Earth"
+msgstr "زمین"
+
+msgid "Element classification"
+msgstr "عنصر کی درجہ بندی"
+
+msgid "Element classification method"
+msgstr "عنصر کی درجہ بندی کا طریقہ"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "متن درج کریں... عربی، یہودی، ترکی حروف، اعداد"
+
+msgid "Entered data"
+msgstr "داخل شدہ ڈیٹا"
+
+msgid "Entry"
+msgstr "داخلہ"
+
+msgid "Entry letter count"
+msgstr "انٹری کے حروف کی گنتی"
+
+msgid "Evil"
+msgstr "بد"
+
+msgid "Fire"
+msgstr "آگ"
+
+msgid "For entered data"
+msgstr "داخل شدہ ڈیٹا کے لیے"
+
+msgid "Frequency in Quran"
+msgstr "قرآن میں تکرار"
+
+msgid "Gematria"
+msgstr "جماتریا"
+
+msgid "Hebrew"
+msgstr "یہودی"
+
+msgid "Hebrew alphabet elements"
+msgstr "یہودی الفابیٹ کے عناصر"
+
+msgid "Hebrew letters"
+msgstr "یہودی حروف"
+
+msgid "High"
+msgstr "اونچا"
+
+msgid "Hija order"
+msgstr "حجہ کا حکم"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "ہُڈِم"
+
+msgid "Huddam names hidden"
+msgstr "ہُڈِم کے نام چھپے"
+
+msgid "Huddam not calculated"
+msgstr "ہُڈِم حساب نہیں کیا گیا"
+
+msgid "Iklil's order"
+msgstr "ایکلیل کا حکم"
+
+msgid "Increase keyboard size"
+msgstr "کی بورڈ کا سائز بڑھائیں"
+
+msgid "Indian numbers"
+msgstr "ہندستانی اعداد"
+
+msgid "Interface language"
+msgstr "انٹرفیس زبان"
+
+msgid "Let character quantity decide"
+msgstr "حروف کی مقدار فیصلہ کرے"
+
+msgid "Letter count"
+msgstr "حروف کی گنتی"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "میرے پروجیکٹس پسند آئے؟ مجھے کافی خریدیں!"
+
+msgid "Low"
+msgstr "کم"
+
+msgid "Maghribian abjad"
+msgstr "مغربی ابجد"
+
+msgid "Maghribian hija order"
+msgstr "مغربی حجہ کا حکم"
+
+msgid "Minimum"
+msgstr "کم سے کم"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "اعداد پڑھنے کی زبان"
+
+msgid "Numerical values"
+msgstr "عددی اقدار"
+
+msgid "Open"
+msgstr "کھولیں"
+
+msgid "Order"
+msgstr "آرڈر"
+
+msgid "Possible phrases"
+msgstr "ممکنہ فقرے"
+
+msgid "Program settings"
+msgstr "پروگرام کے سیٹنگز"
+
+msgid "Pronunciation"
+msgstr "محکومہ"
+
+msgid "Regular expression"
+msgstr "ریگولر ایکسپریشن"
+
+msgid "Regularly preferred classification"
+msgstr "نظامی ترجیحی درجہ بندی"
+
+msgid "Reset"
+msgstr "ری سیٹ"
+
+msgid "Separators"
+msgstr "جدا کرنے والے"
+
+msgid "Settings"
+msgstr "سیٹنگز"
+
+msgid "Shamsee abjad order"
+msgstr "شمسی ابجد کا حکم"
+
+msgid "Show numpad"
+msgstr "نمبر پڈ دکھائیں"
+
+msgid "Show virtual keyboard"
+msgstr "ورچوئل کی بورڈ دکھائیں"
+
+msgid "Small"
+msgstr "چھوٹا"
+
+msgid "Small + letter count"
+msgstr "چھوٹا + حروف کی گنتی"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "مدد"
+
+msgid "Taken (letter)"
+msgstr "لیا گیا (حرف)"
+
+msgid "Taken (letter; abjad)"
+msgstr "لیا گیا (حرف; ابجد)"
+
+msgid "Taken Letters"
+msgstr "لیا گیا حروف"
+
+msgid "Text or number cell"
+msgstr "متن یا نمبر سیل"
+
+msgid "Thank you for your support!"
+msgstr "آپ کی مدد کا شکریہ!"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Turkish"
+msgstr "ترکی"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "ترکی الفابیٹ ابجد"
+
+msgid "Turkish alphabet elements"
+msgstr "ترکی الفابیٹ کے عناصر"
+
+msgid "Turkish letters"
+msgstr "ترکی حروف"
+
+msgid "Undefined characters"
+msgstr "غیر متعین حروف"
+
+msgid "Value"
+msgstr "قیمت"
+
+msgid "Value & Detail"
+msgstr "قیمت اور تفصیل"
+
+msgid "Version"
+msgstr "نسخہ"
+
+msgid "Water"
+msgstr "پانی"
+
+msgid "When data is entered"
+msgstr "جب ڈیٹا داخل ہو"
+
+msgid "When reading large digits"
+msgstr "بڑے اعداد پڑھتے وقت"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "ابجد حساب کیا گیا اور حرف کی گنتی شامل کی گئی"
+
+msgid "abjad() functions settings"
+msgstr "abjad() فنکشنز کے سیٹنگز"
+
+msgid "add to initial value"
+msgstr "ابتدائی قدر میں شامل کریں"
+
+msgid "and"
+msgstr "اور"
+
+msgid "auto calculate immediately"
+msgstr "خود بخود فوری حساب کریں"
+
+msgid "bast"
+msgstr "بَسٹ"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() اور nutket() فنکشنز کے سیٹنگز"
+
+msgid "count once"
+msgstr "ایک بار گنیں"
+
+msgid "count twice"
+msgstr "دو بار گنیں"
+
+msgid "display with Arabic numbers"
+msgstr "عربی اعداد کے ساتھ دکھائیں"
+
+msgid "display with Indian numbers"
+msgstr "ہندستانی اعداد کے ساتھ دکھائیں"
+
+msgid "do not add to initial value"
+msgstr "ابتدائی قدر میں شامل نہ کریں"
+
+msgid "do not force to other functions"
+msgstr "دوسرے فنکشنز پر مجبور نہ کریں"
+
+msgid "do not purify"
+msgstr "صفائی نہ کریں"
+
+msgid "force to other functions"
+msgstr "دوسرے فنکشنز پر مجبور کریں"
+
+msgid "group multiplier letters"
+msgstr "گروپ ملٹیپلائر حروف"
+
+msgid "hide"
+msgstr "چھپائیں"
+
+msgid "hide abjad values"
+msgstr "ابجد کی قدر چھپائیں"
+
+msgid "hide bast results"
+msgstr "بَسٹ کے نتائج چھپائیں"
+
+msgid "hide huddam names"
+msgstr "ہُڈِم کے نام چھپائیں"
+
+msgid "huddam() function settings"
+msgstr "huddam() فنکشن کے سیٹنگز"
+
+msgid "no bast applied."
+msgstr "کوئی بَسٹ نہیں لگایا گیا."
+
+msgid "no data entered"
+msgstr "کوئی ڈیٹا داخل نہیں ہوا"
+
+msgid "other suffix"
+msgstr "دوسرا پسوند"
+
+msgid "purify data"
+msgstr "ڈیٹا صاف کریں"
+
+msgid "repeat multiplier for each digit"
+msgstr "ہر عدد کے لیے ملٹیپلائر بار بار کریں"
+
+msgid "show"
+msgstr "دکھائیں"
+
+msgid "show abjad values"
+msgstr "ابجد کی قدر دکھائیں"
+
+msgid "show bast results"
+msgstr "بَسٹ کے نتائج دکھائیں"
+
+msgid "show huddam names"
+msgstr "ہُڈِم کے نام دکھائیں"
+
+msgid "suffix"
+msgstr "پسوند"
+
+msgid "times bast applied."
+msgstr "بَسٹ کئی بار لگایا گیا."
+
+msgid "use calculated abjad results"
+msgstr "حساب شدہ ابجد کے نتائج استعمال کریں"
+
+msgid "use calculated abjad total"
+msgstr "حساب شدہ ابجد کا مجموعہ استعمال کریں"
+
+msgid "use calculated bast results"
+msgstr "حساب شدہ بَسٹ کے نتائج استعمال کریں"
+
+msgid "use entered data directly"
+msgstr "داخل شدہ ڈیٹا براہِ راست استعمال کریں"
+
+msgid "use entered data total"
+msgstr "داخل شدہ ڈیٹا کا مجموعہ استعمال کریں"
+
+msgid "use in all bast repetitions"
+msgstr "تمام بَسٹ کے بار بار میں استعمال کریں"
+
+msgid "use only at beginning if possible"
+msgstr "اگر ممکن ہو تو صرف شروع میں استعمال کریں"
+
+msgid "wait for settings and data entry"
+msgstr "سیٹنگز اور ڈیٹا انٹری کا انتظار کریں"
