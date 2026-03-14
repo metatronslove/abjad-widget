@@ -1,0 +1,296 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Spanish (Uruguay) <es_UY>\n"
+"Language: es-UY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad Widget"
+msgstr "Widget Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Widget görünümünü özelleştirmek için özel CSS ekleyin."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Widget davranışını değiştirmek için özel JavaScript ekleyin. Yanlış kod "
+"widget'ı bozabilir!"
+
+msgid "An error occurred while loading content."
+msgstr "İçerik yüklenirken bir hata oluştu."
+
+msgid "Button"
+msgstr "Botón"
+
+msgid "Button Color"
+msgstr "Color del Botón"
+
+msgid "Button Emoji"
+msgstr "Emoji del Botón"
+
+msgid "Button Message"
+msgstr "Mensaje del Botón"
+
+msgid "Button Settings"
+msgstr "Configuración del Botón"
+
+msgid "Button Type"
+msgstr "Tipo de Botón"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "CSS saved successfully."
+msgstr "CSS başarıyla kaydedildi."
+
+msgid "Check this box to activate the widget."
+msgstr "Widget'i etkinleştirmek için bu kutuyu işaretleyin."
+
+msgid "Code Editor"
+msgstr "Editor de Código"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Komplo Teorisyenleri ve Alternatif Düşünürler"
+
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Personalizado"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Resim URL'sini girin"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Ejemplo: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Historians and Linguists"
+msgstr "Tarihçiler ve Dil Bilimcileri"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Projeyi beğendiyseniz, bana bir kahve ısmarlayabilirsiniz!"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript başarıyla kaydedildi."
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Live Preview"
+msgstr "Canlı Önizleme"
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologlar ve Gematriya Meraklıları"
+
+msgid "PNG Image URL"
+msgstr "PNG Resim URL'si"
+
+msgid "Paste SVG code"
+msgstr "SVG kodunu yapıştır"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Kişilik Özellikleri: Analitik, ayrıntı odaklı ve sayıların ve dilin "
+"ilişkisine hayran. Sembolik anlamları çözmekten hoşlanabilirler. Meslekler: "
+"Serbest numerologlar, esoterik konularda yazarlar veya numerolojiye ilgi "
+"duyan hobi severler. İdeolojik Spektrum: Numerolojiyi eğlenceli bir "
+"entelektüel egzersiz olarak görenlerden, onun derin bir ruhani öneme sahip "
+"olduğuna inananlara kadar değişebilir."
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Kişilik Özellikleri: Yaratıcı, hayal gücüne sahip ve sembolik ya da soyut "
+"kavramlara ilgi duyan. Araçları ilham almak veya çalışmalarına anlam katmak "
+"için kullanabilirler. Meslekler: Yazarlar, şairler, görsel sanatçılar veya "
+"müzisyenler. İdeolojik Spektrum: Seküler yaratıcılardan, ruhani veya mistik "
+"eğilimli kişilerle değişebilir."
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Kişilik Özellikleri: Meraklı, içe dönük, açık fikirli ve esoterik bilgiye "
+"ilgi duyan. Hayatta gizli anlamları veya desenleri keşfetmeye yönelik güçlü "
+"bir ilgiye sahip olabilirler. Meslekler: Spiritüel koçlar, tarot "
+"okuyucuları, astroloğunlar veya Yeni Çağ uygulamalarına dahil kişiler. "
+"İdeolojik Spektrum: Muhtemelen ruhani veya metafizik inançlara yönelir. "
+"Araçları daha derin gerçeklere veya evrensel enerjilere bağlanmak için bir "
+"yol olarak görebilirler."
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Kişilik Özellikleri: İnancı derinleştirmeye çalışan, yansıtan ve inançlarına"
+" derin bağlar arayan. Araçları dini metinleri veya ilahi mesajları keşfetmek"
+" için kullanabilirler. Meslekler: Din bilimcileri, imamlar, rahipler veya "
+"inançlarının mistik geleneklerine büyük ilgi duyan laikler. İdeolojik "
+"Spektrum: Muhtemelen geleneksel veya muhafazakar bir dünya görüşüne sahiptir"
+" ve araçları ruhani inançlarını pekiştirmek için kullanır."
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Kişilik Özellikleri: Şakacı, entelektüel meraklı ve karmaşık problemleri "
+"çözmekten veya desenleri çözümlemekten keyif alan. Meslekler: Hobi severler,"
+" bulmaca tasarımcıları veya eğitimciler. İdeolojik Spektrum: Araçları "
+"eğlence veya zihinsel egzersiz olarak görebilir, az ideolojik bağlanma "
+"olabilir."
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Kişilik Özellikleri: Bilimsel, metodik ve Abjad gibi sayısal sistemlerin "
+"tarihsel veya kültürel bağlamlarına ilgi duyan. Meslekler: Akademisyenler, "
+"araştırmacılar veya Orta Doğu dilleri, tarih veya dini metinler üzerinde "
+"çalışan öğrenciler. İdeolojik Spektrum: Muhtemelen araçları seküler, "
+"akademik bir bakış açısıyla ele alır, tarihsel veya dilsel öneme odaklanır."
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Kişilik Özellikleri: Ana akım anlatılarına şüpheci, sistemlerde gizli "
+"gerçekleri veya desenleri keşfetmeye ilgi duyan. Meslekler: Bağımsız "
+"araştırmacılar, blog yazarları veya aktivistler. İdeolojik Spektrum: Daha "
+"radikal veya gelenek dışı bir dünya görüşüne sahip olabilir, araçları "
+"alternatif teorileri veya anlatıları desteklemek için kullanır."
+
+msgid "Please enter a valid URL."
+msgstr "Geçerli bir URL girin."
+
+msgid "Position"
+msgstr "Pozisyon"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Bulmaca ve Zeka Meraklıları"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Dini veya İnanç Temelli Bireyler"
+
+msgid "Reset to Default"
+msgstr "Varsayılana Sıfırla"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "SVG Code"
+msgstr "SVG Kodu"
+
+msgid "Save CSS"
+msgstr "Guardar CSS"
+
+msgid "Save JavaScript"
+msgstr "Guardar JavaScript"
+
+msgid "Save Settings"
+msgstr "Guardar Configuración"
+
+msgid "Settings saved successfully."
+msgstr "Ayarlar başarıyla kaydedildi."
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Spiritüel Arayanlar ve Mistikler"
+
+msgid "Style Editor"
+msgstr "Stil Düzenleyici"
+
+msgid "Thank you! 🙏"
+msgstr "Teşekkür ederim! 🙏"
+
+msgid "WARNING"
+msgstr "UYARI"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Hoş geldiniz! Bu panel üzerinden widget haberlerini ve duyuruları takip "
+"edebilirsiniz."
+
+msgid "Widget Settings"
+msgstr "Widget Ayarları"
+
+msgid "Widget Status"
+msgstr "Widget Durumu"
+
+msgid "Widget active"
+msgstr "Widget aktif"
+
+msgid "Writers and Artists"
+msgstr "Yazarlar ve Sanatçılar"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Yanlış JavaScript kodu widget'ı bozabilir. Değişiklik yapmadan önce yedek "
+"alın."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Buy Me a Coffee kullanıcı adınız"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Değişiklikleriniz doğrudan widget görünümünü etkiler. CSS bilginiz yoksa "
+"varsayılan ayarları kullanmanız önerilir."
+
+msgid "☕ Support the Project"
+msgstr "☕ Projeyi Destekle"
