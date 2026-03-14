@@ -1,0 +1,529 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://one.fanclub.rocks/wordpress-abjad-widget\n"
+"Last-Translator: Ollama gpt-oss:20b <maviveyesil83@gmail.com>\n"
+"Language-Team: Chinese (Singapore) <zh_SG>\n"
+"Language: zh-SG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Batch Translator v5.0\n"
+
+msgid "Abjad"
+msgstr "阿卜札"
+
+msgid "Abjad Settings"
+msgstr "阿卜札设置"
+
+msgid "Abjad Value"
+msgstr "阿卜札值"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Gösterge Paneli"
+
+msgid "Abjad calculation results"
+msgstr "阿卜札计算结果"
+
+msgid "Abjad calculations hidden"
+msgstr "隐藏阿卜札计算"
+
+msgid "Abjad not calculated"
+msgstr "未计算阿卜札"
+
+msgid "Abjad order"
+msgstr "阿卜札顺序"
+
+msgid "Add elements"
+msgstr "添加元素"
+
+msgid "Ahmad al Buni"
+msgstr "艾哈迈德·阿尔·布尼"
+
+msgid "Air"
+msgstr "空气"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+msgid "Arabic letters"
+msgstr "阿拉伯字母"
+
+msgid "Arabic numbers"
+msgstr "阿拉伯数字"
+
+msgid "As data for operation"
+msgstr "作为操作数据"
+
+msgid "Bast loop results"
+msgstr "巴斯特循环结果"
+
+msgid "Bast not calculated"
+msgstr "未计算巴斯特"
+
+msgid "Bast repetition count"
+msgstr "巴斯特重复计数"
+
+msgid "Bast results hidden"
+msgstr "隐藏巴斯特结果"
+
+msgid "Bastet"
+msgstr "巴斯特"
+
+msgid "Bastet order"
+msgstr "巴斯特顺序"
+
+msgid "Bastet shadda"
+msgstr "巴斯特夏达"
+
+msgid "Bastet table"
+msgstr "巴斯特表"
+
+msgid "Big"
+msgstr "大"
+
+msgid "Bigger"
+msgstr "更大"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee Kimliği"
+
+msgid "Buy me a coffee"
+msgstr "请给我买杯咖啡"
+
+msgid "Calculate"
+msgstr "计算"
+
+msgid "Calculate Abjad"
+msgstr "计算阿卜札"
+
+msgid "Calculate Bastet"
+msgstr "计算巴斯特"
+
+msgid "Calculate Huddam"
+msgstr "计算胡达姆"
+
+msgid "Calculation details"
+msgstr "计算详情"
+
+msgid "Choose Keyboard Layout"
+msgstr "选择键盘布局"
+
+msgid "Clear text box"
+msgstr "清除文本框"
+
+msgid "Click row for details"
+msgstr "点击行查看详情"
+
+msgid "Close Keyboard"
+msgstr "关闭键盘"
+
+msgid "Closed"
+msgstr "已关闭"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "逗号是默认分隔符，必须保持勾选！"
+
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+msgid "Data entry separators:"
+msgstr "数据输入分隔符："
+
+msgid "Data type profile"
+msgstr "数据类型配置"
+
+msgid "Dead keys"
+msgstr "死键"
+
+msgid "Decrease keyboard size"
+msgstr "减小键盘尺寸"
+
+msgid "Don't calculate"
+msgstr "不计算"
+
+msgid "Duty entity name results"
+msgstr "职务实体名称结果"
+
+msgid "Duty entity type"
+msgstr "职务实体类型"
+
+msgid "Earth"
+msgstr "地球"
+
+msgid "Element classification"
+msgstr "元素分类"
+
+msgid "Element classification method"
+msgstr "元素分类方法"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "输入文本... 阿拉伯语、希伯来语、土耳其语字母、数字"
+
+msgid "Entered data"
+msgstr "已输入数据"
+
+msgid "Entry"
+msgstr "条目"
+
+msgid "Entry letter count"
+msgstr "条目字母计数"
+
+msgid "Evil"
+msgstr "邪恶"
+
+msgid "Fire"
+msgstr "火"
+
+msgid "For entered data"
+msgstr "针对已输入数据"
+
+msgid "Frequency in Quran"
+msgstr "《古兰经》出现频率"
+
+msgid "Gematria"
+msgstr "数字学"
+
+msgid "Hebrew"
+msgstr "希伯来语"
+
+msgid "Hebrew alphabet elements"
+msgstr "希伯来字母元素"
+
+msgid "Hebrew letters"
+msgstr "希伯来字母"
+
+msgid "High"
+msgstr "高"
+
+msgid "Hija order"
+msgstr "希贾顺序"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "胡达姆"
+
+msgid "Huddam names hidden"
+msgstr "隐藏胡达姆名称"
+
+msgid "Huddam not calculated"
+msgstr "未计算胡达姆"
+
+msgid "Iklil's order"
+msgstr "Iklil的顺序"
+
+msgid "Increase keyboard size"
+msgstr "增大键盘尺寸"
+
+msgid "Indian numbers"
+msgstr "印度数字"
+
+msgid "Interface language"
+msgstr "界面语言"
+
+msgid "Let character quantity decide"
+msgstr "让字符数量决定"
+
+msgid "Letter count"
+msgstr "字母计数"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "喜欢我的项目？请给我买杯咖啡！"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Maghribian abjad"
+msgstr "马格里比安阿卜札"
+
+msgid "Maghribian hija order"
+msgstr "马格里比安希贾顺序"
+
+msgid "Minimum"
+msgstr "最小值"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "穆希伊丁·伊本·阿拉比"
+
+msgid "Number reading language"
+msgstr "数字阅读语言"
+
+msgid "Numerical values"
+msgstr "数值"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Order"
+msgstr "顺序"
+
+msgid "Possible phrases"
+msgstr "可能的短语"
+
+msgid "Program settings"
+msgstr "程序设置"
+
+msgid "Pronunciation"
+msgstr "发音"
+
+msgid "Regular expression"
+msgstr "正则表达式"
+
+msgid "Regularly preferred classification"
+msgstr "常用分类"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Separators"
+msgstr "分隔符"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Shamsee abjad order"
+msgstr "沙姆西阿卜札顺序"
+
+msgid "Show numpad"
+msgstr "显示小键盘"
+
+msgid "Show virtual keyboard"
+msgstr "显示虚拟键盘"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small + letter count"
+msgstr "小 + 字母计数"
+
+msgid "Sulayman al Huseyni"
+msgstr "苏莱曼·阿尔·胡赛尼"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Taken (letter)"
+msgstr "已取（字母）"
+
+msgid "Taken (letter; abjad)"
+msgstr "已取（字母；阿卜札）"
+
+msgid "Taken Letters"
+msgstr "已取字母"
+
+msgid "Text or number cell"
+msgstr "文本或数字单元"
+
+msgid "Thank you for your support!"
+msgstr "感谢您的支持！"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Turkish"
+msgstr "土耳其语"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "土耳其字母表阿卜札"
+
+msgid "Turkish alphabet elements"
+msgstr "土耳其字母元素"
+
+msgid "Turkish letters"
+msgstr "土耳其字母"
+
+msgid "Undefined characters"
+msgstr "未定义字符"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Value & Detail"
+msgstr "值 & 详情"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Water"
+msgstr "水"
+
+msgid "When data is entered"
+msgstr "当数据已输入"
+
+msgid "When reading large digits"
+msgstr "阅读大数字时"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "已计算阿卜札并添加字母计数"
+
+msgid "abjad() functions settings"
+msgstr "abjad() 函数设置"
+
+msgid "add to initial value"
+msgstr "添加到初始值"
+
+msgid "and"
+msgstr "和"
+
+msgid "auto calculate immediately"
+msgstr "立即自动计算"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() 和 nutket() 函数设置"
+
+msgid "count once"
+msgstr "计数一次"
+
+msgid "count twice"
+msgstr "计数两次"
+
+msgid "display with Arabic numbers"
+msgstr "以阿拉伯数字显示"
+
+msgid "display with Indian numbers"
+msgstr "以印度数字显示"
+
+msgid "do not add to initial value"
+msgstr "不添加到初始值"
+
+msgid "do not force to other functions"
+msgstr "不强制转移到其他函数"
+
+msgid "do not purify"
+msgstr "不净化"
+
+msgid "force to other functions"
+msgstr "强制转移到其他函数"
+
+msgid "group multiplier letters"
+msgstr "分组乘数字母"
+
+msgid "hide"
+msgstr "隐藏"
+
+msgid "hide abjad values"
+msgstr "隐藏阿卜札值"
+
+msgid "hide bast results"
+msgstr "隐藏巴斯特结果"
+
+msgid "hide huddam names"
+msgstr "隐藏胡达姆名称"
+
+msgid "huddam() function settings"
+msgstr "huddam() 函数设置"
+
+msgid "no bast applied."
+msgstr "未应用巴斯特。"
+
+msgid "no data entered"
+msgstr "未输入数据"
+
+msgid "other suffix"
+msgstr "其他后缀"
+
+msgid "purify data"
+msgstr "净化数据"
+
+msgid "repeat multiplier for each digit"
+msgstr "为每位数字重复乘数"
+
+msgid "show"
+msgstr "显示"
+
+msgid "show abjad values"
+msgstr "显示阿卜札值"
+
+msgid "show bast results"
+msgstr "显示巴斯特结果"
+
+msgid "show huddam names"
+msgstr "显示胡达姆名称"
+
+msgid "suffix"
+msgstr "后缀"
+
+msgid "times bast applied."
+msgstr "次已应用巴斯特。"
+
+msgid "use calculated abjad results"
+msgstr "使用已计算阿卜札结果"
+
+msgid "use calculated abjad total"
+msgstr "使用已计算阿卜札总计"
+
+msgid "use calculated bast results"
+msgstr "使用已计算巴斯特结果"
+
+msgid "use entered data directly"
+msgstr "直接使用已输入数据"
+
+msgid "use entered data total"
+msgstr "使用已输入数据总计"
+
+msgid "use in all bast repetitions"
+msgstr "在所有巴斯特重复中使用"
+
+msgid "use only at beginning if possible"
+msgstr "仅在可能时在开头使用"
+
+msgid "wait for settings and data entry"
+msgstr "等待设置和数据输入"
