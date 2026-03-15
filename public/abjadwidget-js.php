@@ -2931,9 +2931,12 @@ function calculations(identity) {
 
 	initiators.forEach(el => {
 		el.addEventListener('click', () => {
-			document.addEventListener('scroll', function onScroll() {
-				const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-			});
+			// Get current scrollTop
+			const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+			console.log('ScrollTop at click:', currentScroll);
+
+			// Or set scrollTop (e.g., scroll to top)
+			window.scrollTo(0, 0);
 		});
 	});
 
