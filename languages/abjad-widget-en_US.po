@@ -658,8 +658,7 @@ msgid "WARNING"
 msgstr "WARNING"
 
 msgid "Welcome! You can follow widget news and announcements from this panel."
-msgstr ""
-"Welcome! You can follow widget news and announcements from this panel."
+msgstr "Welcome! You can follow widget news and announcements from this panel."
 
 msgid "Widget Settings"
 msgstr "Widget Settings"
@@ -819,3 +818,15 @@ msgstr "Buy Me A Coffee"
 
 msgid "Thank you! 🙏"
 msgstr "Thank you! 🙏"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Use external dashboard (iframe)"
+msgstr "Use external dashboard (iframe)"
+
+msgid "Uncheck to see local content instead of the remote dashboard."
+msgstr "Uncheck to see local content instead of the remote dashboard."
+
+msgid "Save Preference"
+msgstr "Save Preference"
