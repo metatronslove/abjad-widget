@@ -1,0 +1,798 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Amharic <am_ET>\n"
+"Language: am-ET\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "የAbjad ቅንብር"
+
+msgid "Abjad Value"
+msgstr "Abjad ዋጋ"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget ደሽቦርድ"
+
+msgid "Abjad calculation results"
+msgstr "Abjad ውጤቶች"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad ውጤቶች የተደበቀ"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ማቀናበሪያ አልተከናወነም"
+
+msgid "Abjad order"
+msgstr "Abjad ቅደም ተከተል"
+
+msgid "Add elements"
+msgstr "አባላት ያክል"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "አየር"
+
+msgid "All"
+msgstr "ሁሉም"
+
+msgid "Arabic"
+msgstr "አረብ"
+
+msgid "Arabic letters"
+msgstr "አረብ ፊደሎች"
+
+msgid "Arabic numbers"
+msgstr "አረብ ቁጥሮች"
+
+msgid "As data for operation"
+msgstr "እንደ ተግባር ውሂብ"
+
+msgid "Bast loop results"
+msgstr "Bast ውጤቶች"
+
+msgid "Bast not calculated"
+msgstr "Bast ማቀናበሪያ አልተከናወነም"
+
+msgid "Bast repetition count"
+msgstr "Bast የመድገር ቁጥር"
+
+msgid "Bast results hidden"
+msgstr "Bast ውጤቶች የተደበቀ"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet ቅደም ተከተል"
+
+msgid "Bastet shadda"
+msgstr "Bastet ሽሰው"
+
+msgid "Bastet table"
+msgstr "Bastet ሰንጠረዥ"
+
+msgid "Big"
+msgstr "ትልቅ"
+
+msgid "Bigger"
+msgstr "በላይ ትልቅ"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "አንድ ኬፍሪያ ለኔ"
+
+msgid "Calculate"
+msgstr "ለቀል"
+
+msgid "Calculate Abjad"
+msgstr "Abjad ለቀል"
+
+msgid "Calculate Bastet"
+msgstr "ባስተት አቋርጥ"
+
+msgid "Calculate Huddam"
+msgstr "Huddam አቋርጥ"
+
+msgid "Calculation details"
+msgstr "የአቋርጥ ዝርዝር"
+
+msgid "Choose Keyboard Layout"
+msgstr "ቁልፍ ቅርጽ ይምረጡ"
+
+msgid "Clear text box"
+msgstr "ጽሑፍ ቦት አጠፉ"
+
+msgid "Click row for details"
+msgstr "ዝርዝር ለማግኘት ርዝም ጠቅ ያድርጉ"
+
+msgid "Close Keyboard"
+msgstr "ቁልፍ ቅርጽ ይዝጉ"
+
+msgid "Closed"
+msgstr "ዝግቷል"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "ኮማ በነባር ተለዋዋጭ ነው እና ይቀጠል!"
+
+msgid "Dashboard"
+msgstr "ዳሽቦርድ"
+
+msgid "Data entry separators:"
+msgstr "ውሂብ ግባች አቋርጭ።"
+
+msgid "Data type profile"
+msgstr "የውሂብ ዓይነት ፕሮፋይል"
+
+msgid "Dead keys"
+msgstr "ጠፈራ ቁልፎች"
+
+msgid "Decrease keyboard size"
+msgstr "ቁልፍ ቅርጽ አቅርበት"
+
+msgid "Don't calculate"
+msgstr "አቋርጥ አትድርግ"
+
+msgid "Duty entity name results"
+msgstr "የተግባር አካል ስም ውጤቶች"
+
+msgid "Duty entity type"
+msgstr "የተግባር አይነት"
+
+msgid "Earth"
+msgstr "ምድር"
+
+msgid "Element classification"
+msgstr "አካል ስርዓት"
+
+msgid "Element classification method"
+msgstr "አካል ስርዓት ዘዴ"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "ጽሑፍ ያስገቡ... አረብኛ, ኢብራስያ, ቱርክ ቁምፅ, ቁጥር"
+
+msgid "Entered data"
+msgstr "የተጠቀሰው ውሂብ"
+
+msgid "Entry"
+msgstr "ግባች"
+
+msgid "Entry letter count"
+msgstr "ግባች ቅርጸ ቁምፅ ቁጥር"
+
+msgid "Evil"
+msgstr "ግርት"
+
+msgid "Fire"
+msgstr "እንክንያት"
+
+msgid "For entered data"
+msgstr "ለውሂብ ይተነስ"
+
+msgid "Frequency in Quran"
+msgstr "በኩርአን ውስጥ ተደጋጠም"
+
+msgid "Gematria"
+msgstr "ጊሜታሪያ"
+
+msgid "Hebrew"
+msgstr "ኢብራስያ"
+
+msgid "Hebrew alphabet elements"
+msgstr "የእብረይ ፊደላት አበዝ"
+
+msgid "Hebrew letters"
+msgstr "የእብረይ ፊደላት"
+
+msgid "High"
+msgstr "ከፍ"
+
+msgid "Hija order"
+msgstr "Hija ቅደም ተከተል"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam ስሞች የተደበተ"
+
+msgid "Huddam not calculated"
+msgstr "Huddam አልተቀጠለም"
+
+msgid "Iklil's order"
+msgstr "Iklil ቅደም ተከተል"
+
+msgid "Increase keyboard size"
+msgstr "ቁልፍ ስፋት ይጨምር"
+
+msgid "Indian numbers"
+msgstr "የሕንድ ቁጥሮች"
+
+msgid "Interface language"
+msgstr "የተግባር ቋንቋ"
+
+msgid "Let character quantity decide"
+msgstr "የፊደል ብዛት ይወስድ"
+
+msgid "Letter count"
+msgstr "ፊደል ቁጥር"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "ፕሮግራሞቼን ይወዱ? አንድ ቡኒ አስገባ!"
+
+msgid "Low"
+msgstr "ዝቅ"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "ዝቅተኛ"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "የቁጥር አንቀበት ቋንቋ"
+
+msgid "Numerical values"
+msgstr "ቁጥር እና ዋጋዎች"
+
+msgid "Open"
+msgstr "ክፈት"
+
+msgid "Order"
+msgstr "ቅደም ተከተል"
+
+msgid "Possible phrases"
+msgstr "ተደጋጋሚ የሚችሉ ቃላቶች"
+
+msgid "Program settings"
+msgstr "ፕሮግራም ቅኝት"
+
+msgid "Pronunciation"
+msgstr "ቅናት"
+
+msgid "Regular expression"
+msgstr "ተደጋጋሚ ምልክት"
+
+msgid "Regularly preferred classification"
+msgstr "ተደጋጋሚ የተወሰነ ክፍያ"
+
+msgid "Reset"
+msgstr "አድርግ"
+
+msgid "Separators"
+msgstr "ማስወሰኛዎች"
+
+msgid "Settings"
+msgstr "ቅኝት"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad ቅድም"
+
+msgid "Show numpad"
+msgstr "ቁጥር ቦት አሳይ"
+
+msgid "Show virtual keyboard"
+msgstr "የተለዋዋጭ ቁስል አሳይ"
+
+msgid "Small"
+msgstr "ትንሽ"
+
+msgid "Small + letter count"
+msgstr "ትንሽ + ፊደል ቁጥር"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "ድጋፍ"
+
+msgid "Taken (letter)"
+msgstr "ተወሰነ (ፊደል)"
+
+msgid "Taken (letter; abjad)"
+msgstr "ተወሰነ (ፊደል; abjad)"
+
+msgid "Taken Letters"
+msgstr "የተወሰኑ ፊደሎች"
+
+msgid "Text or number cell"
+msgstr "ጽሑፍ ወይም ቁጥር ክፍል"
+
+msgid "Thank you for your support!"
+msgstr "ድጋፍዎን አመሰግናለሁ!"
+
+msgid "Total"
+msgstr "አጠቃላይ"
+
+msgid "Turkish"
+msgstr "ቱርክኛ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "ቱርክ አልፕለቤ Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "ቱርክ አልፕለቤ አካላት"
+
+msgid "Turkish letters"
+msgstr "ቱርክ ፊደሎች"
+
+msgid "Undefined characters"
+msgstr "የማይታወቀው ባለቤት"
+
+msgid "Value"
+msgstr "ዋጋ"
+
+msgid "Value & Detail"
+msgstr "ዋጋ & ዝርዝር"
+
+msgid "Version"
+msgstr "እትም"
+
+msgid "Water"
+msgstr "ውሃ"
+
+msgid "When data is entered"
+msgstr "ውሂብ ተጠቀምተው በጊዜ"
+
+msgid "When reading large digits"
+msgstr "ትልቅ ቁጥሮችን በተንበብ በጊዜ"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "አቤጅ ተቀርቦ እና ፊደል ቁጥር ተጨምሮ"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ተግባር ቅኝት"
+
+msgid "add to initial value"
+msgstr "መሠረት ዋጋ ወደ ጨምር"
+
+msgid "and"
+msgstr "እና"
+
+msgid "auto calculate immediately"
+msgstr "በራስ ተቀርቦ በተንሸራታች ጊዜ"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() እና nutket() ተግባር ቅኝት"
+
+msgid "count once"
+msgstr "አንድ ጊዜ ተመዝግቦ"
+
+msgid "count twice"
+msgstr "ሁለት ጊዜ ተመዝግቦ"
+
+msgid "display with Arabic numbers"
+msgstr "አራብ ቁጥሮች ጋር ይታይ"
+
+msgid "display with Indian numbers"
+msgstr "ኢንድ ቁጥሮች ጋር ይታይ"
+
+msgid "do not add to initial value"
+msgstr "ወደ መነሻ ዋጋ አትጨምር"
+
+msgid "do not force to other functions"
+msgstr "ሌሎች ተግባሮች አትገባ"
+
+msgid "do not purify"
+msgstr "ጠበቅ አትደርግ"
+
+msgid "force to other functions"
+msgstr "force to other functions"
+
+msgid "group multiplier letters"
+msgstr "ቡድን የተደጋገረ ፊደሎች"
+
+msgid "hide"
+msgstr "ደብቅ"
+
+msgid "hide abjad values"
+msgstr "abjad ዋጎች ደብቅ"
+
+msgid "hide bast results"
+msgstr "ባስት ውጤቶችን ደብደብ"
+
+msgid "hide huddam names"
+msgstr "ሁድማ ስሞችን ደብደብ"
+
+msgid "huddam() function settings"
+msgstr "huddam() ተግባር ቅንብሮች"
+
+msgid "no bast applied."
+msgstr "ባስት አልተተገበረም"
+
+msgid "no data entered"
+msgstr "ውሂብ የለም"
+
+msgid "other suffix"
+msgstr "ሌላ አትም"
+
+msgid "purify data"
+msgstr "ውሂብን አጽዳ"
+
+msgid "repeat multiplier for each digit"
+msgstr "ለየትኛውም ቁምፊ ደግሞ ብዛት"
+
+msgid "show"
+msgstr "አሳይ"
+
+msgid "show abjad values"
+msgstr "Abjad ዋጋዎችን አሳይ"
+
+msgid "show bast results"
+msgstr "ባስት ውጤቶችን አሳይ"
+
+msgid "show huddam names"
+msgstr "huddam ስሞችን አሳይ"
+
+msgid "suffix"
+msgstr "አትም"
+
+msgid "times bast applied."
+msgstr "ባስት በጊዜ ተጠቅሟል"
+
+msgid "use calculated abjad results"
+msgstr "የተቆጣጠረውን Abjad ውጤቶች ይጠቀሙ"
+
+msgid "use calculated abjad total"
+msgstr "የተቆጣጠረውን Abjad ጠቅላላ ይጠቀሙ"
+
+msgid "use calculated bast results"
+msgstr "የተቆጣጠረውን bast ውጤቶች ይጠቀሙ"
+
+msgid "use entered data directly"
+msgstr "የተጨምረውን ውሂብ በቀጣይ ይጠቀሙ"
+
+msgid "use entered data total"
+msgstr "የተጨምረውን ውሂብ ጠቅላላ ይጠቀሙ"
+
+msgid "use in all bast repetitions"
+msgstr "በሁሉም bast ተደጋጠሚዎች ውስጥ ይጠቀሙ"
+
+msgid "use only at beginning if possible"
+msgstr "ቢያስችል በመጀመሪያ ብቻ ይጠቀሙ"
+
+msgid "wait for settings and data entry"
+msgstr "ቅንብሮችን እና ውሂብ መጨምር ይጠብቁ"
+
+msgid "Abjad Table"
+msgstr "Abjad ተቀባይ"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "ዝርዝር"
+
+msgid "Element Classification"
+msgstr "አካል አይነት"
+
+msgid "Abjad Order"
+msgstr "Abjad ቅድሚያ"
+
+msgid "Abjad Widget"
+msgstr "Abjad ተቀማጭ"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "ለተቀማጭ ውስብስብ ለማሻሻል በተለያዩ የCSS አቀራረብ ይጨምሩ።"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"ተቀማጭ ተግባር ለማሻሻል የJavaScript አቀራረብ ይጨምሩ። የትክክል ኮድ የማይሆን ኮድ ተቀማጭን ይጉልባት!"
+
+msgid "An error occurred while loading content."
+msgstr "የይዘት አቀራረብ በተጫና ላይ ስህተት አለ።"
+
+msgid "Button"
+msgstr "ቁልፍ"
+
+msgid "Button Color"
+msgstr "ቁልፍ ቀለም"
+
+msgid "Button Emoji"
+msgstr "ቁልፍ ኤምሮ"
+
+msgid "Button Message"
+msgstr "ቁልፍ መልእክት"
+
+msgid "Button Settings"
+msgstr "ቁልፍ ቅንብሮች"
+
+msgid "Button Type"
+msgstr "ቁልፍ አይነት"
+
+msgid "CSS saved successfully."
+msgstr "CSS ተቀምጧል።"
+
+msgid "Check this box to activate the widget."
+msgstr "ይህን ቦክስ ማስተካከል ይወዳድሩ ዊጅትን አክትፈን ለማድረግ።"
+
+msgid "Code Editor"
+msgstr "ኮድ አርተር"
+
+msgid "Custom CSS"
+msgstr "ተለየ CSS"
+
+msgid "Custom JavaScript"
+msgstr "ተለየ JavaScript"
+
+msgid "Description"
+msgstr "መግለጫ"
+
+msgid "Emoji"
+msgstr "ኤምሮ"
+
+msgid "Enter image URL"
+msgstr "ምስል የURL አስገባ"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "ምሳሌ፡ 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "አጠቃላይ"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ተቀምጧል።"
+
+msgid "Left"
+msgstr "ግራ"
+
+msgid "Live Preview"
+msgstr "ቅርብ አቀራረብ"
+
+msgid "Loading..."
+msgstr "በመጫን ላይ..."
+
+msgid "PNG Image URL"
+msgstr "PNG ምስል URL"
+
+msgid "Paste SVG code"
+msgstr "SVG ኮድ አስገባ"
+
+msgid "Please enter a valid URL."
+msgstr "እባክዎ ትክክለኛ የURL አስገባ"
+
+msgid "Position"
+msgstr "ቦታ"
+
+msgid "Reset to Default"
+msgstr "ወደ ነባር ይለወጡ"
+
+msgid "Right"
+msgstr "ቅኝ"
+
+msgid "SVG Code"
+msgstr "SVG ኮድ"
+
+msgid "Save CSS"
+msgstr "CSS አስቀምጥ"
+
+msgid "Save JavaScript"
+msgstr "JavaScript አስቀምጥ"
+
+msgid "Save Settings"
+msgstr "ቅንብሮችን አስቀምጥ"
+
+msgid "Settings saved successfully."
+msgstr "ቅንብሮች በተሳካ ሁኔታ ተቀምጠዋል።"
+
+msgid "Style Editor"
+msgstr "ባህርይ አርተዋይ"
+
+msgid "WARNING"
+msgstr "ማስጠንቀቂያ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "እንኳን ደህና መጡ! ይህን ፓናል ከተጠቀሙ ዋይጅት ዜናዎችና ማስታወቂያዎችን ይከተላሉ።"
+
+msgid "Widget Settings"
+msgstr "ዋይጅት ቅንብሮች"
+
+msgid "Widget Status"
+msgstr "ዋይጅት ሁኔታ"
+
+msgid "Widget active"
+msgstr "ዋይጅት አደርገው ነው"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "በስር ያለው የJavaScript ኮድ ዋይጅቱን ሊከተት ይችላል። ቀይር በፊት ማስተናገድ ይደርስ።"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "የ Buy Me a Coffee ተጠቃሚ ስም"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"የማስተካከያዎች ቀጣይ ዋይጅቱ በቀጥታ ይተላለፋል። CSS የማይወቁ ቢሆኑም የሚሰሩት አድራሻ ውስጥ በመደበኛ ቅንብሮች "
+"ይጠቀሙ ይቻላል።"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad ዋይጅት - የአካባቢ ዳሽቦርድ"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "የማስተዋል ፈለግና ስምንት ነገሮች"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"የግል ገጽታ ዝርዝሮች፤ ተስፋይ፣ በራስ ውስጥ ይታወቀዋል፣ በአንድነት የሚገኙ፣ እና ወደ ግምት የሚወድድ ይደርሳል። "
+"በሕይወት ውስጥ ተደርጎ የተለይ ማስተዋል ይደርሳል። የስራ ቦታዎች፤ የማስተዋል መምህሮች፣ ትራቶ ተማሪዎች፣ አሎግስተር "
+"ወይም አዲስ ዕድል ተወሳኺ ሰዎች። የምክር ትምህርት፤ የማስተዋል ወይም የተለያዩ ተስፋይ ተቀባዮች ናቸው። በተወሰነ "
+"ዘመናዊ ተስፋይ የሚገባው ለማስተዋል ወይም ለተለያዩ ስምንት የተሰጠ በተለይ ተስፋይ ይተስፋ።"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "የቁጥር ባለሙያዎች እና ግምታ ደስተኛዎች"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"የግል ገጽታ ዝርዝሮች፤ ተነስተዋል፣ በዝርዝር ሁኔታ የሚወዳድሩ እና በቁጥር እና ቋንቋ መካከል ያለውን አጭር ይወድድ። "
+"ይወደዱ የሚያደርጉት የምስረታ ይዘት ነው። የስራ ቦታዎች፤ የነፃ ቁጥር ባለሙያዎች፣ ስለ ማስተዋል ጭነት ይጽፋሉ፣ ወይም "
+"የቁጥር አስተዋል ማዕከላዊ ሰዎች። የምክር ትምህርት፤ በቁጥር የተለያየ ስምንት የሚተበት የነፃ ውስጥ ይወድዱ።"
+
+msgid "Historians and Linguists"
+msgstr "ታሪክ አበራዎች እና ቋንቋ ወቅቶች"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"የግል ገጽታ ዝርዝሮች፤ ታሪካዊ እና በተለያዩ ባህሪያት ስር የተያዘ ተስፋይ ይደርሳል። የስራ ቦታዎች፤ ተማሪዎች፣ ስለ "
+"አካባቢ አምስት ዓለማት ቋንቋዎች፣ ታሪክ ይደርሳል፣ ወይም የምህረት ጽሑፎች ናቸው። የምክር ትምህርት፤ አብረዋር አካባቢ "
+"አቅርቦት ይበቃል።"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "የአማካይ ወይም የሃይማኖት ተቀባዮች"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"የግል ገጽታ ዝርዝሮች፤ በአማካይ ያስተዋል፣ አብረዋር ይደርሳል። ይህንን ሁሉንም አደርቶ የምትሰማው ዕይታ ነው። በተግባር"
+" የሚተወጠሩ የምታደርሱት ደረጃ ይወስድ። የስራ ቦታዎች፤ የሃይማኖት ምህርቶች፣ አማካይ ተቀባዮች፣ አበረድ ምርቶች። "
+"የምክር ትምህርት፤ የተወሰነ የሚወስድ ይወስዳል።"
+
+msgid "Writers and Artists"
+msgstr "ደምተኛ እና ስነ ምርት ሰዎች"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"የግል ገጽታ ዝርዝሮች፤ ልምድ አድርጉ ይወስድ። ተደርጎ የሚጠቀሙት የማስተዋል ደግሞ ሰሞና የማስተዋል ይወስድ። የስራ "
+"ቦታዎች፤ አማካይ የማስተዋል ሰዎች፣ ደምተኛ አስተዋል፣ ትርከት ይደርሳል። የምክር ትምህርት፤ ህልውና የምትሰማ ነው።"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "ጥበቃ እና ተዘርግት ደስተኛዎች"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"የግል ገጽታ ዝርዝሮች፤ ምርጥ ይሆናል። ይደርሱ ይችላል። የስራ ቦታዎች፤ ደምተኛ የሚያገለግሉ ሰዎች። የምክር ትምህርት፤ "
+"በምቹ የተለያዩ የነፃ ተስፋይ ይተስፋ።"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "ተወሰኑ ተስፋይ እና ተለዋዋጭ ተደርጎ"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"የግል ገጽታ ዝርዝሮች፤ ወደ ሁሉ ይደርሳል። የስራ ቦታዎች፤ ሕይወት እና ተደርጎ ይደርሳል። የምክር ትምህርት፤ የተለያዩ "
+"ወንድሞች ይወደዳሉ።"
+
+msgid "☕ Support the Project"
+msgstr "☕ የፕሮጀክቱ ድጋፍ"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "ከፕሮጀክትዬ ደስተኛ ነው ከሆነ ወደ አንድ ቡና ይገዙ!"
+
+msgid "Buy Me A Coffee"
+msgstr "ወደ አንድ ቡና ይገዙ"
+
+msgid "Thank you! 🙏"
+msgstr "አመሰግናለሁ! 🙏"

@@ -1,0 +1,807 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Breton <br_FR>\n"
+"Language: br-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Arventennoù Abjad"
+
+msgid "Abjad Value"
+msgstr "Gwerz Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard arloadoù Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Disoc'hioù kalkulañ Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Kalkulañ Abjad cachin"
+
+msgid "Abjad not calculated"
+msgstr "Abjad n'eo ket kalkulaet"
+
+msgid "Abjad order"
+msgstr "Urzh Abjad"
+
+msgid "Add elements"
+msgstr "Ouzhpennañ elemantoù"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Aer"
+
+msgid "All"
+msgstr "Pep"
+
+msgid "Arabic"
+msgstr "Arabi"
+
+msgid "Arabic letters"
+msgstr "Tavioù Arabi"
+
+msgid "Arabic numbers"
+msgstr "Niveroù Arabi"
+
+msgid "As data for operation"
+msgstr "Evit daolad evit oberiant"
+
+msgid "Bast loop results"
+msgstr "Disoc'hioù boued Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast n'eo ket kalkulaet"
+
+msgid "Bast repetition count"
+msgstr "Kellad repetioù Bast"
+
+msgid "Bast results hidden"
+msgstr "Disoc'hioù Bast cachin"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Urzh Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Taol Bastet"
+
+msgid "Big"
+msgstr "Bihan"
+
+msgid "Bigger"
+msgstr "Bihanoc'h"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "C'halu a ra diganeoc'h"
+
+msgid "Calculate"
+msgstr "Kalkulañ"
+
+msgid "Calculate Abjad"
+msgstr "Kalkulañ Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kalkulañ Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kalkulañ Huddam"
+
+msgid "Calculation details"
+msgstr "Munudoù ar kalkulañ"
+
+msgid "Choose Keyboard Layout"
+msgstr "Choisiñ ur skrammañ ar c'hlavier"
+
+msgid "Clear text box"
+msgstr "Lemel ar voest testenn"
+
+msgid "Click row for details"
+msgstr "Klikit ar roaz evit munudoù"
+
+msgid "Close Keyboard"
+msgstr "Serriñ ar c'hlavier"
+
+msgid "Closed"
+msgstr "Serriñet"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Ar virgul a zo separer diazez ha ret ma vo graet dremen!"
+
+msgid "Dashboard"
+msgstr "Taol-bann"
+
+msgid "Data entry separators:"
+msgstr "Separerezhioù e-barzh an enankañ:"
+
+msgid "Data type profile"
+msgstr "Profil doare an roadennoù"
+
+msgid "Dead keys"
+msgstr "Tastennoù mor"
+
+msgid "Decrease keyboard size"
+msgstr "Diminio ment ar c'hlavier"
+
+msgid "Don't calculate"
+msgstr "N'eo ket kalkulañ"
+
+msgid "Duty entity name results"
+msgstr "Disoc'hoù anv an anavezh o c'houlenn"
+
+msgid "Duty entity type"
+msgstr "Rizh an anavezh o c'houlenn"
+
+msgid "Earth"
+msgstr "Terz"
+
+msgid "Element classification"
+msgstr "Klassiñ an elemenn"
+
+msgid "Element classification method"
+msgstr "Method a-benn bezañ klasañ an elemenn"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Enankit testenn... Lidoù Arabek, Ibraneg, Turkeg, niveroù"
+
+msgid "Entered data"
+msgstr "Roadennoù enanket"
+
+msgid "Entry"
+msgstr "Enankañ"
+
+msgid "Entry letter count"
+msgstr "Niver a lizherenn enankañ"
+
+msgid "Evil"
+msgstr "Koulz"
+
+msgid "Fire"
+msgstr "Plad"
+
+msgid "For entered data"
+msgstr "Dre roadennoù enanket"
+
+msgid "Frequency in Quran"
+msgstr "Mez a zistamerez e Qoran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibraneg"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elvezadoù al alfabet hebreañ"
+
+msgid "Hebrew letters"
+msgstr "Lefelloù hebreañ"
+
+msgid "High"
+msgstr "Uhel"
+
+msgid "Hija order"
+msgstr "Ored Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Anvioù Huddam cachennet"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ne bet ket kalkulet"
+
+msgid "Iklil's order"
+msgstr "Ored Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kreskañ ment ar c'halleg"
+
+msgid "Indian numbers"
+msgstr "Niveroù Hindou"
+
+msgid "Interface language"
+msgstr "Yezh an têr"
+
+msgid "Let character quantity decide"
+msgstr "Levarit gant niver an neudroù"
+
+msgid "Letter count"
+msgstr "Niver an alfabed"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Bez' emaoc'h o klevit ma projekedioù? Talvout kavenn evit ma!"
+
+msgid "Low"
+msgstr "Is"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Ored hija Maghribian"
+
+msgid "Minimum"
+msgstr "Uzh"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Yezh lenn niveroù"
+
+msgid "Numerical values"
+msgstr "Gwerioù niverel"
+
+msgid "Open"
+msgstr "Digeriñ"
+
+msgid "Order"
+msgstr "Ored"
+
+msgid "Possible phrases"
+msgstr "Fraserioù posupl"
+
+msgid "Program settings"
+msgstr "Arventennoù ar goulenn"
+
+msgid "Pronunciation"
+msgstr "Skrid"
+
+msgid "Regular expression"
+msgstr "Kougarezh reiz"
+
+msgid "Regularly preferred classification"
+msgstr "Klasifikadurioù a vez diuzet da benn"
+
+msgid "Reset"
+msgstr "Adderaouekaat"
+
+msgid "Separators"
+msgstr "Skoazelloù"
+
+msgid "Settings"
+msgstr "Arventennoù"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Diskouez an Numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Diskouez ar clavièr reizh"
+
+msgid "Small"
+msgstr "Bihan"
+
+msgid "Small + letter count"
+msgstr "Bihan + niver a lizherioù"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Eñteñ"
+
+msgid "Taken (letter)"
+msgstr "Arabat (lizher)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Arabat (lizher; abjad)"
+
+msgid "Taken Letters"
+msgstr "Lizherioù arabat"
+
+msgid "Text or number cell"
+msgstr "Gwilenn testenn pe niver"
+
+msgid "Thank you for your support!"
+msgstr "Trugarez d'ar c'heñchadennoù !"
+
+msgid "Total"
+msgstr "Hollad"
+
+msgid "Turkish"
+msgstr "Turk"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alfabiz Turk abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Alammoù alfabiz Turk"
+
+msgid "Turkish letters"
+msgstr "Lizherioù Turki"
+
+msgid "Undefined characters"
+msgstr "Karakteroù annonit"
+
+msgid "Value"
+msgstr "Gwir"
+
+msgid "Value & Detail"
+msgstr "Gwir & Munudoù"
+
+msgid "Version"
+msgstr "Stumm"
+
+msgid "Water"
+msgstr "Eur"
+
+msgid "When data is entered"
+msgstr "Pa vo enporzhiet an roadennoù"
+
+msgid "When reading large digits"
+msgstr "Pa vez lennet an niveroù bras"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad kalkulet hag ouzhpennadenn niver an lizherien"
+
+msgid "abjad() functions settings"
+msgstr "keflijoù ar reizhioù abjad()"
+
+msgid "add to initial value"
+msgstr "ouzhpennañ d'ar werzhioù an hini gwreg"
+
+msgid "and"
+msgstr "ha"
+
+msgid "auto calculate immediately"
+msgstr "kalkulañ emgefreek"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "keflijoù ar reizhioù bastet() ha nutket()"
+
+msgid "count once"
+msgstr "kellañ un nebeud"
+
+msgid "count twice"
+msgstr "kellañ daou nebeud"
+
+msgid "display with Arabic numbers"
+msgstr "diskouez gant niveroù Arab"
+
+msgid "display with Indian numbers"
+msgstr "diskouez gant niveroù India"
+
+msgid "do not add to initial value"
+msgstr "n'eo ket ouzhpennañ d'ar werzh gwreg"
+
+msgid "do not force to other functions"
+msgstr "n'eo ket rederet d'ar reizhioù all"
+
+msgid "do not purify"
+msgstr "n'eo ket pursañ"
+
+msgid "force to other functions"
+msgstr "rederet d'ar reizhioù all"
+
+msgid "group multiplier letters"
+msgstr "lizhenn multipleur an trolioù"
+
+msgid "hide"
+msgstr "kas"
+
+msgid "hide abjad values"
+msgstr "kas gwerzhioù abjad"
+
+msgid "hide bast results"
+msgstr "kuzhit an diouzoutioù bast"
+
+msgid "hide huddam names"
+msgstr "kuzhit an anvioù huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() arventennoù ar c'hemm"
+
+msgid "no bast applied."
+msgstr "ne vez ket enrollet bast."
+
+msgid "no data entered"
+msgstr "ne zo ket bet enporzhiet roadennoù"
+
+msgid "other suffix"
+msgstr "urzh all"
+
+msgid "purify data"
+msgstr "meuz roadennoù"
+
+msgid "repeat multiplier for each digit"
+msgstr "multiplañ adwelet evit pep anvr"
+
+msgid "show"
+msgstr "diskouez"
+
+msgid "show abjad values"
+msgstr "diskouez gwerzhioù abjad"
+
+msgid "show bast results"
+msgstr "diskouez an diouzoutioù bast"
+
+msgid "show huddam names"
+msgstr "diskouez an anvioù huddam"
+
+msgid "suffix"
+msgstr "urzh"
+
+msgid "times bast applied."
+msgstr "eontad a enrollet bast."
+
+msgid "use calculated abjad results"
+msgstr "arverit an diouzoutioù abjad kalkulet"
+
+msgid "use calculated abjad total"
+msgstr "arverit ar sifr hollek abjad kalkulet"
+
+msgid "use calculated bast results"
+msgstr "arverit an diouzoutioù bast kalkulet"
+
+msgid "use entered data directly"
+msgstr "arverit roadennoù enporzhiet diwezhañ"
+
+msgid "use entered data total"
+msgstr "arverit ar sifr hollek roadennoù enporzhiet"
+
+msgid "use in all bast repetitions"
+msgstr "arverit er holl adweletioù bast"
+
+msgid "use only at beginning if possible"
+msgstr "arverit nemet er c'hentañ ma c'haller"
+
+msgid "wait for settings and data entry"
+msgstr "gortozit evit arventennoù ha enporzhiañ roadennoù"
+
+msgid "Abjad Table"
+msgstr "Taol abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Munudoù"
+
+msgid "Element Classification"
+msgstr "Klasifikadur ar elment"
+
+msgid "Abjad Order"
+msgstr "Orde abjad"
+
+msgid "Abjad Widget"
+msgstr "Oberienn abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ouzhpennañ CSS personelaet evit maeziañ an oberienn."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ouzhpennañ JavaScript personelaet evit kemmañ ar oberienn. Ouzhpennañ kod "
+"fall a c'hell dislakañ an oberienn!"
+
+msgid "An error occurred while loading content."
+msgstr "Bez e vo bet ur fazi en ur kargañ ar gontenn."
+
+msgid "Button"
+msgstr "Buton"
+
+msgid "Button Color"
+msgstr "Liv ar buton"
+
+msgid "Button Emoji"
+msgstr "Emoji ar buton"
+
+msgid "Button Message"
+msgstr "Kemennad ar buton"
+
+msgid "Button Settings"
+msgstr "Arventennoù ar buton"
+
+msgid "Button Type"
+msgstr "Rizh ar buton"
+
+msgid "CSS saved successfully."
+msgstr "CSS enrolllet gant berzh."
+
+msgid "Check this box to activate the widget."
+msgstr "Marv an voest-mañ evit gweredekaat ar widget."
+
+msgid "Code Editor"
+msgstr "Embannadenn an kod"
+
+msgid "Custom CSS"
+msgstr "CSS personel"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript personel"
+
+msgid "Description"
+msgstr "Deskrivadur"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Eilañ URL ar skeudenn"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Skouer: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Hollek"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript enrolllet gant berzh."
+
+msgid "Left"
+msgstr "Kleiz"
+
+msgid "Live Preview"
+msgstr "Alc'hwez hepken"
+
+msgid "Loading..."
+msgstr "O kargañ..."
+
+msgid "PNG Image URL"
+msgstr "URL skeudenn PNG"
+
+msgid "Paste SVG code"
+msgstr "Kleizañ kod SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Eilañ ur URL talvoudus."
+
+msgid "Position"
+msgstr "Lec'hiadur"
+
+msgid "Reset to Default"
+msgstr "Adderaouekaat d'ar gentañ"
+
+msgid "Right"
+msgstr "Dehou"
+
+msgid "SVG Code"
+msgstr "Kod SVG"
+
+msgid "Save CSS"
+msgstr "Enrollañ CSS"
+
+msgid "Save JavaScript"
+msgstr "Enrollañ JavaScript"
+
+msgid "Save Settings"
+msgstr "Enrollañ arventennoù"
+
+msgid "Settings saved successfully."
+msgstr "Enrolllet arventennoù gant berzh."
+
+msgid "Style Editor"
+msgstr "Embanner stil"
+
+msgid "WARNING"
+msgstr "DIERR"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Degemer! Gellout a rit heuliañ azgourioù hag emzalc'hioù ar widget eus ar "
+"pal-mañ."
+
+msgid "Widget Settings"
+msgstr "Arventennoù ar widget"
+
+msgid "Widget Status"
+msgstr "Statud ar widget"
+
+msgid "Widget active"
+msgstr "Ar widget a zo aktiv"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kod JavaScript fall a c'hell lakaat ar widget da c'hallad. Sevel ur c'hemm e"
+" tont e-barzh ma cheñchit."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Ho anv implijer Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Emañ an diouladennoù a cheñchet dreist an astenn ar widget. Ma n'ouzit ket "
+"CSS, a c'haller lakaat arventennoù dre ziouer."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Widget Abjad - Taolad lec'hienn"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Klokadurioù spiriel ha mistik"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Traoù personel: Kervel, elfenn-dreñv, digor, ha tigele da gwaret a reizh. E "
+"rankont kavout menegerioù pe menestroù cach'hlun. Oklask: Klerc'heñveladenn,"
+" lizherenn tarot, astrelour, pe den o kevreadur New Age. Spektr an "
+"ideologez: O c'hall da vezañ d'ar c'hevraouez spiriel pe metafisikel. E "
+"rankont gwelet an ostilhoù evel ur wezh da c'hontait ouzh gwirionioù "
+"a-walc'h pe energiouzhioù a-walc'h."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numeroloù ha gempennadur Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Traoù personel: Analytel, o fenvel, ha o klask bezañ gouzout etre niverioù "
+"hag iazer. E rankont din an aotred da derc'hel menegerioù ziskouezus. "
+"Oklask: Numeroloù keffren, skrivañ war draoù mistik, pe implijerien gant "
+"numerologerezh. Spektr an ideologez: E rankont o tizh da o vir gant an "
+"anegadenn, ha ma ziu an anegadenn evel ur c'hegerz spiriel."
+
+msgid "Historians and Linguists"
+msgstr "Istorioù ha lingwezhezh"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Traoù personel: Akademik, o klask, ha o klevat e-barzh an istor hag an "
+"kulturoù diwar-benn sistemoù niverel evel Abjad. Oklask: Akademik, "
+"envestigadour, pe digoret hag o studiañ yezhoù, istor, pe testennoù reli. "
+"Spektr an ideologez: O c'haller tapout ouzh an ostilhoù eus un perspektiv "
+"akademik, war e gwirion, ha e klevet a-bouez an istor ha yezhaoueg."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Ennadoù relioù pe implijerien gant feeriezh"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Traoù personel: Dilezel, dremont, ha o klask c'hant dre an feeriezh. E "
+"rankont implij an ostilhoù evit furchal testennoù relioù pe kemennadenn "
+"diñvel. Oklask: Skrifañ reli, imam, pries, pe implijerien gant ur goust "
+"brasañ da c'hent e trebenn mistik. Spektr an ideologez: O c'haller bezañ o "
+"bet e-barzh ur feeriezh tradizional pe konservat."
+
+msgid "Writers and Artists"
+msgstr "Skridaoù ha seniñ"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Implijerien puzzel ha riddle"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Traoù personel: Ouzhomm, klask a-darempred, hag o kouezhel da dizalc'h "
+"problemoù koadus pe derc'hel menestroù. Oklask: Implijerien, dizajenerien "
+"puzzel, pe ozhadurien. Spektr an ideologez: O c'haller tapout ouzh an "
+"ostilhoù evel ur zontadenn pe ur aotred mentel, gant paotenn ebet an "
+"ideologez."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Teoretikerioù konspiradoù ha pennoù diwezhañ"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Traoù personel: Skepterik evit ar sturiadoù haust, hag o tigele da gwaret "
+"gwirionioù kachennoù pe menestroù. Oklask: Envestigadourien diouzh, "
+"bloggerien, pe aktivistien. Spektr an ideologez: E rankont c'hall da "
+"weladenn ur c'hartel gant goulenn a-ziar ha diwezhañ, o klask en-dro an "
+"ostilhoù da sikour teoretikerioù o-unan."
+
+msgid "☕ Support the Project"
+msgstr "☕ Skorañ ar reizhiad"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ma fell deoc'h ar reizhiad, e c'hellit a vo un c'heverenn !"
+
+msgid "Buy Me A Coffee"
+msgstr "Kosteg ouzh ma c'heverenn"
+
+msgid "Thank you! 🙏"
+msgstr "Trugarez! 🙏"

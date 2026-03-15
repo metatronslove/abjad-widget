@@ -1,0 +1,818 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Bengali (Bangladesh) <bn_BD>\n"
+"Language: bn-BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "অবজাদ সেটিংস"
+
+msgid "Abjad Value"
+msgstr "অবজাদ মান"
+
+msgid "Abjad Widget Dashboard"
+msgstr "অবজাদ উইজেট ড্যাশবোর্ড"
+
+msgid "Abjad calculation results"
+msgstr "অবজাদ গণনা ফলাফল"
+
+msgid "Abjad calculations hidden"
+msgstr "অবজাদ গণনা লুকানো"
+
+msgid "Abjad not calculated"
+msgstr "অবজাদ গণনা করা হয়নি"
+
+msgid "Abjad order"
+msgstr "অবজাদ ক্রম"
+
+msgid "Add elements"
+msgstr "উপাদান যোগ করুন"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "বাতাস"
+
+msgid "All"
+msgstr "সকল"
+
+msgid "Arabic"
+msgstr "আরবি"
+
+msgid "Arabic letters"
+msgstr "আরবি অক্ষর"
+
+msgid "Arabic numbers"
+msgstr "আরবি সংখ্যা"
+
+msgid "As data for operation"
+msgstr "কর্মের জন্য ডেটা হিসেবে"
+
+msgid "Bast loop results"
+msgstr "Bast লুপ ফলাফল"
+
+msgid "Bast not calculated"
+msgstr "Bast গণনা করা হয়নি"
+
+msgid "Bast repetition count"
+msgstr "Bast পুনরাবৃত্তি গণনা"
+
+msgid "Bast results hidden"
+msgstr "Bast ফলাফল লুকানো"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet ক্রম"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet টেবিল"
+
+msgid "Big"
+msgstr "বড়"
+
+msgid "Bigger"
+msgstr "আরও বড়"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "আমাকে কফি কিনে দিন"
+
+msgid "Calculate"
+msgstr "গণনা করুন"
+
+msgid "Calculate Abjad"
+msgstr "অবজাদ গণনা করুন"
+
+msgid "Calculate Bastet"
+msgstr "বাস্টেট গণনা করুন"
+
+msgid "Calculate Huddam"
+msgstr "হুদাম গণনা করুন"
+
+msgid "Calculation details"
+msgstr "গণনার বিবরণ"
+
+msgid "Choose Keyboard Layout"
+msgstr "কীবোর্ড লেআউট নির্বাচন করুন"
+
+msgid "Clear text box"
+msgstr "টেক্সট বক্স পরিষ্কার করুন"
+
+msgid "Click row for details"
+msgstr "বিস্তারিত জানার জন্য সারিতে ক্লিক করুন"
+
+msgid "Close Keyboard"
+msgstr "কীবোর্ড বন্ধ করুন"
+
+msgid "Closed"
+msgstr "বন্ধ"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "কমা ডিফল্ট সেপারেটর এবং এটি চেক রাখা আবশ্যক!"
+
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+msgid "Data entry separators:"
+msgstr "ডাটা এন্ট্রি সেপারেটর:"
+
+msgid "Data type profile"
+msgstr "ডেটা টাইপ প্রোফাইল"
+
+msgid "Dead keys"
+msgstr "ডেড কি"
+
+msgid "Decrease keyboard size"
+msgstr "কীবোর্ডের আকার কমান"
+
+msgid "Don't calculate"
+msgstr "গণনা করবেন না"
+
+msgid "Duty entity name results"
+msgstr "দায়িত্বশীল সত্তার নাম ফলাফল"
+
+msgid "Duty entity type"
+msgstr "দায়িত্বশীল সত্তা প্রকার"
+
+msgid "Earth"
+msgstr "পৃথিবী"
+
+msgid "Element classification"
+msgstr "উপাদান শ্রেণীবিভাগ"
+
+msgid "Element classification method"
+msgstr "উপাদান শ্রেণীবিভাগ পদ্ধতি"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "টেক্সট লিখুন... আরবি, হিব্রু, তুর্কি অক্ষর, সংখ্যা"
+
+msgid "Entered data"
+msgstr "প্রবেশ করা ডেটা"
+
+msgid "Entry"
+msgstr "প্রবেশ"
+
+msgid "Entry letter count"
+msgstr "প্রবেশ অক্ষর সংখ্যা"
+
+msgid "Evil"
+msgstr "মন্দ"
+
+msgid "Fire"
+msgstr "আগুন"
+
+msgid "For entered data"
+msgstr "প্রবেশ করা ডেটার জন্য"
+
+msgid "Frequency in Quran"
+msgstr "কোরআনে ফ্রিকোয়েন্সি"
+
+msgid "Gematria"
+msgstr "জেমেট্রিয়া"
+
+msgid "Hebrew"
+msgstr "হিব্রু"
+
+msgid "Hebrew alphabet elements"
+msgstr "হিব্রু বর্ণমালা উপাদানসমূহ"
+
+msgid "Hebrew letters"
+msgstr "হিব্রু অক্ষরসমূহ"
+
+msgid "High"
+msgstr "উচ্চ"
+
+msgid "Hija order"
+msgstr "হিজা ক্রম"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam নাম গোপন"
+
+msgid "Huddam not calculated"
+msgstr "Huddam গণনা করা হয়নি"
+
+msgid "Iklil's order"
+msgstr "Iklil-এর ক্রম"
+
+msgid "Increase keyboard size"
+msgstr "কীবোর্ডের আকার বৃদ্ধি করুন"
+
+msgid "Indian numbers"
+msgstr "ভারতীয় সংখ্যা"
+
+msgid "Interface language"
+msgstr "ইন্টারফেস ভাষা"
+
+msgid "Let character quantity decide"
+msgstr "চরিত্রের পরিমাণ সিদ্ধান্ত নিক"
+
+msgid "Letter count"
+msgstr "অক্ষর গণনা"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "আমার প্রকল্পগুলি পছন্দ হয়েছে? আমাকে একটি কফি কিনুন!"
+
+msgid "Low"
+msgstr "নিম্ন"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "সর্বনিম্ন"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "সংখ্যা পড়ার ভাষা"
+
+msgid "Numerical values"
+msgstr "সংখ্যাগত মান"
+
+msgid "Open"
+msgstr "খোলা"
+
+msgid "Order"
+msgstr "ক্রম"
+
+msgid "Possible phrases"
+msgstr "সম্ভাব্য বাক্যাংশ"
+
+msgid "Program settings"
+msgstr "প্রোগ্রাম সেটিংস"
+
+msgid "Pronunciation"
+msgstr "উচ্চারণ"
+
+msgid "Regular expression"
+msgstr "নিয়মিত অভিব্যক্তি"
+
+msgid "Regularly preferred classification"
+msgstr "প্রায়ই পছন্দনীয় শ্রেণীবিভাগ"
+
+msgid "Reset"
+msgstr "পুনরায় সেট করুন"
+
+msgid "Separators"
+msgstr "বিভাজক"
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad অর্ডার"
+
+msgid "Show numpad"
+msgstr "নিউমপ্যাড দেখান"
+
+msgid "Show virtual keyboard"
+msgstr "ভার্চুয়াল কীবোর্ড দেখান"
+
+msgid "Small"
+msgstr "ছোট"
+
+msgid "Small + letter count"
+msgstr "ছোট + অক্ষর গণনা"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "সমর্থন"
+
+msgid "Taken (letter)"
+msgstr "নেওয়া (অক্ষর)"
+
+msgid "Taken (letter; abjad)"
+msgstr "নেওয়া (অক্ষর; abjad)"
+
+msgid "Taken Letters"
+msgstr "নেওয়া অক্ষরগুলি"
+
+msgid "Text or number cell"
+msgstr "টেক্সট বা সংখ্যা সেল"
+
+msgid "Thank you for your support!"
+msgstr "আপনার সমর্থনের জন্য ধন্যবাদ!"
+
+msgid "Total"
+msgstr "মোট"
+
+msgid "Turkish"
+msgstr "তুর্কি"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "তুর্কি বর্ণমালা Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "তুর্কি বর্ণমালার উপাদান"
+
+msgid "Turkish letters"
+msgstr "তুর্কি অক্ষর"
+
+msgid "Undefined characters"
+msgstr "অসংজ্ঞায়িত অক্ষর"
+
+msgid "Value"
+msgstr "মান"
+
+msgid "Value & Detail"
+msgstr "মান & বিশদ"
+
+msgid "Version"
+msgstr "সংস্করণ"
+
+msgid "Water"
+msgstr "পানি"
+
+msgid "When data is entered"
+msgstr "ডাটা প্রবেশ করার সময়"
+
+msgid "When reading large digits"
+msgstr "বড় সংখ্যাগুলি পড়ার সময়"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad গণনা করা হয়েছে এবং অক্ষরের সংখ্যা যোগ করা হয়েছে"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ফাংশন সেটিংস"
+
+msgid "add to initial value"
+msgstr "প্রাথমিক মানে যোগ করুন"
+
+msgid "and"
+msgstr "এবং"
+
+msgid "auto calculate immediately"
+msgstr "স্বয়ংক্রিয়ভাবে তত্ক্ষণাত্ গণনা করুন"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() এবং nutket() ফাংশন সেটিংস"
+
+msgid "count once"
+msgstr "একবার গণনা করুন"
+
+msgid "count twice"
+msgstr "দুইবার গণনা করুন"
+
+msgid "display with Arabic numbers"
+msgstr "আরব সংখ্যা সহ প্রদর্শন করুন"
+
+msgid "display with Indian numbers"
+msgstr "ভারতীয় সংখ্যা সহ প্রদর্শন করুন"
+
+msgid "do not add to initial value"
+msgstr "প্রাথমিক মানে যোগ করবেন না"
+
+msgid "do not force to other functions"
+msgstr "অন্য ফাংশনে জোর করবেন না"
+
+msgid "do not purify"
+msgstr "পরিশোধ করবেন না"
+
+msgid "force to other functions"
+msgstr "অন্য ফাংশনে জোর দিন"
+
+msgid "group multiplier letters"
+msgstr "গোষ্ঠী গুণক অক্ষর"
+
+msgid "hide"
+msgstr "লুকান"
+
+msgid "hide abjad values"
+msgstr "abjad মান লুকান"
+
+msgid "hide bast results"
+msgstr "বাস্ট ফলাফল লুকান"
+
+msgid "hide huddam names"
+msgstr "huddam নাম লুকান"
+
+msgid "huddam() function settings"
+msgstr "huddam() ফাংশন সেটিংস"
+
+msgid "no bast applied."
+msgstr "কোনও বাস্ট প্রয়োগ করা হয়নি।"
+
+msgid "no data entered"
+msgstr "কোনও ডাটা প্রবেশ করা হয়নি"
+
+msgid "other suffix"
+msgstr "অন্য সাফিক্স"
+
+msgid "purify data"
+msgstr "ডাটা পরিশোধন করুন"
+
+msgid "repeat multiplier for each digit"
+msgstr "প্রতিটি অঙ্কের জন্য পুনরাবৃত্তি গুণক"
+
+msgid "show"
+msgstr "দেখান"
+
+msgid "show abjad values"
+msgstr "আবজাদ মান দেখান"
+
+msgid "show bast results"
+msgstr "বাস্ট ফলাফল দেখান"
+
+msgid "show huddam names"
+msgstr "huddam নাম দেখান"
+
+msgid "suffix"
+msgstr "সাফিক্স"
+
+msgid "times bast applied."
+msgstr "বার বাস্ট প্রয়োগ করা হয়েছে।"
+
+msgid "use calculated abjad results"
+msgstr "গণিতকৃত আবজাদ ফলাফল ব্যবহার করুন"
+
+msgid "use calculated abjad total"
+msgstr "গণিতকৃত আবজাদ মোট ব্যবহার করুন"
+
+msgid "use calculated bast results"
+msgstr "গণিতকৃত বাস্ট ফলাফল ব্যবহার করুন"
+
+msgid "use entered data directly"
+msgstr "প্রবেশ করা ডাটা সরাসরি ব্যবহার করুন"
+
+msgid "use entered data total"
+msgstr "প্রবেশ করা ডাটা মোট ব্যবহার করুন"
+
+msgid "use in all bast repetitions"
+msgstr "সকল বাস্ট পুনরাবৃত্তিতে ব্যবহার করুন"
+
+msgid "use only at beginning if possible"
+msgstr "সম্ভব হলে শুধুমাত্র শুরুতে ব্যবহার করুন"
+
+msgid "wait for settings and data entry"
+msgstr "সেটিংস এবং ডাটা প্রবেশের জন্য অপেক্ষা করুন"
+
+msgid "Abjad Table"
+msgstr "আবজাদ টেবিল"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "বিস্তারিত"
+
+msgid "Element Classification"
+msgstr "উপাদান শ্রেণীবিভাগ"
+
+msgid "Abjad Order"
+msgstr "আবজাদ ক্রম"
+
+msgid "Abjad Widget"
+msgstr "আবজাদ উইজেট"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "উইজেটের চেহারা কাস্টমাইজ করতে কাস্টম CSS যোগ করুন।"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"উইজেটের আচরণ পরিবর্তন করতে কাস্টম JavaScript যোগ করুন। ভুল কোড উইজেট ভাঙতে "
+"পারে!"
+
+msgid "An error occurred while loading content."
+msgstr "কনটেন্ট লোড করার সময় একটি ত্রুটি ঘটেছে।"
+
+msgid "Button"
+msgstr "বোতাম"
+
+msgid "Button Color"
+msgstr "বোতামের রঙ"
+
+msgid "Button Emoji"
+msgstr "বোতাম ইমোজি"
+
+msgid "Button Message"
+msgstr "বোতাম বার্তা"
+
+msgid "Button Settings"
+msgstr "বোতাম সেটিংস"
+
+msgid "Button Type"
+msgstr "বোতাম টাইপ"
+
+msgid "CSS saved successfully."
+msgstr "CSS সফলভাবে সংরক্ষিত হয়েছে।"
+
+msgid "Check this box to activate the widget."
+msgstr "উইজেটটি সক্রিয় করতে এই বাক্সটি চেক করুন।"
+
+msgid "Code Editor"
+msgstr "কোড এডিটর"
+
+msgid "Custom CSS"
+msgstr "কাস্টম CSS"
+
+msgid "Custom JavaScript"
+msgstr "কাস্টম জাভাস্ক্রিপ্ট"
+
+msgid "Description"
+msgstr "বর্ণনা"
+
+msgid "Emoji"
+msgstr "ইমোজি"
+
+msgid "Enter image URL"
+msgstr "চিত্রের URL লিখুন"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "উদাহরণ: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "সাধারণ"
+
+msgid "JavaScript saved successfully."
+msgstr "জাভাস্ক্রিপ্ট সফলভাবে সংরক্ষিত হয়েছে।"
+
+msgid "Left"
+msgstr "বাম"
+
+msgid "Live Preview"
+msgstr "লাইভ প্রিভিউ"
+
+msgid "Loading..."
+msgstr "লোড হচ্ছে..."
+
+msgid "PNG Image URL"
+msgstr "PNG চিত্রের URL"
+
+msgid "Paste SVG code"
+msgstr "SVG কোড পেস্ট করুন"
+
+msgid "Please enter a valid URL."
+msgstr "দয়া করে একটি বৈধ URL লিখুন।"
+
+msgid "Position"
+msgstr "অবস্থান"
+
+msgid "Reset to Default"
+msgstr "ডিফল্টে রিসেট করুন"
+
+msgid "Right"
+msgstr "ডান"
+
+msgid "SVG Code"
+msgstr "SVG কোড"
+
+msgid "Save CSS"
+msgstr "CSS সংরক্ষণ করুন"
+
+msgid "Save JavaScript"
+msgstr "জাভাস্ক্রিপ্ট সংরক্ষণ করুন"
+
+msgid "Save Settings"
+msgstr "সেটিংস সংরক্ষণ করুন"
+
+msgid "Settings saved successfully."
+msgstr "সেটিংস সফলভাবে সংরক্ষিত হয়েছে।"
+
+msgid "Style Editor"
+msgstr "স্টাইল এডিটর"
+
+msgid "WARNING"
+msgstr "সতর্কীকরণ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "স্বাগতম! আপনি এই প্যানেল থেকে উইজেটের খবর ও ঘোষণা অনুসরণ করতে পারেন।"
+
+msgid "Widget Settings"
+msgstr "উইজেট সেটিংস"
+
+msgid "Widget Status"
+msgstr "উইজেটের অবস্থা"
+
+msgid "Widget active"
+msgstr "উইজেট সক্রিয়"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"ভুল JavaScript কোড উইজেট নষ্ট করতে পারে। পরিবর্তন করার আগে ব্যাকআপ নিন।"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "আপনার Buy Me a Coffee ব্যবহারকারীর নাম"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"আপনার পরিবর্তনগুলো সরাসরি উইজেটের চেহারায় প্রভাব ফেলবে। আপনি যদি CSS না "
+"জানেন, তবে ডিফল্ট সেটিংস ব্যবহার করার পরামর্শ দেওয়া হয়।"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - লোকাল ড্যাশবোর্ড"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "আধ্যাত্মিক অনুসন্ধানকারী এবং মিস্টিক"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"ব্যক্তিত্বের বৈশিষ্ট্য: কৌতূহলী, অন্তর্মুখী, মুক্তমনা, এবং গুপ্ত জ্ঞানের "
+"প্রতি আকৃষ্ট। তারা জীবনের লুকানো অর্থ বা প্যাটার্ন উন্মোচনে প্রবল আগ্রহী হতে"
+" পারে। পেশা: আধ্যাত্মিক কোচ, ট্যারোট রিডার, জ্যোতিষী, বা New Age অনুশীলনে "
+"জড়িত ব্যক্তি। আদর্শগত পরিসর: সম্ভবত আধ্যাত্মিক বা অধিবিদ্যাগত বিশ্বাসের "
+"দিকে ঝোঁক। তারা টুলগুলোকে গভীর সত্য বা সার্বজনীন শক্তির সাথে সংযোগের উপায় "
+"হিসেবে দেখতে পারে।"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "সংখ্যাতত্ত্ববিদ ও গেমাট্রিয়া অনুরাগী"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"ব্যক্তিত্বের বৈশিষ্ট্য: বিশ্লেষণাত্মক, বিস্তারিতমুখী, এবং সংখ্যা ও ভাষার "
+"সম্পর্ক দ্বারা মুগ্ধ। তারা প্রতীকী অর্থ ডিকোড করতে আনন্দ পেতে পারে। পেশা: "
+"ফ্রিল্যান্স সংখ্যাতত্ত্ববিদ, গুপ্ত বিষয়ের লেখক, বা সংখ্যাতত্ত্ব "
+"অনুসন্ধানকারী শখানুরাগী। আদর্শগত পরিসর: যাদের কাছে সংখ্যাতত্ত্ব একটি মজার "
+"বুদ্ধিবৃত্তিক ব্যায়াম, থেকে শুরু করে যাদের কাছে এর গভীর আধ্যাত্মিক গুরুত্ব "
+"রয়েছে।"
+
+msgid "Historians and Linguists"
+msgstr "ইতিহাসবিদ ও ভাষাবিজ্ঞানী"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"ব্যক্তিত্বের বৈশিষ্ট্য: পাণ্ডিত্যপূর্ণ, পদ্ধতিগত, এবং Abjad-এর মতো সংখ্যাগত "
+"সিস্টেমের ঐতিহাসিক বা সাংস্কৃতিক প্রেক্ষাপটে আগ্রহী। পেশা: একাডেমিক, গবেষক, "
+"বা মধ্যপ্রাচ্যের ভাষা, ইতিহাস, বা ধর্মীয় গ্রন্থ অধ্যয়নরত শিক্ষার্থী। "
+"আদর্শগত পরিসর: সম্ভবত সেক্যুলার, একাডেমিক দৃষ্টিভঙ্গি থেকে টুলগুলোকে দেখবে, "
+"তাদের ঐতিহাসিক বা ভাষাগত গুরুত্বের উপর গুরুত্বারোপ করবে।"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "ধর্মীয় বা বিশ্বাসভিত্তিক ব্যক্তি"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"ব্যক্তিত্বের বৈশিষ্ট্য: ধর্মপ্রাণ, চিন্তাশীল, এবং তাদের বিশ্বাসের গভীর সংযোগ"
+" খোঁজে। তারা ধর্মীয় গ্রন্থ বা দেবীয় বার্তা অন্বেষণে টুলগুলো ব্যবহার করতে "
+"পারে। পেশা: ধর্মীয় পণ্ডিত, ইমাম, পুরোহিত, বা ধর্মের মিস্টিক ঐতিহ্যে গভীর "
+"আগ্রহী সাধারণ মানুষ। আদর্শগত পরিসর: সম্ভবত ঐতিহ্যবাহী বা রক্ষণশীল "
+"বিশ্বদৃষ্টি ধারণ করে, টুলগুলোকে তাদের আধ্যাত্মিক বিশ্বাসকে শক্তিশালী করার "
+"জন্য ব্যবহার করে।"
+
+msgid "Writers and Artists"
+msgstr "লেখক ও শিল্পী"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"ব্যক্তিত্বের বৈশিষ্ট্য: সৃজনশীল, কল্পনাপ্রবণ, এবং প্রতীকী বা বিমূর্ত ধারণায়"
+" আকৃষ্ট। তারা টুলগুলোকে অনুপ্রেরণা হিসেবে বা কাজের অর্থের স্তর যোগ করতে "
+"ব্যবহার করতে পারে। পেশা: লেখক, কবি, দৃশ্যশিল্পী, বা সঙ্গীতজ্ঞ। আদর্শগত "
+"পরিসর: সেক্যুলার সৃষ্টিশীল থেকে আধ্যাত্মিক বা মিস্টিক প্রবণতাসম্পন্নদের "
+"মধ্যে হতে পারে।"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "পাজল ও রিডল অনুরাগী"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"ব্যক্তিত্বের বৈশিষ্ট্য: মজাদার, বুদ্ধিবৃত্তিক কৌতূহলী, এবং জটিল সমস্যার "
+"সমাধান বা প্যাটার্ন ডিকোড করতে আনন্দ পায়। পেশা: শখানুরাগী, পাজল ডিজাইনার, "
+"বা শিক্ষাবিদ। আদর্শগত পরিসর: সম্ভবত টুলগুলোকে বিনোদন বা মানসিক ব্যায়াম "
+"হিসেবে দেখে, সামান্য আদর্শগত সংযুক্তি থাকে।"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "ষড়যন্ত্র তত্ত্ববিদ ও বিকল্প চিন্তাবিদ"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"ব্যক্তিত্বের বৈশিষ্ট্য: মূলধারার কাহিনীর প্রতি সন্দেহপ্রবণ, সিস্টেমে লুকানো "
+"সত্য বা প্যাটার্ন উন্মোচনে আকৃষ্ট। পেশা: স্বাধীন গবেষক, ব্লগার, বা কর্মী। "
+"আদর্শগত পরিসর: সম্ভবত আরো র‍্যাডিকাল বা অপ্রচলিত বিশ্বদৃষ্টি ধারণ করে, "
+"টুলগুলোকে বিকল্প তত্ত্ব বা কাহিনী সমর্থনে ব্যবহার করে।"
+
+msgid "☕ Support the Project"
+msgstr "☕ প্রকল্পকে সমর্থন করুন"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr ""
+"যদি আপনি আমার প্রকল্প পছন্দ করেন, আপনি আমাকে একটি কফি কিনে দিতে পারেন!"
+
+msgid "Buy Me A Coffee"
+msgstr "আমাকে একটি কফি কিনুন"
+
+msgid "Thank you! 🙏"
+msgstr "ধন্যবাদ! 🙏"

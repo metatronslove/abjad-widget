@@ -1,0 +1,824 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Welsh <cy_GB>\n"
+"Language: cy-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Gosodiadau Abjad"
+
+msgid "Abjad Value"
+msgstr "Gwerth Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dangosydd Wdiget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Canlyniadau cyfrifiad Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Cyfrifiadau Abjad wedi'u cuddio"
+
+msgid "Abjad not calculated"
+msgstr "Abjad heb ei gyfrif"
+
+msgid "Abjad order"
+msgstr "Trefn Abjad"
+
+msgid "Add elements"
+msgstr "Ychwanegu elfennau"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Aer"
+
+msgid "All"
+msgstr "Pob"
+
+msgid "Arabic"
+msgstr "Araidd"
+
+msgid "Arabic letters"
+msgstr "Llythrennau Araidd"
+
+msgid "Arabic numbers"
+msgstr "Rhifau Araidd"
+
+msgid "As data for operation"
+msgstr "Fel data ar gyfer gweithred"
+
+msgid "Bast loop results"
+msgstr "Canlyniadau cyfnod Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast heb ei gyfrif"
+
+msgid "Bast repetition count"
+msgstr "Cyfrif addewid Bast"
+
+msgid "Bast results hidden"
+msgstr "Canlyniadau Bast wedi'u cuddio"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Trefn Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Tabl Bastet"
+
+msgid "Big"
+msgstr "Mawr"
+
+msgid "Bigger"
+msgstr "Mwy na'na"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Prwn ffan"
+
+msgid "Calculate"
+msgstr "Cyfrifwch"
+
+msgid "Calculate Abjad"
+msgstr "Cyfrif Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Cyfrifiwch Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Cyfrifiwch Huddam"
+
+msgid "Calculation details"
+msgstr "Manylion y cyfrifiad"
+
+msgid "Choose Keyboard Layout"
+msgstr "Dewis cynllun bysellfwrdd"
+
+msgid "Clear text box"
+msgstr "Clirio blwch testun"
+
+msgid "Click row for details"
+msgstr "Cliciwch y rhes i gael manylion"
+
+msgid "Close Keyboard"
+msgstr "Cau'r bysellfwrdd"
+
+msgid "Closed"
+msgstr "Cafwyd"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Mae'r koma yn y rhwymedigaeth rhagosodedig ac mae'n rhaid i'w gadw wedi ei "
+"ddewis!"
+
+msgid "Dashboard"
+msgstr "Bwrdd Darpariaeth"
+
+msgid "Data entry separators:"
+msgstr "Rhwymedigaethau mewnbwn data:"
+
+msgid "Data type profile"
+msgstr "Proffil math data"
+
+msgid "Dead keys"
+msgstr "Allweddau Marw"
+
+msgid "Decrease keyboard size"
+msgstr "Lleihau maint y bysellfwrdd"
+
+msgid "Don't calculate"
+msgstr "Peidiwch â chyfuno"
+
+msgid "Duty entity name results"
+msgstr "Canlyniadau enw'r elfennau hawliad"
+
+msgid "Duty entity type"
+msgstr "Math elfennau hawliad"
+
+msgid "Earth"
+msgstr "Daear"
+
+msgid "Element classification"
+msgstr "Dosbarthiad elfennau"
+
+msgid "Element classification method"
+msgstr "Methodd dosbarthiad elfennau"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Mewnbwn testun... Llafur a'rbiaidd, Hebraeg, Tuirc a rhifau"
+
+msgid "Entered data"
+msgstr "Data a nodwyd"
+
+msgid "Entry"
+msgstr "Mewnbwn"
+
+msgid "Entry letter count"
+msgstr "Cyfrifiad nodau mewnbwn"
+
+msgid "Evil"
+msgstr "Blaidd"
+
+msgid "Fire"
+msgstr "Pôr"
+
+msgid "For entered data"
+msgstr "Ar gyfer data a nodwyd"
+
+msgid "Frequency in Quran"
+msgstr "Cyfradd mewn al-Qur'an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebraeg"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elementau'r alphabet Iebraidd"
+
+msgid "Hebrew letters"
+msgstr "Llythyrau Iebraidd"
+
+msgid "High"
+msgstr "Uchel"
+
+msgid "Hija order"
+msgstr "Trefn Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Enwau Huddam wedi'u hideio"
+
+msgid "Huddam not calculated"
+msgstr "Huddam heb ei gyfrifo"
+
+msgid "Iklil's order"
+msgstr "Trefn Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Chwyddo maint y ffwrdd"
+
+msgid "Indian numbers"
+msgstr "Rhifau Indiaidd"
+
+msgid "Interface language"
+msgstr "Iaith yr Interface"
+
+msgid "Let character quantity decide"
+msgstr "Gadael i nifer y nodau ddewis"
+
+msgid "Letter count"
+msgstr "Cyfrifiad llythyrau"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Os hoffech chi fy nghyffroi? Panwch fafr i mi!"
+
+msgid "Low"
+msgstr "Isel"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Trefn Hija Maghribian"
+
+msgid "Minimum"
+msgstr "Isaf"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Iaith ddarllen rhifau"
+
+msgid "Numerical values"
+msgstr "Gwerthoedd rhifol"
+
+msgid "Open"
+msgstr "Agor"
+
+msgid "Order"
+msgstr "Trefn"
+
+msgid "Possible phrases"
+msgstr "Ffrasau posibl"
+
+msgid "Program settings"
+msgstr "Gosodiadau rhaglen"
+
+msgid "Pronunciation"
+msgstr "Llais"
+
+msgid "Regular expression"
+msgstr "Mynegiad rheolaidd"
+
+msgid "Regularly preferred classification"
+msgstr "Categori sydd yn cael ei ddewis yn rheolaidd"
+
+msgid "Reset"
+msgstr "Ailosod"
+
+msgid "Separators"
+msgstr "Ysgilwyr"
+
+msgid "Settings"
+msgstr "Gosodiadau"
+
+msgid "Shamsee abjad order"
+msgstr "Eriad abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Dangos y pad rhif"
+
+msgid "Show virtual keyboard"
+msgstr "Dangos y bysellfwrdd debyg"
+
+msgid "Small"
+msgstr "Bach"
+
+msgid "Small + letter count"
+msgstr "Bach + Cyfrifiad Nodau"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Cefnogaeth"
+
+msgid "Taken (letter)"
+msgstr "Tynnwyd (nod)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Tynnwyd (nod; abjad)"
+
+msgid "Taken Letters"
+msgstr "Nodau Tynnwyd"
+
+msgid "Text or number cell"
+msgstr "Cell testun neu rif"
+
+msgid "Thank you for your support!"
+msgstr "Diolch am eich cefnogaeth!"
+
+msgid "Total"
+msgstr "Cyfanswm"
+
+msgid "Turkish"
+msgstr "Twrci"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alfabet Abjad Twrci"
+
+msgid "Turkish alphabet elements"
+msgstr "Elfenau yr alfabed Twrci"
+
+msgid "Turkish letters"
+msgstr "Nodau Twrci"
+
+msgid "Undefined characters"
+msgstr "Cymeriadau heb eu diffinio"
+
+msgid "Value"
+msgstr "Gwerth"
+
+msgid "Value & Detail"
+msgstr "Gwerth & Manylion"
+
+msgid "Version"
+msgstr "Fersiwn"
+
+msgid "Water"
+msgstr "Dŵr"
+
+msgid "When data is entered"
+msgstr "Pan mae'r data wedi’i nodi"
+
+msgid "When reading large digits"
+msgstr "Pan ddarllenwch rifau mawr"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad wedi'i gyfrif a chyfrifiad o nodau ychwanegwyd"
+
+msgid "abjad() functions settings"
+msgstr "dewislen swyddogaethau abjad()"
+
+msgid "add to initial value"
+msgstr "ychwilio i'r gwerth cychwynnol"
+
+msgid "and"
+msgstr "a"
+
+msgid "auto calculate immediately"
+msgstr "cyfrifo'n awtomatig ar unwaith"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "dewislen swyddogaethau bastet() a nutket()"
+
+msgid "count once"
+msgstr "cyfrifwch unwaith"
+
+msgid "count twice"
+msgstr "cyfrifwch ddwywaith"
+
+msgid "display with Arabic numbers"
+msgstr "dangos gyda rhifau Arab"
+
+msgid "display with Indian numbers"
+msgstr "dangos gyda rhifau India"
+
+msgid "do not add to initial value"
+msgstr "peidio â hychwanegu i'r gwerth cychwynnol"
+
+msgid "do not force to other functions"
+msgstr "peidio â gorfio i swyddogaethau eraill"
+
+msgid "do not purify"
+msgstr "peidio â glanhau"
+
+msgid "force to other functions"
+msgstr "gorfio i swyddogaethau eraill"
+
+msgid "group multiplier letters"
+msgstr "bysellau lluosydd grŵp"
+
+msgid "hide"
+msgstr "cuddio"
+
+msgid "hide abjad values"
+msgstr "cuddio gwerthoedd abjad"
+
+msgid "hide bast results"
+msgstr "cuddio canlyniadau bast"
+
+msgid "hide huddam names"
+msgstr "cuddio enwau huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() gosodiadau'r swyddogaeth"
+
+msgid "no bast applied."
+msgstr "dim bast wedi'i gymhwyso."
+
+msgid "no data entered"
+msgstr "dim data wedi'i fewnosod"
+
+msgid "other suffix"
+msgstr "postwedd arall"
+
+msgid "purify data"
+msgstr "wythu data"
+
+msgid "repeat multiplier for each digit"
+msgstr "ailadrodd gwerthwr am bob digid"
+
+msgid "show"
+msgstr "dangos"
+
+msgid "show abjad values"
+msgstr "dangos gwerthoedd abjad"
+
+msgid "show bast results"
+msgstr "dangos canlyniadau bast"
+
+msgid "show huddam names"
+msgstr "dangos enwau huddam"
+
+msgid "suffix"
+msgstr "postwedd"
+
+msgid "times bast applied."
+msgstr "amgylchiau bast yn cael eu cymhwyso."
+
+msgid "use calculated abjad results"
+msgstr "defnyddio canlyniadau abjad wedi'u cyfrifo"
+
+msgid "use calculated abjad total"
+msgstr "defnyddio cyfanswm abjad wedi'i gyfrifo"
+
+msgid "use calculated bast results"
+msgstr "defnyddio canlyniadau bast wedi'u cyfrifo"
+
+msgid "use entered data directly"
+msgstr "defnyddio data wedi'i fewnosod yn uniongyrchol"
+
+msgid "use entered data total"
+msgstr "defnyddio cyfanswm data wedi'i fewnosod"
+
+msgid "use in all bast repetitions"
+msgstr "defnyddio mewn pob ailadrodd bast"
+
+msgid "use only at beginning if possible"
+msgstr "defnyddio dim ond yn y dechrau os bosibl"
+
+msgid "wait for settings and data entry"
+msgstr "acw yn edrych ar gosodiadau a fewnforio data"
+
+msgid "Abjad Table"
+msgstr "Tabl Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Manylion"
+
+msgid "Element Classification"
+msgstr "Amlodiad Elfen"
+
+msgid "Abjad Order"
+msgstr "Rhesrws Abjad"
+
+msgid "Abjad Widget"
+msgstr "Wediw Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ychwanegwch CSS personol i addasu'r ymddangosiad wediw."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ychwanegwch JavaScript personol i addasu ymddygiad wediw. Gall camgymeriad o"
+" brogram arwain at ddilysio'r wediw!"
+
+msgid "An error occurred while loading content."
+msgstr "Digwyddodd gwall wrth lwytho cynnwys."
+
+msgid "Button"
+msgstr "Botwm"
+
+msgid "Button Color"
+msgstr "Lliw Botwm"
+
+msgid "Button Emoji"
+msgstr "Emoji Botwm"
+
+msgid "Button Message"
+msgstr "Neges Botwm"
+
+msgid "Button Settings"
+msgstr "Gosodiadau Botwm"
+
+msgid "Button Type"
+msgstr "Math Botwm"
+
+msgid "CSS saved successfully."
+msgstr "CSS wedi'i gadw'n llwyddiannus."
+
+msgid "Check this box to activate the widget."
+msgstr "Gwiriwch y blwch hwn i actifio'r widdit."
+
+msgid "Code Editor"
+msgstr "Golygydd Cod"
+
+msgid "Custom CSS"
+msgstr "CSS Personol"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Personol"
+
+msgid "Description"
+msgstr "Disgrifiad"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Rhowch URL delwedd"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Enghraifft: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Cyffredinol"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript wedi'i gadw'n llwyddiannus."
+
+msgid "Left"
+msgstr "Chwith"
+
+msgid "Live Preview"
+msgstr "Rhagolwg Byw"
+
+msgid "Loading..."
+msgstr "Llwytho..."
+
+msgid "PNG Image URL"
+msgstr "URL delwedd PNG"
+
+msgid "Paste SVG code"
+msgstr "Gludo cod SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Rhowch URL dilys, os gwelwch yn dda."
+
+msgid "Position"
+msgstr "Safle"
+
+msgid "Reset to Default"
+msgstr "Ailosod i'r Rhagosodedir"
+
+msgid "Right"
+msgstr "De"
+
+msgid "SVG Code"
+msgstr "Cod SVG"
+
+msgid "Save CSS"
+msgstr "Cadw CSS"
+
+msgid "Save JavaScript"
+msgstr "Cadw JavaScript"
+
+msgid "Save Settings"
+msgstr "Cadw'r Gosodiadau"
+
+msgid "Settings saved successfully."
+msgstr "Gosodiadau wedi'u cadw'n llwyddiannus."
+
+msgid "Style Editor"
+msgstr "Golygydd Arddull"
+
+msgid "WARNING"
+msgstr "RHYBOD"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Croeso! Gallwch ddilyn newyddion a hysbysiadau'r widget o'r panel hwn."
+
+msgid "Widget Settings"
+msgstr "Gosodiadau'r Widget"
+
+msgid "Widget Status"
+msgstr "Statws'r Widget"
+
+msgid "Widget active"
+msgstr "Actif widget"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Gall cod JavaScript anghywir broblemio'r widget. Cadwch wrth gefn cyn gwneud"
+" newidiadau."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Enw defnyddiwr 'Buy Me a Coffee'"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Bydd eich newidiadau yn effeithio'n uniongyrchol ar yr ymddangosiad widget. "
+"Os nad ydych yn gwybod CSS, argymhellir defnyddio'r gosodiadau rhagosodedig."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dasbwrdd Lleol"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Ceisio Gwaed a Mystigau"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Priodau Personalr: Rhyfeddol, introspectif, agorwr meddwl, a dymunol i "
+"ddysgu gwybodaeth esoterig. Efallai eu bod yn ddiddordeb mewn canfod "
+"ysgafnau cudd neu drafodaeth o drafodaeth o'r bywyd. Cyflogaeth: Mae "
+"rhaglenwyr spiritig, darllenwyr tarot, astrolwyr, neu unigolion sy'n ymyredu"
+" mewn arferion New Age. Spectrum Ideologig: Yn debyg i ymarferion spiritig "
+"neu metafrasyddol. Gallant weld y teclynnau fel ffordd o gysylltu gyda "
+"gwirioneddau ddiffuant neu ysgafnau universaol."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numeroloedd a Gwaedwyr Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Priodau Personol: Analydd, canranol, a ddiddordebwyd yn y berthynas rhwng "
+"rhifau a iaith. Efallai eu bod yn mwynhau dad-dadlau difiniadau symbolaidd. "
+"Cyflogaeth: Numeroloedd hyffordd ar-lein, ysgrifennu ar bynciau esoterig, "
+"neu hunangynnu'r raddio'n gwob. Spectrum Ideologig: Efallai i'r rhai sy'n "
+"gweld numeroleg fel gêm ddysgu a'r rhai sy'n credu yn ei chlydysg spiritig "
+"pwysicaf."
+
+msgid "Historians and Linguists"
+msgstr "Hanesyddion a Llenyddion"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Priodau Personol: Arolwg, a methodolig, a ddiddordeb mewn cyd-destunau "
+"hanesyddol neu ddiwylliannol o systemau rhifol fel Abjad. Cyflogaeth: "
+"Academics, ymchwilwyr, neu studiaethion sy'n astudio iaith Mewnion Dwr "
+"Cenedlaethol, hanes, neu destunau crefyddol. Spectrum Ideologig: Deunyddion "
+"i'w fwrw ymlaen o'r safle seculr, arolwg, gan sylchu ei chlydysg hanesyddol "
+"neu iaith."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Personau crefyddol neu ddibynol ar Gofio"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Priodau Personol: Dymunol, reflektiv, a chwiliol cysylltiadau mwy dwfn i'w "
+"gredo. Gallant ddefnyddio'r offeri i archwilio destunau crefyddol neu "
+"negeseuon divin. Cyflogaeth: Gwybodaeth crefyddol, imams, piri, neu bobl "
+"ymyrrwy gyda ddiddordeb yn ddwys i ddiddordeb a ddynaboeth y gredo. Spectrum"
+" Ideologig: Deunyddion i'w fwrw ymlaen o'r safle tradcywnol, arolwg, a "
+"chroeni at y gredo spiritig."
+
+msgid "Writers and Artists"
+msgstr "Ysgrifennwyr a Sgyrff"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Priodau Personol: Greadigol, ymddiddorol, a dymunol i sgiliau symbolaidd neu"
+" darluniau. Efallai i'r offeri ymyrru i'r dylanwad neu ychwanegu llwybr i'r "
+"ddenu. Cyflogaeth: Awdur, poet, deithryn a sgyrff, neu wredydd. Spectrum "
+"Ideologig: Efallai i'r rhai sy'n seculr i'r rhai sydd â ddyrn spiritig neu "
+"mystig."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Pwysau a Gwaedwyr Riddle"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Priodau Personol: Chwaraegol, ddiddordebol, a mwynhau datrys problemau "
+"cymhleth neu ddad-dadlau patrwmau. Cyflogaeth: HOBBYIST, ddelwerion puzzle, "
+"neu addysgwr. Spectrum Ideologig: Deunyddion i'r offeri fel ffurf o gêm neu "
+"hyffordd i'r meddwl, gyda llai o gysylltiadau ideologig."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Teoriadau Conspiracy a Myfyrwyr Allweddol"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Priodau Personol: Skeptical o'r narratives mwyaf, a dymunol i ddogfennu "
+"gwirioneddau cudd neu patrwmau mewn systemau. Cyflogaeth: Ymchwilwyr "
+"annibynnol, bloggeri, neu awdurdodion. Spectrum Ideologig: Efallai i'r rhai "
+"sydd yn debygol o'r worldview radikal neu allweddol, gan ddefnyddio'r offeri"
+" i gefnogi teoriadau allweddol neu narrativeni."
+
+msgid "☕ Support the Project"
+msgstr "☕ Cefnogi'r Prosiect"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Os hoffech chi'r prosiect, gallwch brynu gopi a dyna!"
+
+msgid "Buy Me A Coffee"
+msgstr "Brynu Mewn Cofi"
+
+msgid "Thank you! 🙏"
+msgstr "Diolch! 🙏"
