@@ -1,0 +1,816 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Northern Sami (Sweden) <se_SE>\n"
+"Language: se-SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad-ovdagat"
+
+msgid "Abjad Value"
+msgstr "Abjad-váhttá"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad-widget-dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Abjad-márkása ovdagat"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad-márkása ovdagat gárjjá"
+
+msgid "Abjad not calculated"
+msgstr "Abjad-márkása ovdagat bágá"
+
+msgid "Abjad order"
+msgstr "Abjad-jáhppa"
+
+msgid "Add elements"
+msgstr "duokta elementta"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "vuođá"
+
+msgid "All"
+msgstr "all"
+
+msgid "Arabic"
+msgstr "Arabisk"
+
+msgid "Arabic letters"
+msgstr "Arabisk leat"
+
+msgid "Arabic numbers"
+msgstr "Arabisk numbrat"
+
+msgid "As data for operation"
+msgstr "operášege data"
+
+msgid "Bast loop results"
+msgstr "Bast loop ovdagat"
+
+msgid "Bast not calculated"
+msgstr "Bast ovdagat bágá"
+
+msgid "Bast repetition count"
+msgstr "Bast repetition count"
+
+msgid "Bast results hidden"
+msgstr "Bast ovdagat gárjjá"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet-jáhppa"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tábla"
+
+msgid "Big"
+msgstr "báđđa"
+
+msgid "Bigger"
+msgstr "báđđa ja bávnná"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Buy me a coffee"
+
+msgid "Calculate"
+msgstr "márkása"
+
+msgid "Calculate Abjad"
+msgstr "márkása Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Bastet giellat"
+
+msgid "Calculate Huddam"
+msgstr "Huddam giellat"
+
+msgid "Calculation details"
+msgstr "Giellat jašši"
+
+msgid "Choose Keyboard Layout"
+msgstr "Klavahan layoutta valit"
+
+msgid "Clear text box"
+msgstr "Sátnit text box"
+
+msgid "Click row for details"
+msgstr "Látit ruvdá jaššij"
+
+msgid "Close Keyboard"
+msgstr "Klavahan slåh"
+
+msgid "Closed"
+msgstr "Slåhit"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma lea default ovddasit ja dárra ovddasit goššat!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Data entry separators:"
+
+msgid "Data type profile"
+msgstr "Data type profile"
+
+msgid "Dead keys"
+msgstr "Dead keys"
+
+msgid "Decrease keyboard size"
+msgstr "Decrease keyboard size"
+
+msgid "Don't calculate"
+msgstr "Don't calculate"
+
+msgid "Duty entity name results"
+msgstr "Duty entity name results"
+
+msgid "Duty entity type"
+msgstr "Duty entity type"
+
+msgid "Earth"
+msgstr "Dáru"
+
+msgid "Element classification"
+msgstr "Element classification"
+
+msgid "Element classification method"
+msgstr "Element classification method"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+
+msgid "Entered data"
+msgstr "Entered data"
+
+msgid "Entry"
+msgstr "Entry"
+
+msgid "Entry letter count"
+msgstr "Entry letter count"
+
+msgid "Evil"
+msgstr "vuáŋŋe"
+
+msgid "Fire"
+msgstr "gáhtta"
+
+msgid "For entered data"
+msgstr "For entered data"
+
+msgid "Frequency in Quran"
+msgstr "Frequency in Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Hebraiske alfabe-elementi"
+
+msgid "Hebrew letters"
+msgstr "Hebraiske bokkadar"
+
+msgid "High"
+msgstr "Ođđa"
+
+msgid "Hija order"
+msgstr "Hija-ordad"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam namii gálgiid"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ii laskka"
+
+msgid "Iklil's order"
+msgstr "Iklil-ordad"
+
+msgid "Increase keyboard size"
+msgstr "Keyboard boalgi"
+
+msgid "Indian numbers"
+msgstr "Indiaáru nuovtta"
+
+msgid "Interface language"
+msgstr "Interface-giela"
+
+msgid "Let character quantity decide"
+msgstr "Karáktar-álggas siiddá"
+
+msgid "Letter count"
+msgstr "Bokkadar ráhko"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Mii projedid leat meahci? Bii máhke meahcá!"
+
+msgid "Low"
+msgstr "Juvdna"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija ordad"
+
+msgid "Minimum"
+msgstr "Minimal"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Nuovtta giela"
+
+msgid "Numerical values"
+msgstr "Numerála váldu"
+
+msgid "Open"
+msgstr "Buođđun"
+
+msgid "Order"
+msgstr "Ordad"
+
+msgid "Possible phrases"
+msgstr "Muvdna fraze"
+
+msgid "Program settings"
+msgstr "Program-ruvdsat"
+
+msgid "Pronunciation"
+msgstr "Gálgáldad"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Regularly preferred classification"
+msgstr "Regularly preferred classification"
+
+msgid "Reset"
+msgstr "Sáhtá"
+
+msgid "Separators"
+msgstr "Dábálašguovlašat"
+
+msgid "Settings"
+msgstr "Eadnamusat"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad guollá"
+
+msgid "Show numpad"
+msgstr "Numpad guokte"
+
+msgid "Show virtual keyboard"
+msgstr "Virtuell klavya guokte"
+
+msgid "Small"
+msgstr "Bealá"
+
+msgid "Small + letter count"
+msgstr "Bealá + giela goahti"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Leavduvvon"
+
+msgid "Taken (letter)"
+msgstr "Láige (giela)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Láige (giela; abjad)"
+
+msgid "Taken Letters"
+msgstr "Láige Gielat"
+
+msgid "Text or number cell"
+msgstr "Text ieh ja numbrá bávdi"
+
+msgid "Thank you for your support!"
+msgstr "Leavduvvon gohko!"
+
+msgid "Total"
+msgstr "Allma"
+
+msgid "Turkish"
+msgstr "Turkálaš"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkálaš alfabet abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turkálaš alfabet guozat"
+
+msgid "Turkish letters"
+msgstr "Turkálaš gielat"
+
+msgid "Undefined characters"
+msgstr "Mii leat eai gohka diđđiid"
+
+msgid "Value"
+msgstr "Váldda"
+
+msgid "Value & Detail"
+msgstr "Váldda & Detál"
+
+msgid "Version"
+msgstr "Guoibma"
+
+msgid "Water"
+msgstr "Suáŋga"
+
+msgid "When data is entered"
+msgstr "Datát leat ovddidit"
+
+msgid "When reading large digits"
+msgstr "Girgis leat ovddidit"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad addáhusa ja ođđáldus addáhusa"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funksiones ovttašuvdna"
+
+msgid "add to initial value"
+msgstr "addála oahppas"
+
+msgid "and"
+msgstr "ja"
+
+msgid "auto calculate immediately"
+msgstr "gielgid álggit giđđi"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ja nutket() funksiones ovttašuvdna"
+
+msgid "count once"
+msgstr "odda eará"
+
+msgid "count twice"
+msgstr "odda duovdu"
+
+msgid "display with Arabic numbers"
+msgstr "vuoga Árábáččid numbaris"
+
+msgid "display with Indian numbers"
+msgstr "vuoga Indiaččid numbaris"
+
+msgid "do not add to initial value"
+msgstr "eai addála oahppas"
+
+msgid "do not force to other functions"
+msgstr "eai foorsta gohke funktioiden"
+
+msgid "do not purify"
+msgstr "eai purijá"
+
+msgid "force to other functions"
+msgstr "foorsta gohke funktioiden"
+
+msgid "group multiplier letters"
+msgstr "gruppjužju báhtet"
+
+msgid "hide"
+msgstr "đielge"
+
+msgid "hide abjad values"
+msgstr "đielge abjad ovttas"
+
+msgid "hide bast results"
+msgstr "bargit bast-árkgoid"
+
+msgid "hide huddam names"
+msgstr "bargit huddam namid"
+
+msgid "huddam() function settings"
+msgstr "huddam() funksja-árkgoid"
+
+msgid "no bast applied."
+msgstr "bast-giid ii don."
+
+msgid "no data entered"
+msgstr "dátat ii birra"
+
+msgid "other suffix"
+msgstr "ođđa finni"
+
+msgid "purify data"
+msgstr "dátat čáljit"
+
+msgid "repeat multiplier for each digit"
+msgstr "digit-satgá guolgojuvvohii"
+
+msgid "show"
+msgstr "bargat"
+
+msgid "show abjad values"
+msgstr "abjad-árggot bargat"
+
+msgid "show bast results"
+msgstr "bast-árkgoid bargat"
+
+msgid "show huddam names"
+msgstr "huddam namid bargat"
+
+msgid "suffix"
+msgstr "finni"
+
+msgid "times bast applied."
+msgstr "bast-giid don ovdal."
+
+msgid "use calculated abjad results"
+msgstr "bargot abjad-árkgoid áđđi"
+
+msgid "use calculated abjad total"
+msgstr "bargot abjad-árkgoid áđđi váike"
+
+msgid "use calculated bast results"
+msgstr "bargot bast-árkgoid áđđi"
+
+msgid "use entered data directly"
+msgstr "bargot datat birra bargi"
+
+msgid "use entered data total"
+msgstr "bargot datat birra váike"
+
+msgid "use in all bast repetitions"
+msgstr "bargot bast-árkgoid gávddus"
+
+msgid "use only at beginning if possible"
+msgstr "bargot ođđa gullu, dánnaš."
+
+msgid "wait for settings and data entry"
+msgstr "árkgoid ja datat birra bargi várra"
+
+msgid "Abjad Table"
+msgstr "Abjad Mánna"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Detállid"
+
+msgid "Element Classification"
+msgstr "Árvu klasifikas"
+
+msgid "Abjad Order"
+msgstr "Abjad Árruv"
+
+msgid "Abjad Widget"
+msgstr "Abjad widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "CSS custom-ánjuvdat mii widget-árkgoid bargat"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"JavaScript custom-ánjuvdat mii widget-árkgoid bargat. Gávggi kode máhkat "
+"widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Inno maŋŋá eadno guhte leamu."
+
+msgid "Button"
+msgstr "Bottin"
+
+msgid "Button Color"
+msgstr "Bottin vuorre"
+
+msgid "Button Emoji"
+msgstr "Bottin Emoji"
+
+msgid "Button Message"
+msgstr "Bottin budjet"
+
+msgid "Button Settings"
+msgstr "Bottin sániid"
+
+msgid "Button Type"
+msgstr "Bottin tippe"
+
+msgid "CSS saved successfully."
+msgstr "CSS dárbbašit go leat."
+
+msgid "Check this box to activate the widget."
+msgstr "Gohte jaŋŋe buhtá eará."
+
+msgid "Code Editor"
+msgstr "Kodáhusaid"
+
+msgid "Custom CSS"
+msgstr "Arje CSS"
+
+msgid "Custom JavaScript"
+msgstr "Arje JavaScript"
+
+msgid "Description"
+msgstr "Sivkáráhus"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Jiegga guođget URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Maiddu: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Gosat"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript dárbbašit go leat."
+
+msgid "Left"
+msgstr "Luovv"
+
+msgid "Live Preview"
+msgstr "Jitkuhusaid"
+
+msgid "Loading..."
+msgstr "Válduđi..."
+
+msgid "PNG Image URL"
+msgstr "PNG guođget URL"
+
+msgid "Paste SVG code"
+msgstr "Paste SVG kodá"
+
+msgid "Please enter a valid URL."
+msgstr "Guođje váldit eará URL."
+
+msgid "Position"
+msgstr "Posisjona"
+
+msgid "Reset to Default"
+msgstr "Sániid ovdal."
+
+msgid "Right"
+msgstr "Sohpa"
+
+msgid "SVG Code"
+msgstr "SVG kodá"
+
+msgid "Save CSS"
+msgstr "CSS gárddu"
+
+msgid "Save JavaScript"
+msgstr "JavaScript gárddu"
+
+msgid "Save Settings"
+msgstr "Sivrruovddá"
+
+msgid "Settings saved successfully."
+msgstr "Sivrruovddá leat guvvusat."
+
+msgid "Style Editor"
+msgstr "Searvičallavdu"
+
+msgid "WARNING"
+msgstr "Árvu"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Buerat! Du gal leat dárkavda widgeta váldojiediide ja dárkavda siiddes "
+"panel."
+
+msgid "Widget Settings"
+msgstr "Widgeta sivrruovddái"
+
+msgid "Widget Status"
+msgstr "Widgeta státá"
+
+msgid "Widget active"
+msgstr "Widgeta gávdnoš"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "Gálmán JavaScript koda mii gávkái widgeta. Backup dáppe dásse."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Meará Buy Me a Coffee nambdu"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Meará sámáid leat gávkái widgeta viessan. Du ohtet CSS, deŋko go sáhtá "
+"defaulta sivrruovddái."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Lánus panel"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Spiritualá lohčáčalašid ja mystikid"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Personality Traits: Jávggol, leavdduhčč, ovttosat, ja sáhtá esoterika "
+"čájeavta. De leat váđđiid ovddas sávniid ávdadit ja máhčáđá. Oččat: "
+"Spirituala ovddijat, tarot-čájeavtaid, astrologiid, ja dáhkat new age "
+"čájeavtá. Ideological Spectrum: De leat sáhkkár eadna spiritálbád eadna "
+"deŋko áiggi. De leat go čájeavtaid lea ođđaid sámiin geahččun orruide, ja "
+"leát sáhkká čájeavtaid áidit."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologiid ja Gematria-enthusiastid"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Personality Traits: Analytical, detail-oriented, ja sáhtá ávdadit bealhán "
+"numárid ja gávna. De leat sáhtá sálbmiid symbolačájeavtaid. Oččat: Freelance"
+" numerologiid, esoterika gávnašid, ja hobbyistid, de leat numerologiida "
+"čájeavta. Ideological Spectrum: De leat deŋko ođđaid áiggi, de leat sáhtá "
+"numárid lea gierá ja távkámus, de leat deŋko álggan dáhtáid spiritálbád."
+
+msgid "Historians and Linguists"
+msgstr "Historiid ja Linguistid"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Personality Traits: Scholarly, methodical, ja sáhtá historiid ja kulturlat "
+"numárkearáhtáid, vuolla Abjad. Oččat: Academics, researcherid, ja studiatid,"
+" de leat vuortta Middeast lunda, historiid, ja religiála gávna. Ideological "
+"Spectrum: De leat sáhtá gávnaid ođđa siiddáin, eadna deŋko áiggi, de leat go"
+" siidda sihkkos eadna historiid ja gávna sávnodat."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religiális ja tije-báret individulid"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Personality Traits: Devout, reflective, ja sáhtá dásis dárkavda tije. De "
+"leat sáhtá čájeavtaid religiosiid gávna, oruđu, ja rohiid, ja dárkavda dásis"
+" tijein mystisktraditijonid. Ideological Spectrum: De leat sáhtá dásis "
+"dárkavda tijein, de leat sáhtá dárkavda traditijonid, ja de leat go "
+"čájeavtaid lea tárkkuš sámiin tije."
+
+msgid "Writers and Artists"
+msgstr "Writerid ja artistiid"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Personality Traits: Creative, imaginative, ja sáhtá symbolačájeavtaid ja "
+"abstraktiid. De leat sáhtá čájeavtaid inspirášuvdna ja meáná sávniid "
+"čájeavtaid. Oččat: Authors, poets, visual artists, ja musicians. Ideological"
+" Spectrum: De leat deŋko ođđaid seärijad, de leat sáhtá távkámus "
+"spiritálbád, ja mystisk bent."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle ja Riddle-enthusiastid"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Personality Traits: Playful, intellectually curious, ja sáhtá ođđaid "
+"problemid ja čájeavtaid. Oččat: Hobbyists, puzzle designerid, ja educators. "
+"Ideological Spectrum: De leat sáhtá čájeavtaid go siiddá sihkkos, ođđaid "
+"mental exercise, de leat sávnodat ideologiid."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy-Theorists ja Alternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Personality Traits: Skeptical of mainstream narratives, sáhtá daidá hidden "
+"truths ja čájeavtaid numárkearáhtáid. Oččat: Independent researcherid, "
+"bloggers, ja activists. Ideological Spectrum: De leat radikal bárá, de leat "
+"sáhtá alternative theoryid ja narrativit."
+
+msgid "☕ Support the Project"
+msgstr "☕ Projektin tábálaš"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Siid du dáhtán projektin, du gal vásáčča min eará!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Taimi! 🙏"

@@ -1,0 +1,825 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Southern Ndebele <nr_ZA>\n"
+"Language: nr-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Izintathu ze-Abjad"
+
+msgid "Abjad Value"
+msgstr "Inani ye-Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "I-Dashboard le-Widget le-Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Imiphumela yokubalwa kwe-Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Ukubalwa kwe-Abjad kufihlwa"
+
+msgid "Abjad not calculated"
+msgstr "Abjad akayibalwa"
+
+msgid "Abjad order"
+msgstr "Ubuningi be-Abjad"
+
+msgid "Add elements"
+msgstr "Faka izinto"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Umoya"
+
+msgid "All"
+msgstr "Sonke"
+
+msgid "Arabic"
+msgstr "isi-Arabhu"
+
+msgid "Arabic letters"
+msgstr "Amakholomu esi-Arabhu"
+
+msgid "Arabic numbers"
+msgstr "Izibalo esi-Arabhu"
+
+msgid "As data for operation"
+msgstr "Njengolwazi lokusebenza"
+
+msgid "Bast loop results"
+msgstr "Imiphumela ye-loop ye-Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast akayibalwa"
+
+msgid "Bast repetition count"
+msgstr "Inani lokuphinda i-Bast"
+
+msgid "Bast results hidden"
+msgstr "Imiphumela ye-Bast ifihlwa"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Ubuningi be-Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Ithabela le-Bastet"
+
+msgid "Big"
+msgstr "Omkhulu"
+
+msgid "Bigger"
+msgstr "Omkhulu kakhulu"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Thenga i-kofi yami"
+
+msgid "Calculate"
+msgstr "Bala"
+
+msgid "Calculate Abjad"
+msgstr "Bala i-Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Bala Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Bala Huddam"
+
+msgid "Calculation details"
+msgstr "Imininingwane yokubala"
+
+msgid "Choose Keyboard Layout"
+msgstr "Khetha uhlelo lwesikhombandlela sekhibhodi"
+
+msgid "Clear text box"
+msgstr "Susa ibhokisi lombhalo"
+
+msgid "Click row for details"
+msgstr "Cindezela umugqa ukuze ubone imininingwane"
+
+msgid "Close Keyboard"
+msgstr "Vala ikhibhodi"
+
+msgid "Closed"
+msgstr "Valiwe"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Ikomam yindawo yokuqala yokuhlukanisa futhi kufanele igcinwe ivunyiwe!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Izichashe zokufaka idatha:"
+
+msgid "Data type profile"
+msgstr "Iphrofayili yohlobo lwedatha"
+
+msgid "Dead keys"
+msgstr "Amaqhosha ayime"
+
+msgid "Decrease keyboard size"
+msgstr "Nciphisa usayizi wekhobhanedi"
+
+msgid "Don't calculate"
+msgstr "Ungabali"
+
+msgid "Duty entity name results"
+msgstr "Imiphumela yegama le-entity esebenzayo"
+
+msgid "Duty entity type"
+msgstr "Uhlobo lwe-entity esebenzayo"
+
+msgid "Earth"
+msgstr "Umhlaba"
+
+msgid "Element classification"
+msgstr "Ukuhlukanisa kwezinto"
+
+msgid "Element classification method"
+msgstr "Indlela yokuhlukanisa kwezinto"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Faka umbhalo... Amafundi esiArabika, isiHebrew, isiTurkish, amanani"
+
+msgid "Entered data"
+msgstr "Idatha efakiwe"
+
+msgid "Entry"
+msgstr "Ukufaka"
+
+msgid "Entry letter count"
+msgstr "Inani lezinhlamvu"
+
+msgid "Evil"
+msgstr "Ububi"
+
+msgid "Fire"
+msgstr "Umlilo"
+
+msgid "For entered data"
+msgstr "Kwadatha efakiwe"
+
+msgid "Frequency in Quran"
+msgstr "Umlingiswa e-Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "isiHebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Izingxenye ze-alfabhe yaseHebra"
+
+msgid "Hebrew letters"
+msgstr "Izincwadi zeHebra"
+
+msgid "High"
+msgstr "Phezulu"
+
+msgid "Hija order"
+msgstr "Uhlehla lweHija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Amazwi eHuddam afihliwe"
+
+msgid "Huddam not calculated"
+msgstr "Huddam alilinganisiwe"
+
+msgid "Iklil's order"
+msgstr "Uhlehla lukaIklil"
+
+msgid "Increase keyboard size"
+msgstr "Yandisa usayizi wembhu"
+
+msgid "Indian numbers"
+msgstr "Izibalo zaseIndia"
+
+msgid "Interface language"
+msgstr "Ulimi lwe-interface"
+
+msgid "Let character quantity decide"
+msgstr "Vumela isamba samamphakathi senze isinqumo"
+
+msgid "Letter count"
+msgstr "Inani lezincwadi"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Uthokozile ngephrojekthi yami? Thenga ikhofi kimi!"
+
+msgid "Low"
+msgstr "Phansi"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Impikizimilo"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Ulimi lokufunda izinombolo"
+
+msgid "Numerical values"
+msgstr "Amanani wesibalo"
+
+msgid "Open"
+msgstr "Vula"
+
+msgid "Order"
+msgstr "Uhlehla"
+
+msgid "Possible phrases"
+msgstr "Izisho ezingenzeka"
+
+msgid "Program settings"
+msgstr "Izilungiselelo zohlelo"
+
+msgid "Pronunciation"
+msgstr "Ukukhuluma"
+
+msgid "Regular expression"
+msgstr "Ukuhlunga okuhlelekile"
+
+msgid "Regularly preferred classification"
+msgstr "Ukuhlukaniswa okuvame ukwamukelwa"
+
+msgid "Reset"
+msgstr "Setha kabusha"
+
+msgid "Separators"
+msgstr "Abahlukanisi"
+
+msgid "Settings"
+msgstr "Izicwangciso"
+
+msgid "Shamsee abjad order"
+msgstr "Uhlelo lwe-abjad lweShamsee"
+
+msgid "Show numpad"
+msgstr "Bonisa numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Bonisa ikhibhodi yegama"
+
+msgid "Small"
+msgstr "Ncane"
+
+msgid "Small + letter count"
+msgstr "Ncane + inani lezincwadi"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Sisekelo"
+
+msgid "Taken (letter)"
+msgstr "Tshiywe (incwadi)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Tshiywe (incwadi; abjad)"
+
+msgid "Taken Letters"
+msgstr "Izincwadi ezithathwe"
+
+msgid "Text or number cell"
+msgstr "Isikhala sombhalo noma inombolo"
+
+msgid "Thank you for your support!"
+msgstr "Ngiyabonga ngosizo lwakho!"
+
+msgid "Total"
+msgstr "Isamba"
+
+msgid "Turkish"
+msgstr "IsiTurki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Uhlelo lwe-Abjad lwendawo yesiTurki"
+
+msgid "Turkish alphabet elements"
+msgstr "Izinhlaka ze-alphabet yesiTurki"
+
+msgid "Turkish letters"
+msgstr "Izinhlamvu zesiTurki"
+
+msgid "Undefined characters"
+msgstr "Izimpawu ezingachazwanga"
+
+msgid "Value"
+msgstr "Inani"
+
+msgid "Value & Detail"
+msgstr "Inani & Imininingwane"
+
+msgid "Version"
+msgstr "Inguqulo"
+
+msgid "Water"
+msgstr "Amanzi"
+
+msgid "When data is entered"
+msgstr "Uma idatha ingeniswa"
+
+msgid "When reading large digits"
+msgstr "Lapho ufunda izinombolo ezinkulu"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad ibalwa kunye nenani lezinhlamvu elengeziwe"
+
+msgid "abjad() functions settings"
+msgstr "abjad() imimiselo yefunsiyo"
+
+msgid "add to initial value"
+msgstr "ongeza kwixabiso lokuqala"
+
+msgid "and"
+msgstr "kwaye"
+
+msgid "auto calculate immediately"
+msgstr "ibala ngokuzenzakalelayo ngokukhawuleza"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() kunye nutket() imimiselo yefunsiyo"
+
+msgid "count once"
+msgstr "bala kanye"
+
+msgid "count twice"
+msgstr "bala kabini"
+
+msgid "display with Arabic numbers"
+msgstr "bonisa ngezinombolo zaseArabhu"
+
+msgid "display with Indian numbers"
+msgstr "bonisa ngezinombolo zaseIndia"
+
+msgid "do not add to initial value"
+msgstr "ungazongeza kwixabiso lokuqala"
+
+msgid "do not force to other functions"
+msgstr "ungayigxothi kwezinye izinkqubo"
+
+msgid "do not purify"
+msgstr "ungasiyibuyisela"
+
+msgid "force to other functions"
+msgstr "gquma kwezinye izinkqubo"
+
+msgid "group multiplier letters"
+msgstr "qoqani izimpawu eziphindaphindiweyo"
+
+msgid "hide"
+msgstr "fihla"
+
+msgid "hide abjad values"
+msgstr "fihla amanani e-abjad"
+
+msgid "hide bast results"
+msgstr "fihla imiphumela ye-bast"
+
+msgid "hide huddam names"
+msgstr "fihla amagama e-huddam"
+
+msgid "huddam() function settings"
+msgstr "izilungiselelo zenkonzo ye-huddam()"
+
+msgid "no bast applied."
+msgstr "akukho i-bast esetshenzisiwe."
+
+msgid "no data entered"
+msgstr "akukho datha efakwe"
+
+msgid "other suffix"
+msgstr "isigqoko esinye"
+
+msgid "purify data"
+msgstr "sucula idatha"
+
+msgid "repeat multiplier for each digit"
+msgstr "phinda isibalo se-multiplikeya ngamunye inombolo"
+
+msgid "show"
+msgstr "bonisa"
+
+msgid "show abjad values"
+msgstr "bonisa amanani e-abjad"
+
+msgid "show bast results"
+msgstr "bonisa imiphumela ye-bast"
+
+msgid "show huddam names"
+msgstr "bonisa amagama e-huddam"
+
+msgid "suffix"
+msgstr "isigqoko"
+
+msgid "times bast applied."
+msgstr "izikhathi i-bast esetshenzisiwe."
+
+msgid "use calculated abjad results"
+msgstr "sebenzisa imiphumela ye-abjad ebhekwe"
+
+msgid "use calculated abjad total"
+msgstr "sebenzisa isamba se-abjad esibhekwe"
+
+msgid "use calculated bast results"
+msgstr "sebenzisa imiphumela ye-bast ebhekwe"
+
+msgid "use entered data directly"
+msgstr "sebenzisa idatha efakwe ngokuqondile"
+
+msgid "use entered data total"
+msgstr "sebenzisa isamba sedatha efakwe"
+
+msgid "use in all bast repetitions"
+msgstr "sebenzisa kuzo zonke iziphindaphindi ze-bast"
+
+msgid "use only at beginning if possible"
+msgstr "sebenzisa kuphela ekuqaleni uma kungenzeka"
+
+msgid "wait for settings and data entry"
+msgstr "linda ukulungisa nezokufaka idatha"
+
+msgid "Abjad Table"
+msgstr "Ithali le-Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Imininingwane"
+
+msgid "Element Classification"
+msgstr "Ukuhlukaniswa kwe-element"
+
+msgid "Abjad Order"
+msgstr "Ukuhleleka kwe-Abjad"
+
+msgid "Abjad Widget"
+msgstr "I-Widget ye-Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr ""
+"Engeza i-CSS ezenziwe ngezifiso ukuze uzibuyekeze ukubukeka kwe-widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Engeza i-JavaScript ezenziwe ngezifiso ukuze ushintshe indlela yokusebenza "
+"kwe-widget. Ikhodi engalungile ingaphazamisa i-widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Kubephutha ngenkathi kukhipha okuqukethwe."
+
+msgid "Button"
+msgstr "Inkinobho"
+
+msgid "Button Color"
+msgstr "Umbala weKhinobho"
+
+msgid "Button Emoji"
+msgstr "Imemoji yeKhinobho"
+
+msgid "Button Message"
+msgstr "Umlayezo weKhinobho"
+
+msgid "Button Settings"
+msgstr "Izilungiselelo zeKhinobho"
+
+msgid "Button Type"
+msgstr "Uhlobo lweKhinobho"
+
+msgid "CSS saved successfully."
+msgstr "CSS igcinwe ngempumelelo."
+
+msgid "Check this box to activate the widget."
+msgstr "Bheka le bhokisi ukuze uqale i-widget."
+
+msgid "Code Editor"
+msgstr "Umhleli WeKhowudi"
+
+msgid "Custom CSS"
+msgstr "CSS Esikhethekile"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Esikhethekile"
+
+msgid "Description"
+msgstr "Incazelo"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Faka i-URL yesithombe"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Isibonelo: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Jikelele"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript igcinwe ngempumelelo."
+
+msgid "Left"
+msgstr "Ekunxele"
+
+msgid "Live Preview"
+msgstr "Isibukezi Esibukhoma"
+
+msgid "Loading..."
+msgstr "Kuyalanda..."
+
+msgid "PNG Image URL"
+msgstr "I-URL yesithombe se-PNG"
+
+msgid "Paste SVG code"
+msgstr "Beka i-code ye-SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Nceda faka i-URL efanelekileyo."
+
+msgid "Position"
+msgstr "Indawo"
+
+msgid "Reset to Default"
+msgstr "Buyisela kwesiqhelo"
+
+msgid "Right"
+msgstr "Ekudla"
+
+msgid "SVG Code"
+msgstr "I-code ye-SVG"
+
+msgid "Save CSS"
+msgstr "Gcina i-CSS"
+
+msgid "Save JavaScript"
+msgstr "Gcina i-JavaScript"
+
+msgid "Save Settings"
+msgstr "Gcina Izilungiselelo"
+
+msgid "Settings saved successfully."
+msgstr "Izilungiselelo zigcinwe ngempumelelo."
+
+msgid "Style Editor"
+msgstr "Umhleli wesitayela"
+
+msgid "WARNING"
+msgstr "UKUTSHAKA"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Siyakwamukela! Ungalandela izindaba nezaziso ze-widget kule panele."
+
+msgid "Widget Settings"
+msgstr "Izilungiselelo ze-widget"
+
+msgid "Widget Status"
+msgstr "Isimo se-widget"
+
+msgid "Widget active"
+msgstr "I-widget isisebenza"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Ikhowudi yeJavaScript engalungile ingaphula i-widget. Qopha ngaphambi "
+"kokwenza izinguquko."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Igama lakho lomsebenzisi elithi 'Buy Me a Coffee'"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Izinguquko zakho zizoba nomthelela ngqo kuhlobo lwe-widget. Uma ungazi CSS, "
+"kukhuthazwa ukusebenzisa izilungiselelo ezisemthethweni."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "I-Widget ye-Abjad - Idashibhodi Yakho"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Abangena kuMoya nabahlakaniphile"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Izici zobuntu: Isifiso sokwazi, ukucabangisisa, ukuvuleka kwengqondo, futhi "
+"uthokoziswa ulwazi olubonakalayo. Bangaba nomuzwa ongaphezulu wokuthola "
+"izincazelo ezifihlekile noma amaphethini empilo. Imisebenzi: Abaqeqeshi "
+"bomoya, abafundi be-tarot, ohloli bama-astro, noma abantu abathatha "
+"izindlela zenkathi entsha. Ucwaningo lwezokwakha: Bakhona abaphambili "
+"ekugxileni kwama-ukhono omoya noma ama-metaphysical. Bangabona amathuluzi "
+"njengendlela yokuxhumana nezimpilo eziphakeme noma amandla abhekele phansi."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Abanombolo nabathokozela iGematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Izici zobuntu: Ukuhlaziya, ukuhlela imininingwane, nokuthakazelela "
+"ubudlelwano phakathi kwamazinga namazwi. Bangathokozisa ukugaya izincazelo "
+"ezibukwayo. Imisebenzi: Abanombolo abahlukahluka, ababhali ngezinye izihloko"
+" ezisemqoka, noma abantu abafuna ukucwaninga i-numerology. Ucwaningo "
+"lwezokwakha: Kungaba kusukela kubalabala abahlola i-numerology njengekhono "
+"lokudlala kuya kubalabala abathembekile kubo obalulekile bokuhlobisa. "
+
+msgid "Historians and Linguists"
+msgstr "Abamphakathi nabakufundisayo"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Izici zobuntu: Abafundi, abahlela, futhi abathakazelela imvelo yomlando noma"
+" yokwenziwa kwezindlela ezisemqoka ezinjenge-Abjad. Imisebenzi: Abahlola, "
+"abacwaningi, noma abafundi abafunda ulimi lwaseNingizimu Afrika, umlando, "
+"noma imibhalo yenkolo. Ucwaningo lwezokwakha: Kungenzeka abaqonde amathuluzi"
+" njengendlela yokuxhumana kwezindlela ezisemqoka, ziqondisa kumongo womlando"
+" noma wokuxhumana."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Abantu abangamaNkathekazi noma abathandekayo"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Izici zobuntu: Baphenduli, abacabanga, futhi befuna ukuxhumana ngokuqinile "
+"neenkolo zabo. Bangase basebenzise amathuluzi ukuhamba ngemibhalo yenkolo "
+"noma imiyalezo emangalisayo. Imisebenzi: Abafundisi, imama, abahluleli, noma"
+" abantu abathanda ukubona isiko labo lezulu. Ucwaningo lwezokwakha: "
+"Kungenzeka babe nezeze zezinjini ezihlaba phambili, basebenzisa amathuluzi "
+"ukuze bangena izimfundiso zabo zenkolo."
+
+msgid "Writers and Artists"
+msgstr "Ababhali nabahlela"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Izici zobuntu: Abadala, abathakazelela, futhi bafunelwa izinto "
+"ezihlukahlukene ezibukwayo. Bangase basebenzise amathuluzi njengokuthola "
+"ulwazi noma ukwengeza izincazelo kumsebenzi wabo. Imisebenzi: Ababhali, "
+"abahlaziyi, abaqondisi bezithombe, noma abacwaningi. Ucwaningo lwezokwakha: "
+"Kungaba kusukela kubantu abaphambili bokuxhumana okungaphansi kwenkululeko "
+"kuya kubantu abathakazela umhlaba wethu."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Abathakazela ama-puzzle nezithombe"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Izici zobuntu: Bazoba nendaba yokudlala, bengenayo imvelo yokusebenza, futhi"
+" bazobonisa indlela yokusebenza yezinto ezinzima noma izinkomba. Imisebenzi:"
+" Abathembele, abacwaningi, noma abacansi. Ucwaningo lwezokwakha: Kungenzeka "
+"abacacisa amathuluzi njengendlela yokuzijabulisa noma yokusebenza "
+"kwengqondo, ngaphandle kwezimfundiso ezithile."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Abakhipha izinkomba ezikhethekile nabacwaningi abahlukahluka"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Izici zobuntu: Bahlola izinkomba ezisemqoka, bafuna ukubona izinto ezikhona "
+"ezimqoka noma amaphethini kuhlelo. Imisebenzi: Abacwaningi abahlanganyela, "
+"abahloli, noma abaqondisi. Ucwaningo lwezokwakha: Kungaba kusukela "
+"kubathakazeli abakhuthaza izindlela ezingavumi kuzo, basetshenziswa "
+"amathuluzi ukuxhasa izincazelo ezihlukile noma izinkomba."
+
+msgid "☕ Support the Project"
+msgstr "☕ Kusebenzise iPhrojekthi"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Uma ungathanda iphrojekthi yami, ungandithenga ikhofi!"
+
+msgid "Buy Me A Coffee"
+msgstr "Thenga I-Khofi Yami"
+
+msgid "Thank you! 🙏"
+msgstr "Ngiyabonga! 🙏"

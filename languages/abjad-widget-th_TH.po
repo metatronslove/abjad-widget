@@ -1,0 +1,816 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Thai <th_TH>\n"
+"Language: th-TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "ตั้งค่าอับจัด"
+
+msgid "Abjad Value"
+msgstr "ค่าของอับจัด"
+
+msgid "Abjad Widget Dashboard"
+msgstr "แดชบอร์ดวิดเจ็ตอับจัด"
+
+msgid "Abjad calculation results"
+msgstr "ผลการคำนวณอับจัด"
+
+msgid "Abjad calculations hidden"
+msgstr "การคำนวณอับจัดซ่อน"
+
+msgid "Abjad not calculated"
+msgstr "ยังไม่ได้คำนวณอับจัด"
+
+msgid "Abjad order"
+msgstr "ลำดับอับจัด"
+
+msgid "Add elements"
+msgstr "เพิ่มองค์ประกอบ"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "อากาศ"
+
+msgid "All"
+msgstr "ทั้งหมด"
+
+msgid "Arabic"
+msgstr "ภาษาอาหรับ"
+
+msgid "Arabic letters"
+msgstr "อักษรภาษาอาหรับ"
+
+msgid "Arabic numbers"
+msgstr "ตัวเลขภาษาอาหรับ"
+
+msgid "As data for operation"
+msgstr "เป็นข้อมูลสำหรับการดำเนินงาน"
+
+msgid "Bast loop results"
+msgstr "ผลลัพธ์วงจร Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast ยังไม่ได้คำนวณ"
+
+msgid "Bast repetition count"
+msgstr "จำนวนการทำซ้ำ Bast"
+
+msgid "Bast results hidden"
+msgstr "ผลลัพธ์ Bast ซ่อน"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "ลำดับ Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "ตาราง Bastet"
+
+msgid "Big"
+msgstr "ใหญ่"
+
+msgid "Bigger"
+msgstr "ใหญ่กว่า"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "ซื้อกาแฟให้ฉัน"
+
+msgid "Calculate"
+msgstr "คำนวณ"
+
+msgid "Calculate Abjad"
+msgstr "คำนวณอับจัด"
+
+msgid "Calculate Bastet"
+msgstr "คำนวณ Bastet"
+
+msgid "Calculate Huddam"
+msgstr "คำนวณ Huddam"
+
+msgid "Calculation details"
+msgstr "รายละเอียดการคำนวณ"
+
+msgid "Choose Keyboard Layout"
+msgstr "เลือกการจัดวางแป้นพิมพ์"
+
+msgid "Clear text box"
+msgstr "ล้างกล่องข้อความ"
+
+msgid "Click row for details"
+msgstr "คลิกแถวเพื่อดูรายละเอียด"
+
+msgid "Close Keyboard"
+msgstr "ปิดแป้นพิมพ์"
+
+msgid "Closed"
+msgstr "ปิดแล้ว"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "เครื่องหมายจุลภาคเป็นตัวคั่นเริ่มต้นและต้องถูกเลือกไว้!"
+
+msgid "Dashboard"
+msgstr "แดชบอร์ด"
+
+msgid "Data entry separators:"
+msgstr "ตัวคั่นการป้อนข้อมูล:"
+
+msgid "Data type profile"
+msgstr "โปรไฟล์ประเภทข้อมูล"
+
+msgid "Dead keys"
+msgstr "คีย์ตาย"
+
+msgid "Decrease keyboard size"
+msgstr "ย่อขนาดแป้นพิมพ์"
+
+msgid "Don't calculate"
+msgstr "ไม่คำนวณ"
+
+msgid "Duty entity name results"
+msgstr "ผลการค้นหาชื่อหน่วยงานที่รับผิดชอบ"
+
+msgid "Duty entity type"
+msgstr "ประเภทหน่วยงานที่รับผิดชอบ"
+
+msgid "Earth"
+msgstr "โลก"
+
+msgid "Element classification"
+msgstr "การจัดประเภทของธาตุ"
+
+msgid "Element classification method"
+msgstr "วิธีการจัดประเภทของธาตุ"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "พิมพ์ข้อความ... อักษรอาหรับ, ฮิบรู, ตุรกี, ตัวเลข"
+
+msgid "Entered data"
+msgstr "ข้อมูลที่ป้อน"
+
+msgid "Entry"
+msgstr "อินพุต"
+
+msgid "Entry letter count"
+msgstr "จำนวนตัวอักษรในอินพุต"
+
+msgid "Evil"
+msgstr "ชั่วร้าย"
+
+msgid "Fire"
+msgstr "ไฟ"
+
+msgid "For entered data"
+msgstr "สำหรับข้อมูลที่ป้อน"
+
+msgid "Frequency in Quran"
+msgstr "ความถี่ในคัมภีร์กุรอาน"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "ฮิบรู"
+
+msgid "Hebrew alphabet elements"
+msgstr "ส่วนประกอบอักษรฮิบรู"
+
+msgid "Hebrew letters"
+msgstr "อักษรฮิบรู"
+
+msgid "High"
+msgstr "สูง"
+
+msgid "Hija order"
+msgstr "ลำดับ Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "ชื่อ Huddam ถูกซ่อน"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ไม่ได้ถูกคำนวณ"
+
+msgid "Iklil's order"
+msgstr "ลำดับของ Iklil"
+
+msgid "Increase keyboard size"
+msgstr "ขยายขนาดแป้นพิมพ์"
+
+msgid "Indian numbers"
+msgstr "ตัวเลขอินเดีย"
+
+msgid "Interface language"
+msgstr "ภาษาติดต่อผู้ใช้"
+
+msgid "Let character quantity decide"
+msgstr "ให้จำนวนตัวอักษรตัดสินใจ"
+
+msgid "Letter count"
+msgstr "จำนวนตัวอักษร"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "ชอบโปรเจกต์ของฉันไหม? ซื้อกาแฟให้ฉัน!"
+
+msgid "Low"
+msgstr "ต่ำ"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "ลำดับ Maghribian hija"
+
+msgid "Minimum"
+msgstr "ขั้นต่ำ"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "ภาษาสำหรับอ่านจำนวน"
+
+msgid "Numerical values"
+msgstr "ค่าตัวเลข"
+
+msgid "Open"
+msgstr "เปิด"
+
+msgid "Order"
+msgstr "ลำดับ"
+
+msgid "Possible phrases"
+msgstr "วลีที่อาจเกิดขึ้น"
+
+msgid "Program settings"
+msgstr "การตั้งค่าของโปรแกรม"
+
+msgid "Pronunciation"
+msgstr "การออกเสียง"
+
+msgid "Regular expression"
+msgstr "นิพจน์ปกติ"
+
+msgid "Regularly preferred classification"
+msgstr "การจัดประเภทที่นิยมบ่อย"
+
+msgid "Reset"
+msgstr "รีเซ็ต"
+
+msgid "Separators"
+msgstr "ตัวคั่น"
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "Shamsee abjad order"
+msgstr "ลำดับอัลกาต Shamsee"
+
+msgid "Show numpad"
+msgstr "แสดง numpad"
+
+msgid "Show virtual keyboard"
+msgstr "แสดงคีย์บอร์ดเสมือน"
+
+msgid "Small"
+msgstr "เล็ก"
+
+msgid "Small + letter count"
+msgstr "เล็ก + จำนวนตัวอักษร"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "สนับสนุน"
+
+msgid "Taken (letter)"
+msgstr "ตัวอักษรที่ได้"
+
+msgid "Taken (letter; abjad)"
+msgstr "ตัวอักษรที่ได้ (อัลกาต)"
+
+msgid "Taken Letters"
+msgstr "ตัวอักษรที่ได้"
+
+msgid "Text or number cell"
+msgstr "เซลล์ข้อความหรือเลข"
+
+msgid "Thank you for your support!"
+msgstr "ขอขอบคุณสำหรับการสนับสนุนของคุณ!"
+
+msgid "Total"
+msgstr "รวม"
+
+msgid "Turkish"
+msgstr "ตุรกี"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "อัลกาตตัวอักษรตุรกี"
+
+msgid "Turkish alphabet elements"
+msgstr "ส่วนประกอบของตัวอักษรตุรกี"
+
+msgid "Turkish letters"
+msgstr "ตัวอักษรตุรกี"
+
+msgid "Undefined characters"
+msgstr "อักขระที่ไม่กำหนด"
+
+msgid "Value"
+msgstr "ค่า"
+
+msgid "Value & Detail"
+msgstr "ค่า & รายละเอียด"
+
+msgid "Version"
+msgstr "รุ่น"
+
+msgid "Water"
+msgstr "น้ำ"
+
+msgid "When data is entered"
+msgstr "เมื่อมีการป้อนข้อมูล"
+
+msgid "When reading large digits"
+msgstr "เมื่ออ่านเลขจำนวนใหญ่"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad คำนวณและเพิ่มจำนวนตัวอักษร"
+
+msgid "abjad() functions settings"
+msgstr "abjad() การตั้งค่าฟังก์ชัน"
+
+msgid "add to initial value"
+msgstr "เพิ่มค่าเริ่มต้น"
+
+msgid "and"
+msgstr "และ"
+
+msgid "auto calculate immediately"
+msgstr "คำนวณอัตโนมัติโดยทันที"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() และ nutket() การตั้งค่าฟังก์ชัน"
+
+msgid "count once"
+msgstr "นับครั้งเดียว"
+
+msgid "count twice"
+msgstr "นับสองครั้ง"
+
+msgid "display with Arabic numbers"
+msgstr "แสดงเป็นตัวเลขอาหรับ"
+
+msgid "display with Indian numbers"
+msgstr "แสดงเป็นตัวเลขอินเดีย"
+
+msgid "do not add to initial value"
+msgstr "อย่าเพิ่มค่าเริ่มต้น"
+
+msgid "do not force to other functions"
+msgstr "อย่าเร่งใช้กับฟังก์ชันอื่น"
+
+msgid "do not purify"
+msgstr "ไม่ทำให้บริสุทธิ์"
+
+msgid "force to other functions"
+msgstr "บังคับใช้กับฟังก์ชันอื่น"
+
+msgid "group multiplier letters"
+msgstr "ตัวอักษรตัวคูณแบบกลุ่ม"
+
+msgid "hide"
+msgstr "ซ่อน"
+
+msgid "hide abjad values"
+msgstr "ซ่อนค่าของ abjad"
+
+msgid "hide bast results"
+msgstr "ซ่อนผลลัพธ์ bast"
+
+msgid "hide huddam names"
+msgstr "ซ่อนชื่อ huddam"
+
+msgid "huddam() function settings"
+msgstr "การตั้งค่า huddam() function"
+
+msgid "no bast applied."
+msgstr "ไม่มี bast ถูกใช้."
+
+msgid "no data entered"
+msgstr "ไม่มีข้อมูลที่กรอก"
+
+msgid "other suffix"
+msgstr "คำนำหน้าที่อื่น"
+
+msgid "purify data"
+msgstr "ทำความสะอาดข้อมูล"
+
+msgid "repeat multiplier for each digit"
+msgstr "ตัวคูณซ้ำสำหรับแต่ละตัวเลข"
+
+msgid "show"
+msgstr "แสดง"
+
+msgid "show abjad values"
+msgstr "แสดงค่าตัวอักษร abjad"
+
+msgid "show bast results"
+msgstr "แสดงผลลัพธ์ bast"
+
+msgid "show huddam names"
+msgstr "แสดงชื่อ huddam"
+
+msgid "suffix"
+msgstr "คำนำหน้า"
+
+msgid "times bast applied."
+msgstr "ครั้งที่ bast ถูกใช้."
+
+msgid "use calculated abjad results"
+msgstr "ใช้ผลลัพธ์ abjad ที่คำนวณแล้ว"
+
+msgid "use calculated abjad total"
+msgstr "ใช้ผลรวม abjad ที่คำนวณแล้ว"
+
+msgid "use calculated bast results"
+msgstr "ใช้ผลลัพธ์ bast ที่คำนวณแล้ว"
+
+msgid "use entered data directly"
+msgstr "ใช้ข้อมูลที่กรอกโดยตรง"
+
+msgid "use entered data total"
+msgstr "ใช้ผลรวมข้อมูลที่กรอก"
+
+msgid "use in all bast repetitions"
+msgstr "ใช้ในทุกการซ้ำ bast"
+
+msgid "use only at beginning if possible"
+msgstr "ใช้เฉพาะตอนเริ่มต้นถ้าเป็นไปได้"
+
+msgid "wait for settings and data entry"
+msgstr "รอการตั้งค่าและการกรอกข้อมูล"
+
+msgid "Abjad Table"
+msgstr "ตาราง Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+msgid "Element Classification"
+msgstr "การจัดประเภทส่วน"
+
+msgid "Abjad Order"
+msgstr "ลำดับ Abjad"
+
+msgid "Abjad Widget"
+msgstr "วิดเจ็ต Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "เพิ่ม CSS ส่วนบุคคลเพื่อปรับแต่งรูปลักษณ์ของวิดเจ็ต"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"เพิ่ม JavaScript ส่วนบุคคลเพื่อเปลี่ยนแปลงพฤติกรรมของวิดเจ็ต "
+"โค้ดผิดอาจทำให้วิดเจ็ตเสียหาย!"
+
+msgid "An error occurred while loading content."
+msgstr "เกิดข้อผิดพลาดขณะโหลดเนื้อหา."
+
+msgid "Button"
+msgstr "ปุ่ม"
+
+msgid "Button Color"
+msgstr "สีปุ่ม"
+
+msgid "Button Emoji"
+msgstr "อีโมจิปุ่ม"
+
+msgid "Button Message"
+msgstr "ข้อความปุ่ม"
+
+msgid "Button Settings"
+msgstr "การตั้งค่าปุ่ม"
+
+msgid "Button Type"
+msgstr "ประเภทปุ่ม"
+
+msgid "CSS saved successfully."
+msgstr "บันทึก CSS สำเร็จ."
+
+msgid "Check this box to activate the widget."
+msgstr "เลือกกล่องนี้เพื่อเปิดใช้งาน widget."
+
+msgid "Code Editor"
+msgstr "ตัวแก้ไขโค้ด"
+
+msgid "Custom CSS"
+msgstr "CSS ที่กำหนดเอง"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ที่กำหนดเอง"
+
+msgid "Description"
+msgstr "คำอธิบาย"
+
+msgid "Emoji"
+msgstr "อีโมจิ"
+
+msgid "Enter image URL"
+msgstr "ป้อน URL รูปภาพ"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "ตัวอย่าง: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "ทั่วไป"
+
+msgid "JavaScript saved successfully."
+msgstr "บันทึก JavaScript สำเร็จ."
+
+msgid "Left"
+msgstr "ซ้าย"
+
+msgid "Live Preview"
+msgstr "ตัวอย่างสด"
+
+msgid "Loading..."
+msgstr "กำลังโหลด..."
+
+msgid "PNG Image URL"
+msgstr "URL รูป PNG"
+
+msgid "Paste SVG code"
+msgstr "วางโค้ด SVG"
+
+msgid "Please enter a valid URL."
+msgstr "โปรดป้อน URL ที่ถูกต้อง."
+
+msgid "Position"
+msgstr "ตำแหน่ง"
+
+msgid "Reset to Default"
+msgstr "รีเซ็ตเป็นค่าเริ่มต้น"
+
+msgid "Right"
+msgstr "ขวา"
+
+msgid "SVG Code"
+msgstr "โค้ด SVG"
+
+msgid "Save CSS"
+msgstr "บันทึก CSS"
+
+msgid "Save JavaScript"
+msgstr "บันทึก JavaScript"
+
+msgid "Save Settings"
+msgstr "บันทึกการตั้งค่า"
+
+msgid "Settings saved successfully."
+msgstr "ตั้งค่าได้บันทึกเรียบร้อยแล้ว"
+
+msgid "Style Editor"
+msgstr "ตัวแก้ไขสไตล์"
+
+msgid "WARNING"
+msgstr "คำเตือน"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "ยินดีต้อนรับ! คุณสามารถติดตามข่าวสารและประกาศของวิดเจ็ตจากแผงนี้ได้"
+
+msgid "Widget Settings"
+msgstr "การตั้งค่า วิดเจ็ต"
+
+msgid "Widget Status"
+msgstr "สถานะ วิดเจ็ต"
+
+msgid "Widget active"
+msgstr "วิดเจ็ตใช้งาน"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"โค้ด JavaScript ที่ผิดอาจทำให้วิดเจ็ตทำงานผิดพลาด "
+"สำรองข้อมูลก่อนทำการเปลี่ยนแปลง"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "ชื่อผู้ใช้ Buy Me a Coffee ของคุณ"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"การเปลี่ยนแปลงของคุณจะส่งผลโดยตรงต่อรูปลักษณ์ของวิดเจ็ต หากคุณไม่เชี่ยวชาญ "
+"CSS แนะนำให้ใช้ค่าตั้งค่าเริ่มต้น"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "วิดเจ็ต Abjad - แดชบอร์ดท้องถิ่น"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "ผู้ค้นหาทางจิตวิญญาณและผู้ลึกลับ"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"ลักษณะนิสัย: "
+"好奇、内省、开放心态，并被神秘知识所吸引。他们可能对揭示生活中隐藏的意义或模式充满兴趣。职业：精神教练、塔罗牌解读者、占星师或参与新时代实践的人。意识形态范围：可能倾向于精神或形而上学信仰。他们可能将工具视为与更深层真理或普遍能量连接的方式。"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "นักคำนวณเลขและผู้หลงใหลในเกมอทรา"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"ลักษณะนิสัย: Analytical, detail-oriented, and fascinated by the relationship"
+" between numbers and language. They may enjoy decoding symbolic meanings. "
+"Occupations: Freelance numerologists, writers on esoteric topics, or "
+"hobbyists exploring numerology. Ideological Spectrum: May range from those "
+"who view numerology as a fun intellectual exercise to those who believe in "
+"its profound spiritual significance."
+
+msgid "Historians and Linguists"
+msgstr "นักประวัติศาสตร์และภาษาศาสตร์"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"ลักษณะนิสัย: Scholarly, methodical, and interested in historical or cultural"
+" contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "บุคคลที่เชื่อในศาสนา หรือเชื่อในความศรัทธา"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"ลักษณะนิสัย: Devout, reflective, and seeking deeper connections to their "
+"faith. They may use the tools to explore religious texts or divine messages."
+" Occupations: Religious scholars, imams, priests, or laypeople with a strong"
+" interest in their faith’s mystical traditions. Ideological Spectrum: Likely"
+" to have a traditional or conservative worldview, using the tools to "
+"reinforce their spiritual beliefs."
+
+msgid "Writers and Artists"
+msgstr "นักเขียนและศิลปิน"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"ลักษณะนิสัย: Creative, imaginative, and drawn to symbolic or abstract "
+"concepts. They may use the tools for inspiration or to add layers of meaning"
+" to their work. Occupations: Authors, poets, visual artists, or musicians. "
+"Ideological Spectrum: May range from secular creatives to those with a "
+"spiritual or mystical bent."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "ผู้สนใจปริศนาและปริศนา"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"ลักษณะนิสัย: Playful, intellectually curious, and enjoy solving complex "
+"problems or decoding patterns. Occupations: Hobbyists, puzzle designers, or "
+"educators. Ideological Spectrum: Likely to approach the tools as a form of "
+"entertainment or mental exercise, with little ideological attachment."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "นักทฤษฎีสมคบคิดและผู้คิดเชิงพิจารณาอื่น ๆ"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"ลักษณะนิสัย: Skeptical of mainstream narratives, drawn to uncovering hidden "
+"truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+
+msgid "☕ Support the Project"
+msgstr "☕ สนับสนุนโครงการ"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "หากคุณชอบโครงการของฉัน คุณสามารถซื้อกาแฟให้ฉันได้!"
+
+msgid "Buy Me A Coffee"
+msgstr "ซื้อกาแฟให้ฉัน"
+
+msgid "Thank you! 🙏"
+msgstr "ขอบคุณ! 🙏"

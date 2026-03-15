@@ -1,0 +1,815 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Pashto <ps_AF>\n"
+"Language: ps-AF\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "د ابجد تنظیمات"
+
+msgid "Abjad Value"
+msgstr "د ابجد ارزښت"
+
+msgid "Abjad Widget Dashboard"
+msgstr "د ابجد ویجت ډیشبورډ"
+
+msgid "Abjad calculation results"
+msgstr "د ابجد حسابونه پایلې"
+
+msgid "Abjad calculations hidden"
+msgstr "د ابجد حسابونه پټ شوي"
+
+msgid "Abjad not calculated"
+msgstr "د ابجد حساب نه شو"
+
+msgid "Abjad order"
+msgstr "د ابجد ترتیب"
+
+msgid "Add elements"
+msgstr "عناصر اضافه کړئ"
+
+msgid "Ahmad al Buni"
+msgstr "احمد البوني"
+
+msgid "Air"
+msgstr "هوایي"
+
+msgid "All"
+msgstr "ټول"
+
+msgid "Arabic"
+msgstr "عربي"
+
+msgid "Arabic letters"
+msgstr "عربي حروف"
+
+msgid "Arabic numbers"
+msgstr "عربي ارقام"
+
+msgid "As data for operation"
+msgstr "د عملیاتو لپاره د معلوماتو په توګه"
+
+msgid "Bast loop results"
+msgstr "د باسټ لوپ پایلې"
+
+msgid "Bast not calculated"
+msgstr "د باسټ حساب نه شو"
+
+msgid "Bast repetition count"
+msgstr "د باسټ تکرار شمېره"
+
+msgid "Bast results hidden"
+msgstr "د باسټ پایلې پټ شوي"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "د باسټت ترتیب"
+
+msgid "Bastet shadda"
+msgstr "د باسټت شادده"
+
+msgid "Bastet table"
+msgstr "د باسټت جدول"
+
+msgid "Big"
+msgstr "لوی"
+
+msgid "Bigger"
+msgstr "دوی"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "ما ته یوه کافي وریږه"
+
+msgid "Calculate"
+msgstr "حساب کړئ"
+
+msgid "Calculate Abjad"
+msgstr "د ابجد حساب کړئ"
+
+msgid "Calculate Bastet"
+msgstr "Bastet حساب کړئ"
+
+msgid "Calculate Huddam"
+msgstr "Huddam حساب کړئ"
+
+msgid "Calculation details"
+msgstr "د حساب تفصيلات"
+
+msgid "Choose Keyboard Layout"
+msgstr "د کیبورډ بڼه غوره کړئ"
+
+msgid "Clear text box"
+msgstr "متن بکس پاک کړئ"
+
+msgid "Click row for details"
+msgstr "د تفصيلاتو لپاره ردیف باندې کلیک وکړئ"
+
+msgid "Close Keyboard"
+msgstr "کیبورډ تړل"
+
+msgid "Closed"
+msgstr "بند شوی"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "ګاونده د ډیفالټ جداګر ده او باید نښه وي!"
+
+msgid "Dashboard"
+msgstr "ډشبورډ"
+
+msgid "Data entry separators:"
+msgstr "د معلوماتو د ننوتلو جداګر:"
+
+msgid "Data type profile"
+msgstr "د معلوماتو د ډول پروفایل"
+
+msgid "Dead keys"
+msgstr "مړې کلې"
+
+msgid "Decrease keyboard size"
+msgstr "د کیبورډ اندازه راکم کړئ"
+
+msgid "Don't calculate"
+msgstr "حساب مه کوئ"
+
+msgid "Duty entity name results"
+msgstr "د دنده لرونکي موجودیت نوم پایلې"
+
+msgid "Duty entity type"
+msgstr "د دنده لرونکي موجودیت ډول"
+
+msgid "Earth"
+msgstr "زمکه"
+
+msgid "Element classification"
+msgstr "د عنصر طبقه بندي"
+
+msgid "Element classification method"
+msgstr "د عنصر د طبقه بندي میتود"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "متن داخل کړئ... عربی، یهودی، ترکی حروف، شمیرې"
+
+msgid "Entered data"
+msgstr "داخل شوی معلومات"
+
+msgid "Entry"
+msgstr "داخلول"
+
+msgid "Entry letter count"
+msgstr "د داخلولو حروف شمېره"
+
+msgid "Evil"
+msgstr "قبي"
+
+msgid "Fire"
+msgstr "آتش"
+
+msgid "For entered data"
+msgstr "د داخل شوی معلوماتو لپاره"
+
+msgid "Frequency in Quran"
+msgstr "په قرآن کې تعدد"
+
+msgid "Gematria"
+msgstr "جیماتریا"
+
+msgid "Hebrew"
+msgstr "یهودی"
+
+msgid "Hebrew alphabet elements"
+msgstr "د هِبري الفبې عناصرو"
+
+msgid "Hebrew letters"
+msgstr "د هِبري حروف"
+
+msgid "High"
+msgstr "لوړ"
+
+msgid "Hija order"
+msgstr "د هِجَا ترتیب"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "د هُدَّم نومونه پټ"
+
+msgid "Huddam not calculated"
+msgstr "هُدَّم حساب نه شو"
+
+msgid "Iklil's order"
+msgstr "د اکِليل ترتیب"
+
+msgid "Increase keyboard size"
+msgstr "د کیبورډ اندازه وده کړه"
+
+msgid "Indian numbers"
+msgstr "هندیز شمېره"
+
+msgid "Interface language"
+msgstr "د انترفیس ژبه"
+
+msgid "Let character quantity decide"
+msgstr "د کرکټر شمېره پرېکړه پرېږدئ"
+
+msgid "Letter count"
+msgstr "د حروف شمېر"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "زما پروژې خوښې دي؟ ما ته یو قهوه راکړئ!"
+
+msgid "Low"
+msgstr "لاندې"
+
+msgid "Maghribian abjad"
+msgstr "مغریبین ابجد"
+
+msgid "Maghribian hija order"
+msgstr "مغریبین هِجَا ترتیب"
+
+msgid "Minimum"
+msgstr "کمه"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "د شمېرو لوست ژبه"
+
+msgid "Numerical values"
+msgstr "شمېره ارزښتونه"
+
+msgid "Open"
+msgstr "پېل کړئ"
+
+msgid "Order"
+msgstr "ترتیب"
+
+msgid "Possible phrases"
+msgstr "ممکنه جملې"
+
+msgid "Program settings"
+msgstr "د پروګرام تنظیمات"
+
+msgid "Pronunciation"
+msgstr "تلفظ"
+
+msgid "Regular expression"
+msgstr "نظم شوی عبارت"
+
+msgid "Regularly preferred classification"
+msgstr "عموماً خوښ شوی طبقه بندي"
+
+msgid "Reset"
+msgstr "بېرته تنظیم کړئ"
+
+msgid "Separators"
+msgstr "جلا کوونکي"
+
+msgid "Settings"
+msgstr "ترتیبونه"
+
+msgid "Shamsee abjad order"
+msgstr "شمسي ابجد ترتیب"
+
+msgid "Show numpad"
+msgstr "نومپاد ښودل"
+
+msgid "Show virtual keyboard"
+msgstr "ورچوال کیبورډ ښودل"
+
+msgid "Small"
+msgstr "کوچنی"
+
+msgid "Small + letter count"
+msgstr "کوچنی + د حروف شمېر"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "مساعده"
+
+msgid "Taken (letter)"
+msgstr "غیرې شوې (حرف)"
+
+msgid "Taken (letter; abjad)"
+msgstr "غیرې شوې (حرف؛ ابجد)"
+
+msgid "Taken Letters"
+msgstr "غیرې شوې حروف"
+
+msgid "Text or number cell"
+msgstr "متن یا شمېره حجره"
+
+msgid "Thank you for your support!"
+msgstr "ستاسو د ملاتړ لپاره مننه!"
+
+msgid "Total"
+msgstr "ټولیز"
+
+msgid "Turkish"
+msgstr "ترکي"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "ترکي الفابي ابجد"
+
+msgid "Turkish alphabet elements"
+msgstr "ترکي الفابي عناصر"
+
+msgid "Turkish letters"
+msgstr "ترکي حروف"
+
+msgid "Undefined characters"
+msgstr "نامعین کاراکټرونه"
+
+msgid "Value"
+msgstr "ارزښت"
+
+msgid "Value & Detail"
+msgstr "ارزښت & تفصیل"
+
+msgid "Version"
+msgstr "نسخه"
+
+msgid "Water"
+msgstr "اوبه"
+
+msgid "When data is entered"
+msgstr "کله چې معلومات داخل شي"
+
+msgid "When reading large digits"
+msgstr "کله چې لوی شمېرې لوستل شي"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "ابجد محاسبه شوی او د حروف شمېره اضافه شوی"
+
+msgid "abjad() functions settings"
+msgstr "abjad() دندو تنظیمات"
+
+msgid "add to initial value"
+msgstr "لومړني ارزښت ته اضافه کړئ"
+
+msgid "and"
+msgstr "او"
+
+msgid "auto calculate immediately"
+msgstr "خپلواکه محاسبه بې ځنډه"
+
+msgid "bast"
+msgstr "بست"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() او nutket() دندو تنظیمات"
+
+msgid "count once"
+msgstr "یوه ځله شمېرل"
+
+msgid "count twice"
+msgstr "دوې ځله شمېرل"
+
+msgid "display with Arabic numbers"
+msgstr "د عربي شمېرو سره ښودل"
+
+msgid "display with Indian numbers"
+msgstr "د هندي شمېرو سره ښودل"
+
+msgid "do not add to initial value"
+msgstr "لومړني ارزښت ته اضافه نه کړئ"
+
+msgid "do not force to other functions"
+msgstr "د نورو دندو ته نه فشار کړئ"
+
+msgid "do not purify"
+msgstr "پاکول نه کړئ"
+
+msgid "force to other functions"
+msgstr "د نورو دندو ته اړ کړئ"
+
+msgid "group multiplier letters"
+msgstr "د ګروپ کثیر حرفونه"
+
+msgid "hide"
+msgstr "مخفی کړئ"
+
+msgid "hide abjad values"
+msgstr "ابجد ارزښتونه مخفی کړئ"
+
+msgid "hide bast results"
+msgstr "د باسټ نتایج پټ کړئ"
+
+msgid "hide huddam names"
+msgstr "د huddam نومونه پټ کړئ"
+
+msgid "huddam() function settings"
+msgstr "huddam() دندې تنظیمات"
+
+msgid "no bast applied."
+msgstr "هیڅ باسټ نه پلي شو."
+
+msgid "no data entered"
+msgstr "هیڅ ډیټا نه داخل شوه"
+
+msgid "other suffix"
+msgstr "بل پسوند"
+
+msgid "purify data"
+msgstr "ډیټا پاک کړئ"
+
+msgid "repeat multiplier for each digit"
+msgstr "د هر عدد لپاره څوګونې ضرب"
+
+msgid "show"
+msgstr "ښکاره کړئ"
+
+msgid "show abjad values"
+msgstr "د ابجد ارزښتونه ښکاره کړئ"
+
+msgid "show bast results"
+msgstr "د باسټ نتایج ښکاره کړئ"
+
+msgid "show huddam names"
+msgstr "د huddam نومونه ښکاره کړئ"
+
+msgid "suffix"
+msgstr "پسوند"
+
+msgid "times bast applied."
+msgstr "باسټ څو ځلې پلي شو."
+
+msgid "use calculated abjad results"
+msgstr "د محاسبه شوي ابجد نتایج وکاروئ"
+
+msgid "use calculated abjad total"
+msgstr "د محاسبه شوي ابجد مجموع وکاروئ"
+
+msgid "use calculated bast results"
+msgstr "د محاسبه شوي باسټ نتایج وکاروئ"
+
+msgid "use entered data directly"
+msgstr "وړاندې شوي ډیټا مستقیم وکاروئ"
+
+msgid "use entered data total"
+msgstr "د وارد شوي ډیټا مجموع وکاروئ"
+
+msgid "use in all bast repetitions"
+msgstr "په ټولو باسټ تکرارونو کې وکاروئ"
+
+msgid "use only at beginning if possible"
+msgstr "که ممکن وي یوازې د پیل پر مهال وکاروئ"
+
+msgid "wait for settings and data entry"
+msgstr "د تنظیماتو او ډیټا داخلولو ته انتظار وباسئ"
+
+msgid "Abjad Table"
+msgstr "د ابجد جدول"
+
+msgid "Shadda"
+msgstr "شډا"
+
+msgid "Details"
+msgstr "تفصیلات"
+
+msgid "Element Classification"
+msgstr "د عنصر طبقه بندي"
+
+msgid "Abjad Order"
+msgstr "د ابجد ترتیب"
+
+msgid "Abjad Widget"
+msgstr "د ابجد ویجټ"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "د ویجټ بڼه د دودیز CSS له لارې تنظیم کړئ."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"د ویجټ چلند د دودیز JavaScript له لارې بدل کړئ. ناسم کوډ ممکن ویجټ خراب کړي!"
+
+msgid "An error occurred while loading content."
+msgstr "د محتوا بارولو پر مهال یوه تېروتنه پېښه شوه."
+
+msgid "Button"
+msgstr "تڼۍ"
+
+msgid "Button Color"
+msgstr "د تڼۍ رنګ"
+
+msgid "Button Emoji"
+msgstr "د تڼۍ ایموجی"
+
+msgid "Button Message"
+msgstr "د تڼۍ پیغام"
+
+msgid "Button Settings"
+msgstr "د تڼۍ تنظیمات"
+
+msgid "Button Type"
+msgstr "د تڼۍ ډول"
+
+msgid "CSS saved successfully."
+msgstr "CSS په بریالیتوب سره خوندي شو."
+
+msgid "Check this box to activate the widget."
+msgstr "د ویجېټ فعالولو لپاره دا بکس وټاکئ."
+
+msgid "Code Editor"
+msgstr "کود ایډیټر"
+
+msgid "Custom CSS"
+msgstr "د دودیز CSS"
+
+msgid "Custom JavaScript"
+msgstr "د دودیز JavaScript"
+
+msgid "Description"
+msgstr "توضیح"
+
+msgid "Emoji"
+msgstr "ایموجی"
+
+msgid "Enter image URL"
+msgstr "د انځور URL دننه کړئ"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "مثال: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "عمومي"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript په بریالیتوب سره خوندي شو."
+
+msgid "Left"
+msgstr "ښی"
+
+msgid "Live Preview"
+msgstr "ژوندۍ پیش نمایش"
+
+msgid "Loading..."
+msgstr "بارېږي..."
+
+msgid "PNG Image URL"
+msgstr "د PNG انځور URL"
+
+msgid "Paste SVG code"
+msgstr "SVG کوډ پيسټ کړئ"
+
+msgid "Please enter a valid URL."
+msgstr "مهرباني وکړئ یو سم URL دننه کړئ."
+
+msgid "Position"
+msgstr "موقعیت"
+
+msgid "Reset to Default"
+msgstr "د پیشفرض ته بیرته تنظیم کړئ"
+
+msgid "Right"
+msgstr "ړوب"
+
+msgid "SVG Code"
+msgstr "SVG کوډ"
+
+msgid "Save CSS"
+msgstr "CSS خوندي کړئ"
+
+msgid "Save JavaScript"
+msgstr "JavaScript خوندي کړئ"
+
+msgid "Save Settings"
+msgstr "ترتیبات خوندي کړئ"
+
+msgid "Settings saved successfully."
+msgstr "تنظیمات بریالیتوب سره خوندي شول."
+
+msgid "Style Editor"
+msgstr "د سټایل ایډیټر"
+
+msgid "WARNING"
+msgstr "خبرتیا"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"ښه راغلاست! تاسو کولی شئ د دې پینل څخه د وجېټ خبرونه او اعلانونه تعقیب کړئ."
+
+msgid "Widget Settings"
+msgstr "د وجېټ ترتیبات"
+
+msgid "Widget Status"
+msgstr "د وجېټ وضعیت"
+
+msgid "Widget active"
+msgstr "د وجېټ فعال"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"نادرست جاوا سکرېپت کوډ ممکنه وجېټ مات کړي. د بدلونونو دمخه بیک اپ واخلئ."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "ستاسو د Buy Me a Coffee کارن نوم"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"ستاسو بدلونونه به مستقیم د وجېټ بڼه باندې اغېز وکړي. که تاسو CSS نه پوهیږئ، "
+"سپارښتنه کېږي چې د پیشفرض ترتیبات وکاروئ."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - محلي ډاشبورډ"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "روحاني پلټونکي او اسرارپوهان"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"شخصیت ځانګړتیاوې: د راجبه، د ځانپېژندنې، خلاص ذهن، او د روحاني پوهې سره "
+"لیوالتیا. هغوی ممکن د ژوند پټ معنی یا نمونې کشفولو کې قوي علاقه ولري. "
+"مسلکونه: روحاني روزونکي، ټاروت لوستونکي، ستوري علمي، یا هغه کسان چې د نوې "
+"دورې عملونو کې برخه اخلي. تیوریکي طیبه: احتمال لري چې د روحاني یا متافزیکي "
+"عقایدو طرفه وي. هغوی ممکن وسایل د ژور حقیقتونو یا نړیوال انرژیو سره د تړاو "
+"لپاره کاروي."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "شمېره پوهان او جېمارتیا شوقیان"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"شخصیت ځانګړتیاوې: تحلیلي، د جزئیاتو تمرکز لرونکی، او د شمېرو او ژبې اړیکې "
+"سره لیوالتیا. هغوی ممکن د سمبولیک معنی د تحلیل کولو خوند واخلئ. مسلکونه: د "
+"آزاد کار شمېره پوهان، د روحاني موضوعاتو لیکوالان، یا د شمېره پوهې د کشف کولو"
+" شوقیان. تیوریکي طیبه: ممکن له هغو کسانو ترمنځ وي چې شمېره پوهه د تفریحي "
+"ذهنیتي تمرین ګڼي تر هغو پورې چې د هغې ژوره روحاني ارزښت کې باور لري."
+
+msgid "Historians and Linguists"
+msgstr "تاریخي او ژبپوهان"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"شخصیت ځانګړتیاوې: علمي، دندې ته منظم، او د تاريخي یا کلتوري سیاقونو د شمېره "
+"سیستمونو لکه ابجد سره علاقه لري. مسلکونه: پوهنتونۍ، څیړونکي، یا زده کونکي چې"
+" د منځني ختیځ ژبې، تاریخ یا مذهبي متنونو مطالعه کوي. تیوریکي طیبه: احتمال "
+"لري چې وسایل د سیکولر، علمي لید نه وګوري، د دوی تاريخي یا ژبني ارزښت ته "
+"تمرکز وکړي."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "مذهبی یا د ایمان پر بنسټ خلکو"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"شخصیت ځانګړتیاوې: ديني، تفکرکونکی، او د خپلې ایمان ژورې اړیکې لټون. هغوی "
+"ممکن وسایل د مذهبي متنونو یا الهی پیغامونو د پلټنې لپاره وکاروي. مسلکونه: "
+"مذهبي پوهان، امامه، پلويان، یا عادي خلک چې د خپلو ایمان روحاني روایتونو سره "
+"قوي علاقه لري. تیوریکي طیبه: احتمال لري چې د سنتي یا محافظتي نړۍ لید ولري، "
+"وسایل د خپلو روحاني باورونو پیاوړتیا لپاره کاروي."
+
+msgid "Writers and Artists"
+msgstr "لیکوال او هنرمندان"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"شخصیت ځانګړتیاوې: تخلیقي، تخیل لرونکی، او د سمبولیک یا تجریدی مفاهیمو سره "
+"لیوالتیا. هغوی ممکن وسایل د الهام لپاره یا د خپلې کار سره د معنی پرتې اضافه "
+"کولو لپاره وکاروي. مسلکونه: لیکوالان، شاعران، لید هنرمندان، یا موسيقي کاران."
+" تیوریکي طیبه: ممکن له سیکولر خلاقانو تر هغو پورې وي چې د روحاني یا "
+"اسرارپوهه ولري."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "د پزل او رمې شوقیان"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"شخصیت ځانګړتیاوې: لوبې لرونکی، د ذهنی کنجکاوی، او د پیچلي ستونزو حل یا د "
+"نمونو ډیکوډ کولو خوند اخلي. مسلکونه: شوقیان، د پزل جوړونکي، یا ښوونکي. "
+"تیوریکي طیبه: احتمال لري چې وسایل د تفریح یا ذهنی تمرین په توګه وکاروي، لږه "
+"تیوریکي تړاو سره."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "د شافاک تیورې شاکیانو او بدیل فکري"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"شخصیت ځانګړتیاوې: د مین سټریم کیسې له شاکه، د سیستمونو پټ حقیقت یا نمونې د "
+"کشفولو سره لیوالتیا. مسلکونه: خپلواک څیړونکي، بلاګر، یا فعالین. تیوریکي "
+"طیبه: ممکن یو تېز یا غیرمعمول نړۍ لید ولري، وسایل د بدیلي تیوریو یا کیسو "
+"ملاتړ لپاره کاروي."
+
+msgid "☕ Support the Project"
+msgstr "☕ د پروژې ملاتړ وکړئ"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "که زما پروژه خوښ شوئ، نو ما ته یوه قهوه پیرېدای شئ!"
+
+msgid "Buy Me A Coffee"
+msgstr "ما ته قهوه واخلئ"
+
+msgid "Thank you! 🙏"
+msgstr "مننه! 🙏"

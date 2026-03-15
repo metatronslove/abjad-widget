@@ -1,0 +1,814 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Somali <so_SO>\n"
+"Language: so-SO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Hababka Abjad"
+
+msgid "Abjad Value"
+msgstr "Qiimaha Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Natiijooyinka xisaabinta Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Xisaabinta Abjad waa qarsoon"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ma xisaabinin"
+
+msgid "Abjad order"
+msgstr "Kala dambeysii Abjad"
+
+msgid "Add elements"
+msgstr "Ku dar walxo"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Dawaaq"
+
+msgid "All"
+msgstr "Dhammaan"
+
+msgid "Arabic"
+msgstr "Carabi"
+
+msgid "Arabic letters"
+msgstr "Xarfaha Carabi"
+
+msgid "Arabic numbers"
+msgstr "Lambarrada Carabi"
+
+msgid "As data for operation"
+msgstr "Xog hawl ahaan"
+
+msgid "Bast loop results"
+msgstr "Natiijooyinka wareegga Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast ma xisaabinin"
+
+msgid "Bast repetition count"
+msgstr "Tirada ku celcelinta Bast"
+
+msgid "Bast results hidden"
+msgstr "Natiijooyinka Bast waa qarsoon"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Kala dambeysii Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Jadwalka Bastet"
+
+msgid "Big"
+msgstr "Weyn"
+
+msgid "Bigger"
+msgstr "Kuwa Weyn"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Iibso Kafee"
+
+msgid "Calculate"
+msgstr "Xisaabi"
+
+msgid "Calculate Abjad"
+msgstr "Xisaabi Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Xisaabi Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Xisaabi Huddam"
+
+msgid "Calculation details"
+msgstr "Faahfaahinta xisaabinta"
+
+msgid "Choose Keyboard Layout"
+msgstr "Dooro Qaab-dhismeedka Kaydka"
+
+msgid "Clear text box"
+msgstr "Nadiifi sanduuqa qoraalka"
+
+msgid "Click row for details"
+msgstr "Guji safka si aad u hesho faahfaahinta"
+
+msgid "Close Keyboard"
+msgstr "Xiro Kaydka"
+
+msgid "Closed"
+msgstr "La xiray"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Faa'idada kala qaybsiga (,) waa kan caadiga ah, waa in la sii xafidaa!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Kala-goynta gelitaanka xogta:"
+
+msgid "Data type profile"
+msgstr "Profileka nooca xogta"
+
+msgid "Dead keys"
+msgstr "Furayaasha dhiman"
+
+msgid "Decrease keyboard size"
+msgstr "Yarir cabbirka kaydka"
+
+msgid "Don't calculate"
+msgstr "Ha xisaabin"
+
+msgid "Duty entity name results"
+msgstr "Natiijooyinka magaca shayga masuulka ah"
+
+msgid "Duty entity type"
+msgstr "Nooca shayga masuulka ah"
+
+msgid "Earth"
+msgstr "Dhul"
+
+msgid "Element classification"
+msgstr "Kala-saaridda waxyaabaha"
+
+msgid "Element classification method"
+msgstr "Habka kala-saaridda waxyaabaha"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Geli qora... xarfaha Carabiga, Israeelka, Turkiga, lambarada"
+
+msgid "Entered data"
+msgstr "Xogta la geliyey"
+
+msgid "Entry"
+msgstr "Gali"
+
+msgid "Entry letter count"
+msgstr "Tirinta xarfaha galinta"
+
+msgid "Evil"
+msgstr "Dembiil"
+
+msgid "Fire"
+msgstr "Aannu"
+
+msgid "For entered data"
+msgstr "Xogta la geliyey"
+
+msgid "Frequency in Quran"
+msgstr "Sifada Quraanka"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Qodobbada alifbeha ee Jabbaan"
+
+msgid "Hebrew letters"
+msgstr "Harfka Jabbaan"
+
+msgid "High"
+msgstr "Weyn"
+
+msgid "Hija order"
+msgstr "Amarka Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Magacyada Huddam ee qarsoon"
+
+msgid "Huddam not calculated"
+msgstr "Huddam lama xisaabin"
+
+msgid "Iklil's order"
+msgstr "Amarka Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kordhi cabbirka keyboard"
+
+msgid "Indian numbers"
+msgstr "Lambarrada Hindiya"
+
+msgid "Interface language"
+msgstr "Luuqadda interface"
+
+msgid "Let character quantity decide"
+msgstr "U ogolow tirada xarafku go'aansado"
+
+msgid "Letter count"
+msgstr "Tirada xaraf"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ma jeclaysaa mashaariicdayda? Iigii iigu soo iibso qaxwo!"
+
+msgid "Low"
+msgstr "Hoose"
+
+msgid "Maghribian abjad"
+msgstr "Abjadka Maghrib"
+
+msgid "Maghribian hija order"
+msgstr "Amarka Hija ee Maghrib"
+
+msgid "Minimum"
+msgstr "Ugu yar"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Luuqadda akhrinta lambarada"
+
+msgid "Numerical values"
+msgstr "Qiimeynta tirooyinka"
+
+msgid "Open"
+msgstr "Fur"
+
+msgid "Order"
+msgstr "Amar"
+
+msgid "Possible phrases"
+msgstr "Erayo suurtagal ah"
+
+msgid "Program settings"
+msgstr "Dejinta barnaamijka"
+
+msgid "Pronunciation"
+msgstr "Xaqiijin dhawaaqa"
+
+msgid "Regular expression"
+msgstr "Jadwal caadi ah"
+
+msgid "Regularly preferred classification"
+msgstr "Sida caadi ah loo doorbido kala-soocidda"
+
+msgid "Reset"
+msgstr "Soo celinta"
+
+msgid "Separators"
+msgstr "Qaybiyeyaal"
+
+msgid "Settings"
+msgstr "Dejinta"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Muuji numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Muuji keyboard-ga dhijitaalka ah"
+
+msgid "Small"
+msgstr "Yar"
+
+msgid "Small + letter count"
+msgstr "Yar + tirinta xarfaha"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Taageero"
+
+msgid "Taken (letter)"
+msgstr "La qaatay (xarf)"
+
+msgid "Taken (letter; abjad)"
+msgstr "La qaatay (xarf; abjad)"
+
+msgid "Taken Letters"
+msgstr "Xarafka la qaatay"
+
+msgid "Text or number cell"
+msgstr "Unug qoraal ama tir"
+
+msgid "Thank you for your support!"
+msgstr "Mahadsanid taageeradaada!"
+
+msgid "Total"
+msgstr "Guud"
+
+msgid "Turkish"
+msgstr "Turk"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjadka Alfabada Turkka"
+
+msgid "Turkish alphabet elements"
+msgstr "Qaababka alfabada Turkka"
+
+msgid "Turkish letters"
+msgstr "Xarfaha Turkka"
+
+msgid "Undefined characters"
+msgstr "Karakter aan qeexneyn"
+
+msgid "Value"
+msgstr "Qiime"
+
+msgid "Value & Detail"
+msgstr "Qiime & Faahfaahin"
+
+msgid "Version"
+msgstr "Soo-jeedin"
+
+msgid "Water"
+msgstr "Biyo"
+
+msgid "When data is entered"
+msgstr "Marka xogta la geliyo"
+
+msgid "When reading large digits"
+msgstr "Marka la akhrinayo tirooyinka waaweyn"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad la xisaabiyay iyo tirinta xarfaha la kordhiyay"
+
+msgid "abjad() functions settings"
+msgstr "dejinta hawlaha abjad()"
+
+msgid "add to initial value"
+msgstr "ku dar qiimaha bilowga"
+
+msgid "and"
+msgstr "iyo"
+
+msgid "auto calculate immediately"
+msgstr "isku xisaabi si toos ah"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "dejinta hawlaha bastet() iyo nutket()"
+
+msgid "count once"
+msgstr "xisaabi hal mar"
+
+msgid "count twice"
+msgstr "xisaabi labo mar"
+
+msgid "display with Arabic numbers"
+msgstr "muujin lambarada Carabiga"
+
+msgid "display with Indian numbers"
+msgstr "muujin lambarada Hindiya"
+
+msgid "do not add to initial value"
+msgstr "ha ku darin qiimaha bilowga"
+
+msgid "do not force to other functions"
+msgstr "ha ku qasbin hawlaha kale"
+
+msgid "do not purify"
+msgstr "ha nadiifin"
+
+msgid "force to other functions"
+msgstr "ku qas hawlaha kale"
+
+msgid "group multiplier letters"
+msgstr "xarfaha isku dhufan ee kooxda"
+
+msgid "hide"
+msgstr "qari"
+
+msgid "hide abjad values"
+msgstr "qari qiimayaasha abjad"
+
+msgid "hide bast results"
+msgstr "Qari natiijooyinka bast"
+
+msgid "hide huddam names"
+msgstr "Qari magacyada huddam"
+
+msgid "huddam() function settings"
+msgstr "deegaanka hawsha huddam()"
+
+msgid "no bast applied."
+msgstr "bast aan la isticmaalin."
+
+msgid "no data entered"
+msgstr "ma jiraan xog gelin"
+
+msgid "other suffix"
+msgstr "magac kale"
+
+msgid "purify data"
+msgstr "nadiifi xogta"
+
+msgid "repeat multiplier for each digit"
+msgstr "ku celi isku-darka lambar kasta"
+
+msgid "show"
+msgstr "muujin"
+
+msgid "show abjad values"
+msgstr "muujinta qiimaha abjad"
+
+msgid "show bast results"
+msgstr "muujinta natiijooyinka bast"
+
+msgid "show huddam names"
+msgstr "muujinta magacyada huddam"
+
+msgid "suffix"
+msgstr "magac-gareyn"
+
+msgid "times bast applied."
+msgstr "mar bast la adeegsanayo."
+
+msgid "use calculated abjad results"
+msgstr "isticmaal natiijooyinka abjad ee xisaabiyay"
+
+msgid "use calculated abjad total"
+msgstr "isticmaal wadarta abjad ee xisaabiyay"
+
+msgid "use calculated bast results"
+msgstr "isticmaal natiijooyinka bast ee xisaabiyay"
+
+msgid "use entered data directly"
+msgstr "isticmaal xogta la geliyay si toos ah"
+
+msgid "use entered data total"
+msgstr "isticmaal wadarta xogta la geliyay"
+
+msgid "use in all bast repetitions"
+msgstr "isticmaal dhammaan soo noqnoqoshada bast"
+
+msgid "use only at beginning if possible"
+msgstr "kaliya isticmaal bilowga haddii suurtagal ah"
+
+msgid "wait for settings and data entry"
+msgstr "soo dhowow dejinta iyo gelinta xogta"
+
+msgid "Abjad Table"
+msgstr "Miiska Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Faahfaahin"
+
+msgid "Element Classification"
+msgstr "Kala-soocida Elementiyada"
+
+msgid "Abjad Order"
+msgstr "Kala-sarribka Abjad"
+
+msgid "Abjad Widget"
+msgstr "Qalabka Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ku dar CSS gaarka ah si aad u habayso muuqaalka qalabka."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ku dar JavaScript gaar ah si aad u beddesho habdhaqanka qalabka. Koodh "
+"khaldan wuxuu burburin karaa qalabka!"
+
+msgid "An error occurred while loading content."
+msgstr "Khalad ayaa dhacay inta lagu jiro soo dejinta nuxurka."
+
+msgid "Button"
+msgstr "Badhanka"
+
+msgid "Button Color"
+msgstr "Midabka Badhanka"
+
+msgid "Button Emoji"
+msgstr "Emoji Badhanka"
+
+msgid "Button Message"
+msgstr "Fariinta Badhanka"
+
+msgid "Button Settings"
+msgstr "Dejinta Badhanka"
+
+msgid "Button Type"
+msgstr "Nooca Badhanka"
+
+msgid "CSS saved successfully."
+msgstr "CSS si guul leh ayaa loo keydiyay."
+
+msgid "Check this box to activate the widget."
+msgstr "Xulo sanduuqa si aad u hawlgeliso widget-ka."
+
+msgid "Code Editor"
+msgstr "Tafatiraha Koodhka"
+
+msgid "Custom CSS"
+msgstr "CSS-ga gaarka ah"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript-ga gaarka ah"
+
+msgid "Description"
+msgstr "Sharaxaad"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Geli URL sawir"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Tusaale: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Guud"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript si guul leh ayaa loo keydiyay."
+
+msgid "Left"
+msgstr "Bidix"
+
+msgid "Live Preview"
+msgstr "Daawasho toos ah"
+
+msgid "Loading..."
+msgstr "Ku shubanayaa..."
+
+msgid "PNG Image URL"
+msgstr "URL sawir PNG"
+
+msgid "Paste SVG code"
+msgstr "Ku dhaji koodh SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Fadlan geli URL sax ah."
+
+msgid "Position"
+msgstr "Meel"
+
+msgid "Reset to Default"
+msgstr "Ku soo celi Deja"
+
+msgid "Right"
+msgstr "Midig"
+
+msgid "SVG Code"
+msgstr "Koodh SVG"
+
+msgid "Save CSS"
+msgstr "Kaydi CSS"
+
+msgid "Save JavaScript"
+msgstr "Kaydi JavaScript"
+
+msgid "Save Settings"
+msgstr "Kaydi Dejinta"
+
+msgid "Settings saved successfully."
+msgstr "Dejinta si guul leh waa la keydiyay."
+
+msgid "Style Editor"
+msgstr "Tafatiraha Qaabka"
+
+msgid "WARNING"
+msgstr "WEERAR"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Ku soo dhawoow! Waxaad ka raaci kartaa wargelinta iyo macluumaadka widget-ka"
+" ka socda panel-kan."
+
+msgid "Widget Settings"
+msgstr "Dejinta Widget"
+
+msgid "Widget Status"
+msgstr "Xaaladda Widget"
+
+msgid "Widget active"
+msgstr "Widget firfircoon"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Koodhka JavaScript ee khaldan waxa uu jebin karaa widget-ka. Ka koobid ka "
+"hor wax ka beddel."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Magacaaga 'Buy Me a Coffee'"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Beddelkaaga si toos ah ayuu u saameyn doonaa muuqaalka widget-ka. Haddii "
+"aadan ogayn CSS, waxaa lagu talinayaa in la isticmaalo dejinta caadiga ah."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard-ka Gudaha"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Raadiyeyaasha Ruuxeed iyo Sirta"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Astaamaha Shakhsiyadda: Xiiso leh, nafsiyan, maskax furan, oo ku dhowaada "
+"aqoonta qarsoon. Waxay yeelan karaan xiiso xooggan oo ay ku ogaadaan macnaha"
+" qarsoon ama qaababka nolosha. Shaqooyinka: Tababareyaal ruuxeed, "
+"akhristayaal tarot, xiddig-sare, ama dad ku lug leh dhaqamada New Age. "
+"Spectrumka Falsafada: Waxaa suurtogal ah inay ku qabsadaan rumaysiin ruuxeed"
+" ama meta-fizik. Waxay u arki karaan qalabka hab loo xiriiriyo xaqiiqada "
+"qoto dheer ama tamarta guud."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numbaraqistayaasha iyo Jamaarista Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Astaamaha Shakhsiyadda: Falanqeyn, diiradda saaraya faahfaahinta, oo xiiso u"
+" leh xiriirka u dhexeeya tirooyinka iyo luqadda. Waxay ku raaxeysan karaan "
+"inay furtaan macnaha astaanta. Shaqooyinka: Numbaraqistayaal xor ah, "
+"qorayaal ku saabsan mowduucyada qarsoon, ama hobiisteyaasha baadhaya "
+"numarolojiyada. Spectrumka Falsafada: Waxay ka socdaan kuwa u arka "
+"numarolojiyada sidii jimicsi xiiso leh ilaa kuwa aaminsan muhiimada ruuxeed "
+"ee qoto dheer."
+
+msgid "Historians and Linguists"
+msgstr "Taariikhyahano iyo Luqateyaal"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Astaamaha Shakhsiyadda: Aqoon leh, nidaamsan, oo xiiseeya xaalada "
+"taariikhiga ah ama dhaqanka ee nidaamyada tirooyinka sida Abjad. "
+"Shaqooyinka: Aqoon-isweynaha, cilmi-baarayaal, ama ardayda ku barta luqadaha"
+" Bariga Dhexe, taariikhda, ama qoraallada diimeed. Spectrumka Falsafada: "
+"Waxaa suurtogal ah inay si madax-bannaan uga falanqeeyaan qalabka, diiradda "
+"saaraya taariikhda ama luqadda."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Qof diimeed ama aaminaad ku saleysan"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Astaamaha Shakhsiyadda: Diimeed, ka fikiraya, oo raadinaya xiriir qoto dheer"
+" oo ay la leeyihiin aaminaadda. Waxay u isticmaali karaan qalabka si ay u "
+"baaraan qoraallada diimeed ama farriimaha Ilaaha. Shaqooyinka: Aqoon-"
+"isweynaha diimeed, imama, kaniisada, ama dad aan xeer ka tirsanayn oo leh "
+"xiiso xooggan oo ku saabsan dhaqanka sirta ee aaminaadda. Spectrumka "
+"Falsafada: Waxaa suurtogal ah inay leeyihiin aragti dhaqameed ama xeer-"
+"qabta, isticmaalaya qalabka si ay u xoojiso rumaysinnada ruuxiga ah."
+
+msgid "Writers and Artists"
+msgstr "Qorayaal iyo Fannaan"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Astaamaha Shakhsiyadda: Hal-abuur, fikir-aha, oo ku dhowaada fikradaha "
+"astaan ama abstrak. Waxay u isticmaali karaan qalabka dhiirrigelin ama inay "
+"ku darsadaan lakabyo macne leh shaqadooda. Shaqooyinka: Qoraa, gabay-sheeko,"
+" fannaan muuqaal, ama muusig. Spectrumka Falsafada: Waxay ka socdaan hal-"
+"abuur madax-bannaan ilaa kuwa leh aragti ruuxi ama sirta."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Hobistayaasha Xeerka iyo Su'aalaha"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Fikirayaasha Qiyaasaha iyo Fikirayaasha Beddelka"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Astaamaha Shakhsiyadda: Sharad leh oo ku saabsan sheekooyinka caadiga ah, ku"
+" dhowaada ogaanshaha xaqiiqo qarsoon ama qaababka nidaamyada. Shaqooyinka: "
+"Cilmi-baarayaal madax-bannaan, bloggare, ama hawlgalayaasha. Spectrumka "
+"Falsafada: Waxay yeelan karaan aragti xiiso badan ama aan caadi ahayn, "
+"isticmaalaya qalabka si ay u taageeraan aragtiyada ama sheekooyinka kale."
+
+msgid "☕ Support the Project"
+msgstr "☕ Taageer Mashruuca"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Haddii aad jeceshahay mashruucayga, waxaad ii iibsan kartaa kafee!"
+
+msgid "Buy Me A Coffee"
+msgstr "Iibso Kafee"
+
+msgid "Thank you! 🙏"
+msgstr "Mahadsanid! 🙏"

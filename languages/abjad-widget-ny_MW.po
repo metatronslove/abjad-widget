@@ -1,0 +1,808 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Nyanja <ny_MW>\n"
+"Language: ny-MW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Zotsutsa za Abjad"
+
+msgid "Abjad Value"
+msgstr "Nthawi la Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard wa Widget la Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Zolowa za kulimbikila ka Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Zolimbikila za Abjad zakhala zovuta"
+
+msgid "Abjad not calculated"
+msgstr "Abjad si kulimbikila"
+
+msgid "Abjad order"
+msgstr "Mtundu wa Abjad"
+
+msgid "Add elements"
+msgstr "Yongeza zinthu"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Mlungu"
+
+msgid "All"
+msgstr "Zonse"
+
+msgid "Arabic"
+msgstr "Arabi"
+
+msgid "Arabic letters"
+msgstr "Zandizo za Arabi"
+
+msgid "Arabic numbers"
+msgstr "Zanamba za Arabi"
+
+msgid "As data for operation"
+msgstr "Pandan'odzo ndi maoperation"
+
+msgid "Bast loop results"
+msgstr "Zolowa za loop ya Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast si kulimbikila"
+
+msgid "Bast repetition count"
+msgstr "Mphamvu ya kukambirana kwa Bast"
+
+msgid "Bast results hidden"
+msgstr "Zolowa za Bast zakhala zovuta"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Mtundu wa Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tabla ya Bastet"
+
+msgid "Big"
+msgstr "Mapang'anda"
+
+msgid "Bigger"
+msgstr "Mapang'anda yambiri"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Lumikizani kachuma"
+
+msgid "Calculate"
+msgstr "Yambani"
+
+msgid "Calculate Abjad"
+msgstr "Yambani Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Yanthula Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Yanthula Huddam"
+
+msgid "Calculation details"
+msgstr "Zolinga za Anthulire"
+
+msgid "Choose Keyboard Layout"
+msgstr "Sankha Layout ya Keyboadi"
+
+msgid "Clear text box"
+msgstr "Sima batokisi ya mawu"
+
+msgid "Click row for details"
+msgstr "Pindula mutsara kuti mupe zolinga"
+
+msgid "Close Keyboard"
+msgstr "Lima Keyboadi"
+
+msgid "Closed"
+msgstr "Lilumikizidwa"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Comma ndi thupi lotambulira lofunika ndipo liyenera kulimbikitsidwa!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Zothandizira za data entry:"
+
+msgid "Data type profile"
+msgstr "Profile ya type ya data"
+
+msgid "Dead keys"
+msgstr "Keyzovuta"
+
+msgid "Decrease keyboard size"
+msgstr "Sungani malo a Keyboadi"
+
+msgid "Don't calculate"
+msgstr "Siyanthula"
+
+msgid "Duty entity name results"
+msgstr "Zolinga za mazina a chinthu cha duty"
+
+msgid "Duty entity type"
+msgstr "Type ya chinthu cha duty"
+
+msgid "Earth"
+msgstr "M'manja"
+
+msgid "Element classification"
+msgstr "Kuwongolera kwa element"
+
+msgid "Element classification method"
+msgstr "Moyozo wa kuwongolera element"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Kuyika mawu... mawu a Arabic, Hebrew, Turkish, zambirilo"
+
+msgid "Entered data"
+msgstr "Data lylangilidwa"
+
+msgid "Entry"
+msgstr "Entry"
+
+msgid "Entry letter count"
+msgstr "Kuwonera mawu a entry"
+
+msgid "Evil"
+msgstr "Chinthu chofuna"
+
+msgid "Fire"
+msgstr "Zole"
+
+msgid "For entered data"
+msgstr "Kwa data lylangilidwa"
+
+msgid "Frequency in Quran"
+msgstr "Kukosa mu Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Zinthu za alfabhi ya Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Litsogolowa za Hebrew"
+
+msgid "High"
+msgstr "Pambuyo"
+
+msgid "Hija order"
+msgstr "Zolowa za Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Zina za Huddam zikufunika"
+
+msgid "Huddam not calculated"
+msgstr "Huddam sisungati"
+
+msgid "Iklil's order"
+msgstr "Zolowa za Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Tsegula maonekedwe a keyboard"
+
+msgid "Indian numbers"
+msgstr "Ma nambala za Hindia"
+
+msgid "Interface language"
+msgstr "Cholowetsera cha interface"
+
+msgid "Let character quantity decide"
+msgstr "Tambala mwalo kuti woyankha mankhono"
+
+msgid "Letter count"
+msgstr "Kuwunika mankhono"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Mwaona ntchito zanga? Tamba chaka."
+
+msgid "Low"
+msgstr "Pankonde"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Zolowa za Maghribian hija"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Cholowetsera cha kusoma nambala"
+
+msgid "Numerical values"
+msgstr "Zinthu za nambala"
+
+msgid "Open"
+msgstr "Vhura"
+
+msgid "Order"
+msgstr "Zolowa"
+
+msgid "Possible phrases"
+msgstr "Zolola za chisomo"
+
+msgid "Program settings"
+msgstr "Zoloweka za programu"
+
+msgid "Pronunciation"
+msgstr "Kukhalira"
+
+msgid "Regular expression"
+msgstr "Chikumbuyo chokwanira"
+
+msgid "Regularly preferred classification"
+msgstr "Kukonza kwa nthawi yotsogolo"
+
+msgid "Reset"
+msgstr "Seka"
+
+msgid "Separators"
+msgstr "Zolakwira"
+
+msgid "Settings"
+msgstr "Zokonzekera"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Onetsani numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Onetsani klavyiya yoyenda"
+
+msgid "Small"
+msgstr "Chiyesa"
+
+msgid "Small + letter count"
+msgstr "Chiyesa + uyimu wotali"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Chithandizo"
+
+msgid "Taken (letter)"
+msgstr "Chitwephika (mayeso)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Chitwephika (mayeso; abjad)"
+
+msgid "Taken Letters"
+msgstr "Mayeso Oyakepa"
+
+msgid "Text or number cell"
+msgstr "Chedzi kapena nambala"
+
+msgid "Thank you for your support!"
+msgstr "Zikomo chifukwa cha chithandizo chanu!"
+
+msgid "Total"
+msgstr "Zonse"
+
+msgid "Turkish"
+msgstr "Tayiko"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Tayiko Alfabesi Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Zolani z’eyalei za Tayiko"
+
+msgid "Turkish letters"
+msgstr "Mayeso za Tayiko"
+
+msgid "Undefined characters"
+msgstr "Zikhalidwe zosakhaletitsidwa"
+
+msgid "Value"
+msgstr "Zinthu"
+
+msgid "Value & Detail"
+msgstr "Zinthu & Ndondomeko"
+
+msgid "Version"
+msgstr "Khalidwe"
+
+msgid "Water"
+msgstr "m’zi"
+
+msgid "When data is entered"
+msgstr "Ngati mawu amagwiritsedwa"
+
+msgid "When reading large digits"
+msgstr "Ngati mukukhala kuwerenga nambala zakulu"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad yachilungiridwa ndi kuyika kukhoma malemba"
+
+msgid "abjad() functions settings"
+msgstr "zokonzedwa za function abjad()"
+
+msgid "add to initial value"
+msgstr "yesa pa thambo la chachikulu"
+
+msgid "and"
+msgstr "ndipo"
+
+msgid "auto calculate immediately"
+msgstr "khwama yochita awokwanira"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "zokonzedwa za function bastet() ndi nutket()"
+
+msgid "count once"
+msgstr "yesa kamodzi"
+
+msgid "count twice"
+msgstr "yesa kaviri"
+
+msgid "display with Arabic numbers"
+msgstr "zokongola ndi manamba a Arab"
+
+msgid "display with Indian numbers"
+msgstr "zokongola ndi manamba a India"
+
+msgid "do not add to initial value"
+msgstr "sungani mu thambo la chachikulu"
+
+msgid "do not force to other functions"
+msgstr "sungani ku chitsimikiza ku function zina"
+
+msgid "do not purify"
+msgstr "sungani kuyambitsa"
+
+msgid "force to other functions"
+msgstr "chitsimikiza ku function zina"
+
+msgid "group multiplier letters"
+msgstr "malemba osungulirapo mgwirizano"
+
+msgid "hide"
+msgstr "simulira"
+
+msgid "hide abjad values"
+msgstr "simulira thambo la abjad"
+
+msgid "hide bast results"
+msgstr "fufuka zizindikiro za bast"
+
+msgid "hide huddam names"
+msgstr "fufuka mazina a huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() function settings"
+
+msgid "no bast applied."
+msgstr "sinachitika za bast."
+
+msgid "no data entered"
+msgstr "sinayenerera data"
+
+msgid "other suffix"
+msgstr "suffix zingapo"
+
+msgid "purify data"
+msgstr "kusukula data"
+
+msgid "repeat multiplier for each digit"
+msgstr "kuyambira multiplier kwa digit"
+
+msgid "show"
+msgstr "wonetseti"
+
+msgid "show abjad values"
+msgstr "wonetseti abjad zotsatira"
+
+msgid "show bast results"
+msgstr "wonetseti zizindikiro za bast"
+
+msgid "show huddam names"
+msgstr "wonetseti mazina a huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "kula za bast yakuchitika."
+
+msgid "use calculated abjad results"
+msgstr "chitani abjad chachitika"
+
+msgid "use calculated abjad total"
+msgstr "chitani abjad chachitika zofikira"
+
+msgid "use calculated bast results"
+msgstr "chitani bast chachitika"
+
+msgid "use entered data directly"
+msgstr "chitani data yolumikira ndi nthawi"
+
+msgid "use entered data total"
+msgstr "chitani data yolumikira yofikira"
+
+msgid "use in all bast repetitions"
+msgstr "chitani mu zopereka za bast zonse"
+
+msgid "use only at beginning if possible"
+msgstr "chitani tikusiyana pakutanga ngati kuchita"
+
+msgid "wait for settings and data entry"
+msgstr "simbi pa zotsimikira ndi kulemba data"
+
+msgid "Abjad Table"
+msgstr "Table ya Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Zambiri"
+
+msgid "Element Classification"
+msgstr "Classification ya Elements"
+
+msgid "Abjad Order"
+msgstr "Order ya Abjad"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Yambitsani CSS yopereka kuti widget iwongwe."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Yambitsani JavaScript yopereka kuti widget iwongwe. Kodi kodi yosagwirizana "
+"ingasakumbukira widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Palibe chyeneru panthawi yophweka maulere."
+
+msgid "Button"
+msgstr "Boti"
+
+msgid "Button Color"
+msgstr "Chikondwerero cha Boti"
+
+msgid "Button Emoji"
+msgstr "Emoji ya Boti"
+
+msgid "Button Message"
+msgstr "Zolankhula za Boti"
+
+msgid "Button Settings"
+msgstr "Zophatikiza za Boti"
+
+msgid "Button Type"
+msgstr "Mtundu wa Boti"
+
+msgid "CSS saved successfully."
+msgstr "CSS yakhala yophweka bwino."
+
+msgid "Check this box to activate the widget."
+msgstr "Lembani mawonekedwe awa kuti muwonjezerenso widget."
+
+msgid "Code Editor"
+msgstr "Mwachitsanzo wa Kodigo"
+
+msgid "Custom CSS"
+msgstr "CSS Yopangira"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Yopangira"
+
+msgid "Description"
+msgstr "Kufotokozera"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Konzani URL ya chithunzi"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Mphatikiziro: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Malungosetsedwe"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript yakhala yophweka bwino."
+
+msgid "Left"
+msgstr "Kumaona"
+
+msgid "Live Preview"
+msgstr "Kuwonekera kwa nthawi"
+
+msgid "Loading..."
+msgstr "Kukweza..."
+
+msgid "PNG Image URL"
+msgstr "URL ya PNG Yali ndi Chithunzi"
+
+msgid "Paste SVG code"
+msgstr "Sindikizirani kodzi SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Chonde konzani URL yabwino."
+
+msgid "Position"
+msgstr "Chigawo"
+
+msgid "Reset to Default"
+msgstr "Zanthani kwa Maphunzi"
+
+msgid "Right"
+msgstr "Kukala"
+
+msgid "SVG Code"
+msgstr "Kodzi SVG"
+
+msgid "Save CSS"
+msgstr "Sankhani CSS"
+
+msgid "Save JavaScript"
+msgstr "Sankhani JavaScript"
+
+msgid "Save Settings"
+msgstr "Simba Zokhazikika"
+
+msgid "Settings saved successfully."
+msgstr "Zokhazikika zazigawidwa bwino."
+
+msgid "Style Editor"
+msgstr "Muonetsedwe wa Style"
+
+msgid "WARNING"
+msgstr "KULINGI"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Moni! Mutha kufufuza zolemba ndi zinkulutso za widget kuchokera pa paneleyi."
+
+msgid "Widget Settings"
+msgstr "Zosinthulirapo za Widget"
+
+msgid "Widget Status"
+msgstr "Cholawira cha Widget"
+
+msgid "Widget active"
+msgstr "Widget ilili"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"JavaScript code yolowa imatha kukulimbitsa widget. Lembani backup pamene "
+"mukuchita shinkhani."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Dzina lanu la Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Kuchitira kwanu kuthetsa kukonzeretsa widget. Ngati musiyazi CSS, kuyankhula"
+" kuti muyankhe zosinthulirapo zabwino."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard Yaluso"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Akarani Akuchita Chikhalidwe ndi Akachitika"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Zokondwerera: Akukondwe, akuchita mu nthawi, akuchita chitsanzo, ndi "
+"akuchita mu mzimu. Wamuvuta kupeza ndondomeko zokhalira mu moyo. Zochita: "
+"Akarani Akuchita Chikhalidwe, akudira masewera, akuwongolera, ndi anthu omwe"
+" amuchita mawu a New Age. Zoyankha: Zimakhala zolimbikira mu mzimu kapena "
+"kulamulira. Wamuvuta kuona zinthu ngati njira yotumiza ku maphunziro ndi "
+"mawu a chithandizo."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologists ndi Gematria Enthusiasts"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Zokondwerera: Akulamulira, akuchita mu nthawi, ndi akuchita mu mzimu. "
+"Wamuvuta kuyenda mu maphunziro. Zochita: Numerologists okhazikika, akudzidwa"
+" pa chitsanzo, ndi akuyenda mu nthawi. Zoyankha: Zimakhala kukonzekera mu "
+"mavuto."
+
+msgid "Historians and Linguists"
+msgstr "Akarani AHistorians ndi Alingwisi"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Zokondwerera: Akuchita mu njira, ndi akuyenda mu nthawi. Wamuvuta kuyenda mu"
+" maphunziro. Zochita: Akarani AAcademics, akuyenda mu nthawi, ndi akuyenda "
+"mu nthawi. Zoyankha: Zimakhala kukonzekera mu mavuto."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Akarani AChikhalidwe kapena AChitendero"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Zokondwerera: Akuchita mu nthawi, ndi akuyenda mu nthawi. Wamuvuta kuyenda "
+"mu maphunziro. Zochita: Akarani AChikhalidwe, akuyenda mu nthawi, ndi "
+"akuyenda mu nthawi. Zoyankha: Zimakhala kukonzekera mu mavuto."
+
+msgid "Writers and Artists"
+msgstr "Akarani AWriter ndi AArtist"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Zokondwerera: Akuchita mu nthawi, ndi akuyenda mu nthawi. Wamuvuta kuyenda "
+"mu maphunziro. Zochita: Akarani Authors, poets, visual artists, ndi "
+"musicians. Zoyankha: Zimakhala kukonzekera mu mavuto."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Akarani APuzzle ndi A Riddle Enthusiasts"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Zokondwerera: Akuchita mu nthawi, ndi akuyenda mu nthawi. Wamuvuta kuyenda "
+"mu maphunziro. Zochita: Akarani Hobbyists, puzzle designers, ndi educators. "
+"Zoyankha: Zimakhala kukonzekera mu mavuto."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Akarani AConspiracy Theorists ndi AAlternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Zokondwerera: Akuchita mu nthawi, ndi akuyenda mu nthawi. Wamuvuta kuyenda "
+"mu maphunziro. Zochita: Akarani Independent researchers, bloggers, ndi "
+"activists. Zoyankha: Zimakhala kukonzekera mu mavuto."
+
+msgid "☕ Support the Project"
+msgstr "☕ Batsireni Phoka"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ngati mukuperekera pa phoka, mungandibwera cafe!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Zikomo! 🙏"

@@ -1,0 +1,820 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Lule Sami (Norway) <smj_NO>\n"
+"Language: smj-NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad-joatn"
+
+msgid "Abjad Value"
+msgstr "Abjad-buv"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad-Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Abjad-álguvssit"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad-álguvssid ovloje"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ovloje alguvssit"
+
+msgid "Abjad order"
+msgstr "Abjad-ruohted"
+
+msgid "Add elements"
+msgstr "Ođđi elementid"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Áiged"
+
+msgid "All"
+msgstr "Goat"
+
+msgid "Arabic"
+msgstr "Arabisk"
+
+msgid "Arabic letters"
+msgstr "Arabisk lehtid"
+
+msgid "Arabic numbers"
+msgstr "Arabisk numerid"
+
+msgid "As data for operation"
+msgstr "Datat operasjon"
+
+msgid "Bast loop results"
+msgstr "Bast-loop-álguvssit"
+
+msgid "Bast not calculated"
+msgstr "Bast ovloje alguvssit"
+
+msgid "Bast repetition count"
+msgstr "Bast repetisjon antall"
+
+msgid "Bast results hidden"
+msgstr "Bast-álguvssid ovloje"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet-ruohted"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tabel"
+
+msgid "Big"
+msgstr "Stuor"
+
+msgid "Bigger"
+msgstr "Stuorre"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Kopi ID"
+
+msgid "Buy me a coffee"
+msgstr "Giedt ma kopp"
+
+msgid "Calculate"
+msgstr "Álggo"
+
+msgid "Calculate Abjad"
+msgstr "Álggo Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Gávdnan Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Gávdnan Huddam"
+
+msgid "Calculation details"
+msgstr "Gávdnan duogŋŋ"
+
+msgid "Choose Keyboard Layout"
+msgstr "Gierda bårkvuŋ vuŋka"
+
+msgid "Clear text box"
+msgstr "Gierdga textböx"
+
+msgid "Click row for details"
+msgstr "Gárra roa duogŋŋ"
+
+msgid "Close Keyboard"
+msgstr "Gárrga bårkvuŋ"
+
+msgid "Closed"
+msgstr "Gárrgá"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma lea dánavástá searrá ja dihkkar buktie."
+
+msgid "Dashboard"
+msgstr "Stáhttán"
+
+msgid "Data entry separators:"
+msgstr "Datá buktie searrá:"
+
+msgid "Data type profile"
+msgstr "Datá tippe profíl"
+
+msgid "Dead keys"
+msgstr "Dead keys"
+
+msgid "Decrease keyboard size"
+msgstr "Dábálaš bårkvuŋ máldád"
+
+msgid "Don't calculate"
+msgstr "Niedi gávdnan"
+
+msgid "Duty entity name results"
+msgstr "Duty entity name results"
+
+msgid "Duty entity type"
+msgstr "Duty entity type"
+
+msgid "Earth"
+msgstr "Jerr"
+
+msgid "Element classification"
+msgstr "Element classification"
+
+msgid "Element classification method"
+msgstr "Element classification method"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Báhke text... Árabi, Ibranice, Turk leters, nummárd"
+
+msgid "Entered data"
+msgstr "Báhke datá"
+
+msgid "Entry"
+msgstr "Giedda"
+
+msgid "Entry letter count"
+msgstr "Giedda leter nummag"
+
+msgid "Evil"
+msgstr "Evil"
+
+msgid "Fire"
+msgstr "Váhka"
+
+msgid "For entered data"
+msgstr "For báhke datá"
+
+msgid "Frequency in Quran"
+msgstr "Quran freq"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibranice"
+
+msgid "Hebrew alphabet elements"
+msgstr "Ibranåabieda bádje"
+
+msgid "Hebrew letters"
+msgstr "Ibranåabieda láf"
+
+msgid "High"
+msgstr "Gavnnje"
+
+msgid "Hija order"
+msgstr "Hija orden"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam namn guovllat"
+
+msgid "Huddam not calculated"
+msgstr "Huddam nu miiččad"
+
+msgid "Iklil's order"
+msgstr "Iklil's orden"
+
+msgid "Increase keyboard size"
+msgstr "Større tastatur"
+
+msgid "Indian numbers"
+msgstr "Indæjjie numár"
+
+msgid "Interface language"
+msgstr "Sovnnáfáhtii gïhje"
+
+msgid "Let character quantity decide"
+msgstr "Låt karaktermálmii giavvi"
+
+msgid "Letter count"
+msgstr "Låhkehnumm"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Miiŋ gárášgien? Skát mea gávnnat!"
+
+msgid "Low"
+msgstr "Våll"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija orden"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Numár luehke gïhje"
+
+msgid "Numerical values"
+msgstr "Numárkavåhka"
+
+msgid "Open"
+msgstr "Auvv"
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "Possible phrases"
+msgstr "Láhget gárdji"
+
+msgid "Program settings"
+msgstr "Program ohttaš"
+
+msgid "Pronunciation"
+msgstr "Pronunce"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Regularly preferred classification"
+msgstr "Gávnnat gávnnje lårss"
+
+msgid "Reset"
+msgstr "Gáŋŋi"
+
+msgid "Separators"
+msgstr "duŋŋi"
+
+msgid "Settings"
+msgstr "juovllâš"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad rævd"
+
+msgid "Show numpad"
+msgstr "Numpad vis"
+
+msgid "Show virtual keyboard"
+msgstr "Virtual tastatur vis"
+
+msgid "Small"
+msgstr "låg"
+
+msgid "Small + letter count"
+msgstr "låg + bokstavtal"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "leavkâ"
+
+msgid "Taken (letter)"
+msgstr "Alin (bokstav)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Alin (bokstav; abjad)"
+
+msgid "Taken Letters"
+msgstr "Alin bokstavar"
+
+msgid "Text or number cell"
+msgstr "Tekst eller tal cell"
+
+msgid "Thank you for your support!"
+msgstr "bååj for din leavkâ!"
+
+msgid "Total"
+msgstr "totalt"
+
+msgid "Turkish"
+msgstr "Turkisk"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkisk alfabet abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turkisk alfabet element"
+
+msgid "Turkish letters"
+msgstr "Turkisk bokstavar"
+
+msgid "Undefined characters"
+msgstr "Udefinert karakter"
+
+msgid "Value"
+msgstr "bielá"
+
+msgid "Value & Detail"
+msgstr "bielá & detalj"
+
+msgid "Version"
+msgstr "versjon"
+
+msgid "Water"
+msgstr "suođâ"
+
+msgid "When data is entered"
+msgstr "Når data er indatert"
+
+msgid "When reading large digits"
+msgstr "Når stor tall lesar"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad mielddah ja bokstavtall åjsah"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funksjona innstaŋgo"
+
+msgid "add to initial value"
+msgstr "joavŋ goh dinn vass"
+
+msgid "and"
+msgstr "ja"
+
+msgid "auto calculate immediately"
+msgstr "auto räknæb gåh"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ja nutket() funksjona innstaŋgo"
+
+msgid "count once"
+msgstr "tall enge"
+
+msgid "count twice"
+msgstr "tall tvæj"
+
+msgid "display with Arabic numbers"
+msgstr "vis med arabisk tal"
+
+msgid "display with Indian numbers"
+msgstr "vis med indisk tal"
+
+msgid "do not add to initial value"
+msgstr "mii joavŋ goh dinn vass"
+
+msgid "do not force to other functions"
+msgstr "mii tjoeh goh anna funksjonar"
+
+msgid "do not purify"
+msgstr "mii ruvva"
+
+msgid "force to other functions"
+msgstr "tjoeh goh anna funksjonar"
+
+msgid "group multiplier letters"
+msgstr "grupp multiplika bokstaver"
+
+msgid "hide"
+msgstr "gask"
+
+msgid "hide abjad values"
+msgstr "gask abjad vass"
+
+msgid "hide bast results"
+msgstr "hide bast results"
+
+msgid "hide huddam names"
+msgstr "hide huddam names"
+
+msgid "huddam() function settings"
+msgstr "huddam() function settings"
+
+msgid "no bast applied."
+msgstr "no bast applied."
+
+msgid "no data entered"
+msgstr "no data entered"
+
+msgid "other suffix"
+msgstr "other suffix"
+
+msgid "purify data"
+msgstr "purify data"
+
+msgid "repeat multiplier for each digit"
+msgstr "repeat multiplier for each digit"
+
+msgid "show"
+msgstr "show"
+
+msgid "show abjad values"
+msgstr "show abjad values"
+
+msgid "show bast results"
+msgstr "show bast results"
+
+msgid "show huddam names"
+msgstr "show huddam names"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "times bast applied."
+
+msgid "use calculated abjad results"
+msgstr "use calculated abjad results"
+
+msgid "use calculated abjad total"
+msgstr "use calculated abjad total"
+
+msgid "use calculated bast results"
+msgstr "use calculated bast results"
+
+msgid "use entered data directly"
+msgstr "use entered data directly"
+
+msgid "use entered data total"
+msgstr "use entered data total"
+
+msgid "use in all bast repetitions"
+msgstr "use in all bast repetitions"
+
+msgid "use only at beginning if possible"
+msgstr "use only at beginning if possible"
+
+msgid "wait for settings and data entry"
+msgstr "wait for settings and data entry"
+
+msgid "Abjad Table"
+msgstr "Abjad Table"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Element Classification"
+msgstr "Element Classification"
+
+msgid "Abjad Order"
+msgstr "Abjad Order"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Add custom CSS to customize the widget appearance."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Feil oppstod ved innlasting av innhold."
+
+msgid "Button"
+msgstr "Knapp"
+
+msgid "Button Color"
+msgstr "Knappfarge"
+
+msgid "Button Emoji"
+msgstr "Knappemoji"
+
+msgid "Button Message"
+msgstr "Knappmelding"
+
+msgid "Button Settings"
+msgstr "Knappinnstillinger"
+
+msgid "Button Type"
+msgstr "Knappype"
+
+msgid "CSS saved successfully."
+msgstr "CSS lagret vellykket."
+
+msgid "Check this box to activate the widget."
+msgstr "Merk av i denne boksen for å aktivere widgeten."
+
+msgid "Code Editor"
+msgstr "Kodeeditor"
+
+msgid "Custom CSS"
+msgstr "Egen CSS"
+
+msgid "Custom JavaScript"
+msgstr "Egen JavaScript"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Skriv inn bilde-URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Eksempel: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Generell"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript lagret vellykket."
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Live Preview"
+msgstr "Live forhåndsvisning"
+
+msgid "Loading..."
+msgstr "Laster..."
+
+msgid "PNG Image URL"
+msgstr "PNG bilde-URL"
+
+msgid "Paste SVG code"
+msgstr "Lim inn SVG kode"
+
+msgid "Please enter a valid URL."
+msgstr "Vennligst skriv inn gyldig URL."
+
+msgid "Position"
+msgstr "Posisjon"
+
+msgid "Reset to Default"
+msgstr "Tilbakestill til standard"
+
+msgid "Right"
+msgstr "Høyre"
+
+msgid "SVG Code"
+msgstr "SVG kode"
+
+msgid "Save CSS"
+msgstr "Lagre CSS"
+
+msgid "Save JavaScript"
+msgstr "Lagre JavaScript"
+
+msgid "Save Settings"
+msgstr "Säädahte gávnnit"
+
+msgid "Settings saved successfully."
+msgstr "Gávnnit gávnnåhii sáhká."
+
+msgid "Style Editor"
+msgstr "Stiiláeditor"
+
+msgid "WARNING"
+msgstr "MÁHCCÁ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Gáhccu! Jien fáldat widget biejna ja dásáruáhkot gávnnit dán panel."
+
+msgid "Widget Settings"
+msgstr "Widget-gávnnit"
+
+msgid "Widget Status"
+msgstr "Widget-status"
+
+msgid "Widget active"
+msgstr "Widget aktiivu"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Sámi JavaScript-kodåhko ahte vuordåhko widget. Sáhpa dábálaš ožet gávnnid."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Dásáruáhkoddáhát Buy Me a Coffee brukernamdu"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Dásáruáhkot gávnná guovllat widget-gáhtá. Soa duot CSS, ii dásáruáhkid "
+"gávnnit gávnnát."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Lánnárkavuohta"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Spiritualiskár dárjedahkár ja mystisk"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Personality Traits: Curious, introspective, open-minded, ja trekt mot "
+"esoterisk kunnskap. De kan ha stark interest i å oppdage skjulte betydningar"
+" eller mønstre i livet. Yrker: Åndelige trenere, tarotlesere, astrologer, "
+"eller individer involvert i New Age-praksis. Ideologisk Spektrum: "
+"Sannsynligvis nukt mot åndelig eller metafysisk tro. De kan se verktøyene "
+"som en måte å koble til dypere sannheter eller universelle energier."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologis ja Gematria-entusiaster"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Personality Traits: Analytical, detail-oriented, ja fascinated av relationen"
+" mellom tal og språk. De kan nyte å dekode symbolisk mening. Yrker: "
+"Freelance numerologis, skrivare på esoterisk tema, eller hobbyist som "
+"utforsker numerologi. Ideologisk Spektrum: May range fra de som ser "
+"numerologi som en morsom intellektuell øvelse til de som tror på dens dype "
+"åndelige betydning."
+
+msgid "Historians and Linguists"
+msgstr "Historiker og lingvister"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Personality Traits: Scholarly, methodical, ja interesserte i historisk eller"
+" kulturelt kontekst av numeriske system som Abjad. Yrker: Akademiker, "
+"forskere, eller studenter som studerer Midtøsten språk, historie, eller "
+"religiøse tekster. Ideologisk Spektrum: Sannsynligvis tilnærmer seg "
+"verktøyene fra en sekulær, akademisk perspektiv, med fokus på deres "
+"historiske eller lingvistiske betydning."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religiose eller trobaserte individer"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Personality Traits: Devout, reflective, ja søker dypere forbindelser til "
+"troen sin. De kan bruke verktøyene til å utforske religiøse tekster eller "
+"guddommelige meldinger. Yrker: Religiøse lærde, imamer, prester, eller "
+"vanlige mennesker med sterk interesse i troens mystiske tradisjoner. "
+"Ideologisk Spektrum: Sannsynligvis har en tradisjonell eller konservativ "
+"verdensoppfatning, bruker verktøyene til å styrke deres åndelige tro."
+
+msgid "Writers and Artists"
+msgstr "Skribere og kunstnere"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Personality Traits: Creative, imaginative, ja trekt mot symbolisk eller "
+"abstrakt konsept. De kan bruke verktøyene for inspirasjon eller for å legge "
+"lag av mening til arbeidet sitt. Yrker: Forfattere, poeter, visuelle "
+"kunstnere, eller musikere. Ideologisk Spektrum: Kan variere fra sekulære "
+"kreatører til de med åndelig eller mystisk orientering."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puslespill og gåteløsere entusiast"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Personality Traits: Playful, intellektuell nysgjerrig, ja nyter å løse "
+"komplekse problemer eller dekode mønstre. Yrker: Hobbyist, "
+"puslespilldesignere, eller lærere. Ideologisk Spektrum: Sannsynligvis "
+"tilnærmer seg verktøyene som form av underholdning eller mental øvelse, med "
+"lite ideologisk tilknytning."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Konspirasjonsteoretikere og alternative tenkere"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Personality Traits: Skeptisk av mainstream fortellinger, trekt mot å oppdage"
+" skjulte sannheter eller mønstre i systemer. Yrker: Uavhengige forskere, "
+"bloggere, eller aktivister. Ideologisk Spektrum: May ha mer radikal eller "
+"uvanlig verdensoppfatning, bruker verktøyene til å støtte alternative "
+"teorier eller fortellinger."
+
+msgid "☕ Support the Project"
+msgstr "☕ Støtte prosjektet"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "If you like my project, you can buy me a coffee!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Thank you! 🙏"

@@ -1,0 +1,810 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Ossetian <os_GE>\n"
+"Language: os-GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Абджад"
+
+msgid "Abjad Settings"
+msgstr "Абджад-цхал"
+
+msgid "Abjad Value"
+msgstr "Абджад-нæт"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Абджад Виджет Дашбоард"
+
+msgid "Abjad calculation results"
+msgstr "Абджад арифметикæнæ хæдæр"
+
+msgid "Abjad calculations hidden"
+msgstr "Абджад арифметикæнæ тхъæпæ"
+
+msgid "Abjad not calculated"
+msgstr "Абджад хъæстæ"
+
+msgid "Abjad order"
+msgstr "Абджад хъар"
+
+msgid "Add elements"
+msgstr "Элементæ дæхæ"
+
+msgid "Ahmad al Buni"
+msgstr "Ахмад ал Буни"
+
+msgid "Air"
+msgstr "Хьæдæр"
+
+msgid "All"
+msgstr "Хъæдæ"
+
+msgid "Arabic"
+msgstr "Араб"
+
+msgid "Arabic letters"
+msgstr "Араб æрæдæн"
+
+msgid "Arabic numbers"
+msgstr "Араб номæра"
+
+msgid "As data for operation"
+msgstr "Операцыонæ хъæнæ хæджæнæ хæрæнæ"
+
+msgid "Bast loop results"
+msgstr "Баст луп хæдæр"
+
+msgid "Bast not calculated"
+msgstr "Баст хъæстæ"
+
+msgid "Bast repetition count"
+msgstr "Баст рипетиæнæ бæдрæн"
+
+msgid "Bast results hidden"
+msgstr "Баст хæдæр тхъæпæ"
+
+msgid "Bastet"
+msgstr "Бастет"
+
+msgid "Bastet order"
+msgstr "Бастет хъар"
+
+msgid "Bastet shadda"
+msgstr "Бастет шадда"
+
+msgid "Bastet table"
+msgstr "Бастет таблæ"
+
+msgid "Big"
+msgstr "Больш"
+
+msgid "Bigger"
+msgstr "Пæсæн"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Багæтæ кофæ"
+
+msgid "Calculate"
+msgstr "Хæджæ"
+
+msgid "Calculate Abjad"
+msgstr "Хæджæ Абджад"
+
+msgid "Calculate Bastet"
+msgstr "Бастет исчислæ"
+
+msgid "Calculate Huddam"
+msgstr "Худдам исчислæ"
+
+msgid "Calculation details"
+msgstr "Расчётæнæ детæ"
+
+msgid "Choose Keyboard Layout"
+msgstr "Клавиатурæнæ планæ тӕрæ"
+
+msgid "Clear text box"
+msgstr "Текст кӕпæйтæ"
+
+msgid "Click row for details"
+msgstr "Деталæнæ тӕрæ уӕхырæтæ"
+
+msgid "Close Keyboard"
+msgstr "Клавиатурæ кӕпæйтæ"
+
+msgid "Closed"
+msgstr "Кӕпæйтæ"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Запятая естæ стандартæ сепаратор, тӕнæ кӕпæйтæ!"
+
+msgid "Dashboard"
+msgstr "Панель"
+
+msgid "Data entry separators:"
+msgstr "Данные въёдæ сепараторы:"
+
+msgid "Data type profile"
+msgstr "Данные типæ профилæ"
+
+msgid "Dead keys"
+msgstr "Мёртæ клавиши"
+
+msgid "Decrease keyboard size"
+msgstr "Клавиатурæнæ кӕмæ размерæ"
+
+msgid "Don't calculate"
+msgstr "Не исчислæ"
+
+msgid "Duty entity name results"
+msgstr "Исемæ объектæ службæнæ результатæ"
+
+msgid "Duty entity type"
+msgstr "Тип объектæ службæ"
+
+msgid "Earth"
+msgstr "Зæм"
+
+msgid "Element classification"
+msgstr "Элементæ классификациæ"
+
+msgid "Element classification method"
+msgstr "Элементæ классификациæ методæ"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Текст æнæ кӕлæ... Арабæ, Ивритæ, Турецæ буквыæ, цæуæ"
+
+msgid "Entered data"
+msgstr "Введæны данные"
+
+msgid "Entry"
+msgstr "Ввод"
+
+msgid "Entry letter count"
+msgstr "Вводæнæ буквыæ санæ"
+
+msgid "Evil"
+msgstr "Зло"
+
+msgid "Fire"
+msgstr "Гӕр"
+
+msgid "For entered data"
+msgstr "Введæны данæдæ тӕнæ"
+
+msgid "Frequency in Quran"
+msgstr "Куранæ частотæ"
+
+msgid "Gematria"
+msgstr "Гематрия"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hebrew alphabet elements"
+msgstr "Иврит алфавитэ элементс"
+
+msgid "Hebrew letters"
+msgstr "Иврит буквы"
+
+msgid "High"
+msgstr "Гæу"
+
+msgid "Hija order"
+msgstr "Hija порядок"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam имен скрыты"
+
+msgid "Huddam not calculated"
+msgstr "Huddam не расчитавæ"
+
+msgid "Iklil's order"
+msgstr "Iklil порядок"
+
+msgid "Increase keyboard size"
+msgstr "Клавиатурæ размерæ увеличавæ"
+
+msgid "Indian numbers"
+msgstr "Индийæ числæ"
+
+msgid "Interface language"
+msgstr "Интерфейс язык"
+
+msgid "Let character quantity decide"
+msgstr "Символæн количествæ решавæ"
+
+msgid "Letter count"
+msgstr "Буквæн счёт"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Проектæнæн гæр? Купай мне кафе!"
+
+msgid "Low"
+msgstr "Низко"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija порядок"
+
+msgid "Minimum"
+msgstr "Минимум"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Числæ чтение язык"
+
+msgid "Numerical values"
+msgstr "Числовæ значение"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Possible phrases"
+msgstr "Возможные фразы"
+
+msgid "Program settings"
+msgstr "Настройки программы"
+
+msgid "Pronunciation"
+msgstr "Произношен"
+
+msgid "Regular expression"
+msgstr "Регулярное выражение"
+
+msgid "Regularly preferred classification"
+msgstr "Регулярно предпочитæ классификация"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Separators"
+msgstr "разделителæ"
+
+msgid "Settings"
+msgstr "настройкæ"
+
+msgid "Shamsee abjad order"
+msgstr "Шамси абджад æрæстæ"
+
+msgid "Show numpad"
+msgstr "Нумпад æмæцæ"
+
+msgid "Show virtual keyboard"
+msgstr "Виртуал клавиатура æмæцæ"
+
+msgid "Small"
+msgstr "малæ"
+
+msgid "Small + letter count"
+msgstr "малæ + гæзæнæсæ"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "пæцæ"
+
+msgid "Taken (letter)"
+msgstr "гæзæнæ (хъæтæ)"
+
+msgid "Taken (letter; abjad)"
+msgstr "гæзæнæ (хъæтæ; абджад)"
+
+msgid "Taken Letters"
+msgstr "гæзæнæ хъæтæ"
+
+msgid "Text or number cell"
+msgstr "текст æмæ санæ кæлæ"
+
+msgid "Thank you for your support!"
+msgstr "Благодарим за вашу поддержку!"
+
+msgid "Total"
+msgstr "гæзæнæ"
+
+msgid "Turkish"
+msgstr "Туркæ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Туркæ алфабæси абджад"
+
+msgid "Turkish alphabet elements"
+msgstr "Туркæ алфабæси элемэнтæ"
+
+msgid "Turkish letters"
+msgstr "Туркæ хъæтæ"
+
+msgid "Undefined characters"
+msgstr "тæйæлæлæнæ кæрæктэрæ"
+
+msgid "Value"
+msgstr "гæнæ"
+
+msgid "Value & Detail"
+msgstr "гæнæ & дэтай"
+
+msgid "Version"
+msgstr "версия"
+
+msgid "Water"
+msgstr "æфæ"
+
+msgid "When data is entered"
+msgstr "сæгæтæ хъæтæ дæгæрæтæ"
+
+msgid "When reading large digits"
+msgstr "гæнæ дæтæтæ"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "абджад гæлхæуæр æмæ цæмæрæ кæтæ"
+
+msgid "abjad() functions settings"
+msgstr "абджад() функцæнæ тохъстæнæ"
+
+msgid "add to initial value"
+msgstr "шæрæ цæмæрæ æпæ"
+
+msgid "and"
+msgstr "æ"
+
+msgid "auto calculate immediately"
+msgstr "авто гæлхæуæр нæрæнæ"
+
+msgid "bast"
+msgstr "баст"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "бастет() æмæ нуткет() функцæнæ тохъстæнæ"
+
+msgid "count once"
+msgstr "æнæ кæтæ"
+
+msgid "count twice"
+msgstr "æнæ кæтæ кæтæ"
+
+msgid "display with Arabic numbers"
+msgstr "арабчислам дæбп"
+
+msgid "display with Indian numbers"
+msgstr "индæчислам дæбп"
+
+msgid "do not add to initial value"
+msgstr "шæрæ цæмæрææ гæлхæуæр нæ"
+
+msgid "do not force to other functions"
+msgstr "шæрæ форсæ цæмæрæ"
+
+msgid "do not purify"
+msgstr "шæрæ чистæнæ"
+
+msgid "force to other functions"
+msgstr "форсæ цæмæрæ"
+
+msgid "group multiplier letters"
+msgstr "груп кæмкæдæнæ цæмæрæ"
+
+msgid "hide"
+msgstr "кæрæнæ"
+
+msgid "hide abjad values"
+msgstr "кæрæнæ абджадæ цæмæрæ"
+
+msgid "hide bast results"
+msgstr "баст цæдæр гæвæдæд"
+
+msgid "hide huddam names"
+msgstr "худдам нэрс гæвæдæд"
+
+msgid "huddam() function settings"
+msgstr "huddam() функциæнæ цæтхæн"
+
+msgid "no bast applied."
+msgstr "бастæ фæрмæдæдæ"
+
+msgid "no data entered"
+msgstr "зæнæтæ бæстæ фæрмæдæдæ"
+
+msgid "other suffix"
+msgstr "хæндæ кæлæт"
+
+msgid "purify data"
+msgstr "зæтæрдæн бæстæ"
+
+msgid "repeat multiplier for each digit"
+msgstr "сæмæ цæрдæн цæрхæн"
+
+msgid "show"
+msgstr "æдæ"
+
+msgid "show abjad values"
+msgstr "æдæ абжад вæлъдæ"
+
+msgid "show bast results"
+msgstr "æдæ баст цæдæр"
+
+msgid "show huddam names"
+msgstr "æдæ худдам нэрс"
+
+msgid "suffix"
+msgstr "кæлæт"
+
+msgid "times bast applied."
+msgstr "бастæ фæрмæдæдæ цæрхæн"
+
+msgid "use calculated abjad results"
+msgstr "фæрмæдæдæ абжад цæдæр"
+
+msgid "use calculated abjad total"
+msgstr "фæрмæдæдæ абжад гæдæр"
+
+msgid "use calculated bast results"
+msgstr "фæрмæдæдæ баст цæдæр"
+
+msgid "use entered data directly"
+msgstr "фæрмæдæдæ зæнæтæ бæстæ дæра"
+
+msgid "use entered data total"
+msgstr "фæрмæдæдæ зæнæтæ бæстæ гæдæр"
+
+msgid "use in all bast repetitions"
+msgstr "сæмæ баст фæрмæдæдæ"
+
+msgid "use only at beginning if possible"
+msgstr "хæндæ фæрмæдæдæ ьæр фæрмæдæдæ"
+
+msgid "wait for settings and data entry"
+msgstr "цæтхæн æдæтæ фæрмæдæдæ"
+
+msgid "Abjad Table"
+msgstr "Абжад табл"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Детæйлс"
+
+msgid "Element Classification"
+msgstr "элемент кæлæт"
+
+msgid "Abjad Order"
+msgstr "Абжад ордер"
+
+msgid "Abjad Widget"
+msgstr "Абжад виджэт"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "æддæр кастом CSS цæтхæн виджэтæ кæлæтæ"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"æддæр кастом JavaScript цæтхæн виджэтæ фæрмæдæдæ. Хатæрдæ кода виджэтæ "
+"дæрæцæ."
+
+msgid "An error occurred while loading content."
+msgstr "Хæстæ кæвæ загружаæ материалæ."
+
+msgid "Button"
+msgstr "Бутон"
+
+msgid "Button Color"
+msgstr "Бутонæ фæнæ"
+
+msgid "Button Emoji"
+msgstr "Бутон æмодзи"
+
+msgid "Button Message"
+msgstr "Бутонæ сæгæ"
+
+msgid "Button Settings"
+msgstr "Бутонæ настройкæ"
+
+msgid "Button Type"
+msgstr "Бутонæ тип"
+
+msgid "CSS saved successfully."
+msgstr "CSS гæрæ цæрæйæ"
+
+msgid "Check this box to activate the widget."
+msgstr "Тæуæмæ боксæ кæвæ активатæ гъæнæ"
+
+msgid "Code Editor"
+msgstr "Код‑редактор"
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+msgid "Description"
+msgstr "Бæлæт"
+
+msgid "Emoji"
+msgstr "Эмодзи"
+
+msgid "Enter image URL"
+msgstr "Эзображене URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Мисал: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Генерал"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript гæрæ цæрæйæ"
+
+msgid "Left"
+msgstr "Левæ"
+
+msgid "Live Preview"
+msgstr "Живий предпросмотр"
+
+msgid "Loading..."
+msgstr "Загружаæ…"
+
+msgid "PNG Image URL"
+msgstr "PNG зураг URL"
+
+msgid "Paste SVG code"
+msgstr "SVG кодæ вставитæ"
+
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста, введите валидный URL"
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "Reset to Default"
+msgstr "Сбросить к по умолчанию"
+
+msgid "Right"
+msgstr "Право"
+
+msgid "SVG Code"
+msgstr "SVG код"
+
+msgid "Save CSS"
+msgstr "Сохранить CSS"
+
+msgid "Save JavaScript"
+msgstr "Сохранить JavaScript"
+
+msgid "Save Settings"
+msgstr "Рæстæдæ фæрæй"
+
+msgid "Settings saved successfully."
+msgstr "Рæстæдæ фæрæй цæра фæрæй"
+
+msgid "Style Editor"
+msgstr "Стиль рæстæдæ"
+
+msgid "WARNING"
+msgstr "Хӕрæтæ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Рæппæ! Цӕ мызæдæ widget новæ фæрæй и анонсæнæ фæра панэльæ."
+
+msgid "Widget Settings"
+msgstr "Widget рæстæдæ"
+
+msgid "Widget Status"
+msgstr "Widget статус"
+
+msgid "Widget active"
+msgstr "Widget актив"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "Лӕу JavaScript кодæ widget фæрæй къæстæй. Рæстæдæ фæрæй цæра рæстæдæ."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Тæрæ Buy Me a Coffee нæмæ"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Цӕ дæфæнæ фæрæй widget харазæ. Цӕ CSS мæзæ фæрæй, цæрæхæ фæрæй цæра рæстæдæ."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Локаль панэль"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Духовныæ ищæкæ и мистицæ"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Харæхæ хъæстæ: Куратæ, интроспектив, отæцæджæ, фæнæ кæнæ зæцæмæ. Цӕ цæфæцæ "
+"хъæрæтæ цæрæ хъæрæфæ фæрæй цæрæ фæрæй. Профессии: Духовныæ тренерæ, таро "
+"лӕкæ, астрологæ, фæрдæнæ Невæ Ажæ практикæ. Идæология: Кæцæфæ хъæрæтæ хъæнæ "
+"духовнæ, фæрæй метафизикæ хъæнæ. Цӕ цæрæ фæрæй хъæнæ фæрæй цæрæ фæрæй æмæ "
+"кæцæфææ фæрæй."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Нумерологæ и Гематриæ энтусиастæ"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Харæхæ хъæстæ: Аналитичæ, деталæ оріентатæ, фæнæ кæнæ нумерæ и лӕгæ. Цӕ "
+"фæрæй цæрæ фæрæй символическææ мацæ. Профессии: Фриланс нумерологæ, писателæ"
+" на эзотеричæ темæ, фæрдæнæ нумерологæ. Идæология: Кæцæфæ нумерологæ фæрæй "
+"фæрæй фæрæй хъæрæтæ, цæрæ фæрæй фæрæй духовнæ значæтæ."
+
+msgid "Historians and Linguists"
+msgstr "Историæ и Лингвистæ"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Харæхæ хъæстæ: Скабæрæ, методичæ, фæнæ кæнæ историчæ и культурныæ контекстæ "
+"числовых системæ, кæнæ Abjad. Профессии: Академичæ, исследователæ, студенти "
+"фæрæй фæрæй Среднеазиатские языки, история, фæрæй религий. Идæология: Кæцæфæ"
+" хъæнæ секуларныæ академичæ перспективæ, фокусирæ фæрæй хъæрæтæ историчæ и "
+"лингвистичæ значæтæ."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Религиозныæ или Фаинс-баис индивидæ"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Харæхæ хъæстæ: Дивит, рефлектив, фæнæ кæнæ духовнæ соединæниæ. Цӕ цæрæ фæрæй"
+" фæрæй религиозныæ тексты и божествæ послæнæ. Профессии: Религиозныæ ученые,"
+" имамæ, священныæ, фæрдæнæ с сильным интересом к мистических традицийæ. "
+"Идæология: Кæцæфæ традиционнæ и консервативныæ worldview, фæрæй фæрæй "
+"духовнæ вераæ."
+
+msgid "Writers and Artists"
+msgstr "Писатели и Художники"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Харæхæ хъæстæ: Творческий, креативный, фæнæ кæнæ символическæ и абстрактныæ "
+"концепты. Цӕ цæрæ фæрæй фæрæй вдохновение и кæцæфæ слои значæтæ в их работе."
+" Профессии: Авторы, поэты, визуалныæ художныæ, музыканты. Идæология: Кæцæфæ "
+"секуларныæ творцы, фæрæй духовныæ и мистические."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Паззлæ и Загадæ энтусиастæ"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Харæхæ хъæстæ: Игрæ, интеллектуалныæ любопытныæ, фæнæ кæнæ решать сложныæ "
+"проблемы и декодировать паттерны. Профессии: Хоббистæ, дизайнеры паззлæ, "
+"педагоги. Идæология: Кæцæфæ къæстæ инструментæ как развлечение и умственная "
+"активность, фæрæй с малым идеологическим привязанным."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Конспиратизм теоретицæ и Альтернативныæ мыслители"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Харæхæ хъæстæ: Скептикуалныæ кæнæ мейнстрим, фæнæ кæнæ обнаружить скрытыæ "
+"истины и паттерны в системах. Профессии: Независимыæ исследователæ, блоги, "
+"активистæ. Идæология: Кæцæфæ радикальныæ и неконвенциональные worldview, "
+"фæрæй фæрæй поддерживать альтернативные теории и нарративы."
+
+msgid "☕ Support the Project"
+msgstr "☕ Падтæй проект"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Цӕ цæрæ мо проект, цӕ цæрæ купæм кофе!"
+
+msgid "Buy Me A Coffee"
+msgstr "Купæм кофе"
+
+msgid "Thank you! 🙏"
+msgstr "Бæгæл æн! 🙏"

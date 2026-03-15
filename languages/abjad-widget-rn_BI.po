@@ -1,0 +1,827 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Rundi <rn_BI>\n"
+"Language: rn-BI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Imiterere rya Abjad"
+
+msgid "Abjad Value"
+msgstr "Agaciro ka Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Ibisubizo by'ububara bwa Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Ububara bwa Abjad bwihishe"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ntibubara"
+
+msgid "Abjad order"
+msgstr "Umurongo wa Abjad"
+
+msgid "Add elements"
+msgstr "Ongeraho ibice"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Ikirere"
+
+msgid "All"
+msgstr "Byose"
+
+msgid "Arabic"
+msgstr "Icyarabu"
+
+msgid "Arabic letters"
+msgstr "Inyuguti z'Icyarabu"
+
+msgid "Arabic numbers"
+msgstr "Inombero z'Icyarabu"
+
+msgid "As data for operation"
+msgstr "Nk'amakuru yo gukora"
+
+msgid "Bast loop results"
+msgstr "Ibisubizo bya Bast loop"
+
+msgid "Bast not calculated"
+msgstr "Bast ntibubara"
+
+msgid "Bast repetition count"
+msgstr "Umubare w'ibisubirwamo bya Bast"
+
+msgid "Bast results hidden"
+msgstr "Ibisubizo bya Bast byihishe"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Umurongo wa Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Itebuli ya Bastet"
+
+msgid "Big"
+msgstr "Kinini"
+
+msgid "Bigger"
+msgstr "Kinini kurenza"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Tanga ikawa"
+
+msgid "Calculate"
+msgstr "Bara"
+
+msgid "Calculate Abjad"
+msgstr "Bara Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kubara Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kubara Huddam"
+
+msgid "Calculation details"
+msgstr "Ibisobanuro bya kubara"
+
+msgid "Choose Keyboard Layout"
+msgstr "Hitamo Imiterere ya Keyboard"
+
+msgid "Clear text box"
+msgstr "Siba agace k'inyandiko"
+
+msgid "Click row for details"
+msgstr "Kanda umurongo kugira ngo ubone ibisobanuro"
+
+msgid "Close Keyboard"
+msgstr "Funga Keyboard"
+
+msgid "Closed"
+msgstr "Funanywe"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma ni separator isanzwe kandi igomba kuguma ihagaritswe!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Separators yo kwinjiza data:"
+
+msgid "Data type profile"
+msgstr "Umwirondoro w'ubwoko bw'ibintu"
+
+msgid "Dead keys"
+msgstr "Dead keys"
+
+msgid "Decrease keyboard size"
+msgstr "Zunguza ingano ya keyboard"
+
+msgid "Don't calculate"
+msgstr "Ntukubare"
+
+msgid "Duty entity name results"
+msgstr "Ibisubizo by'ibikubiye mu mazina y'ikintu gikoreshwa"
+
+msgid "Duty entity type"
+msgstr "Uburyo bw'ikintu gikoreshwa"
+
+msgid "Earth"
+msgstr "Isi"
+
+msgid "Element classification"
+msgstr "Kugabanya ibimenyetso"
+
+msgid "Element classification method"
+msgstr "Uburyo bwo kugabanya ibimenyetso"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Andika inyandiko... Imibare ya Arabic, Hebrew, Turkish"
+
+msgid "Entered data"
+msgstr "Data yinjijwe"
+
+msgid "Entry"
+msgstr "Injiza"
+
+msgid "Entry letter count"
+msgstr "Umubare w'inyuguti mu nyandiko"
+
+msgid "Evil"
+msgstr "Mabi"
+
+msgid "Fire"
+msgstr "Uruziga"
+
+msgid "For entered data"
+msgstr "Ku bijyanye n'ibyo wanditse"
+
+msgid "Frequency in Quran"
+msgstr "Ishusho mu Kuran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Ibintu by'inyuguti z'Ibarabu"
+
+msgid "Hebrew letters"
+msgstr "Inyuguti z'Ibarabu"
+
+msgid "High"
+msgstr "Kuri hejuru"
+
+msgid "Hija order"
+msgstr "Imyanya ya Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Amagambo ya Huddam yihishwe"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ntiyagenjwe"
+
+msgid "Iklil's order"
+msgstr "Imyanya ya Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kongera ingano y'ipad"
+
+msgid "Indian numbers"
+msgstr "Imibare y'India"
+
+msgid "Interface language"
+msgstr "Indimi y'ihuriro"
+
+msgid "Let character quantity decide"
+msgstr "Emera umubare w'inyuguti gufata icyemezo"
+
+msgid "Letter count"
+msgstr "Umubare w'inyuguti"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Wakwishimiye imishinga yanjye? Kugura ikawa!"
+
+msgid "Low"
+msgstr "Kuri hasi"
+
+msgid "Maghribian abjad"
+msgstr "Abjad ya Maghrib"
+
+msgid "Maghribian hija order"
+msgstr "Imyanya ya Hija ya Maghrib"
+
+msgid "Minimum"
+msgstr "Ikigereranyo gito"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Indimi yo gusoma imibare"
+
+msgid "Numerical values"
+msgstr "Agaciro k'imibare"
+
+msgid "Open"
+msgstr "Fungura"
+
+msgid "Order"
+msgstr "Iteka"
+
+msgid "Possible phrases"
+msgstr "Imvugo zishoboka"
+
+msgid "Program settings"
+msgstr "Imiterere y'iprogramu"
+
+msgid "Pronunciation"
+msgstr "Itondere"
+
+msgid "Regular expression"
+msgstr "Ishusho y'inyuguti"
+
+msgid "Regularly preferred classification"
+msgstr "Iteganyirize ryikunze gukoreshwa"
+
+msgid "Reset"
+msgstr "Siba"
+
+msgid "Separators"
+msgstr "Impuzankuba"
+
+msgid "Settings"
+msgstr "Imiterere"
+
+msgid "Shamsee abjad order"
+msgstr "Ihererekanyabubasha rya Shamsee abjad"
+
+msgid "Show numpad"
+msgstr "Garagaza numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Garagaza urufunguzo rw'ikoranabuhanga"
+
+msgid "Small"
+msgstr "Muto"
+
+msgid "Small + letter count"
+msgstr "Muto + umubare w'inyuguti"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Gushyigikira"
+
+msgid "Taken (letter)"
+msgstr "Fashwe (inyuguti)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Fashwe (inyuguti; abjad)"
+
+msgid "Taken Letters"
+msgstr "Inyuguti Fashwe"
+
+msgid "Text or number cell"
+msgstr "Cellule y'inyandiko cyangwa umubare"
+
+msgid "Thank you for your support!"
+msgstr "Murakoze ku bufasha bwawe!"
+
+msgid "Total"
+msgstr "Igiteranyo"
+
+msgid "Turkish"
+msgstr "Turukiya"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alfabeti ya Turukiya Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Ibice by'alfabeti ya Turukiya"
+
+msgid "Turkish letters"
+msgstr "Inyuguti za Turukiya"
+
+msgid "Undefined characters"
+msgstr "Ibimenyetso bitabayeho"
+
+msgid "Value"
+msgstr "Agaciro"
+
+msgid "Value & Detail"
+msgstr "Agaciro & Ibisobanuro"
+
+msgid "Version"
+msgstr "Ishusho"
+
+msgid "Water"
+msgstr "Amazi"
+
+msgid "When data is entered"
+msgstr "Iyo amakuru yinjijwe"
+
+msgid "When reading large digits"
+msgstr "Mu gusoma imibare ikomeye"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad yabonetse hamwe umubare w'inyuguti wongerwaho"
+
+msgid "abjad() functions settings"
+msgstr "amabwiriza ya abjad()"
+
+msgid "add to initial value"
+msgstr "ongeraho ku gaciro gatangiriro"
+
+msgid "and"
+msgstr "na"
+
+msgid "auto calculate immediately"
+msgstr "kora vuba aha"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "amabwiriza ya bastet() na nutket()"
+
+msgid "count once"
+msgstr "sezeraho rimwe"
+
+msgid "count twice"
+msgstr "sezeraho kabiri"
+
+msgid "display with Arabic numbers"
+msgstr "erekana hamwe n'imibare ya Arab"
+
+msgid "display with Indian numbers"
+msgstr "erekana hamwe n'imibare ya Hindia"
+
+msgid "do not add to initial value"
+msgstr "ntongerere ku gaciro gatangiriro"
+
+msgid "do not force to other functions"
+msgstr "ntukoreshe ku mirimo indi"
+
+msgid "do not purify"
+msgstr "ntunganye"
+
+msgid "force to other functions"
+msgstr "koresha ku mirimo indi"
+
+msgid "group multiplier letters"
+msgstr "inyuguti za multiplikatore mu itsinda"
+
+msgid "hide"
+msgstr "bimba"
+
+msgid "hide abjad values"
+msgstr "bimba agaciro ka abjad"
+
+msgid "hide bast results"
+msgstr "fihisha ibisubizo bya bast"
+
+msgid "hide huddam names"
+msgstr "fihisha amazina ya huddam"
+
+msgid "huddam() function settings"
+msgstr "amagenzura y'inkingi ya huddam()"
+
+msgid "no bast applied."
+msgstr "nta bast yashyizweho."
+
+msgid "no data entered"
+msgstr "nta amakuru yinjijwe"
+
+msgid "other suffix"
+msgstr "indi suffixe"
+
+msgid "purify data"
+msgstr "sukura amakuru"
+
+msgid "repeat multiplier for each digit"
+msgstr "ongera umubare ku kantu kamwe"
+
+msgid "show"
+msgstr "erekana"
+
+msgid "show abjad values"
+msgstr "erekana agaciro ka abjad"
+
+msgid "show bast results"
+msgstr "erekana ibisubizo bya bast"
+
+msgid "show huddam names"
+msgstr "erekana amazina ya huddam"
+
+msgid "suffix"
+msgstr "suffixe"
+
+msgid "times bast applied."
+msgstr "byakoreshejwe inshuro za bast."
+
+msgid "use calculated abjad results"
+msgstr "koreshaho ibisubizo byabonetse ya abjad"
+
+msgid "use calculated abjad total"
+msgstr "koreshaho umubare wose wa abjad wabonetse"
+
+msgid "use calculated bast results"
+msgstr "koreshaho ibisubizo byabonetse bya bast"
+
+msgid "use entered data directly"
+msgstr "koreshaho amakuru yatanzwe neza"
+
+msgid "use entered data total"
+msgstr "koreshaho umubare wose w'amanota yatanzwe"
+
+msgid "use in all bast repetitions"
+msgstr "koreshaho mu byiciro byose bya bast"
+
+msgid "use only at beginning if possible"
+msgstr "koreshaho gusa ku ntangiriro igihe bishoboka"
+
+msgid "wait for settings and data entry"
+msgstr "tegereza amagenzura n'iyinjiza ry'amakuru"
+
+msgid "Abjad Table"
+msgstr "Ibarurishamibare rya Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Ibisobanuro"
+
+msgid "Element Classification"
+msgstr "Kugabanya ibintu"
+
+msgid "Abjad Order"
+msgstr "Inyandiko ya Abjad"
+
+msgid "Abjad Widget"
+msgstr "Igikoresho cya Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ongeraho CSS yihariye ngo uhindure ishusho y'igikoresho."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ongeraho JavaScript yihariye ngo uhindure imyitwarire y'igikoresho. Icode "
+"mabi ishobora guteza ikibazo ku gikoresho!"
+
+msgid "An error occurred while loading content."
+msgstr "Habayeho ikosa mu gihe cyo gukuramo amakuru."
+
+msgid "Button"
+msgstr "Ikubye"
+
+msgid "Button Color"
+msgstr "Ibara ry'ikubye"
+
+msgid "Button Emoji"
+msgstr "Ikubye Emoji"
+
+msgid "Button Message"
+msgstr "Ibutumwa bw'ikubye"
+
+msgid "Button Settings"
+msgstr "Imiterere y'ikubye"
+
+msgid "Button Type"
+msgstr "Ubwoko bw'ikubye"
+
+msgid "CSS saved successfully."
+msgstr "CSS yabitswe neza."
+
+msgid "Check this box to activate the widget."
+msgstr "Siga uyu mushandura kugira ngo ukore widget."
+
+msgid "Code Editor"
+msgstr "Umwanditsi w'ibice"
+
+msgid "Custom CSS"
+msgstr "CSS yihariye"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript yihariye"
+
+msgid "Description"
+msgstr "Ibisobanuro"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Injira URL y'ishusho"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Urugero: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Rusange"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript yabitswe neza."
+
+msgid "Left"
+msgstr "Ibumoso"
+
+msgid "Live Preview"
+msgstr "Ishusho ihoraho"
+
+msgid "Loading..."
+msgstr "Gukoresha..."
+
+msgid "PNG Image URL"
+msgstr "URL y'ishusho PNG"
+
+msgid "Paste SVG code"
+msgstr "Ongeraho kode ya SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Nyamuneka ingeraho URL nyakuri."
+
+msgid "Position"
+msgstr "Umwanya"
+
+msgid "Reset to Default"
+msgstr "Subira ku mwanya w'ibanze"
+
+msgid "Right"
+msgstr "Iburyo"
+
+msgid "SVG Code"
+msgstr "Kode ya SVG"
+
+msgid "Save CSS"
+msgstr "Bika CSS"
+
+msgid "Save JavaScript"
+msgstr "Bika JavaScript"
+
+msgid "Save Settings"
+msgstr "Bika Ibyo Ukora"
+
+msgid "Settings saved successfully."
+msgstr "Ibyo ukora byarabitswe neza."
+
+msgid "Style Editor"
+msgstr "Umuhinduzi w'Imiterere"
+
+msgid "WARNING"
+msgstr "IBIYANGOMBE"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Murakaza neza! Ushobora gukurikirana amakuru n'itangazo by'widget uhereye "
+"kuri iyi panel."
+
+msgid "Widget Settings"
+msgstr "Imiterere ya widget"
+
+msgid "Widget Status"
+msgstr "Amakuru ya widget"
+
+msgid "Widget active"
+msgstr "Widget ikora"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Icyo JavaScript kidakora gishobora gutuma widget ihungabana. Bika mbere yo "
+"gukora impinduka."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Izina ryawe ku Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Impinduka zawe zizagira ingaruka ku miterere ya widget. Niba utazi CSS, "
+"byaba byiza gukoresha amahitamo asanzwe."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashibodi y'Aho"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Abashaka Umwuka n'Abanyamumaya"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Impano z'umuntu: Baza, bazi mu mutwe, bafashe mu mutima, bifuza ubumenyi "
+"bw'ibanga. Bashobora kugira icyifuzo gikomeye cyo kumenya ibanga cyangwa "
+"imiterere mu buzima. Imirimo: Abajyanama b'Umwuka, abasoma tarot, "
+"abashakashatsi mu ngeso, cyangwa abantu b'abanyamurimo ya New Age. Igipimo "
+"cy'imitekerereze: Bashobora gucishaho ku myemerere y'Umwuka cyangwa "
+"y'ubumenyi bw'isi. Bashobora kubona ibikoresho nk'uburyo bwo kwihuza n'ukuri"
+" kwinshi cyangwa ingufu z'isi yose."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Abanyamubare n'Abakunzi ba Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Impano z'umuntu: Analitiki, wita ku bisobanuro, wiyumvamo imibanire "
+"y'imibare n'ururimi. Bashobora kwishimira gusobanura ibisobanuro "
+"by'ibimenyetso. Imirimo: Abanyamubare ku giti cyabo, abandika ku by'ibanga, "
+"cyangwa abakinnyi b'abashakashatsi ku mibare. Igipimo cy'imitekerereze: "
+"Bashobora kugira igice cy'ababona imibare nk'umukoro w'ubwenge cyangwa "
+"abiyemeza ko ifite umwihariko w'Umwuka."
+
+msgid "Historians and Linguists"
+msgstr "Abashakashatsi mu mateka n'Abahanga mu Rurimi"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Impano z'umuntu: Abanyeshuri, bamenyereye, n'ibitekerezo mu mateka cyangwa "
+"mu muco w'imibare nk'Abjad. Imirimo: Abanyamuryango, abashakashatsi, cyangwa"
+" abanyeshuri bakora ubushakashatsi ku ndimi za Oriente, amateka, cyangwa "
+"inyandiko z'Imana. Igipimo cy'imitekerereze: Bashobora kwiyegereza "
+"ibikoresho mu buryo bw'igikomeye, bita ku kamaro k'ubusanzwe cyangwa ku "
+"miterere y'inyandiko."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Abantu b'Umwuka cyangwa b'Ubushyuhe bw'Imana"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Impano z'umuntu: Bafite ukwizera, batekereza, no gushaka ubumwe bwisumbuye "
+"n'ukwemera kwabo. Bashobora gukoresha ibikoresho kugira ngo bamenye "
+"inyandiko z'Imana cyangwa ubutumwa bw'Imana. Imirimo: Abanyeshuri b'Imana, "
+"imiyoboro, abapfakazi, cyangwa abantu batari abamenyi bafite inyota ikomeye "
+"mu by'ubuhanga bw'Umwuka. Igipimo cy'imitekerereze: Bashobora kugira "
+"igitekerezo gisanzwe cyangwa gisanzwe, bakoresha ibikoresho kugira ngo "
+"bagirwe ubufasha mu kwemera kwabo."
+
+msgid "Writers and Artists"
+msgstr "Abandika n'Abanyabugeni"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Impano z'umuntu: Gukora, kwiyumvamo, no gushishikazwa n'ibitekerezo "
+"by'ibimenyetso cyangwa by'icyerekezo. Bashobora gukoresha ibikoresho mu "
+"kwiyemeza cyangwa kugira ubumenyi buhanitse ku mirimo yabo. Imirimo: "
+"Abanditsi, abahinga, abanyabugeni, cyangwa abahanzi. Igipimo "
+"cy'imitekerereze: Bashobora kuva ku bakora batandukanye kugeza ku banyamwuga"
+" b'Umwuka."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Abakunzi ba Puzlo n'Ikibazo"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Impano z'umuntu: Guhaguruka, kwiga, no kwishimira gukemura ibibazo bikomeye "
+"cyangwa gusobanura imiterere. Imirimo: Abakunzi b'ibintu, abashushanya "
+"puzlo, cyangwa abarimu. Igipimo cy'imitekerereze: Bashobora gufata "
+"ibikoresho nka uburori cyangwa imyitozo y'ubwonko, nta kimenyetso "
+"k'imitekerereze."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Abanyeshuri ba Gucengera n'Abanyabigana"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Impano z'umuntu: Bivugurura ku bitekerezo by'abandi, bakeneye gukusanya "
+"ukuri kw'ibanga cyangwa imiterere mu miryango. Imirimo: Abashakashatsi "
+"b'ubuzima, abahanga mu biganiro, cyangwa abapfakazi. Igipimo "
+"cy'imitekerereze: Bashobora kugira igitekerezo gishya cyangwa gifite "
+"igitekerezo gishya, bakoresha ibikoresho kugira ngo bashyigikire ingamba "
+"zitandukanye."
+
+msgid "☕ Support the Project"
+msgstr "☕ Shigikira Umushinga"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Niba ukunda umushinga wanjye, ushobora kungura ikawa!"
+
+msgid "Buy Me A Coffee"
+msgstr "Ngura Ikawa"
+
+msgid "Thank you! 🙏"
+msgstr "Murakoze! 🙏"

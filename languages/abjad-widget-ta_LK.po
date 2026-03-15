@@ -1,0 +1,829 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tamil (Sri Lanka) <ta_LK>\n"
+"Language: ta-LK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "அப்ஜாட் அமைப்புகள்"
+
+msgid "Abjad Value"
+msgstr "அப்ஜாட் மதிப்பு"
+
+msgid "Abjad Widget Dashboard"
+msgstr "அப்ஜாட் விட்ஜெட் டாஷ்போர்டு"
+
+msgid "Abjad calculation results"
+msgstr "அப்ஜாட் கணக்கீடு முடிவுகள்"
+
+msgid "Abjad calculations hidden"
+msgstr "அப்ஜாட் கணக்கீடுகள் மறைக்கப்பட்டது"
+
+msgid "Abjad not calculated"
+msgstr "அப்ஜாட் கணக்கிடப்படவில்லை"
+
+msgid "Abjad order"
+msgstr "அப்ஜாட் வரிசை"
+
+msgid "Add elements"
+msgstr "அணிகள் சேர்க்கவும்"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "காற்று"
+
+msgid "All"
+msgstr "அனைத்து"
+
+msgid "Arabic"
+msgstr "அரபு"
+
+msgid "Arabic letters"
+msgstr "அரபு எழுத்துக்கள்"
+
+msgid "Arabic numbers"
+msgstr "அரபு எண்கள்"
+
+msgid "As data for operation"
+msgstr "செயல்பாட்டுக்கான தரவாக"
+
+msgid "Bast loop results"
+msgstr "பாஸ்ட் லூப் முடிவுகள்"
+
+msgid "Bast not calculated"
+msgstr "பாஸ்ட் கணக்கிடப்படவில்லை"
+
+msgid "Bast repetition count"
+msgstr "பாஸ்ட் மீட்பு எண்ணிக்கை"
+
+msgid "Bast results hidden"
+msgstr "பாஸ்ட் முடிவுகள் மறைக்கப்பட்டது"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "பாஸ்டெட் வரிசை"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "பாஸ்டெட் அட்டவணை"
+
+msgid "Big"
+msgstr "பெரியது"
+
+msgid "Bigger"
+msgstr "மேலும் பெரியது"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "என்னுக்கு ஒரு காபி வாங்குங்கள்"
+
+msgid "Calculate"
+msgstr "கணக்கிடவும்"
+
+msgid "Calculate Abjad"
+msgstr "அப்ஜாட் கணக்கிடவும்"
+
+msgid "Calculate Bastet"
+msgstr "Bastet கணக்கிடு"
+
+msgid "Calculate Huddam"
+msgstr "Huddam கணக்கிடு"
+
+msgid "Calculation details"
+msgstr "கணக்கீட்டு விவரங்கள்"
+
+msgid "Choose Keyboard Layout"
+msgstr "விசைப்பலகை அமைப்பைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Clear text box"
+msgstr "உரை பெட்டியை அழிக்கவும்"
+
+msgid "Click row for details"
+msgstr "விவரங்களுக்கு வரியை கிளிக் செய்யவும்"
+
+msgid "Close Keyboard"
+msgstr "விசைப்பலகையை மூடவும்"
+
+msgid "Closed"
+msgstr "மூடப்பட்டது"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "கமா இயல்புநிலை பிரிப்பான் ஆகும் மற்றும் தேர்வாக இருக்க வேண்டும்!"
+
+msgid "Dashboard"
+msgstr "டாஷ்போர்ட்"
+
+msgid "Data entry separators:"
+msgstr "தரவு உள்ளீட்டு பிரிப்பான்கள்:"
+
+msgid "Data type profile"
+msgstr "தரவு வகை சுயவிவரம்"
+
+msgid "Dead keys"
+msgstr "மரண விசைகள்"
+
+msgid "Decrease keyboard size"
+msgstr "விசைப்பலகை அளவை குறைக்கவும்"
+
+msgid "Don't calculate"
+msgstr "கணக்கிடாதீர்கள்"
+
+msgid "Duty entity name results"
+msgstr "பணியிடு அலகு பெயர் முடிவுகள்"
+
+msgid "Duty entity type"
+msgstr "பணியிடு அலகு வகை"
+
+msgid "Earth"
+msgstr "பூமி"
+
+msgid "Element classification"
+msgstr "எலிமெண்ட் வகைப்பாடு"
+
+msgid "Element classification method"
+msgstr "எலிமெண்ட் வகைப்பாட்டு முறை"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "உரை உள்ளிடவும்... அரபு, ஹீப்ரூ, துருக்கிய எழுத்துக்கள், எண்கள்"
+
+msgid "Entered data"
+msgstr "உள்ளிடப்பட்ட தரவு"
+
+msgid "Entry"
+msgstr "உள்ளீடு"
+
+msgid "Entry letter count"
+msgstr "உள்ளீடு எழுத்து எண்ணிக்கை"
+
+msgid "Evil"
+msgstr "கெட்டது"
+
+msgid "Fire"
+msgstr "தீ"
+
+msgid "For entered data"
+msgstr "உள்ளிடப்பட்ட தரவுக்கான"
+
+msgid "Frequency in Quran"
+msgstr "குர்ஆனில் அதிர்வெண்"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "ஹீப்ரூ"
+
+msgid "Hebrew alphabet elements"
+msgstr "இப்ரூ எழுத்துமாலை கூறுகள்"
+
+msgid "Hebrew letters"
+msgstr "இப்ரூ எழுத்துக்கள்"
+
+msgid "High"
+msgstr "உயர்"
+
+msgid "Hija order"
+msgstr "Hija வரிசை"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam பெயர்கள் மறைக்கப்பட்டவை"
+
+msgid "Huddam not calculated"
+msgstr "Huddam கணக்கிடப்படவில்லை"
+
+msgid "Iklil's order"
+msgstr "Iklil'in வரிசை"
+
+msgid "Increase keyboard size"
+msgstr "விசைப்பலகை அளவை பெரிதாக்கு"
+
+msgid "Indian numbers"
+msgstr "இந்திய எண்கள்"
+
+msgid "Interface language"
+msgstr "இடைமுக மொழி"
+
+msgid "Let character quantity decide"
+msgstr "அட்சர எண்ணிக்கை முடிவெடுக்க அனுமதி"
+
+msgid "Letter count"
+msgstr "எழுத்து எண்ணிக்கை"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr ""
+"என் திட்டங்களைப் பிடித்திருக்கிறீர்களா? எனக்கு ஒரு காப்பி வாங்கி கொடுங்கள்!"
+
+msgid "Low"
+msgstr "குறைந்த"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija வரிசை"
+
+msgid "Minimum"
+msgstr "குறைந்தபட்சம்"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "எண் வாசிப்பு மொழி"
+
+msgid "Numerical values"
+msgstr "எண் மதிப்புகள்"
+
+msgid "Open"
+msgstr "திற"
+
+msgid "Order"
+msgstr "வரிசை"
+
+msgid "Possible phrases"
+msgstr "சாத்தியமான வெளிப்பாடுகள்"
+
+msgid "Program settings"
+msgstr "நிரல் அமைப்புகள்"
+
+msgid "Pronunciation"
+msgstr "உச்சரிப்பு"
+
+msgid "Regular expression"
+msgstr "வழக்கமான வெளிப்பாடு"
+
+msgid "Regularly preferred classification"
+msgstr "அடிக்கடி தேர்ந்தெடுக்கப்படும் வகைப்பாடு"
+
+msgid "Reset"
+msgstr "மீட்டமை"
+
+msgid "Separators"
+msgstr "பிரிப்புகள்"
+
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee அப்பட்ஜாட் வரிசை"
+
+msgid "Show numpad"
+msgstr "நம்பர் பேட்ஐ காட்டு"
+
+msgid "Show virtual keyboard"
+msgstr "மெய்நிகர் விசைப்பலகையை காட்டு"
+
+msgid "Small"
+msgstr "சிறியது"
+
+msgid "Small + letter count"
+msgstr "சிறியது + எழுத்து எண்ணிக்கை"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "ஆதரவு"
+
+msgid "Taken (letter)"
+msgstr "எடுக்கப்பட்ட (எழுத்து)"
+
+msgid "Taken (letter; abjad)"
+msgstr "எடுக்கப்பட்ட (எழுத்து; அப்பட்ஜாட்)"
+
+msgid "Taken Letters"
+msgstr "எடுக்கப்பட்ட எழுத்துக்கள்"
+
+msgid "Text or number cell"
+msgstr "உரை அல்லது எண் செல்"
+
+msgid "Thank you for your support!"
+msgstr "உங்கள் ஆதரவிற்கு நன்றி!"
+
+msgid "Total"
+msgstr "மொத்தம்"
+
+msgid "Turkish"
+msgstr "துருக்கி"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "துருக்கி அகரவரிசை அப்பட்ஜாட்"
+
+msgid "Turkish alphabet elements"
+msgstr "துருக்கி அகரவரிசை கூறுகள்"
+
+msgid "Turkish letters"
+msgstr "துருக்கி எழுத்துக்கள்"
+
+msgid "Undefined characters"
+msgstr "வரையறுக்கப்படாத எழுத்துக்கள்"
+
+msgid "Value"
+msgstr "மதிப்பு"
+
+msgid "Value & Detail"
+msgstr "மதிப்பு & விவரம்"
+
+msgid "Version"
+msgstr "பதிப்பு"
+
+msgid "Water"
+msgstr "நீர்"
+
+msgid "When data is entered"
+msgstr "தரவு உள்ளிடப்படும் போது"
+
+msgid "When reading large digits"
+msgstr "பெரிய இலக்கங்களைப் படிக்கும் போது"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "அப்ஜாத் கணக்கிடப்பட்டு எழுத்து எண்ணிக்கை சேர்க்கப்பட்டது"
+
+msgid "abjad() functions settings"
+msgstr "abjad() செயல்பாடுகள் அமைப்புகள்"
+
+msgid "add to initial value"
+msgstr "ஆரம்ப மதிப்புக்கு சேர்க்கவும்"
+
+msgid "and"
+msgstr "மற்றும்"
+
+msgid "auto calculate immediately"
+msgstr "தானாக உடனடியாக கணக்கிடவும்"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() மற்றும் nutket() செயல்பாடுகள் அமைப்புகள்"
+
+msgid "count once"
+msgstr "ஒருமுறை எண்ணவும்"
+
+msgid "count twice"
+msgstr "இருமுறை எண்ணவும்"
+
+msgid "display with Arabic numbers"
+msgstr "அரபு எண்களுடன் காண்பிக்கவும்"
+
+msgid "display with Indian numbers"
+msgstr "இந்திய எண்களுடன் காண்பிக்கவும்"
+
+msgid "do not add to initial value"
+msgstr "ஆரம்ப மதிப்புக்கு சேர்க்காதீர்கள்"
+
+msgid "do not force to other functions"
+msgstr "மற்ற செயல்பாடுகளுக்கு கட்டாயப்படுத்தாதீர்கள்"
+
+msgid "do not purify"
+msgstr "சுத்திகரிக்காதீர்கள்"
+
+msgid "force to other functions"
+msgstr "மற்ற செயல்பாடுகளுக்கு கட்டாயப்படுத்தவும்"
+
+msgid "group multiplier letters"
+msgstr "குழு பெருக்கல் எழுத்துக்கள்"
+
+msgid "hide"
+msgstr "மறைக்கவும்"
+
+msgid "hide abjad values"
+msgstr "அப்ஜாத் மதிப்புகளை மறைக்கவும்"
+
+msgid "hide bast results"
+msgstr "bast முடிவுகளை மறை"
+
+msgid "hide huddam names"
+msgstr "huddam பெயர்களை மறை"
+
+msgid "huddam() function settings"
+msgstr "huddam() செயல்பாடு அமைப்புகள்"
+
+msgid "no bast applied."
+msgstr "bast பயன்படுத்தப்படவில்லை."
+
+msgid "no data entered"
+msgstr "தரவு உள்ளிடப்படவில்லை"
+
+msgid "other suffix"
+msgstr "மற்ற பிந்தைய சொல்"
+
+msgid "purify data"
+msgstr "தரவை சுத்திகரிக்கவும்"
+
+msgid "repeat multiplier for each digit"
+msgstr "ஒவ்வொரு இலக்கத்திற்கும் பெருக்கி மீளவும்"
+
+msgid "show"
+msgstr "காட்டவும்"
+
+msgid "show abjad values"
+msgstr "abjad மதிப்புகளை காட்டவும்"
+
+msgid "show bast results"
+msgstr "bast முடிவுகளை காட்டவும்"
+
+msgid "show huddam names"
+msgstr "huddam பெயர்களை காட்டவும்"
+
+msgid "suffix"
+msgstr "பிந்தைய சொல்"
+
+msgid "times bast applied."
+msgstr "bast பல முறை பயன்படுத்தப்பட்டது."
+
+msgid "use calculated abjad results"
+msgstr "கணக்கிடப்பட்ட abjad முடிவுகளை பயன்படுத்தவும்"
+
+msgid "use calculated abjad total"
+msgstr "கணக்கிடப்பட்ட abjad மொத்தத்தை பயன்படுத்தவும்"
+
+msgid "use calculated bast results"
+msgstr "கணக்கிடப்பட்ட bast முடிவுகளை பயன்படுத்தவும்"
+
+msgid "use entered data directly"
+msgstr "உள்ளிடப்பட்ட தரவை நேரடியாகப் பயன்படுத்தவும்"
+
+msgid "use entered data total"
+msgstr "உள்ளிடப்பட்ட தரவு மொத்தத்தைப் பயன்படுத்தவும்"
+
+msgid "use in all bast repetitions"
+msgstr "அனைத்து bast மறுபதிப்புகளில் பயன்படுத்தவும்"
+
+msgid "use only at beginning if possible"
+msgstr "முடிந்தால் மட்டுமே தொடக்கத்தில் பயன்படுத்தவும்"
+
+msgid "wait for settings and data entry"
+msgstr "அமைப்புகள் மற்றும் தரவு உள்ளீட்டுக்காக காத்திருங்கள்"
+
+msgid "Abjad Table"
+msgstr "Abjad அட்டவணை"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "விவரங்கள்"
+
+msgid "Element Classification"
+msgstr "உறுப்பினர் வகைப்பாடு"
+
+msgid "Abjad Order"
+msgstr "Abjad வரிசை"
+
+msgid "Abjad Widget"
+msgstr "Abjad விட்ஜெட்"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "விட்ஜெட் தோற்றத்தை தனிப்பயனாக்க தனிப்பயன் CSS சேர்க்கவும்."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"விட்ஜெட் நடத்தை மாற்ற தனிப்பயன் JavaScript சேர்க்கவும். தவறான குறியீடு "
+"விட்ஜெட்டை உடைக்கும்!"
+
+msgid "An error occurred while loading content."
+msgstr "உள்ளடக்கத்தை ஏற்றும் போது பிழை ஏற்பட்டது."
+
+msgid "Button"
+msgstr "பட்டன்"
+
+msgid "Button Color"
+msgstr "பட்டன் நிறம்"
+
+msgid "Button Emoji"
+msgstr "பட்டன் எமோஜி"
+
+msgid "Button Message"
+msgstr "பட்டன் செய்தி"
+
+msgid "Button Settings"
+msgstr "பட்டன் அமைப்புகள்"
+
+msgid "Button Type"
+msgstr "பட்டன் வகை"
+
+msgid "CSS saved successfully."
+msgstr "CSS வெற்றிகரமாக சேமிக்கப்பட்டது."
+
+msgid "Check this box to activate the widget."
+msgstr "விட்ஜெட்டை செயல்படுத்த இந்த பெட்டியை சரிபார்க்கவும்."
+
+msgid "Code Editor"
+msgstr "கோட் எடிட்டர்"
+
+msgid "Custom CSS"
+msgstr "தனிப்பயன் CSS"
+
+msgid "Custom JavaScript"
+msgstr "தனிப்பயன் JavaScript"
+
+msgid "Description"
+msgstr "விளக்கம்"
+
+msgid "Emoji"
+msgstr "எமோஜி"
+
+msgid "Enter image URL"
+msgstr "பட URL ஐ உள்ளிடவும்"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "உதாரணம்: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "பொது"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript வெற்றிகரமாக சேமிக்கப்பட்டது."
+
+msgid "Left"
+msgstr "இடது"
+
+msgid "Live Preview"
+msgstr "நேரடி முன்னோட்டம்"
+
+msgid "Loading..."
+msgstr "ஏற்றுகிறது..."
+
+msgid "PNG Image URL"
+msgstr "PNG பட URL"
+
+msgid "Paste SVG code"
+msgstr "SVG குறியீட்டை ஒட்டவும்"
+
+msgid "Please enter a valid URL."
+msgstr "செல்லுபடியாகும் URL ஐ உள்ளிடவும்."
+
+msgid "Position"
+msgstr "இடம்"
+
+msgid "Reset to Default"
+msgstr "இயல்புநிலைக்கு மீட்டமை"
+
+msgid "Right"
+msgstr "வலது"
+
+msgid "SVG Code"
+msgstr "SVG குறியீடு"
+
+msgid "Save CSS"
+msgstr "CSS சேமிக்க"
+
+msgid "Save JavaScript"
+msgstr "JavaScript சேமிக்க"
+
+msgid "Save Settings"
+msgstr "அமைப்புகளை சேமிக்கவும்"
+
+msgid "Settings saved successfully."
+msgstr "அமைப்புகள் வெற்றிகரமாக சேமிக்கப்பட்டது."
+
+msgid "Style Editor"
+msgstr "பாணி திருத்தி"
+
+msgid "WARNING"
+msgstr "எச்சரிக்கை"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"வரவேற்கிறோம்! இந்த பலகையிலிருந்து விட்ஜெட் செய்திகள் மற்றும் அறிவிப்புகளை "
+"பின்தொடரலாம்."
+
+msgid "Widget Settings"
+msgstr "விட்ஜெட் அமைப்புகள்"
+
+msgid "Widget Status"
+msgstr "விட்ஜெட் நிலை"
+
+msgid "Widget active"
+msgstr "விட்ஜெட் செயல்பாட்டில்"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"தவறான JavaScript குறியீடு விட்ஜெட்டை உடைக்கக்கூடும். மாற்றங்கள் செய்வதற்கு "
+"முன் காப்பு எடுக்கவும்."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "உங்கள் Buy Me a Coffee பயனர் பெயர்"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"உங்கள் மாற்றங்கள் நேரடியாக விட்ஜெட் தோற்றத்தை பாதிக்கும். CSS "
+"தெரியாவிட்டால், இயல்புநிலை அமைப்புகளைப் பயன்படுத்த பரிந்துரைக்கப்படுகிறது."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "அப்ஜாட் விட்ஜெட் - உள்ளூர் டாஷ்போர்டு"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "ஆன்மிக தேடுபவர்கள் மற்றும் மர்மவாதிகள்"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"பரிமாண குணங்கள்: ஆர்வமுள்ள, உள்ள்முகமான, திறந்த மனம் கொண்ட, மற்றும் மர்ம "
+"அறிவுக்கு ஈர்க்கப்பட்டவர்கள். வாழ்க்கையின் மறைமுக அர்த்தங்கள் அல்லது "
+"முறைபாடுகளை கண்டறிவதில் அவர்கள் தீவிர ஆர்வம் கொண்டிருக்கலாம். தொழில்: ஆன்மிக"
+" பயிற்றுவிப்பவர்கள், டாரோ வாசிப்பவர்கள், ஜோதிடர்கள் அல்லது புதிய கால "
+"நடைமுறைகளில் ஈடுபட்டுள்ளவர்கள். சித்தாந்த வரம்பு: ஆன்மிக அல்லது "
+"மெட்டாபிசிகல் நம்பிக்கைகளுக்கு முன்னுரிமை தருவார்கள். கருவிகளை ஆழமான "
+"உண்மைகளோ அல்லது பிரபஞ்ச ஆற்றல்களோடு இணைவதற்கான வழியாக பார்க்கலாம்."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "எண்கணிதவியல் நிபுணர்கள் மற்றும் ஜெமட்ரியா ஆர்வலர்கள்"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"பரிமாண குணங்கள்: பகுப்பாய்வுத்திறன், விவரமான, மற்றும் எண்கள் மற்றும் "
+"மொழியின் தொடர்பை ஆர்வமாகக் காண்பவர்கள். குறியீட்டு அர்த்தங்களை "
+"குறியாக்குவதில் மகிழ்ச்சி அடைவார்கள். தொழில்: சுயதொழில் எண்கணிதவியல் "
+"நிபுணர்கள், மர்மப் பொருட்களில் எழுத்தாளர்கள், அல்லது எண்கணிதத்தை ஆராயும் "
+"பொழுதுபோக்கு நபர்கள். சித்தாந்த வரம்பு: எண்கணிதத்தை ஒரு வேடிக்கை அறிவியல் "
+"பயிற்சியாகக் காண்பவர்களிலிருந்து அதன் ஆழமான ஆன்மிக முக்கியத்துவத்தை "
+"நம்புவோர்வரை மாறலாம்."
+
+msgid "Historians and Linguists"
+msgstr "வரலாற்றாசிரியர்கள் மற்றும் மொழியியலாளர்கள்"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"பரிமாண குணங்கள்: அறிஞர், முறையான, மற்றும் அப்ஜாட் போன்ற எண் முறைகளின் "
+"வரலாற்று அல்லது பண்பாட்டு சூழலை ஆர்வமாகக் காண்பவர்கள். தொழில்: அகாடமிக்கள், "
+"ஆராய்ச்சியாளர்கள், அல்லது மத்திய கிழக்கு மொழிகள், வரலாறு, அல்லது மத உரைகளை "
+"படிக்கும் மாணவர்கள். சித்தாந்த வரம்பு: கருவிகளை ஒரு மதமில்லா, அகாடமிக் "
+"பார்வையில் அணுகுவார்கள், அவற்றின் வரலாற்று அல்லது மொழியியல் முக்கியத்துவத்தை"
+" மையப்படுத்துவார்கள்."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "மதம் சார்ந்த அல்லது நம்பிக்கை சார்ந்த நபர்கள்"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"பரிமாண குணங்கள்: பக்தி மனம் கொண்ட, சிந்தனைசார்ந்த, மற்றும் அவர்களின் "
+"நம்பிக்கைக்கு ஆழமான தொடர்புகளைத் தேடுவோர். மத நூல்கள் அல்லது தெய்வீக "
+"செய்திகளை ஆராய்வதற்கு கருவிகளைப் பயன்படுத்தலாம். தொழில்: மத அறிஞர்கள், "
+"இமாம்கள், ஆசாரியர்கள், அல்லது அவர்களின் நம்பிக்கையின் மர்ம பாரம்பரியங்களில் "
+"வலுவான ஆர்வம் கொண்ட சாதாரண மக்கள். சித்தாந்த வரம்பு: பாரம்பரிய அல்லது "
+"பாதுகாப்பு மனநிலை கொண்ட உலக பார்வையைக் கொண்டிருப்பர், கருவிகளை அவர்களின் "
+"ஆன்மிக நம்பிக்கைகளை உறுதிப்படுத்த பயன்படுத்துவார்கள்."
+
+msgid "Writers and Artists"
+msgstr "எழுத்தாளர்கள் மற்றும் கலைஞர்கள்"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"பரிமாண குணங்கள்: படைப்பாற்றல், கற்பனைசார்ந்த, மற்றும் குறியீடு அல்லது "
+"சார்பற்ற கருத்துக்களுக்கு ஈர்க்கப்பட்டவர்கள். அவர்கள் கருவிகளை ஊக்கத்திற்கு "
+"அல்லது தங்கள் படைப்புகளுக்கு அர்த்தத்தின் அடுக்குகளைச் சேர்க்க "
+"பயன்படுத்தலாம். தொழில்: ஆசிரியர்கள், கவிஞர்கள், பார்வை கலைஞர்கள், அல்லது "
+"இசைக்கலைஞர்கள். சித்தாந்த வரம்பு: மதமில்லா படைப்பாளர்களிலிருந்து ஆன்மிக "
+"அல்லது மர்ம சார்ந்தவர்கள்வரை மாறலாம்."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "புதிர் மற்றும் புதிர் ஆர்வலர்கள்"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"பரிமாண குணங்கள்: விளையாட்டுத்தனமான, அறிவார்ந்த ஆர்வமுள்ள, மற்றும் சிக்கலான "
+"பிரச்சினைகளைத் தீர்க்கவோ அல்லது முறைபாடுகளை குறியாக்கவோ விரும்புவோர். "
+"தொழில்: பொழுதுபோக்கு நபர்கள், புதிர் வடிவமைப்பாளர்கள், அல்லது ஆசிரியர்கள். "
+"சித்தாந்த வரம்பு: கருவிகளை பொழுதுபோக்கு அல்லது மனப்பயிற்சியாக அணுகுவார்கள், "
+"குறைந்த சித்தாந்தப் பற்றுகையுடன்."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "சதி கோட்பாட்டாளர்கள் மற்றும் மாற்று சிந்தனையாளர்கள்"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"பரிமாண குணங்கள்: முக்கியப் போக்குகளை சந்தேகிக்கும், முறைமைகளில் மறைமுக "
+"உண்மைகள் அல்லது முறைபாடுகளை கண்டறியத் தூண்டப்படும். தொழில்: சுயாதீன "
+"ஆராய்ச்சியாளர்கள், வலைப்பதிவர்கள், அல்லது செயற்பாட்டாளர்கள். சித்தாந்த "
+"வரம்பு: அதிகமாக விறுவிறுப்பான அல்லது வழக்கத்திற்கு மாறான உலக பார்வையைக் "
+"கொண்டிருப்பர், கருவிகளை மாற்று கோட்பாடுகள் அல்லது கதைகளுக்கு ஆதரவாகப் "
+"பயன்படுத்துவார்கள்."
+
+msgid "☕ Support the Project"
+msgstr "☕ திட்டத்தை ஆதரிக்கவும்"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "எனது திட்டத்தை விரும்பினால், எனக்கு ஒரு காபி வாங்கலாம்!"
+
+msgid "Buy Me A Coffee"
+msgstr "எனக்கு ஒரு காபி வாங்குங்கள்"
+
+msgid "Thank you! 🙏"
+msgstr "நன்றி! 🙏"

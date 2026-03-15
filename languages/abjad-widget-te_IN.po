@@ -1,0 +1,825 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Telugu <te_IN>\n"
+"Language: te-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad సెట్టింగ్స్"
+
+msgid "Abjad Value"
+msgstr "Abjad విలువ"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad విడ్జెట్ డ్యాష్‌బోర్డ్"
+
+msgid "Abjad calculation results"
+msgstr "Abjad గణన ఫలితాలు"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad గణనలు దాగి ఉన్నాయి"
+
+msgid "Abjad not calculated"
+msgstr "Abjad లెక్కించలేదు"
+
+msgid "Abjad order"
+msgstr "Abjad క్రమం"
+
+msgid "Add elements"
+msgstr "ఎలిమెంట్స్ జోడించు"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "వాయు"
+
+msgid "All"
+msgstr "అన్ని"
+
+msgid "Arabic"
+msgstr "అరబిక్"
+
+msgid "Arabic letters"
+msgstr "అరబిక్ అక్షరాలు"
+
+msgid "Arabic numbers"
+msgstr "అరబిక్ సంఖ్యలు"
+
+msgid "As data for operation"
+msgstr "ఆపరేషన్‌కు డేటాగా"
+
+msgid "Bast loop results"
+msgstr "Bast లూప్ ఫలితాలు"
+
+msgid "Bast not calculated"
+msgstr "Bast లెక్కించలేదు"
+
+msgid "Bast repetition count"
+msgstr "Bast పునరావృత సంఖ్య"
+
+msgid "Bast results hidden"
+msgstr "Bast ఫలితాలు దాగి ఉన్నాయి"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet క్రమం"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet పట్టిక"
+
+msgid "Big"
+msgstr "పెద్ద"
+
+msgid "Bigger"
+msgstr "మరింత పెద్ద"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "నాకో కాఫీ కొనండి"
+
+msgid "Calculate"
+msgstr "లెక్కించు"
+
+msgid "Calculate Abjad"
+msgstr "Abjad లెక్కించు"
+
+msgid "Calculate Bastet"
+msgstr "బాస్టెట్ లెక్కించండి"
+
+msgid "Calculate Huddam"
+msgstr "Huddam లెక్కించండి"
+
+msgid "Calculation details"
+msgstr "లెక్కింపు వివరాలు"
+
+msgid "Choose Keyboard Layout"
+msgstr "కీబోర్డ్ లేఅవుట్ ఎంచుకోండి"
+
+msgid "Clear text box"
+msgstr "టెక్స్ట్ బాక్స్‌ను క్లియర్ చేయండి"
+
+msgid "Click row for details"
+msgstr "వివరాల కోసం వరుసపై క్లిక్ చేయండి"
+
+msgid "Close Keyboard"
+msgstr "కీబోర్డ్‌ను మూసివేయండి"
+
+msgid "Closed"
+msgstr "మూసివేయబడింది"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "కామా డిఫాల్ట్ సెపరేటర్이며 చెక్ చేయబడాలి!"
+
+msgid "Dashboard"
+msgstr "డ్యాష్‌బోర్డ్"
+
+msgid "Data entry separators:"
+msgstr "డేటా ఎంట్రీ సెపరేటర్లు:"
+
+msgid "Data type profile"
+msgstr "డేటా టైప్ ప్రొఫైల్"
+
+msgid "Dead keys"
+msgstr "డెడ్ కీస్"
+
+msgid "Decrease keyboard size"
+msgstr "కీబోర్డ్ పరిమాణాన్ని తగ్గించండి"
+
+msgid "Don't calculate"
+msgstr "లెక్కించవద్దు"
+
+msgid "Duty entity name results"
+msgstr "డ్యూటీ ఎంటిటీ పేరు ఫలితాలు"
+
+msgid "Duty entity type"
+msgstr "డ్యూటీ ఎంటిటీ రకం"
+
+msgid "Earth"
+msgstr "భూమి"
+
+msgid "Element classification"
+msgstr "ఎలిమెంట్ క్లాసిఫికేషన్"
+
+msgid "Element classification method"
+msgstr "ఎలిమెంట్ క్లాసిఫికేషన్ పద్ధతి"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "టెక్స్ట్ ను ఎంటర్ చేయండి... అరబిక్, హెబ్రూ, టర్కిష్ అక్షరాలు, సంఖ్యలు"
+
+msgid "Entered data"
+msgstr "ఎంటర్ చేసిన డేటా"
+
+msgid "Entry"
+msgstr "ఎంట్రీ"
+
+msgid "Entry letter count"
+msgstr "ఎంట్రీ అక్షరాల సంఖ్య"
+
+msgid "Evil"
+msgstr "చెడుగా"
+
+msgid "Fire"
+msgstr "అగ్ని"
+
+msgid "For entered data"
+msgstr "ఎంటర్ చేసిన డేటా కోసం"
+
+msgid "Frequency in Quran"
+msgstr "కురాన్‌లో సవర్ణం"
+
+msgid "Gematria"
+msgstr "జేమట్రియా"
+
+msgid "Hebrew"
+msgstr "హెబ్రూ"
+
+msgid "Hebrew alphabet elements"
+msgstr "హీబ్రూ అక్షరమాల అంశాలు"
+
+msgid "Hebrew letters"
+msgstr "హీబ్రూ అక్షరాలు"
+
+msgid "High"
+msgstr "ఎత్తు"
+
+msgid "Hija order"
+msgstr "హిజా క్రమం"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam పేర్లు దాగి ఉన్నాయి"
+
+msgid "Huddam not calculated"
+msgstr "Huddam లెక్కించబడలేదు"
+
+msgid "Iklil's order"
+msgstr "Iklil యొక్క క్రమం"
+
+msgid "Increase keyboard size"
+msgstr "కీబోర్డు పరిమాణాన్ని పెంచండి"
+
+msgid "Indian numbers"
+msgstr "భారతీయ అంకెలు"
+
+msgid "Interface language"
+msgstr "ఇంటర్ఫేస్ భాష"
+
+msgid "Let character quantity decide"
+msgstr "పాత్రల పరిమాణాన్ని నిర్ణయించనివ్వండి"
+
+msgid "Letter count"
+msgstr "అక్షరాల లెక్క"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "నా ప్రాజెక్టులు నచ్చాయా? నాకు ఒక కాఫీ కొనండి!"
+
+msgid "Low"
+msgstr "తక్కువ"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "కనిష్టం"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "సంఖ్యా పఠనం భాష"
+
+msgid "Numerical values"
+msgstr "సంఖ్యా విలువలు"
+
+msgid "Open"
+msgstr "తెరవండి"
+
+msgid "Order"
+msgstr "క్రమం"
+
+msgid "Possible phrases"
+msgstr "సంభవించగల పదబంధాలు"
+
+msgid "Program settings"
+msgstr "ప్రోగ్రాం సెట్టింగులు"
+
+msgid "Pronunciation"
+msgstr "ఉచ్ఛారణ"
+
+msgid "Regular expression"
+msgstr "సాధారణ వ్యక్తీకరణ"
+
+msgid "Regularly preferred classification"
+msgstr "సాధారణంగా ఇష్టపడే వర్గీకరణ"
+
+msgid "Reset"
+msgstr "రీసెట్"
+
+msgid "Separators"
+msgstr "విభాజకులు"
+
+msgid "Settings"
+msgstr "సెట్టింగులు"
+
+msgid "Shamsee abjad order"
+msgstr "షమ్సీ అబ్జడ్ ఆర్డర్"
+
+msgid "Show numpad"
+msgstr "నమ్‌ప్యాడ్ చూపించు"
+
+msgid "Show virtual keyboard"
+msgstr "వర్చువల్ కీబోర్డ్ చూపించు"
+
+msgid "Small"
+msgstr "చిన్న"
+
+msgid "Small + letter count"
+msgstr "చిన్న + అక్షర సంఖ్య"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "సహాయం"
+
+msgid "Taken (letter)"
+msgstr "తీసుకున్నది (అక్షరం)"
+
+msgid "Taken (letter; abjad)"
+msgstr "తీసుకున్నది (అక్షరం; అబ్జడ్)"
+
+msgid "Taken Letters"
+msgstr "తీసుకున్న అక్షరాలు"
+
+msgid "Text or number cell"
+msgstr "పాఠ్యము లేదా సంఖ్య సెల్"
+
+msgid "Thank you for your support!"
+msgstr "మీ సహాయానికి ధన్యవాదాలు!"
+
+msgid "Total"
+msgstr "మొత్తం"
+
+msgid "Turkish"
+msgstr "టర్కీ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "టర్కిష్ అల్ఫాబెట్ అబ్జడ్"
+
+msgid "Turkish alphabet elements"
+msgstr "టర్కిష్ అల్ఫాబెట్ అంశాలు"
+
+msgid "Turkish letters"
+msgstr "టర్కిష్ అక్షరాలు"
+
+msgid "Undefined characters"
+msgstr "నిర్వచించని అక్షరాలు"
+
+msgid "Value"
+msgstr "విలువ"
+
+msgid "Value & Detail"
+msgstr "విలువ & వివరము"
+
+msgid "Version"
+msgstr "వర్షన్"
+
+msgid "Water"
+msgstr "నీరు"
+
+msgid "When data is entered"
+msgstr "డేటా ప్రవేశపెట్టినప్పుడు"
+
+msgid "When reading large digits"
+msgstr "పెద్ద అంకెలను చదువుతున్నప్పుడు"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad లెక్కించబడింది మరియు అక్షరాల లెక్క కూడా జోడించబడింది"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ఫంక్షన్ సెట్టింగులు"
+
+msgid "add to initial value"
+msgstr "ప్రారంభ విలువకు జోడించు"
+
+msgid "and"
+msgstr "మరియు"
+
+msgid "auto calculate immediately"
+msgstr "స్వయంచాలకంగా వెంటనే లెక్కించు"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() మరియు nutket() ఫంక్షన్ సెట్టింగులు"
+
+msgid "count once"
+msgstr "ఒకసారి లెక్కించు"
+
+msgid "count twice"
+msgstr "రెండు సార్లు లెక్కించు"
+
+msgid "display with Arabic numbers"
+msgstr "అరబిక్ అంకెలతో ప్రదర్శించు"
+
+msgid "display with Indian numbers"
+msgstr "భారతీయ అంకెలతో ప్రదర్శించు"
+
+msgid "do not add to initial value"
+msgstr "ప్రారంభ విలువకు జోడించొద్దు"
+
+msgid "do not force to other functions"
+msgstr "ఇతర ఫంక్షన్లకు బలవంతం చేయొద్దు"
+
+msgid "do not purify"
+msgstr "శుద్ధి చేయొద్దు"
+
+msgid "force to other functions"
+msgstr "ఇతర ఫంక్షన్లకు బలవంతం చేయి"
+
+msgid "group multiplier letters"
+msgstr "గ్రూప్ మల్టిప్లయర్ అక్షరాలు"
+
+msgid "hide"
+msgstr "దాచు"
+
+msgid "hide abjad values"
+msgstr "abjad విలువలను దాచు"
+
+msgid "hide bast results"
+msgstr "బాస్ట్ ఫలితాలను దాచు"
+
+msgid "hide huddam names"
+msgstr "హుడ్డామ్ పేర్లను దాచు"
+
+msgid "huddam() function settings"
+msgstr "huddam() ఫంక్షన్ సెట్టింగులు"
+
+msgid "no bast applied."
+msgstr "ఏ బాస్ట్ వర్తించలేదు."
+
+msgid "no data entered"
+msgstr "డేటా నమోదు చేయలేదు"
+
+msgid "other suffix"
+msgstr "ఇతర ఉపసర్గ"
+
+msgid "purify data"
+msgstr "డేటాను శుభ్రపరచు"
+
+msgid "repeat multiplier for each digit"
+msgstr "ప్రతి అంకెలకు పునరావృత గుణకం"
+
+msgid "show"
+msgstr "చూపు"
+
+msgid "show abjad values"
+msgstr "అబ్‌జాద్ విలువలను చూపు"
+
+msgid "show bast results"
+msgstr "బాస్ట్ ఫలితాలను చూపు"
+
+msgid "show huddam names"
+msgstr "హుడ్డామ్ పేర్లను చూపు"
+
+msgid "suffix"
+msgstr "ఉపసర్గ"
+
+msgid "times bast applied."
+msgstr "బాస్ట్ వర్తించిన సార్లు."
+
+msgid "use calculated abjad results"
+msgstr "లెక్కించిన అబ్‌జాద్ ఫలితాలను ఉపయోగించు"
+
+msgid "use calculated abjad total"
+msgstr "లెక్కించిన అబ్‌జాద్ మొత్తం ఉపయోగించు"
+
+msgid "use calculated bast results"
+msgstr "లెక్కించిన బాస్ట్ ఫలితాలను ఉపయోగించు"
+
+msgid "use entered data directly"
+msgstr "నమోదు చేసిన డేటాను నేరుగా ఉపయోగించు"
+
+msgid "use entered data total"
+msgstr "నమోదు చేసిన డేటా మొత్తం ఉపయోగించు"
+
+msgid "use in all bast repetitions"
+msgstr "అన్ని బాస్ట్ పునరావృతాలలో ఉపయోగించు"
+
+msgid "use only at beginning if possible"
+msgstr "సాధ్యమైతే మాత్రమే ప్రారంభంలో ఉపయోగించు"
+
+msgid "wait for settings and data entry"
+msgstr "సెట్టింగులు మరియు డేటా ఎంట్రీ కోసం వేచి ఉండు"
+
+msgid "Abjad Table"
+msgstr "అబ్‌జాద్ పట్టిక"
+
+msgid "Shadda"
+msgstr "షడ్డా"
+
+msgid "Details"
+msgstr "వివరాలు"
+
+msgid "Element Classification"
+msgstr "ఎలిమెంట్ వర్గీకరణ"
+
+msgid "Abjad Order"
+msgstr "అబ్‌జాద్ ఆర్డర్"
+
+msgid "Abjad Widget"
+msgstr "అబ్‌జాద్ విడ్జెట్"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "విడ్జెట్ రూపాన్ని అనుకూలీకరించడానికి కస్టమ్ CSS ను జోడించండి."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"విడ్జెట్ ప్రవర్తనను మార్చడానికి కస్టమ్ JavaScript ను జోడించండి. తప్పు కోడ్ "
+"విడ్జెట్ ను భంగం చేయవచ్చు!"
+
+msgid "An error occurred while loading content."
+msgstr "విషయం లోడ్ అవుతున్నప్పుడు లోపం సంభవించింది."
+
+msgid "Button"
+msgstr "బటన్"
+
+msgid "Button Color"
+msgstr "బటన్ రంగు"
+
+msgid "Button Emoji"
+msgstr "బటన్ ఎమోజీ"
+
+msgid "Button Message"
+msgstr "బటన్ సందేశం"
+
+msgid "Button Settings"
+msgstr "బటన్ సెట్టింగులు"
+
+msgid "Button Type"
+msgstr "బటన్ రకం"
+
+msgid "CSS saved successfully."
+msgstr "CSS విజయవంతంగా సేవ్ చేయబడింది."
+
+msgid "Check this box to activate the widget."
+msgstr "విడ్జెట్ ను సక్రియం చేయడానికి ఈ పెట్టెను తనిఖీ చేయండి."
+
+msgid "Code Editor"
+msgstr "కోడ్ ఎడిటర్"
+
+msgid "Custom CSS"
+msgstr "కస్టమ్ CSS"
+
+msgid "Custom JavaScript"
+msgstr "కస్టమ్ JavaScript"
+
+msgid "Description"
+msgstr "వివరణ"
+
+msgid "Emoji"
+msgstr "ఎమోజీ"
+
+msgid "Enter image URL"
+msgstr "చిత్ర URLని ఎంటర్ చేయండి"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "ఉదాహరణ: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "సాధారణ"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript విజయవంతంగా సేవ్ చేయబడింది."
+
+msgid "Left"
+msgstr "ఎడమ"
+
+msgid "Live Preview"
+msgstr "లైవ్ ప్రీవ్యూ"
+
+msgid "Loading..."
+msgstr "లోడ్ అవుతోంది..."
+
+msgid "PNG Image URL"
+msgstr "PNG చిత్రం URL"
+
+msgid "Paste SVG code"
+msgstr "SVG కోడ్ పేస్ట్ చేయండి"
+
+msgid "Please enter a valid URL."
+msgstr "దయచేసి చెల్లుబాటు అయ్యే URL ఇవ్వండి."
+
+msgid "Position"
+msgstr "స్థానం"
+
+msgid "Reset to Default"
+msgstr "డిఫాల్ట్‌కు రీసెట్ చేయండి"
+
+msgid "Right"
+msgstr "కుడి"
+
+msgid "SVG Code"
+msgstr "SVG కోడ్"
+
+msgid "Save CSS"
+msgstr "CSS సేవ్ చేయండి"
+
+msgid "Save JavaScript"
+msgstr "JavaScript సేవ్ చేయండి"
+
+msgid "Save Settings"
+msgstr "సెట్టింగ్‌లను సేవ్ చేయండి"
+
+msgid "Settings saved successfully."
+msgstr "సెట్టింగ్‌లు విజయవంతంగా సేవ్ చేయబడ్డాయి."
+
+msgid "Style Editor"
+msgstr "శైలి ఎడిటర్"
+
+msgid "WARNING"
+msgstr "హెచ్చరిక"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"స్వాగతం! మీరు ఈ ప్యానెల్ నుండి విడ్జెట్ వార్తలు మరియు ప్రకటనలను "
+"అనుసరించవచ్చు."
+
+msgid "Widget Settings"
+msgstr "విడ్జెట్ సెట్టింగ్‌లు"
+
+msgid "Widget Status"
+msgstr "విడ్జెట్ స్థితి"
+
+msgid "Widget active"
+msgstr "విడ్జెట్ క్రియాశీలంగా ఉంది"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"తప్పు JavaScript కోడ్ విడ్జెట్‌ను బ్రేక్ చేయవచ్చు. మార్పులు చేయడానికి ముందు "
+"బ్యాకప్ తీసుకోండి."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "మీ Buy Me a Coffee వినియోగదారు పేరు"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"మీ మార్పులు నేరుగా విడ్జెట్ రూపాన్ని ప్రభావితం చేస్తాయి. మీరు CSS "
+"తెలుసుకోకపోతే, డిఫాల్ట్ సెట్టింగ్‌లను ఉపయోగించడం సిఫార్సు చేయబడుతుంది."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "అబ్జాద్ విడ్జెట్ - స్థానిక డ్యాష్‌బోర్డ్"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "ఆధ్యాత్మిక అన్వేషకులు మరియు మిస్టిక్స్"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"వ్యక్తిత్వ లక్షణాలు: ఆసక్తి కలిగిన, అంతర్దృష్టి గల, ఓపెన్-మైండెడ్, మరియు "
+"పౌరాణిక జ్ఞానానికి ఆకర్షితులు. వారు జీవితంలో దాగి ఉన్న అర్థాలు లేదా నమూనాలను"
+" వెలికి తీసేందుకు గాఢ ఆసక్తి కలిగి ఉండవచ్చు. వృత్తులు: ఆధ్యాత్మిక కోచ్‌లు, "
+"టారోట్ రీడర్లు, ఖగోళ శాస్త్రవేత్తలు, లేదా కొత్త యుగం ఆచారాల్లో పాల్గొనే "
+"వ్యక్తులు. సిద్ధాంత స్పెక్ట్రమ్: ఆధ్యాత్మిక లేదా మెటాఫిజికల్ విశ్వాసాల వైపు "
+"మొగ్గు చూపే అవకాశము. వారు సాధనలను లోతైన సత్యాలు లేదా విశ్వ శక్తులతో కనెక్ట్ "
+"అయ్యే మార్గంగా చూడవచ్చు."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "సంఖ్యావేత్తలు మరియు గెమాట్రియా అభిరుచిగలవారు"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"వ్యక్తిత్వ లక్షణాలు: విశ్లేషణాత్మక, వివరాలపై దృష్టి పెట్టే, సంఖ్యలు మరియు "
+"భాష మధ్య సంబంధంపై మంత్రముగ్దులై ఉన్నారు. వారు చిహ్నాత్మక అర్థాలను డీకోడ్ "
+"చేయడాన్ని ఆనందించవచ్చు. వృత్తులు: స్వతంత్ర సంఖ్యావేత్తలు, పౌరాణిక విషయాలపై "
+"రచయితలు, లేదా సంఖ్యావేత్తను పరిశోధించే హాబీగాళ్ళు. సిద్ధాంత స్పెక్ట్రమ్: "
+"సంఖ్యావేత్తను సరదాగా మేధో సాధనంగా భావించేవారినుండి, దాని లోతైన ఆధ్యాత్మిక "
+"ప్రాముఖ్యతను నమ్మేవారివరకు విభిన్నంగా ఉంటుంది."
+
+msgid "Historians and Linguists"
+msgstr "చరిత్రకారులు మరియు భాషాశాస్త్రవేత్తలు"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"వ్యక్తిత్వ లక్షణాలు: పండితులు, పద్ధతిసంబంధిత, మరియు అబ్జాద్ వంటి సంఖ్యా "
+"వ్యవస్థల చారిత్రక లేదా సాంస్కృతిక సందర్భాలలో ఆసక్తి కలిగి ఉన్నారు. వృత్తులు:"
+" మధ్యప్రాచ్య భాషలు, చరిత్ర లేదా మత గ్రంథాలను అధ్యయనం చేసే అకాడెమిక్స్, "
+"పరిశోధకులు, లేదా విద్యార్థులు. సిద్ధాంత స్పెక్ట్రమ్: సాధనలను సెక్యులర్, "
+"అకాడెమిక్ దృక్కోణంతో, వాటి చారిత్రక లేదా భాషా ప్రాముఖ్యతపై దృష్టి పెట్టి "
+"సమీక్షించే అవకాశము."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "మతపరమైన లేదా విశ్వాస ఆధారిత వ్యక్తులు"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"వ్యక్తిత్వ లక్షణాలు: భక్తిశీల, ఆలోచనాత్మక, మరియు తమ విశ్వాసానికి లోతైన "
+"సంబంధాలను అన్వేషించే వారు. వారు సాధనలను మత గ్రంథాలు లేదా దివ్య సందేశాలను "
+"పరిశోధించడానికి ఉపయోగించవచ్చు. వృత్తులు: మతపరమైన పండితులు, ఇమామ్‌లు, "
+"పూజారులు, లేదా తమ విశ్వాసపు మిస్టికల్ సంప్రదాయాల్లో గాఢ ఆసక్తి కలిగి ఉన్న "
+"లైట్ వ్యక్తులు. సిద్ధాంత స్పెక్ట్రమ్: సంప్రదాయ లేదా సంరక్షణాత్మక "
+"ప్రపంచదృష్టి కలిగి ఉండి, సాధనలను తమ ఆధ్యాత్మిక విశ్వాసాలను బలపరచడానికి "
+"ఉపయోగించవచ్చు."
+
+msgid "Writers and Artists"
+msgstr "రచయితలు మరియు కళాకారులు"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"వ్యక్తిత్వ లక్షణాలు: సృజనాత్మక, కల్పనాశీల, చిహ్నాత్మక లేదా అభాస్య "
+"కాన్సెప్ట్లకు ఆకర్షితులు. వారు సాధనాలను ప్రేరణ కోసం లేదా తమ పనికి అర్థపు "
+"పొరలను చేర్చడానికి ఉపయోగించవచ్చు. వృత్తులు: రచయితలు, కవులు, విజువల్ "
+"కళాకారులు, లేదా సంగీతకారులు. సిద్ధాంత స్పెక్ట్రమ్: సెక్యులర్ సృజనాత్మకుల "
+"నుండి ఆధ్యాత్మిక లేదా మిస్టికల్ ఆసక్తి కలిగినవారివరకు విభిన్నంగా ఉంటుంది."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "పజిల్ మరియు రిడిల్ అభిరుచిగలవారు"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"వ్యక్తిత్వ లక్షణాలు: సరదాగా, మేధో ఆసక్తి గల, సంక్లిష్ట సమస్యలను "
+"పరిష్కరించడాన్ని లేదా నమూనాలను డీకోడ్ చేయడాన్ని ఆనందించేవారు. వృత్తులు: "
+"హాబీగాళ్ళు, పజిల్ డిజైనర్లు, లేదా విద్యావేత్తలు. సిద్ధాంత స్పెక్ట్రమ్: "
+"సాధనలను వినోదం లేదా మానసిక వ్యాయామంగా పరిగణించి, తక్కువ సిద్ధాంత అనుబంధంతో "
+"ఉంటారు."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "సంధేహాలు మరియు ప్రత్యామ్నాయ ఆలోచకులు"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"వ్యక్తిత్వ లక్షణాలు: ప్రధానప్రవాహ కథనాలపై అనుమానాస్పదంగా, వ్యవస్థల్లో దాగి "
+"ఉన్న సత్యాలు లేదా నమూనాలను వెలికి తీసేందుకు ఆకర్షితులు. వృత్తులు: స్వతంత్ర "
+"పరిశోధకులు, బ్లాగర్లు, లేదా కార్యకర్తలు. సిద్ధాంత స్పెక్ట్రమ్: మరింత రాడికల్"
+" లేదా అసాధారణ ప్రపంచదృష్టి కలిగి ఉండి, సాధనలను ప్రత్యామ్నాయ సిద్ధాంతాలు లేదా"
+" కథనాలను మద్దతు ఇవ్వడానికి ఉపయోగించవచ్చు."
+
+msgid "☕ Support the Project"
+msgstr "☕ ప్రాజెక్ట్‌కు మద్దతు ఇవ్వండి"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "మీరు నా ప్రాజెక్ట్‌ని ఇష్టపడితే, నాకు ఒక కాఫీ కొనగలరు!"
+
+msgid "Buy Me A Coffee"
+msgstr "నా కోసం కాఫీ కొనండి"
+
+msgid "Thank you! 🙏"
+msgstr "ధన్యవాదాలు! 🙏"

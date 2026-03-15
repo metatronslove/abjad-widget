@@ -1,0 +1,820 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Swahili (Kenya) <sw_KE>\n"
+"Language: sw-KE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Mipangilio ya Abjad"
+
+msgid "Abjad Value"
+msgstr "Thamani ya Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashibodi ya Widget ya Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Matokeo ya hesabu ya Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Hesabu za Abjad zilizofichwa"
+
+msgid "Abjad not calculated"
+msgstr "Abjad haikokanyiwa"
+
+msgid "Abjad order"
+msgstr "Mpangilio wa Abjad"
+
+msgid "Add elements"
+msgstr "Ongeza vipengezo"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Hewa"
+
+msgid "All"
+msgstr "Kila"
+
+msgid "Arabic"
+msgstr "Kiarabu"
+
+msgid "Arabic letters"
+msgstr "Herufi za Kiarabu"
+
+msgid "Arabic numbers"
+msgstr "Nambari za Kiarabu"
+
+msgid "As data for operation"
+msgstr "Kama data kwa utendaji"
+
+msgid "Bast loop results"
+msgstr "Matokeo ya mzunguko wa Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast haikokanyiwa"
+
+msgid "Bast repetition count"
+msgstr "Idadi ya kurudiwa kwa Bast"
+
+msgid "Bast results hidden"
+msgstr "Matokeo ya Bast yamefichwa"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Mpangilio wa Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Jedwali la Bastet"
+
+msgid "Big"
+msgstr "Kubwa"
+
+msgid "Bigger"
+msgstr "Kubwa zaidi"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Kitambulisho cha kununua kahawa"
+
+msgid "Buy me a coffee"
+msgstr "Nunua nanyi kahawa"
+
+msgid "Calculate"
+msgstr "Hesabu"
+
+msgid "Calculate Abjad"
+msgstr "Hesabu Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Hesabu Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Hesabu Huddam"
+
+msgid "Calculation details"
+msgstr "Maelezo ya Hesabu"
+
+msgid "Choose Keyboard Layout"
+msgstr "Chagua Mpangilio wa Keyboard"
+
+msgid "Clear text box"
+msgstr "Futa sanduku la maandishi"
+
+msgid "Click row for details"
+msgstr "Bofya mstari kwa maelezo"
+
+msgid "Close Keyboard"
+msgstr "Funga Keyboard"
+
+msgid "Closed"
+msgstr "Imefungwa"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma ni tofauti wa msingi na lazima iendelee kuwekwa!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Vikae vya kuingiza data:"
+
+msgid "Data type profile"
+msgstr "Wasifu wa aina ya data"
+
+msgid "Dead keys"
+msgstr "Vifungo vya kavu"
+
+msgid "Decrease keyboard size"
+msgstr "Punguza ukubwa wa Keyboard"
+
+msgid "Don't calculate"
+msgstr "Usifanye hesabu"
+
+msgid "Duty entity name results"
+msgstr "Matokeo ya jina la kiumbe wa wajibu"
+
+msgid "Duty entity type"
+msgstr "Aina ya kiumbe wa wajibu"
+
+msgid "Earth"
+msgstr "Uwaiseke"
+
+msgid "Element classification"
+msgstr "Ufafanuzi wa kipengele"
+
+msgid "Element classification method"
+msgstr "Njia ya ufafanuzi wa kipengele"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Ingiza maandishi... herufi za Kiarabu, Kihebrew, Kituruki, nambari"
+
+msgid "Entered data"
+msgstr "Data iliyoungizwa"
+
+msgid "Entry"
+msgstr "Ingizo"
+
+msgid "Entry letter count"
+msgstr "Idadi ya herufi za ingizo"
+
+msgid "Evil"
+msgstr "Mbaya"
+
+msgid "Fire"
+msgstr "Moto"
+
+msgid "For entered data"
+msgstr "Kwa data iliyoungizwa"
+
+msgid "Frequency in Quran"
+msgstr "Ufadhili katika Qurani"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Kihebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Vipengele vya alfabeta ya Kiviera"
+
+msgid "Hebrew letters"
+msgstr "Harufi za Kiviera"
+
+msgid "High"
+msgstr "Juu"
+
+msgid "Hija order"
+msgstr "Saratasa ya Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Majina ya Huddam yamefichwa"
+
+msgid "Huddam not calculated"
+msgstr "Huddam haijahesabiwa"
+
+msgid "Iklil's order"
+msgstr "Saratasa ya Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Ongeza ukubwa wa keyboard"
+
+msgid "Indian numbers"
+msgstr "Nambari za India"
+
+msgid "Interface language"
+msgstr "Lugha ya mfumo"
+
+msgid "Let character quantity decide"
+msgstr "Ahiri kiasi cha herufi kuamua"
+
+msgid "Letter count"
+msgstr "Idadi ya harufi"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Upenda miradi yangu? Nunua kahawa kwangu!"
+
+msgid "Low"
+msgstr "Chini"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Saratasa ya Maghribian hija"
+
+msgid "Minimum"
+msgstr "Punguzo"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Lugha ya kusoma nambari"
+
+msgid "Numerical values"
+msgstr "Thamani za nambari"
+
+msgid "Open"
+msgstr "Fungua"
+
+msgid "Order"
+msgstr "Saratasa"
+
+msgid "Possible phrases"
+msgstr "Vileavyo yanayoweza kuwepo"
+
+msgid "Program settings"
+msgstr "Mipangilio ya programu"
+
+msgid "Pronunciation"
+msgstr "Esenzo"
+
+msgid "Regular expression"
+msgstr "Madhala ya kawaida"
+
+msgid "Regularly preferred classification"
+msgstr "Kugawanyaji kinachopendekezwa mara kwa mara"
+
+msgid "Reset"
+msgstr "Weka upya"
+
+msgid "Separators"
+msgstr "Vikatazi"
+
+msgid "Settings"
+msgstr "Mipangilio"
+
+msgid "Shamsee abjad order"
+msgstr "Mpangilio wa abjad ya Shamsee"
+
+msgid "Show numpad"
+msgstr "Onyesha numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Onyesha kibodi cha mtandaoni"
+
+msgid "Small"
+msgstr "Ndogo"
+
+msgid "Small + letter count"
+msgstr "Ndogo + idadi ya herufi"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Usaidizi"
+
+msgid "Taken (letter)"
+msgstr "Imechukuliwa (herufi)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Imechukuliwa (herufi; abjad)"
+
+msgid "Taken Letters"
+msgstr "Herufi zilizochukuliwa"
+
+msgid "Text or number cell"
+msgstr "Sehemu ya maandishi au nambari"
+
+msgid "Thank you for your support!"
+msgstr "Asante kwa msaada wako!"
+
+msgid "Total"
+msgstr "Jumla"
+
+msgid "Turkish"
+msgstr "Tureki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad ya alfabia ya Tureki"
+
+msgid "Turkish alphabet elements"
+msgstr "Vipengee vya alfabia ya Tureki"
+
+msgid "Turkish letters"
+msgstr "Herufi za Tureki"
+
+msgid "Undefined characters"
+msgstr "Kizami yasiyobainishwa"
+
+msgid "Value"
+msgstr "Thamani"
+
+msgid "Value & Detail"
+msgstr "Thamani & Maelezo"
+
+msgid "Version"
+msgstr "Toleo"
+
+msgid "Water"
+msgstr "Maji"
+
+msgid "When data is entered"
+msgstr "Wakati data inapoingizwa"
+
+msgid "When reading large digits"
+msgstr "Wakati kusoma nambari kubwa"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad hesabu na idadi ya harufi imeongezwa"
+
+msgid "abjad() functions settings"
+msgstr "mipangilio ya kazi za abjad()"
+
+msgid "add to initial value"
+msgstr "ongeza kwa thamani ya awali"
+
+msgid "and"
+msgstr "na"
+
+msgid "auto calculate immediately"
+msgstr "hesabu kiotomatiki mara moja"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "mipangilio ya kazi za bastet() na nutket()"
+
+msgid "count once"
+msgstr "hesabu mara moja"
+
+msgid "count twice"
+msgstr "hesabu mara mbili"
+
+msgid "display with Arabic numbers"
+msgstr "onyesha kwa nambari za Kiarabu"
+
+msgid "display with Indian numbers"
+msgstr "onyesha kwa nambari za India"
+
+msgid "do not add to initial value"
+msgstr "usongeze kwa thamani ya awali"
+
+msgid "do not force to other functions"
+msgstr "usifanye kuathiri kazi nyingine"
+
+msgid "do not purify"
+msgstr "usifanye usafi"
+
+msgid "force to other functions"
+msgstr "athiri kazi nyingine"
+
+msgid "group multiplier letters"
+msgstr "geuza herufi za mgawanyaji"
+
+msgid "hide"
+msgstr "ficha"
+
+msgid "hide abjad values"
+msgstr "ficha thamani za Abjad"
+
+msgid "hide bast results"
+msgstr "Fichua matokeo ya Bast"
+
+msgid "hide huddam names"
+msgstr "Fichua majina ya Huddam"
+
+msgid "huddam() function settings"
+msgstr "Mipangilio ya kazi huddam()"
+
+msgid "no bast applied."
+msgstr "Hakuna Bast ilitumika."
+
+msgid "no data entered"
+msgstr "Hakuna data iliyoongezwa"
+
+msgid "other suffix"
+msgstr "Sufiki nyingine"
+
+msgid "purify data"
+msgstr "Safisha data"
+
+msgid "repeat multiplier for each digit"
+msgstr "Rudia pundezo kwa kila nambari"
+
+msgid "show"
+msgstr "Onyesha"
+
+msgid "show abjad values"
+msgstr "Onyesha thamani za Abjad"
+
+msgid "show bast results"
+msgstr "Onyesha matokeo ya Bast"
+
+msgid "show huddam names"
+msgstr "Onyesha majina ya Huddam"
+
+msgid "suffix"
+msgstr "Sufiki"
+
+msgid "times bast applied."
+msgstr "Mara Bast ilitumika."
+
+msgid "use calculated abjad results"
+msgstr "Tumia matokeo ya Abjad yaliyohesabiwa"
+
+msgid "use calculated abjad total"
+msgstr "Tumia jumla ya Abjad iliyohesabiwa"
+
+msgid "use calculated bast results"
+msgstr "Tumia matokeo ya Bast yaliyohesabiwa"
+
+msgid "use entered data directly"
+msgstr "Tumia data iliyoongezwa moja kwa moja"
+
+msgid "use entered data total"
+msgstr "Tumia jumla ya data iliyoongezwa"
+
+msgid "use in all bast repetitions"
+msgstr "Tumia katika majaribio yote ya Bast"
+
+msgid "use only at beginning if possible"
+msgstr "Tumia tu mwanzoni ikiwa inawezekana"
+
+msgid "wait for settings and data entry"
+msgstr "Subiri mipangilio na ingizo la data"
+
+msgid "Abjad Table"
+msgstr "Jedwali la Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Maelezo"
+
+msgid "Element Classification"
+msgstr "Kugawanyaji wa Kipengee"
+
+msgid "Abjad Order"
+msgstr "Mpangilio wa Abjad"
+
+msgid "Abjad Widget"
+msgstr "Vifaa vya Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ongeza CSS maalum ili kubinaisha muonekano wa vifaa"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ongeza JavaScript maalum ili kubadilisha tabia ya vifaa. Mkodhi isiyofaa "
+"inaweza kuvunja vifaa!"
+
+msgid "An error occurred while loading content."
+msgstr "Kuna kosa lililotokea wakati wa kupakia maudhui."
+
+msgid "Button"
+msgstr "Kitufe"
+
+msgid "Button Color"
+msgstr "Rangi ya kitufe"
+
+msgid "Button Emoji"
+msgstr "Emojia ya kitufe"
+
+msgid "Button Message"
+msgstr "Ujumbe wa kitufe"
+
+msgid "Button Settings"
+msgstr "Mipangilio ya kitufe"
+
+msgid "Button Type"
+msgstr "Aina ya kitufe"
+
+msgid "CSS saved successfully."
+msgstr "CSS imehifadhiwa kwa mafanikio."
+
+msgid "Check this box to activate the widget."
+msgstr "Weka kijitupuu hiki ili kuwezesha widget."
+
+msgid "Code Editor"
+msgstr "Mhariri wa kodi"
+
+msgid "Custom CSS"
+msgstr "CSS maalum"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript maalum"
+
+msgid "Description"
+msgstr "Maelezo"
+
+msgid "Emoji"
+msgstr "Emojia"
+
+msgid "Enter image URL"
+msgstr "Weka URL ya picha"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Mfano: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Kwa ujumla"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript imehifadhiwa kwa mafanikio."
+
+msgid "Left"
+msgstr "Kushoto"
+
+msgid "Live Preview"
+msgstr "Previu ya moja kwa moja"
+
+msgid "Loading..."
+msgstr "Inapakia..."
+
+msgid "PNG Image URL"
+msgstr "URL ya picha ya PNG"
+
+msgid "Paste SVG code"
+msgstr "Bandika msimbo wa SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Tafadhali ingiza URL halali."
+
+msgid "Position"
+msgstr "Mahali"
+
+msgid "Reset to Default"
+msgstr "Weka upya kwa kiwango cha msingi"
+
+msgid "Right"
+msgstr "Kulia"
+
+msgid "SVG Code"
+msgstr "Msimbo wa SVG"
+
+msgid "Save CSS"
+msgstr "Hifadhi CSS"
+
+msgid "Save JavaScript"
+msgstr "Hifadhi JavaScript"
+
+msgid "Save Settings"
+msgstr "Hifadhi Mipangilio"
+
+msgid "Settings saved successfully."
+msgstr "Mipangilio imesahifadhiwa kwa mafanikio."
+
+msgid "Style Editor"
+msgstr "Mhariri wa Mtindo"
+
+msgid "WARNING"
+msgstr "KITUKIO"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Karibu! Unaweza kufuata habari na taarifa za widget kutoka pane hili."
+
+msgid "Widget Settings"
+msgstr "Mipangilio ya Widget"
+
+msgid "Widget Status"
+msgstr "Hali ya Widget"
+
+msgid "Widget active"
+msgstr "Widget inatumika"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kanuni isiyo sahihi ya JavaScript inaweza kuvunja widget. Fanya backup kabla"
+" ya kufanya mabadiliko."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Jina lako la mtumiaji la Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Mabadiliko yako yataathiri moja kwa moja muonekano wa widget. Ikiwa hujui "
+"CSS, inashauriwa kutumia mipangilio ya msingi."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashibodi Ndani"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Watafuta Kiroho na Mabwana"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Taarifa za utajiri: Wana hamu, wana uchunguzi, wana mawazo wazi, na wana "
+"mvuto kwa maarifa ya siri. Wanaweza kuwa na hamu kubwa ya kugundua maana "
+"zilizojaa siri au mifumo katika maisha. Ajira: Wasaidia wa kiroho, "
+"wanaandika tarot, watatuaji wa nyota, au watu wanaohusika katika mazoea ya "
+"New Age. Spectrum ya ideolojia: Huenda kutenda kuelekea imani ya kiroho au "
+"kimimi. Wanaweza kuona zana kama njia ya kuunganishwa na ukweli wa ndani au "
+"nguvu za ulimwengu."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Wanao Tathmini Nambari na Wapenda Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Taarifa za utajiri: Wana kuchanganua, wanathamini maelezo, na wanajali "
+"uhusiano kati ya nambari na lugha. Wanaweza kufurahia kutafsiri maana za "
+"ishara. Ajira: Wanao Tathmini Nambari binafsi, wandishi kuhusu mada za siri,"
+" au wapenda kujifunza kuhusu nambari. Spectrum ya ideolojia: Inaweza kuanzia"
+" wale wanaotarajia nambari kama mazoezi ya kufurahisha hadi wale wanaoamini "
+"umuhimu wake wa kiroho."
+
+msgid "Historians and Linguists"
+msgstr "Historia na Kisomaji"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Taarifa za utajiri: Wana elimu, wana njia, na wanavutiwa na historia au "
+"tamaduni za mifumo ya nambari kama Abjad. Ajira: Mwalimu, wanasayansi, au "
+"wanafunzi wanaojifunza lugha za Kiasia ya Kati, historia, au maandiko ya "
+"dini. Spectrum ya ideolojia: Huenda wanapitia zana kwa mtazamo wa sekula, "
+"kwa kuzingatia umuhimu wake wa kisasa au kielimu."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Watu wa Dini au wa Imani"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Taarifa za utajiri: Wana imani, wana tahadhari, na wanatafuta uhusiano zaidi"
+" na imani yao. Wanaweza kutumia zana kuchunguza maandiko ya dini au ujumbe "
+"wa mungu. Ajira: Wanafunzi wa dini, imams, waombea, au watu wa kawaida wenye"
+" hamu kubwa ya tamaduni za siri za imani yao. Spectrum ya ideolojia: Huenda "
+"wana mtazamo wa jadi au wa kisheria, wakitumia zana kuimarisha imani yao za "
+"kiroho."
+
+msgid "Writers and Artists"
+msgstr "Wandisi na Wasanii"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Taarifa za utajiri: Wana ubunifu, wanajali, na wanavutiwa na dhana za ishara"
+" au zisizo za hisia. Wanaweza kutumia zana kwa ajili ya hamu au kuongeza "
+"maelezo kwenye kazi zao. Ajira: Wakalimani, waandishi, wasanii wa kuona, au "
+"wanyenzi. Spectrum ya ideolojia: Inaweza kutofautiana kati ya watengenezaji "
+"wa sekula na wale wenye mwelekeo wa kiroho au siri."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Wapenda Puzzles na Mafumbo"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Taarifa za utajiri: Wana furaha, wana ujuzi wa kielelezo, na wanafurahia "
+"kutatua matatizo ngumu au kutafsiri mifumo. Ajira: Wanaofaa, wabuni wa "
+"puzzles, au walimu. Spectrum ya ideolojia: Huenda wanapotumia zana kama aina"
+" ya burudani au mazoezi ya akili, bila kuunganika na mtazamo wa kiitikadi."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Wanaonyeshaji Wazo la Uwagilio na Wanaota Fikiria Badala"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Taarifa za utajiri: Wana shaka kuhusu hadithi za kawaida, wanavutiwa na "
+"kugundua ukweli wa siri au mifumo katika mifumo. Ajira: Wanasayansi binafsi,"
+" waandika vitabu, au wajasiri. Spectrum ya ideolojia: Inaweza kuwa na "
+"mtazamo wa kimatani au wa kawaida, wakitumia zana kusaidia nadharia au "
+"hadithi tofauti."
+
+msgid "☕ Support the Project"
+msgstr "☕ Wasaidia Mradi"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ikiwa unapenda mradi wangu, unaweza kununua kahawa!"
+
+msgid "Buy Me A Coffee"
+msgstr "Nipa Kahawa"
+
+msgid "Thank you! 🙏"
+msgstr "Asante! 🙏"
