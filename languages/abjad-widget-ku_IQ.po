@@ -1,0 +1,813 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Kurdish (Sorani) <ku_IQ>\n"
+"Language: ku-IQ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "ڕێکخستەی ئەبجد"
+
+msgid "Abjad Value"
+msgstr "قەیمەتی ئەبجد"
+
+msgid "Abjad Widget Dashboard"
+msgstr "دیشبورداوی وێجت ئەبجد"
+
+msgid "Abjad calculation results"
+msgstr "ئەنجامەکانی هەژماری ئەبجد"
+
+msgid "Abjad calculations hidden"
+msgstr "هەژمارەکانی ئەبجد پەکەکراوە"
+
+msgid "Abjad not calculated"
+msgstr "ئەبجد نەهەژماردە"
+
+msgid "Abjad order"
+msgstr "ئاستی ئەبجد"
+
+msgid "Add elements"
+msgstr "زیادکردنی ئەندامەکان"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "هەوا"
+
+msgid "All"
+msgstr "هەموو"
+
+msgid "Arabic"
+msgstr "عەرەبی"
+
+msgid "Arabic letters"
+msgstr "حرفە عەرەبی"
+
+msgid "Arabic numbers"
+msgstr "ژمارە عەرەبی"
+
+msgid "As data for operation"
+msgstr "وەک زانیاری بۆ کار"
+
+msgid "Bast loop results"
+msgstr "ئەنجامەکانی دۆڕەی Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast نەهەژماردە"
+
+msgid "Bast repetition count"
+msgstr "ژمارەی داوایەتی Bast"
+
+msgid "Bast results hidden"
+msgstr "ئەنجامەکانی Bast پەکەکراوە"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "ئاستی Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "جەدولەکانی Bastet"
+
+msgid "Big"
+msgstr "بزرگ"
+
+msgid "Bigger"
+msgstr "بە گەورەتر"
+
+msgid "Buy Me a Coffee ID"
+msgstr "ID-ی قەهوی من"
+
+msgid "Buy me a coffee"
+msgstr "بیکە قەهوی"
+
+msgid "Calculate"
+msgstr "هەژماردن"
+
+msgid "Calculate Abjad"
+msgstr "هەژماری ئەبجد"
+
+msgid "Calculate Bastet"
+msgstr "هەژمارکردنی باسیەت"
+
+msgid "Calculate Huddam"
+msgstr "هەژمارکردنی هوددم"
+
+msgid "Calculation details"
+msgstr "تجزئەکانی هەژمارکردن"
+
+msgid "Choose Keyboard Layout"
+msgstr "هەڵبژاردنی ئەمەلەی تەختەکەی کلید"
+
+msgid "Clear text box"
+msgstr "پاککردنەوەی خانەی دەق"
+
+msgid "Click row for details"
+msgstr "کلیک لە رەشەکە بۆ زانیاری زیاتر"
+
+msgid "Close Keyboard"
+msgstr "کۆتایی تەختەکەی کلید"
+
+msgid "Closed"
+msgstr "گفت"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "کۆما گواستنەوەی بنەڕەتیە و دەبێت بەردەوام بمێنێت!"
+
+msgid "Dashboard"
+msgstr "داشبۆرد"
+
+msgid "Data entry separators:"
+msgstr "کۆلێکەکانی ناردنی داتا:"
+
+msgid "Data type profile"
+msgstr "پڕۆفایلی جۆری داتا"
+
+msgid "Dead keys"
+msgstr "کلیلەکانی مرد"
+
+msgid "Decrease keyboard size"
+msgstr "قەبارەی تەختەکەی کلید کەم بکە"
+
+msgid "Don't calculate"
+msgstr "هەژمار نەکە"
+
+msgid "Duty entity name results"
+msgstr "ئەنجامەکانی ناوی یەکەتی بەرپرسیار"
+
+msgid "Duty entity type"
+msgstr "جۆری یەکەتی بەرپرسیار"
+
+msgid "Earth"
+msgstr "زەوی"
+
+msgid "Element classification"
+msgstr "ناسنامەکردنی ئەندام"
+
+msgid "Element classification method"
+msgstr "ڕێنمایی ناسنامەکردنی ئەندام"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "دەق بنووسە... حروفەکانەکانی عەرەبی، یۆرابەیی، تورکی، ژمارەکان"
+
+msgid "Entered data"
+msgstr "داتای ناردراو"
+
+msgid "Entry"
+msgstr "ناردن"
+
+msgid "Entry letter count"
+msgstr "ژمارەی حروفەکانی ناردن"
+
+msgid "Evil"
+msgstr "ڕەغ"
+
+msgid "Fire"
+msgstr "سۆر"
+
+msgid "For entered data"
+msgstr "بۆ داتای ناردراو"
+
+msgid "Frequency in Quran"
+msgstr "دۆخی سەرفێشکە لە کوڕان"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "یۆرابەیی"
+
+msgid "Hebrew alphabet elements"
+msgstr "ئەندامەکانی فەرمی عەبرەیی"
+
+msgid "Hebrew letters"
+msgstr "حرفەکانی عەبرەیی"
+
+msgid "High"
+msgstr "بەرز"
+
+msgid "Hija order"
+msgstr "ڕێکەوتی هِجە"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "ناوی هُدَّمەکان پێکەوتن"
+
+msgid "Huddam not calculated"
+msgstr "هُدَّم نەکەواتە"
+
+msgid "Iklil's order"
+msgstr "ڕێکەوتی ئیکلێل"
+
+msgid "Increase keyboard size"
+msgstr "قەبارەی تەختەکە زیاد بکە"
+
+msgid "Indian numbers"
+msgstr "ژمارەکانی هِندی"
+
+msgid "Interface language"
+msgstr "زمانی بەکارهێنانی"
+
+msgid "Let character quantity decide"
+msgstr "ڕێگە بدە بۆ ژمارەی نوسین بڕیار بگرن"
+
+msgid "Letter count"
+msgstr "ژمارەی حروف"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "پڕۆژەکانم گرنگن؟ کافەیەک خۆم بدە!"
+
+msgid "Low"
+msgstr "ئەنداز"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "ئاسۆ"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "زمانی خوێندنی ژمارە"
+
+msgid "Numerical values"
+msgstr "نرخەکانی ژمارەیی"
+
+msgid "Open"
+msgstr "کۆن"
+
+msgid "Order"
+msgstr "ڕێکەوت"
+
+msgid "Possible phrases"
+msgstr "دروستەکانی ڕاستەقینە"
+
+msgid "Program settings"
+msgstr "ڕێکخستنی بەرنامە"
+
+msgid "Pronunciation"
+msgstr "سۆرینە"
+
+msgid "Regular expression"
+msgstr "بەرەنووس"
+
+msgid "Regularly preferred classification"
+msgstr "فەرمی پێشکەوتن"
+
+msgid "Reset"
+msgstr "سڕینەوە"
+
+msgid "Separators"
+msgstr "فەرتەکان"
+
+msgid "Settings"
+msgstr "ڕێکخستنەکان"
+
+msgid "Shamsee abjad order"
+msgstr "ڕێکەوتی شەمسی ئابجد"
+
+msgid "Show numpad"
+msgstr "نومپاد نیشان بدە"
+
+msgid "Show virtual keyboard"
+msgstr "کلیلەکەی ڕاستەوخۆ نیشان بدە"
+
+msgid "Small"
+msgstr "کوچک"
+
+msgid "Small + letter count"
+msgstr "کوچک + ژمارەی حروف"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "پشتیوانی"
+
+msgid "Taken (letter)"
+msgstr "گرت (هەروف)"
+
+msgid "Taken (letter; abjad)"
+msgstr "گرت (هەروف؛ ئابجد)"
+
+msgid "Taken Letters"
+msgstr "هەروفە گرتەکان"
+
+msgid "Text or number cell"
+msgstr "خانا دەق یان ژمارە"
+
+msgid "Thank you for your support!"
+msgstr "سوپاس بۆ پشتیوانیەکانتان!"
+
+msgid "Total"
+msgstr "کۆ"
+
+msgid "Turkish"
+msgstr "تۆرک"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "ئابجدی حروفی تۆرک"
+
+msgid "Turkish alphabet elements"
+msgstr "ئامۆژەکانی حروفی تۆرک"
+
+msgid "Turkish letters"
+msgstr "حروفی تۆرک"
+
+msgid "Undefined characters"
+msgstr "کریکتەرە نادەنگێ"
+
+msgid "Value"
+msgstr "قیمت"
+
+msgid "Value & Detail"
+msgstr "قیمت & وردەکاری"
+
+msgid "Version"
+msgstr "وەریۆن"
+
+msgid "Water"
+msgstr "آب"
+
+msgid "When data is entered"
+msgstr "کاتێک داتاکە هاتوە"
+
+msgid "When reading large digits"
+msgstr "کاتێک ژمارە گەورە بخوێنێ"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "ئەبجەدەکان بەسەرجەردە و ژمارەی نوتەکان زیادکرا"
+
+msgid "abjad() functions settings"
+msgstr "ڕێککەوتنەکانی فەرۆشەکانی abjad()"
+
+msgid "add to initial value"
+msgstr "زیادکردن بۆ نرخی سەرەتا"
+
+msgid "and"
+msgstr "و"
+
+msgid "auto calculate immediately"
+msgstr "خۆکارانە ژمارەکردن دەستپێکە"
+
+msgid "bast"
+msgstr "بەست"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "ڕێککەوتنەکانی فەرۆشەکانی bastet() و nutket()"
+
+msgid "count once"
+msgstr "کۆتایەکە کۆمەڵکردن"
+
+msgid "count twice"
+msgstr "دوو جار کۆمەڵکردن"
+
+msgid "display with Arabic numbers"
+msgstr "پیشاندان بە ژمارەی عەرەبی"
+
+msgid "display with Indian numbers"
+msgstr "پیشاندان بە ژمارەی هەندۆی"
+
+msgid "do not add to initial value"
+msgstr "نەکە زیاد بکە بۆ نرخی سەرەتا"
+
+msgid "do not force to other functions"
+msgstr "نەکە قایم بکە بۆ فەرۆشەی تری"
+
+msgid "do not purify"
+msgstr "نەکە پاک بکرێ"
+
+msgid "force to other functions"
+msgstr "قەوە بکرێ بۆ فەرۆشەی تری"
+
+msgid "group multiplier letters"
+msgstr "گروپی ژمارەکانی گەورە"
+
+msgid "hide"
+msgstr "شاردن"
+
+msgid "hide abjad values"
+msgstr "شاردنەوەی بەیەی ئەبجەد"
+
+msgid "hide bast results"
+msgstr "پەڕەکانی bast خفیە بکە"
+
+msgid "hide huddam names"
+msgstr "huddam ناون خفیە بکە"
+
+msgid "huddam() function settings"
+msgstr "huddam() دانەی سێتینگەکان"
+
+msgid "no bast applied."
+msgstr "هیچ bast بەکار نەهاتوو."
+
+msgid "no data entered"
+msgstr "هیچ داتایەک وارد نەکرا."
+
+msgid "other suffix"
+msgstr "سافیکسیسەکی تر"
+
+msgid "purify data"
+msgstr "داتاکان پاک بکە"
+
+msgid "repeat multiplier for each digit"
+msgstr "قەبارەی فاکتۆر بۆ هەر ژمارە"
+
+msgid "show"
+msgstr "نیشانە بکە"
+
+msgid "show abjad values"
+msgstr "نیشانەی abjad بەردەست بکە"
+
+msgid "show bast results"
+msgstr "نیشانەی bast نەشتەکان"
+
+msgid "show huddam names"
+msgstr "نیشانەی huddam ناون"
+
+msgid "suffix"
+msgstr "سافیکسیس"
+
+msgid "times bast applied."
+msgstr "جارەکانی bast بەکار هاتوو."
+
+msgid "use calculated abjad results"
+msgstr "بەکارهێنانی ئەنجامەکانی abjad حسابکراوەکان"
+
+msgid "use calculated abjad total"
+msgstr "کۆی حسابکراوەکان abjad"
+
+msgid "use calculated bast results"
+msgstr "بەکارهێنانی ئەنجامەکانی bast حسابکراوەکان"
+
+msgid "use entered data directly"
+msgstr "داتاکانی بەکارهێنانی لەڕاستەوخۆ"
+
+msgid "use entered data total"
+msgstr "کۆی داتاکان"
+
+msgid "use in all bast repetitions"
+msgstr "لە هەموو دۆڕەکانی bast بەکارهێنە"
+
+msgid "use only at beginning if possible"
+msgstr "تنها لە دەستپێکەوە بەکارهێنە ئەگەر توانایی هەبێت"
+
+msgid "wait for settings and data entry"
+msgstr "لەسەر سێتینگەکان و دەستکاری داتاکان داوە بکە"
+
+msgid "Abjad Table"
+msgstr "تیبلەی abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "تفاصیل"
+
+msgid "Element Classification"
+msgstr "کۆمەڵگەی ئایتم"
+
+msgid "Abjad Order"
+msgstr "ڕێکەوتنی abjad"
+
+msgid "Abjad Widget"
+msgstr "ویجت abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "CSS تایبەتی زیاد بکە بۆ گۆڕینی نیشاندانی ویجت."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"JavaScript تایبەتی زیاد بکە بۆ گۆڕینی ڕۆڵی ویجت. کۆدی هەڵە دەتوانێ ویجت "
+"بسڕێت!"
+
+msgid "An error occurred while loading content."
+msgstr "کێشەیەک ڕوویدا لە بارکردنی نێوەکان."
+
+msgid "Button"
+msgstr "کلیل"
+
+msgid "Button Color"
+msgstr "ڕەنگی کلیل"
+
+msgid "Button Emoji"
+msgstr "ئەمۆجیی کلیل"
+
+msgid "Button Message"
+msgstr "نامەی کلیل"
+
+msgid "Button Settings"
+msgstr "ڕێککەوتەکانى کلیل"
+
+msgid "Button Type"
+msgstr "جۆری کلیل"
+
+msgid "CSS saved successfully."
+msgstr "CSS بە سەرکەوتوویی خەزن کرا."
+
+msgid "Check this box to activate the widget."
+msgstr "ئەم خانەیە چەک بکە بۆ چالاککردنی وێجت."
+
+msgid "Code Editor"
+msgstr "دەستکاریکەری کۆد"
+
+msgid "Custom CSS"
+msgstr "CSS تایبەتی"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript تایبەتی"
+
+msgid "Description"
+msgstr "وەسف"
+
+msgid "Emoji"
+msgstr "ئەمۆجی"
+
+msgid "Enter image URL"
+msgstr "URLی وێنە بنوسە"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "مثال: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "گشتی"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript بە سەرکەوتوویی خەزن کرا."
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Live Preview"
+msgstr "پێشکەشکردنی ژیانی"
+
+msgid "Loading..."
+msgstr "بار دەکات..."
+
+msgid "PNG Image URL"
+msgstr "URLی وێنە PNG"
+
+msgid "Paste SVG code"
+msgstr "کۆدی SVG بنەکە"
+
+msgid "Please enter a valid URL."
+msgstr "کۆمکە، URLی ڕاست بنوسە."
+
+msgid "Position"
+msgstr "شوێن"
+
+msgid "Reset to Default"
+msgstr "گەڕانەوە بۆ بنەڕەت"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "SVG Code"
+msgstr "کۆدی SVG"
+
+msgid "Save CSS"
+msgstr "خەزنکردنی CSS"
+
+msgid "Save JavaScript"
+msgstr "خەزنکردنی JavaScript"
+
+msgid "Save Settings"
+msgstr "پاشەکەوتکردنی ڕێکخستنەکان"
+
+msgid "Settings saved successfully."
+msgstr "ڕێکخستنەکان بە سەرکەوتوویی پاشەکەوتکراون."
+
+msgid "Style Editor"
+msgstr "ئێدەیتۆری شێوازی"
+
+msgid "WARNING"
+msgstr "ئاگاداری"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"به‌خێرهاتن! دەتوانیت هەواڵەکان و ئاگاداریەکان لە وێجت لەو پانێلەوە پیگیری "
+"بکەیت."
+
+msgid "Widget Settings"
+msgstr "ڕێکخستنەکانی وێجت"
+
+msgid "Widget Status"
+msgstr "دۆخی وێجت"
+
+msgid "Widget active"
+msgstr "وێجت چالاکە"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"کۆدی JavaScript نادرست دەتوانێت وێجت بۆنێت. پێش گۆڕانکاری پشتیبان بکە."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "ناوی بەکارهێنەر لە Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"گۆڕانکاریەکانت سەیر بە شێوەی وێجت دەگرنەوە. ئەگەر CSS نابی زانیاری، پێشنیار "
+"دەکرێت بەڕێکخستنەکانی بنەڕەتی بەکاربهێنیت."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "وێجت ئەبجد - داشبۆردی ناوەندی"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "دۆستانەکانی رووحی و رووشانەکان"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"هەوڵدانی شخصیت: سەیران، گەڕانەکان، بۆشای پەیوەندیدار، و بەشێک بۆ زانستەکانی "
+"هەورەیی. ئەوان دەتوانن بە حەزنێکی قەیسی وەرگێڕەکانی شیاوتەکان یان ڕووناکەکان"
+" لە ژیانتان هەڵچاو بکەن. شەخسەکان: کۆچکانی رووحی، بەرەوپێشکەوتنەکانی تارت، "
+"ستەریانەکانی نێوی یان کەسەکانی بەشێک لە پڕۆسەی نوێی سەرتەری. سەرجەم فکری: لە"
+" بەرێوەبەرزییەکەی رووحی یان مەتافیزیکیەکان بەرز دەگرێت. ئەوان دەتوانن "
+"ئەداتەکە بۆ پەیوەندی بە هەقەقەیی گەورە یان توانایەکانی ئاسۆکەی "
+"کۆمەڵایەتیەکان."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "نەوەری ژمارەکان و گەمەترایەکانی گەمەتریا"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"هەوڵدانی شخصیت: ڕەسەق، گەڕانەکانی ژمارە و زمان، و بەرزەکان بە شێوەیی شیاو. "
+"ئەوان دەتوانن بە هۆشیاری بەرەوپێشکەوتنەکانی مانای نیشاندانی شیاوی. شەخسەکان:"
+" نەوەری خۆڕای، نووسەرەکان لە بابەتەکانی شیاوی یان کەسەکانی ژمارەکردن. سەرجەم"
+" فکری: لە بەرێوەبەرزییەکەی وەک پێویستەکەی بەکاتەوە یان گەورە هەیە لە "
+"رووپەیەکانی سەربەست."
+
+msgid "Historians and Linguists"
+msgstr "تاریخین و لەنگویەکان"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"هەوڵدانی شخصیت: زانایە، روشەکاری، و گەڕانەکانی کۆنەکانی ژمارەکانی ئەبجد. "
+"شەخسەکان: زانکۆیان، لێکەڵکەی، یان قوتابخانەیەکانی زانستەکانی ناوەری ئێوازی، "
+"مێژووی یان دەستەی دینی. سەرجەم فکری: لە بەرێوەبەرزییەکەی سەربەست، "
+"بەسەرکەوتووییەکی سەربەست لە داتایەکانی سەربەست."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "کەسانی دینی یان بەپێی نازانەوە"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"هەوڵدانی شخصیت: ڕەحمەتی، ڕەسەق، و گەڕانەکانی بەرزەکان بە دینی. ئەوان دەتوانن"
+" بڕۆنە بەکارهێنانی کەسەکان دینی یان لەسەری دەتان. شەخسەکان: نووسەرەکان دینی،"
+" ئیمام، بابەیەکان، یان کەسەکانی هەورەیی. سەرجەم فکری: لە بەرێوەبەرزییەکەی "
+"رووحی، لە سەرکەوتووییەکانی دینی."
+
+msgid "Writers and Artists"
+msgstr "نووسراو و سەیرانەکان"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"هەوڵدانی شخصیت: خلاق، خەیاڵە، و گەڕانەکانی شیاو. ئەوان دەتوانن بڕۆنە "
+"بەکارهێنانی ئامرازەکانی بۆ بەرزەکان. شەخسەکان: نوسێرەکان، کەسەکانی "
+"بەکارهێنانی، سەیرانەکانی، یان گۆرۆکان. سەرجەم فکری: لە بەرێوەبەرزییەکەی "
+"سەربەست."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "شەهەکی و پزلی"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"هەوڵدانی شخصیت: ئەرەبە، فکری و گەڕانەکانی شیاوی. ئەوان دەتوانن بە شێوەیی "
+"گەشەکانی ژمێری. شەخسەکان: خەیاڵەکانی، پزلی، یان فێربەرەکان. سەرجەم فکری: لە "
+"بەرێوەبەرزییەکەی لە شێوەیی گەشە و بێدەنگیەکان."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "نەهێنانی چالاکی و فکری پەیوەندیەکەی"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"هەوڵدانی شخصیت: سەری پەیوەندیدار، گەڕانەکانی گەورەیی. ئەوان دەتوانن بە "
+"شێوەیی گەشەکانی ژمێری. شەخسەکان: لێکەڵکەی، گۆڕاندن، یان فێربەرەکان. سەرجەم "
+"فکری: لە بەرێوەبەرزییەکەی لە شێوەیی گەشە و بێدەنگیەکان."
+
+msgid "☕ Support the Project"
+msgstr "☕ پشتگیری بەرنامەکە"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "ئەگەر بەرنامەم خۆت پێویستە، دەتوانیت کۆیێک خۆت لەماڵیەکەکان بدەیت!"
+
+msgid "Buy Me A Coffee"
+msgstr "کۆیێک بڕیندەکان"
+
+msgid "Thank you! 🙏"
+msgstr "سوپاس! 🙏"

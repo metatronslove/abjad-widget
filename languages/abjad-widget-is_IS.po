@@ -1,0 +1,822 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Icelandic <is_IS>\n"
+"Language: is-IS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad stillingar"
+
+msgid "Abjad Value"
+msgstr "Abjad gildi"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad widget stjórnborð"
+
+msgid "Abjad calculation results"
+msgstr "Abjad reikninga niðurstöður"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad reikningar faldin"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ekki reiknaður"
+
+msgid "Abjad order"
+msgstr "Abjad röð"
+
+msgid "Add elements"
+msgstr "Bæta við hlutum"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Luft"
+
+msgid "All"
+msgstr "Allt"
+
+msgid "Arabic"
+msgstr "Arabíska"
+
+msgid "Arabic letters"
+msgstr "Arabíska stafir"
+
+msgid "Arabic numbers"
+msgstr "Arabíska tölur"
+
+msgid "As data for operation"
+msgstr "Sem gögn fyrir aðgerð"
+
+msgid "Bast loop results"
+msgstr "Bast lykkju niðurstöður"
+
+msgid "Bast not calculated"
+msgstr "Bast ekki reiknaður"
+
+msgid "Bast repetition count"
+msgstr "Bast endurtekningarmengi"
+
+msgid "Bast results hidden"
+msgstr "Bast niðurstöður faldar"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet röð"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tafla"
+
+msgid "Big"
+msgstr "Stór"
+
+msgid "Bigger"
+msgstr "Stærri"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee auðkenni"
+
+msgid "Buy me a coffee"
+msgstr "Kaupa mér kaffi"
+
+msgid "Calculate"
+msgstr "Reikna"
+
+msgid "Calculate Abjad"
+msgstr "Reikna Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Reikna Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Reikna Huddam"
+
+msgid "Calculation details"
+msgstr "Reiknisupplýsingar"
+
+msgid "Choose Keyboard Layout"
+msgstr "Veldu lyklaborðssnið"
+
+msgid "Clear text box"
+msgstr "Hreinsa textasvæði"
+
+msgid "Click row for details"
+msgstr "Smelltu á röð fyrir upplýsingar"
+
+msgid "Close Keyboard"
+msgstr "Loka lyklaborðinu"
+
+msgid "Closed"
+msgstr "Lokað"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Kommagátta er sjálfgefið aðgreining og verður að vera merkt!"
+
+msgid "Dashboard"
+msgstr "Skjáborð"
+
+msgid "Data entry separators:"
+msgstr "Gagnasöfnunar skiptar:"
+
+msgid "Data type profile"
+msgstr "Gagnategundarsnið"
+
+msgid "Dead keys"
+msgstr "Dreypu lyklar"
+
+msgid "Decrease keyboard size"
+msgstr "Minnka lyklaborðsstærð"
+
+msgid "Don't calculate"
+msgstr "Ekki reikna"
+
+msgid "Duty entity name results"
+msgstr "Nafn verkefnis niðurstöður"
+
+msgid "Duty entity type"
+msgstr "Verkefnisgerð"
+
+msgid "Earth"
+msgstr "Jörð"
+
+msgid "Element classification"
+msgstr "Element flokkun"
+
+msgid "Element classification method"
+msgstr "Element flokkunarskipun"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Slá inn texta... Arabíska, Hebræíska, Törkneska stafir, tölur"
+
+msgid "Entered data"
+msgstr "Innskráð gögn"
+
+msgid "Entry"
+msgstr "Inngangur"
+
+msgid "Entry letter count"
+msgstr "Inngangs stafatal"
+
+msgid "Evil"
+msgstr "Illur"
+
+msgid "Fire"
+msgstr "Eldur"
+
+msgid "For entered data"
+msgstr "Fyrir innskráð gögn"
+
+msgid "Frequency in Quran"
+msgstr "Fjöldi í Kóraninu"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebræíska"
+
+msgid "Hebrew alphabet elements"
+msgstr "Hebræaalfábúðarpunktar"
+
+msgid "Hebrew letters"
+msgstr "Hebræa stafir"
+
+msgid "High"
+msgstr "Hæstu"
+
+msgid "Hija order"
+msgstr "Hija röð"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam-ögnir falnar"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ekki reiknuð"
+
+msgid "Iklil's order"
+msgstr "Iklil röð"
+
+msgid "Increase keyboard size"
+msgstr "Auka lyklaborðs stærð"
+
+msgid "Indian numbers"
+msgstr "Indíar tölur"
+
+msgid "Interface language"
+msgstr "Mál viðmóts"
+
+msgid "Let character quantity decide"
+msgstr "Leyfja fjölda stafa að ákveða"
+
+msgid "Letter count"
+msgstr "Stafatölur"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Líkar þú verkefnin mín? Kauptu kaffið fyrir mig!"
+
+msgid "Low"
+msgstr "Lágt"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija röð"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Tölulestursmál"
+
+msgid "Numerical values"
+msgstr "Töluleg gildi"
+
+msgid "Open"
+msgstr "Opna"
+
+msgid "Order"
+msgstr "Röð"
+
+msgid "Possible phrases"
+msgstr "Möguleg setningar"
+
+msgid "Program settings"
+msgstr "Forrits stillingar"
+
+msgid "Pronunciation"
+msgstr "Tónfall"
+
+msgid "Regular expression"
+msgstr "Regluleg tjáning"
+
+msgid "Regularly preferred classification"
+msgstr "Staðlað kjósta flokkun"
+
+msgid "Reset"
+msgstr "Endurstilla"
+
+msgid "Separators"
+msgstr "Aðskilandi"
+
+msgid "Settings"
+msgstr "Stillingar"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad röð"
+
+msgid "Show numpad"
+msgstr "Birta númeratöflu"
+
+msgid "Show virtual keyboard"
+msgstr "Birta virtuál stykki"
+
+msgid "Small"
+msgstr "Smá"
+
+msgid "Small + letter count"
+msgstr "Smá + fjöldi stafa"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Stuðningur"
+
+msgid "Taken (letter)"
+msgstr "Takið (stafur)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Takið (stafur; abjad)"
+
+msgid "Taken Letters"
+msgstr "Takaðir stafir"
+
+msgid "Text or number cell"
+msgstr "Texti eða tölubúningur"
+
+msgid "Thank you for your support!"
+msgstr "Takk fyrir stuðninginn þinn!"
+
+msgid "Total"
+msgstr "Heild"
+
+msgid "Turkish"
+msgstr "Tyrkneska"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Tyrkneska stafatalan abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Tyrkneska stafatalan atriði"
+
+msgid "Turkish letters"
+msgstr "Tyrkneskir stafir"
+
+msgid "Undefined characters"
+msgstr "Óskilgreindir merki"
+
+msgid "Value"
+msgstr "Gildi"
+
+msgid "Value & Detail"
+msgstr "Gildi & Upplýsingar"
+
+msgid "Version"
+msgstr "Útgáfa"
+
+msgid "Water"
+msgstr "Vatn"
+
+msgid "When data is entered"
+msgstr "Þegar gögn eru inntekin"
+
+msgid "When reading large digits"
+msgstr "Þegar lestur stórra tölustafa"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad reiknað og stafatal bætt"
+
+msgid "abjad() functions settings"
+msgstr "abjad() fallstillingar"
+
+msgid "add to initial value"
+msgstr "bæta við upphafsverði"
+
+msgid "and"
+msgstr "og"
+
+msgid "auto calculate immediately"
+msgstr "sjálfvirkt reikna strax"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() og nutket() fallstillingar"
+
+msgid "count once"
+msgstr "telja einu sinni"
+
+msgid "count twice"
+msgstr "telja tvo sinnum"
+
+msgid "display with Arabic numbers"
+msgstr "sýna með arabískum tölum"
+
+msgid "display with Indian numbers"
+msgstr "sýna með indískum tölum"
+
+msgid "do not add to initial value"
+msgstr "ekki bæta við upphafsverði"
+
+msgid "do not force to other functions"
+msgstr "ekki þvinga til annarra falla"
+
+msgid "do not purify"
+msgstr "ekki hreinsa"
+
+msgid "force to other functions"
+msgstr "þvinga til annarra falla"
+
+msgid "group multiplier letters"
+msgstr "grúpa margföldunartákna"
+
+msgid "hide"
+msgstr "fela"
+
+msgid "hide abjad values"
+msgstr "fela abjad gildi"
+
+msgid "hide bast results"
+msgstr "fela bast niðurstöður"
+
+msgid "hide huddam names"
+msgstr "fela huddam nöfn"
+
+msgid "huddam() function settings"
+msgstr "huddam() fall stillingar"
+
+msgid "no bast applied."
+msgstr "enginn bast notaður."
+
+msgid "no data entered"
+msgstr "engar gögn innsett"
+
+msgid "other suffix"
+msgstr "annað suffiks"
+
+msgid "purify data"
+msgstr "hreinsa gögn"
+
+msgid "repeat multiplier for each digit"
+msgstr "endurtaka margfalda fyrir hvert tölu"
+
+msgid "show"
+msgstr "sýna"
+
+msgid "show abjad values"
+msgstr "sýna abjad gildi"
+
+msgid "show bast results"
+msgstr "sýna bast niðurstöður"
+
+msgid "show huddam names"
+msgstr "sýna huddam nöfn"
+
+msgid "suffix"
+msgstr "suffiks"
+
+msgid "times bast applied."
+msgstr "tölur bast notaðir."
+
+msgid "use calculated abjad results"
+msgstr "nota reiknað abjad niðurstöður"
+
+msgid "use calculated abjad total"
+msgstr "nota reiknað abjad heild"
+
+msgid "use calculated bast results"
+msgstr "nota reiknað bast niðurstöður"
+
+msgid "use entered data directly"
+msgstr "nota innsett gögn beint"
+
+msgid "use entered data total"
+msgstr "nota innsett gögn heild"
+
+msgid "use in all bast repetitions"
+msgstr "nota í öllum bast endurtekningum"
+
+msgid "use only at beginning if possible"
+msgstr "nota aðeins í byrjun ef mögulegt"
+
+msgid "wait for settings and data entry"
+msgstr "bíddu eftir stillingum og gagnasöfnun"
+
+msgid "Abjad Table"
+msgstr "Abjad töflu"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Nánar"
+
+msgid "Element Classification"
+msgstr "Einingarskilyrð"
+
+msgid "Abjad Order"
+msgstr "Abjad röð"
+
+msgid "Abjad Widget"
+msgstr "Abjad tól"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Bættu við sérsniðnu CSS til að sérsníða útlit vönnunarinnar."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Bættu við sérsniðnu JavaScript til að breyta hegðun vönnunarinnar. Róngur "
+"kóði getur brotnað vönnunarinnar!"
+
+msgid "An error occurred while loading content."
+msgstr "Villa kom upp við lestu efnis."
+
+msgid "Button"
+msgstr "Hnappur"
+
+msgid "Button Color"
+msgstr "Lit hnappa"
+
+msgid "Button Emoji"
+msgstr "Emoji hnappur"
+
+msgid "Button Message"
+msgstr "Hnappur skilaboð"
+
+msgid "Button Settings"
+msgstr "Stillingar hnappa"
+
+msgid "Button Type"
+msgstr "Tegund hnappa"
+
+msgid "CSS saved successfully."
+msgstr "CSS vistað með góðum árangri."
+
+msgid "Check this box to activate the widget."
+msgstr "Merkjaðu þetta svæði til að virkja viðmótseininguna."
+
+msgid "Code Editor"
+msgstr "Kóðaritill"
+
+msgid "Custom CSS"
+msgstr "Sérsniðin CSS"
+
+msgid "Custom JavaScript"
+msgstr "Sérsniðin JavaScript"
+
+msgid "Description"
+msgstr "Lýsing"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Settu inn slóð á mynd"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Dæmi: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Almennt"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript vistað með góðum árangri."
+
+msgid "Left"
+msgstr "Vinstri"
+
+msgid "Live Preview"
+msgstr "Lífi forskoðun"
+
+msgid "Loading..."
+msgstr "Hleð..."
+
+msgid "PNG Image URL"
+msgstr "PNG myndslóð"
+
+msgid "Paste SVG code"
+msgstr "Límdu SVG kóða"
+
+msgid "Please enter a valid URL."
+msgstr "Vinsamlegast sláðu inn gilt slóð."
+
+msgid "Position"
+msgstr "Staðsetning"
+
+msgid "Reset to Default"
+msgstr "Endurstilla í sjálfgefið"
+
+msgid "Right"
+msgstr "Hægri"
+
+msgid "SVG Code"
+msgstr "SVG kóði"
+
+msgid "Save CSS"
+msgstr "Vista CSS"
+
+msgid "Save JavaScript"
+msgstr "Vista JavaScript"
+
+msgid "Save Settings"
+msgstr "Vista stillingar"
+
+msgid "Settings saved successfully."
+msgstr "Stillingar vistaðar"
+
+msgid "Style Editor"
+msgstr "Stílritari"
+
+msgid "WARNING"
+msgstr "AÐVÖNG"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Velkomin! Þú getur fylgst með fréttum og tilkynningum tólanna frá þessu "
+"paneli."
+
+msgid "Widget Settings"
+msgstr "Stillingar tólanna"
+
+msgid "Widget Status"
+msgstr "Staða tólanna"
+
+msgid "Widget active"
+msgstr "Tólið virkur"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Rangur JavaScript-kóði getur brotið tól. Gerðu öryggisafrit áður en þú "
+"breytir."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Notandanafn þitt á Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Breytingar þínar munu beint hafa áhrif á útlit tólanna. Ef þú hefur ekki "
+"þekkingu á CSS mælum við með að nota sjálfgefnar stillingar."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad tól - Staðbundið stjórnborð"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Andlegir leitendur og mystík"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Persónuleg eiginleikar: Kynþu, innsæi, opinn hugur og ágrip af dýraþekkingu."
+" Þeir hafa mögulega sterkt áhugamál í að uppgötva dularfullar merkingar eða "
+"mynstaður í lífi. Starfssviðmál: Andlegir kenndar, tóra- og stjarnfræðingar "
+"eða einstaklingar sem taka þátt í nýrri tíma. Hlýðjósnið: Skilgreint líklega"
+" að hreyfa sér í átt að andlegum eða metaforískum trúarhlutum. Þeir kunna að"
+" sjá tólin sem leið til að tengjast dýpri sannleika eða alheims orðum."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Tölufræði- og Gematria-ástæðir"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Persónuleg eiginleikar: Greiningarháttur, nánar í huga, og heyrt af sambandi"
+" milli númera og tungumáls. Þeir njóta dekóða táknrænnar merkingu. "
+"Starfssviðmál: Sjálfstæðir tölufræðingar, rithöfundar um dýraþætti eða "
+"áhugamenn sem kanna tölufræði. Hlýðjósnið: Hægt að vera allt frá þeim sem "
+"sjá tölufræði sem skemmtilegt hugaáætlun til þeirra sem trúa því að það hafi"
+" djúpan andlega merkingu."
+
+msgid "Historians and Linguists"
+msgstr "Sagnfræðingar og tungumálfræðingar"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Persónuleg eiginleikar: Vísindalegur, skýraður og áhugavert í sögulegum eða "
+"menningarlegum samhengi tölustafi eins og Abjad. Starfssviðmál: "
+"Menningarsýslumenn, rannsóknarmaður eða nemendur sem rannsaka mið-"
+"Áfæðustætta tungumál, sögu eða trúartexta. Hlýðjósnið: Skilgreint líklega að"
+" nálgast tólina frá sakrara, vísindalegrar sjónarhorni, með áherslu á "
+"sögulega eða tungumálstengda merkingu."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Trúarhæðir einstaklingar"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Persónuleg eiginleikar: Góðtrúlegur, hugsaður, og leitar dýpri tengingar til"
+" trúar. Þeir geta notað tólina til að kanna trúartexta eða guðlega skilaboð."
+" Starfssviðmál: Trúarfræðingar, imama, klerkjar eða almennir með sterk áhuga"
+" á dýralífi trúarinnar. Hlýðjósnið: Skilgreint líklega að hafa hefðbundið "
+"eða varðveislu sjónarhorn, með því að nota tólina til að styrkja andlega trú"
+" sína."
+
+msgid "Writers and Artists"
+msgstr "Rithöfundar og listamenn"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Persónuleg eiginleikar: Skapandi, ímyndandi, og tilfinningarsamtengdir "
+"táknrænum eða abstraktnu hugmyndum. Þeir nota tólina til að fá innblástur "
+"eða bæta ýmsa merkingu í verk þeirra. Starfssviðmál: Höfundar, skáld, "
+"sjónræn listamenn eða tónlistarmenn. Hlýðjósnið: Hægt að vera allt frá "
+"sakrandi skapandi til þeirra sem hafa andlegan eða dýralífi skekkju."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Hugleiðingar- og klúðræðarar"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Persónuleg eiginleikar: Fígrar, hugrænir áhugamenn og njóta lausnar flókinna"
+" vandamál eða kóðunar mynstaða. Starfssviðmál: Þjónar, klúðræðarar, eða "
+"kennarar. Hlýðjósnið: Skilgreint líklega að nálgast tólina sem skemmtilega "
+"eða hugræna æfingu, með lítill íhlutunarhátt."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Sýndargáfumynir og alternatív hugsunarmynir"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Persónuleg eiginleikar: Ótta á ríkislegum sögum, áhugavert í að uppgötva "
+"dularfulla sannleika eða mynstaður í kerfum. Starfssviðmál: Sjálfstæðir "
+"rannsóknarmaður, bloggara eða verkfræðingar. Hlýðjósnið: Hægt að hafa meira "
+"raunverulegt eða óvissu sjónarhorn, með því að nota tólina til að styðja "
+"alternatívur kenningar eða sögur."
+
+msgid "☕ Support the Project"
+msgstr "☕ Stuðla verkefninu"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ef þú elskar verkefnið mitt, getur þú kaupt mér kaffið!"
+
+msgid "Buy Me A Coffee"
+msgstr "Kaupa mér kaffið"
+
+msgid "Thank you! 🙏"
+msgstr "Takk! 🙏"

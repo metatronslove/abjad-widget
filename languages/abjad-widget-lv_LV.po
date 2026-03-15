@@ -1,0 +1,825 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Latvian <lv_LV>\n"
+"Language: lv-LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad iestatījumi"
+
+msgid "Abjad Value"
+msgstr "Abjad vērtība"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad widget informācijas paneļa"
+
+msgid "Abjad calculation results"
+msgstr "Abjad aprēķina rezultāti"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad aprēķini slēpti"
+
+msgid "Abjad not calculated"
+msgstr "Abjad nav aprēķināts"
+
+msgid "Abjad order"
+msgstr "Abjad secība"
+
+msgid "Add elements"
+msgstr "Pievienot elementus"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Gāze"
+
+msgid "All"
+msgstr "Visi"
+
+msgid "Arabic"
+msgstr "Arabiešu"
+
+msgid "Arabic letters"
+msgstr "Arabiskie burti"
+
+msgid "Arabic numbers"
+msgstr "Arabiešu cipari"
+
+msgid "As data for operation"
+msgstr "Kā dati operācijai"
+
+msgid "Bast loop results"
+msgstr "Bast cilpas rezultāti"
+
+msgid "Bast not calculated"
+msgstr "Bast nav aprēķināts"
+
+msgid "Bast repetition count"
+msgstr "Bast atkārtošanās skaits"
+
+msgid "Bast results hidden"
+msgstr "Bast rezultāti slēpti"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet secība"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tabula"
+
+msgid "Big"
+msgstr "Liels"
+
+msgid "Bigger"
+msgstr "Lielāks"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Izkupē man kafiju"
+
+msgid "Calculate"
+msgstr "Aprēķināt"
+
+msgid "Calculate Abjad"
+msgstr "Aprēķināt Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Aprēķināt Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Aprēķināt Huddam"
+
+msgid "Calculation details"
+msgstr "Aprēķina detaļas"
+
+msgid "Choose Keyboard Layout"
+msgstr "Izvēlieties tastatūras izkārtojumu"
+
+msgid "Clear text box"
+msgstr "Notīrīt teksta lauku"
+
+msgid "Click row for details"
+msgstr "Noklikšķiniet uz rindu, lai iegūtu detaļas"
+
+msgid "Close Keyboard"
+msgstr "Aizvērt tastatūru"
+
+msgid "Closed"
+msgstr "Aizvērts"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Komats ir noklusējuma atdalītājs, un tas jāatstāj atzīmēts!"
+
+msgid "Dashboard"
+msgstr "Panelis"
+
+msgid "Data entry separators:"
+msgstr "Datu ievades atdalītāji:"
+
+msgid "Data type profile"
+msgstr "Datu tipu profils"
+
+msgid "Dead keys"
+msgstr "Nāvēji taustiņi"
+
+msgid "Decrease keyboard size"
+msgstr "Samazināt tastatūras izmēru"
+
+msgid "Don't calculate"
+msgstr "Neaprēķināt"
+
+msgid "Duty entity name results"
+msgstr "Uzdevuma subjekta nosaukuma rezultāti"
+
+msgid "Duty entity type"
+msgstr "Uzdevuma subjekta tips"
+
+msgid "Earth"
+msgstr "Zeme"
+
+msgid "Element classification"
+msgstr "Elementu klasifikācija"
+
+msgid "Element classification method"
+msgstr "Elementu klasifikācijas metode"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Ievadiet tekstu... Arābu, Ivārēbu, Turku burti, cipari"
+
+msgid "Entered data"
+msgstr "Ievadītie dati"
+
+msgid "Entry"
+msgstr "Ievade"
+
+msgid "Entry letter count"
+msgstr "Ievades burtu skaits"
+
+msgid "Evil"
+msgstr "Ciets"
+
+msgid "Fire"
+msgstr "Uguns"
+
+msgid "For entered data"
+msgstr "Ievadītiem datiem"
+
+msgid "Frequency in Quran"
+msgstr "Frekvence Korānā"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ivārēbu"
+
+msgid "Hebrew alphabet elements"
+msgstr "Ebreju alfabēta elementi"
+
+msgid "Hebrew letters"
+msgstr "Ebreju burti"
+
+msgid "High"
+msgstr "Augsts"
+
+msgid "Hija order"
+msgstr "Hija secība"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam nosaukumi slēpti"
+
+msgid "Huddam not calculated"
+msgstr "Huddam neaprēķināts"
+
+msgid "Iklil's order"
+msgstr "Iklil secība"
+
+msgid "Increase keyboard size"
+msgstr "Palieliniet tastatūras izmēru"
+
+msgid "Indian numbers"
+msgstr "Indie skaitļi"
+
+msgid "Interface language"
+msgstr "Interfeisa valoda"
+
+msgid "Let character quantity decide"
+msgstr "Ļauj rakstzīmju daudzums pieņemt lēmumu"
+
+msgid "Letter count"
+msgstr "Zīmju skaits"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Vai jums patīk mani projekti? Pērk man kafiju!"
+
+msgid "Low"
+msgstr "Zems"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija secība"
+
+msgid "Minimum"
+msgstr "Minimums"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Skaitīšanas valoda"
+
+msgid "Numerical values"
+msgstr "Skaitliskie vērtības"
+
+msgid "Open"
+msgstr "Atvērt"
+
+msgid "Order"
+msgstr "Secība"
+
+msgid "Possible phrases"
+msgstr "Iespējamās frāzes"
+
+msgid "Program settings"
+msgstr "Programmas iestatījumi"
+
+msgid "Pronunciation"
+msgstr "Izrunas"
+
+msgid "Regular expression"
+msgstr "Regulārs izteiksme"
+
+msgid "Regularly preferred classification"
+msgstr "Parasti izvēlētā klasifikācija"
+
+msgid "Reset"
+msgstr "Atiestatīt"
+
+msgid "Separators"
+msgstr "Atdalītāji"
+
+msgid "Settings"
+msgstr "Iestatījumi"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad kārtība"
+
+msgid "Show numpad"
+msgstr "Rādīt numpads"
+
+msgid "Show virtual keyboard"
+msgstr "Rādīt virtuālo tastatūru"
+
+msgid "Small"
+msgstr "Mazs"
+
+msgid "Small + letter count"
+msgstr "Mazs + burtu skaits"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Atbalsts"
+
+msgid "Taken (letter)"
+msgstr "Iegūts (burtu)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Iegūts (burtu; abjad)"
+
+msgid "Taken Letters"
+msgstr "Iegūtie burti"
+
+msgid "Text or number cell"
+msgstr "Teksts vai numurs šūnā"
+
+msgid "Thank you for your support!"
+msgstr "Paldies par jūsu atbalstu!"
+
+msgid "Total"
+msgstr "Kopā"
+
+msgid "Turkish"
+msgstr "Turku valoda"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turku alfabes abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turku alfabes elementi"
+
+msgid "Turkish letters"
+msgstr "Turku burti"
+
+msgid "Undefined characters"
+msgstr "Nedefinēti rakstzīmes"
+
+msgid "Value"
+msgstr "Vērtība"
+
+msgid "Value & Detail"
+msgstr "Vērtība & Detālums"
+
+msgid "Version"
+msgstr "Versija"
+
+msgid "Water"
+msgstr "Ūdens"
+
+msgid "When data is entered"
+msgstr "Kad dati tiek ievadīti"
+
+msgid "When reading large digits"
+msgstr "Lielu ciparu lasīšana"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad kalkulēts un burtu skaits pievienots"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funkciju iestatījumi"
+
+msgid "add to initial value"
+msgstr "pievienot sākotnējai vērtībai"
+
+msgid "and"
+msgstr "un"
+
+msgid "auto calculate immediately"
+msgstr "automātiski aprēķināt uzreiz"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() un nutket() funkciju iestatījumi"
+
+msgid "count once"
+msgstr "skaitīt vienreiz"
+
+msgid "count twice"
+msgstr "skaitīt divreiz"
+
+msgid "display with Arabic numbers"
+msgstr "attēlot ar arabiskajiem cipariem"
+
+msgid "display with Indian numbers"
+msgstr "attēlot ar indiešu cipariem"
+
+msgid "do not add to initial value"
+msgstr "nepievienot sākotnējai vērtībai"
+
+msgid "do not force to other functions"
+msgstr "neuzspiest citās funkcijās"
+
+msgid "do not purify"
+msgstr "nevalināt"
+
+msgid "force to other functions"
+msgstr "uzspiest citās funkcijās"
+
+msgid "group multiplier letters"
+msgstr "grupēt multiplikatoru burtus"
+
+msgid "hide"
+msgstr "slēpt"
+
+msgid "hide abjad values"
+msgstr "slēpt abjad vērtības"
+
+msgid "hide bast results"
+msgstr "slēpt bast rezultātus"
+
+msgid "hide huddam names"
+msgstr "slēpt huddam nosaukumus"
+
+msgid "huddam() function settings"
+msgstr "huddam() funkcijas iestatījumi"
+
+msgid "no bast applied."
+msgstr "nav pielietots bast."
+
+msgid "no data entered"
+msgstr "nav ievadīti dati"
+
+msgid "other suffix"
+msgstr "cits suffiks"
+
+msgid "purify data"
+msgstr "attīrīt datus"
+
+msgid "repeat multiplier for each digit"
+msgstr "atkārtojuma reizinātājs katram ciparam"
+
+msgid "show"
+msgstr "rādīt"
+
+msgid "show abjad values"
+msgstr "rādīt abjad vērtības"
+
+msgid "show bast results"
+msgstr "rādīt bast rezultātus"
+
+msgid "show huddam names"
+msgstr "rādīt huddam nosaukumus"
+
+msgid "suffix"
+msgstr "sufiks"
+
+msgid "times bast applied."
+msgstr "reizes bast ir lietots."
+
+msgid "use calculated abjad results"
+msgstr "izmantojiet aprēķinātās abjad rezultātus"
+
+msgid "use calculated abjad total"
+msgstr "izmantojiet aprēķināto abjad kopumu"
+
+msgid "use calculated bast results"
+msgstr "izmantojiet aprēķinātos bast rezultātus"
+
+msgid "use entered data directly"
+msgstr "izmantojiet ievadītos datus tieši"
+
+msgid "use entered data total"
+msgstr "izmantojiet ievadīto datu kopumu"
+
+msgid "use in all bast repetitions"
+msgstr "izmantojiet visās bast atkārtojumu"
+
+msgid "use only at beginning if possible"
+msgstr "izmantojiet tikai sākumā, ja iespējams"
+
+msgid "wait for settings and data entry"
+msgstr "gaidiet iestatījumus un datu ievadi"
+
+msgid "Abjad Table"
+msgstr "Abjad tabula"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Detaļas"
+
+msgid "Element Classification"
+msgstr "Elementu klasifikācija"
+
+msgid "Abjad Order"
+msgstr "Abjad secība"
+
+msgid "Abjad Widget"
+msgstr "Abjad logrīks"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Pievienojiet pielāgotu CSS, lai pielāgotu logrīka izskatu."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Pievienojiet pielāgoto JavaScript, lai mainītu logrīka uzvedību. Nepareizs "
+"kods var sabojāt logrīku!"
+
+msgid "An error occurred while loading content."
+msgstr "Kļūda notika, ielādējot saturu."
+
+msgid "Button"
+msgstr "Poga"
+
+msgid "Button Color"
+msgstr "Pogas krāsa"
+
+msgid "Button Emoji"
+msgstr "Pogas emojis"
+
+msgid "Button Message"
+msgstr "Pogas ziņojums"
+
+msgid "Button Settings"
+msgstr "Pogas iestatījumi"
+
+msgid "Button Type"
+msgstr "Pogas tips"
+
+msgid "CSS saved successfully."
+msgstr "CSS veiksmīgi saglabāts."
+
+msgid "Check this box to activate the widget."
+msgstr "Atzīmējiet šo rūtiņu, lai aktivizētu logrīku."
+
+msgid "Code Editor"
+msgstr "Koda redaktors"
+
+msgid "Custom CSS"
+msgstr "Pielāgots CSS"
+
+msgid "Custom JavaScript"
+msgstr "Pielāgots JavaScript"
+
+msgid "Description"
+msgstr "Apraksts"
+
+msgid "Emoji"
+msgstr "Emojis"
+
+msgid "Enter image URL"
+msgstr "Ievadiet attēla URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Piemērs: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Vispārīgi"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript veiksmīgi saglabāts."
+
+msgid "Left"
+msgstr "Pa kreisi"
+
+msgid "Live Preview"
+msgstr "Tiešsaistes priekšskatījums"
+
+msgid "Loading..."
+msgstr "Ielādē..."
+
+msgid "PNG Image URL"
+msgstr "PNG attēla URL"
+
+msgid "Paste SVG code"
+msgstr "Ielīmējiet SVG kodu"
+
+msgid "Please enter a valid URL."
+msgstr "Ievadiet derīgu URL."
+
+msgid "Position"
+msgstr "Pozīcija"
+
+msgid "Reset to Default"
+msgstr "Iestatīt uz noklusējumu"
+
+msgid "Right"
+msgstr "Pa labi"
+
+msgid "SVG Code"
+msgstr "SVG kods"
+
+msgid "Save CSS"
+msgstr "Saglabāt CSS"
+
+msgid "Save JavaScript"
+msgstr "Saglabāt JavaScript"
+
+msgid "Save Settings"
+msgstr "Saglabāt iestatījumus"
+
+msgid "Settings saved successfully."
+msgstr "Iestatījumi veiksmīgi saglabāti."
+
+msgid "Style Editor"
+msgstr "Stila redaktors"
+
+msgid "WARNING"
+msgstr "BRĪDINĀJUMS"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Laipni lūdzam! Jūs varat sekot widgetu jaunumiem un paziņojumiem no šī "
+"panela."
+
+msgid "Widget Settings"
+msgstr "Widget iestatījumi"
+
+msgid "Widget Status"
+msgstr "Widget statuss"
+
+msgid "Widget active"
+msgstr "Widget aktīvs"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Nokautais JavaScript kods var iznīcināt widgetu. Saglabājiet rezerves kopiju"
+" pirms izmaiņu veikšanas."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Jūsu Buy Me a Coffee lietotājvārds"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Jūsu izmaiņas tieši ietekmēs widgeta izskatu. Ja nezināt CSS, ieteicams "
+"izmantot noklusējuma iestatījumus."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Lokālais informācijas panelis"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Dvēseliskie meklētāji un mistiķi"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Personības iezīmes: Zinošs, introspektīvs, atvērtas prāta un piesaistīts "
+"ezoteriskajai zināšanai. Viņiem var būt spēcīgs interese par slēptu nozīmi "
+"vai dzīves modeļiem. Profesijas: Dvēseliskie treneri, tarot lasītāji, "
+"astrologi vai indivīdi, kas iesaistīti Jaunās laika prakses. Ideoloģiskā "
+"spektrs: Iespējams, ka viņi pievēršas dvēseliskajām vai metafiziskajām "
+"uzskatiem. Viņi var redzēt rīkus kā veidu, kā piesaistīties dziļākajām "
+"patiesībām vai vispārējām enerģijām."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologi un Gematria entuziasti"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Personības iezīmes: Analītisks, detalizēts un aizraušies ar skaitļu un "
+"valodas attiecībām. Viņi var baudīt simbolisko nozīmi atšifrēšanu. "
+"Profesijas: Neatkarīgie numerologi, rakstnieki par ezoteriskajām tēmām vai "
+"hobīstiem, kas pēta numeroloģiju. Ideoloģiskā spektrs: Var atšķirties no "
+"tiem, kas skatās numeroloģiju kā uzklausiem intellektuāla vingrinājuma, līdz"
+" tiem, kas tic tās dziļajai dvēseliskajai nozīmei."
+
+msgid "Historians and Linguists"
+msgstr "Vēsturnieki un lingvisti"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Personības iezīmes: Zinātniski, metodiski un ieinteresēti vēsturiskos vai "
+"kultūras kontekstus par skaitļu sistēmām kā Abjad. Profesijas: Akadēmiķi, "
+"pētnieki vai studenti, kas pēta Vidusrietīšu valodas, vēsturi vai reliģiskos"
+" tekstus. Ideoloģiskā spektrs: Iespējams, ka viņi pievēršas rīkiem sekulāra,"
+" akadēmiska perspektīva, koncentrējoties uz to vēsturisko vai lingvistisko "
+"nozīmi."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Relīģiskie vai ticības pamatojami indivīdi"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Personības iezīmes: Devota, reflektējoša un meklē dziļākas savienojumus ar "
+"savu ticību. Viņi var izmantot rīkus, lai izpētītu reliģiskos tekstus vai "
+"dievišķās ziņas. Profesijas: Relīģiskie zinātnieki, imam, parevi vai laika "
+"cilvēki ar spēcīgu interesi par viņu ticības mistiskajām tradīcijām. "
+"Ideoloģiskā spektrs: Iespējams, ka viņi ir tradicionāla vai konservatīva "
+"pasaules attēlojums, izmantojot rīkus, lai stiprinātu viņu dvēseliskos "
+"uzskatus."
+
+msgid "Writers and Artists"
+msgstr "Rakstnieki un mākslinieki"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Personības iezīmes: Radošs, iztēles pilns un piesaistīts simboliskajiem vai "
+"abstraktajiem koncepcijām. Viņi var izmantot rīkus, lai iegūtu iedvesmu vai "
+"pievienotu nozīmi uzskaitījumu. Profesijas: Autoru, dzejnieku, vizuālie "
+"mākslinieki vai mūziķi. Ideoloģiskā spektrs: Var mainīties no sekulāru "
+"radošiem līdz tiem, kas ir dvēseliski vai mistiski."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Labirantu un mīklas entuziasti"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Personības iezīmes: Lomu, intellektuāli ieinteresēti un baudītāji, kas "
+"risina sarežģītus uzdevumus vai atšifrē modeļus. Profesijas: Hobisti, "
+"labirantu dizainers vai izglītības nodrošinātāji. Ideoloģiskā spektrs: "
+"Iespējams, ka viņi pievēršas rīkiem kā izklaides vai prāta vingrinājuma "
+"veidā, ar mazā ideoloģiskās piesaistības."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Konkursu teorētiki un alternatīvie domātāji"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Personības iezīmes: Skeptiski par galvenajiem stāstījumiem, piesaistīti, lai"
+" atklātu slēptas patiesības vai modeļus sistēmās. Profesijas: Neatkarīgie "
+"pētnieki, bloggeri vai aktivisti. Ideoloģiskā spektrs: Var būt radikālāks "
+"vai neparastāks pasaules skatījums, izmantojot rīkus, lai atbalstītu "
+"alternatīvas teorijas vai stāstījumu."
+
+msgid "☕ Support the Project"
+msgstr "☕ Atbalstīt projektu"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ja jums patīk mans projekts, varat man uzkārtināt kafiju!"
+
+msgid "Buy Me A Coffee"
+msgstr "Uzmi manu kafiju"
+
+msgid "Thank you! 🙏"
+msgstr "Paldies! 🙏"

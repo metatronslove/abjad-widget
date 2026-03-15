@@ -1,0 +1,830 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Armenian <hy_AM>\n"
+"Language: hy-AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad կարգավորումներ"
+
+msgid "Abjad Value"
+msgstr "Abjad արժեք"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad վիջեթի վահանակ"
+
+msgid "Abjad calculation results"
+msgstr "Abjad հաշվարկի արդյունքներ"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad հաշվարկները թաքնված"
+
+msgid "Abjad not calculated"
+msgstr "Abjad չի հաշվարկվել"
+
+msgid "Abjad order"
+msgstr "Abjad հերթ"
+
+msgid "Add elements"
+msgstr "Ավելացնել տարրեր"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Hava"
+
+msgid "All"
+msgstr "Բոլորը"
+
+msgid "Arabic"
+msgstr "Արաբական"
+
+msgid "Arabic letters"
+msgstr "Արաբական տառեր"
+
+msgid "Arabic numbers"
+msgstr "Արաբական թվեր"
+
+msgid "As data for operation"
+msgstr "Գործողության տվյալ"
+
+msgid "Bast loop results"
+msgstr "Bast ցիկլի արդյունքներ"
+
+msgid "Bast not calculated"
+msgstr "Bast չի հաշվարկվել"
+
+msgid "Bast repetition count"
+msgstr "Bast կրկնության քանակը"
+
+msgid "Bast results hidden"
+msgstr "Bast արդյունքները թաքնված"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet հերթ"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet աղյուսակ"
+
+msgid "Big"
+msgstr "Մեծ"
+
+msgid "Bigger"
+msgstr "Ավելի մեծ"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Գնել ինձ խմորը"
+
+msgid "Calculate"
+msgstr "Հաշվել"
+
+msgid "Calculate Abjad"
+msgstr "Հաշվել Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Հաշվել Բաստետ"
+
+msgid "Calculate Huddam"
+msgstr "Հաշվել Հուդդամ"
+
+msgid "Calculation details"
+msgstr "Հաշվման մանրամասներ"
+
+msgid "Choose Keyboard Layout"
+msgstr "Ընտրեք ստեղնաշարի դասավորությունը"
+
+msgid "Clear text box"
+msgstr "Մաքրել տեքստի վանդակը"
+
+msgid "Click row for details"
+msgstr "Սեղմեք տողը մանրամասների համար"
+
+msgid "Close Keyboard"
+msgstr "Փակել ստեղնաշարը"
+
+msgid "Closed"
+msgstr "Փակված"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Տանիկը լռելյայն բաժանարար է և պետք է մնա նշված!"
+
+msgid "Dashboard"
+msgstr "Վահանակ"
+
+msgid "Data entry separators:"
+msgstr "Տվյալների մուտքի բաժանարարներ:"
+
+msgid "Data type profile"
+msgstr "Տվյալների տիպի պրոֆիլ"
+
+msgid "Dead keys"
+msgstr "Մահացած ստեղներ"
+
+msgid "Decrease keyboard size"
+msgstr "Կրճացնել ստեղնաշարի չափը"
+
+msgid "Don't calculate"
+msgstr "Չհաշվեք"
+
+msgid "Duty entity name results"
+msgstr "Պարտականության միավորի անունի արդյունքներ"
+
+msgid "Duty entity type"
+msgstr "Պարտականության միավորի տիպ"
+
+msgid "Earth"
+msgstr "Երկիր"
+
+msgid "Element classification"
+msgstr "էլեմենտի դասակարգում"
+
+msgid "Element classification method"
+msgstr "էլեմենտի դասակարգման մեթոդ"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Մուտքագրեք տեքստը… արաբական, իբրո, түркական տառեր, թվեր"
+
+msgid "Entered data"
+msgstr "Մուտքագրված տվյալներ"
+
+msgid "Entry"
+msgstr "Մուտք"
+
+msgid "Entry letter count"
+msgstr "Մուտքի տառերի քանակը"
+
+msgid "Evil"
+msgstr "Վատ"
+
+msgid "Fire"
+msgstr "Աթան"
+
+msgid "For entered data"
+msgstr "Մուտքագրված տվյալների համար"
+
+msgid "Frequency in Quran"
+msgstr "Քուրանի մեջ հաճախականություն"
+
+msgid "Gematria"
+msgstr "Գեմատրիա"
+
+msgid "Hebrew"
+msgstr "Իբրո"
+
+msgid "Hebrew alphabet elements"
+msgstr "Իբրայերեն այբուբեի տարրերը"
+
+msgid "Hebrew letters"
+msgstr "Իբրայերեն տառեր"
+
+msgid "High"
+msgstr "Բարձր"
+
+msgid "Hija order"
+msgstr "Hija կարգ"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam անունները թաքնված"
+
+msgid "Huddam not calculated"
+msgstr "Huddam հաշվարկված չէ"
+
+msgid "Iklil's order"
+msgstr "Iklil կարգ"
+
+msgid "Increase keyboard size"
+msgstr "Մեծացնել ստեղնաշարի չափը"
+
+msgid "Indian numbers"
+msgstr "Հնդկական թվեր"
+
+msgid "Interface language"
+msgstr "Օգտագործողի միջերեսի լեզու"
+
+msgid "Let character quantity decide"
+msgstr "Թույլատրել տառերի քանակը որոշել"
+
+msgid "Letter count"
+msgstr "Տառերի քանակը"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Պատրաստ եք իմ նախագծերը գնահատել? Տանեք ինձ մեկ շոգ"
+
+msgid "Low"
+msgstr "Ցածր"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija կարգ"
+
+msgid "Minimum"
+msgstr "Նվազագույն"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Թվանշան ընթերցման լեզու"
+
+msgid "Numerical values"
+msgstr "Թվային արժեքներ"
+
+msgid "Open"
+msgstr "Բացել"
+
+msgid "Order"
+msgstr "Կարգ"
+
+msgid "Possible phrases"
+msgstr "Հնարավոր արտահայտություններ"
+
+msgid "Program settings"
+msgstr "Ծրագրի կարգավորումներ"
+
+msgid "Pronunciation"
+msgstr "Թառթ"
+
+msgid "Regular expression"
+msgstr "Բանաձև"
+
+msgid "Regularly preferred classification"
+msgstr "Հաճախընտրելի դասակարգում"
+
+msgid "Reset"
+msgstr "Զրոյացնել"
+
+msgid "Separators"
+msgstr "բաժանարարներ"
+
+msgid "Settings"
+msgstr "կարգավորումներ"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad կարգ"
+
+msgid "Show numpad"
+msgstr "Numpad ցուցադրել"
+
+msgid "Show virtual keyboard"
+msgstr "Ցուցադրել վիրտուալ ստեղնաշարը"
+
+msgid "Small"
+msgstr "Փոքր"
+
+msgid "Small + letter count"
+msgstr "Փոքր + տառերի քանակ"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Աջակցություն"
+
+msgid "Taken (letter)"
+msgstr "Վերցված (տառ)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Վերցված (տառ; abjad)"
+
+msgid "Taken Letters"
+msgstr "Վերցված տառեր"
+
+msgid "Text or number cell"
+msgstr "Տեքստ կամ թվային վանդակ"
+
+msgid "Thank you for your support!"
+msgstr "Շնորհակալություն ձեր աջակցության համար!"
+
+msgid "Total"
+msgstr "Ընդամենը"
+
+msgid "Turkish"
+msgstr "Թուրքերեն"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Թուրքերենի այբուբեն Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Թուրքերենի այբուբենի տարրեր"
+
+msgid "Turkish letters"
+msgstr "Թուրքերենի տառեր"
+
+msgid "Undefined characters"
+msgstr "Չհայտնաբերված սիմվոլներ"
+
+msgid "Value"
+msgstr "Արժեք"
+
+msgid "Value & Detail"
+msgstr "Արժեք & Մանրամաս"
+
+msgid "Version"
+msgstr "Տարբերակ"
+
+msgid "Water"
+msgstr "Եջ"
+
+msgid "When data is entered"
+msgstr "Երբ տվյալներ մուտքագրվում են"
+
+msgid "When reading large digits"
+msgstr "Երբ մեծ թվերը կարդալիս"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad հաշվարկված և տառերի քանակը ավելացված"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ֆունկցիաների կարգավորումներ"
+
+msgid "add to initial value"
+msgstr "ավելացնել սկզբնական արժեքին"
+
+msgid "and"
+msgstr "և"
+
+msgid "auto calculate immediately"
+msgstr "ավտոմատ հաշվարկել անմիջապես"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() և nutket() ֆունկցիաների կարգավորումներ"
+
+msgid "count once"
+msgstr "հաշվել մեկ անգամ"
+
+msgid "count twice"
+msgstr "հաշվել երկու անգամ"
+
+msgid "display with Arabic numbers"
+msgstr "ցուցադրել արաբական թվանշաններով"
+
+msgid "display with Indian numbers"
+msgstr "ցուցադրել ինդիանական թվանշաններով"
+
+msgid "do not add to initial value"
+msgstr "չավելացնել սկզբնական արժեքին"
+
+msgid "do not force to other functions"
+msgstr "չհարկовать այլ ֆունկցիաներին"
+
+msgid "do not purify"
+msgstr "չկիրառել մաքրման"
+
+msgid "force to other functions"
+msgstr "հարկовать այլ ֆունկցիաներին"
+
+msgid "group multiplier letters"
+msgstr "խմբավորել բազմապատկիչ տառերը"
+
+msgid "hide"
+msgstr "թաքցնել"
+
+msgid "hide abjad values"
+msgstr "թաքցնել abjad արժեքները"
+
+msgid "hide bast results"
+msgstr "թաքցնել bast արդյունքները"
+
+msgid "hide huddam names"
+msgstr "թաքցնել huddam անունները"
+
+msgid "huddam() function settings"
+msgstr "huddam() ֆունկցիայի կարգավորումներ"
+
+msgid "no bast applied."
+msgstr "bast չի կիրառվել։"
+
+msgid "no data entered"
+msgstr "տվյալներ չեն մուտքագրված"
+
+msgid "other suffix"
+msgstr "այլ suffix"
+
+msgid "purify data"
+msgstr "տվյալները մաքրել"
+
+msgid "repeat multiplier for each digit"
+msgstr "յուրաքանչյուր թվի համար բազմապատկիչը կրկնել"
+
+msgid "show"
+msgstr "ցուցադրել"
+
+msgid "show abjad values"
+msgstr "ցուցադրել abjad արժեքները"
+
+msgid "show bast results"
+msgstr "ցուցադրել bast արդյունքները"
+
+msgid "show huddam names"
+msgstr "ցուցադրել huddam անունները"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "bast կիրառվել է քանի անգամ։"
+
+msgid "use calculated abjad results"
+msgstr "օգտագործել հաշվված abjad արդյունքները"
+
+msgid "use calculated abjad total"
+msgstr "օգտագործել հաշվված abjad ընդհանուր"
+
+msgid "use calculated bast results"
+msgstr "օգտագործել հաշվված bast արդյունքները"
+
+msgid "use entered data directly"
+msgstr "օգտագործել մուտքագրված տվյալները անմիջապես"
+
+msgid "use entered data total"
+msgstr "օգտագործել մուտքագրված տվյալների ընդհանուր"
+
+msgid "use in all bast repetitions"
+msgstr "օգտագործել բոլոր bast կրկնության մեջ"
+
+msgid "use only at beginning if possible"
+msgstr "միայն սկզբում օգտագործել, եթե հնարավոր է"
+
+msgid "wait for settings and data entry"
+msgstr "սպասել կարգավորումների և տվյալների մուտքագրման"
+
+msgid "Abjad Table"
+msgstr "Abjad աղյուսակ"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Մանրամասն"
+
+msgid "Element Classification"
+msgstr "Էлементի դասակարգում"
+
+msgid "Abjad Order"
+msgstr "Abjad կարգ"
+
+msgid "Abjad Widget"
+msgstr "Abjad վիջեթ"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ավելացնել հատուկ CSS, որպեսզի վիջեթի տեսքը հարմարեցվի։"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ավելացնել հատուկ JavaScript, որպեսզի վիջեթի վարքը փոխել։ Հնանկարծ կոդը կարող"
+" է վիջեթը վնասել։"
+
+msgid "An error occurred while loading content."
+msgstr "Բեռնման ժամանակ բովանդակության սխալ է առաջացել։"
+
+msgid "Button"
+msgstr "Կոճակ"
+
+msgid "Button Color"
+msgstr "Կոճակի գույն"
+
+msgid "Button Emoji"
+msgstr "Կոճակի Emoji"
+
+msgid "Button Message"
+msgstr "Կոճակի հաղորդագրություն"
+
+msgid "Button Settings"
+msgstr "Կոճակի կարգավորումներ"
+
+msgid "Button Type"
+msgstr "Կոճակի տեսակը"
+
+msgid "CSS saved successfully."
+msgstr "CSS‑ն հաջողությամբ պահպանվեց։"
+
+msgid "Check this box to activate the widget."
+msgstr "Ստուգեք այս վանդակը widget‑ը ակտիվացնելու համար։"
+
+msgid "Code Editor"
+msgstr "Կոդի խմբագիր"
+
+msgid "Custom CSS"
+msgstr "Հարմարեցված CSS"
+
+msgid "Custom JavaScript"
+msgstr "Հարմարեցված JavaScript"
+
+msgid "Description"
+msgstr "Նկարագրություն"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Մուտքագրեք նկարի URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Օրինակ. 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Ընդհանուր"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript հաջողությամբ պահպանվեց։"
+
+msgid "Left"
+msgstr "Ձախ"
+
+msgid "Live Preview"
+msgstr "Live Preview"
+
+msgid "Loading..."
+msgstr "Բեռնում..."
+
+msgid "PNG Image URL"
+msgstr "PNG նկարի URL"
+
+msgid "Paste SVG code"
+msgstr "Տեղադրեք SVG կոդը"
+
+msgid "Please enter a valid URL."
+msgstr "Խնդրում ենք մուտքագրել վավեր URL։"
+
+msgid "Position"
+msgstr "Դիրք"
+
+msgid "Reset to Default"
+msgstr "Վերականգնել Սկզբնական"
+
+msgid "Right"
+msgstr "Աջ"
+
+msgid "SVG Code"
+msgstr "SVG Code"
+
+msgid "Save CSS"
+msgstr "Պահպանել CSS"
+
+msgid "Save JavaScript"
+msgstr "Պահպանել JavaScript"
+
+msgid "Save Settings"
+msgstr "Պահպանել կարգավորումները"
+
+msgid "Settings saved successfully."
+msgstr "Կարգավորումները հաջողությամբ պահպանվել են։"
+
+msgid "Style Editor"
+msgstr "Ոճի խմբագրիչ"
+
+msgid "WARNING"
+msgstr "ԶԳուշակություն"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Բարի գալուստ! Դուք կարող եք widget‑ի նորությունները և ծանուցումները հետևել "
+"այս վահանակից։"
+
+msgid "Widget Settings"
+msgstr "Widget կարգավորումներ"
+
+msgid "Widget Status"
+msgstr "Widget կարգավիճակ"
+
+msgid "Widget active"
+msgstr "Widget ակտիվ"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Սխալ JavaScript‑ի կոդը widget‑ը կարող է վնասել։ Փոփոխություններ կատարելուց "
+"առաջ պահուստացեք։"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Ձեր Buy Me a Coffee օգտանունը"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Ձեր փոփոխությունները ուղղակիորեն կազդեն widget‑ի տեսք։ Եթե չեք ծանոթ CSS‑ին,"
+" խորհուրդ է տրվում օգտագործել լռելյայն կարգավորումները։"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Տեղային վահանակ"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Spirituall որոնողներ և Միստիկներ"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Personality Traits: Հետաքրքիր, ներքին դիտարկող, բաց մտքով և ներմուծված "
+"էսոտերիկ գիտելիքների։ Նրանք կարող են ունենալ ուժեղ հետաքրքիրություն կյանքի "
+"գաղտնի իմաստները կամ ձևանմուշները բացահայտելու մեջ։ Մասնագիտություններ: "
+"Spirituall coaches, tarot readers, astrologers կամ անձնակազմ ներգրավված New "
+"Age պրակտիկաներում։ Իդեոլոգիական սպեկտրում: Հավանաբար մոտենում են spirituall"
+" կամ metaphysical հավատարմությունների հանդեպ։ Նրանք կարող են գործիքները "
+"դիտել որպես ավելի խորքային ճշմարտություններ կամ ընդհանուր էներգիաների հետ "
+"կապվելու միջոց։"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologists և Gematria Enthusiasts"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Personality Traits: Վերլուծական, մանրամասներին ուղղված և հետաքրքրված թվերի և"
+" լեզվի հարաբերությունից։ Նրանք կարող են վայելել խորհրդանշական իմաստների "
+"ապացուցումը։ Մասնագիտություններ: Ազատակ numerologists, esoteric թեմաներով "
+"գրողներ կամ hօբիիստներ, որոնք ուսումնասիրում են numerology։ Իդեոլոգիական "
+"սպեկտրում: Մեկից ավել են, ովքեր դիտում են numerology‑ը զվարճալի ինտելեկտուալ"
+" վարժություն, մյուսները հավատում են նրա խորքային spirituall նշանակությանը։"
+
+msgid "Historians and Linguists"
+msgstr "Historians և Linguists"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Personality Traits: Գիտնական, մեթոդական և հետաքրքրված Abjad նման թվային "
+"համակարգերի պատմական կամ մշակութային համատեքստով։ Մասնագիտություններ: "
+"Ակադեմիկներ, հետազոտողներ կամ ուսանողներ, որոնք ուսումնասիրում են Միջին "
+"Արևելյան լեզուները, պատմությունը կամ կրոնական տեքստերը։ Իդեոլոգիական "
+"սպեկտրում: Հավանաբար մոտենում են գործիքներին դելեկոնական, ակադեմիկ "
+"տեսանկյունից, կենտրոնացնելով նրանց պատմական կամ լեզվաբանական նշանակության "
+"վրա։"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religious կամ Faith-Based Individuals"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Personality Traits: Մեծ հմուտ, մտավորական և փշալելու իրենց հավատքի ավելի "
+"խորքային կապեր։ Նրանք կարող են գործիքները օգտագործել կրոնական տեքստերը կամ "
+"աստվածային հաղորդագրությունները ուսումնասիրելու համար։ Մասնագիտություններ: "
+"Կրոնական գիտնականներ, imam-ներ, կիսապապեր կամ ոչ կրոնական մարդիկ, որոնք "
+"ունեն ուժեղ հետաքրքիրություն իրենց հավատքի միստիկական ավանդույթների "
+"նկատմամբ։ Իդեոլոգիական սպեկտրում: Հավանաբար ունեն ավանդական կամ "
+"ռոեվկոլցիվիզմ, օգտագործելով գործիքները իրենց spirituall հավատարմությունները "
+"հաստատելու համար։"
+
+msgid "Writers and Artists"
+msgstr "Writers և Artists"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Personality Traits: Ստեղծագործական, ստեղծարար և ներմուծված խորհրդանշական կամ"
+" ամուր հասկացությունների նկատմամբ։ Նրանք կարող են գործիքները օգտագործել "
+"հանճարի համար կամ իրենց աշխատանքներին ավելացնել բազմապատիկ իմաստներ։ "
+"Մասնագիտություններ: Ակտորներ, պոետներ, տեսողական արվեստագետներ կամ "
+"երաժիշտներ։ Իդեոլոգիական սպեկտրում: Մեկից ավել են դելեկոնական "
+"ստեղծագործիչներ կամ spirituall կամ mystical նախապատվություն ունեցողներ։"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle և Riddle Enthusiasts"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Personality Traits: Խաղաղ, մտավորականորեն հետաքրքիր և վայելում են բարդ "
+"խնդիրները լուծելը կամ ձևանմուշները կոդելելը։ Մասնագիտություններ: Հոբիիստներ,"
+" puzzle‑ներ նախագծողներ կամ ուսուցիչներ։ Իդեոլոգիական սպեկտրում: Հավանաբար "
+"մոտենում են գործիքներին որպես զվարճանքի կամ մտավորական մարզման ձև, քիչ "
+"ideologic attachment‑ով։"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy Theorists և Alternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Personality Traits: Skeptical mainstream narratives‑ի նկատմամբ, ներմուծված "
+"են գաղտնի ճշմարտությունները կամ ձևանմուշները բացահայտելու համակարգերի մեջ։ "
+"Մասնագիտություններ: Անկախ հետազոտողներ, բլոգերներ կամ ակտիվիստներ։ "
+"Իդեոլոգիական սպեկտրում: Մեկից ավել են ռադիկալ կամ ոչ-հանդիպող տեսանկյուններ,"
+" օգտագործելով գործիքները alternative theories կամ narratives‑ը աջակցելու "
+"համար։"
+
+msgid "☕ Support the Project"
+msgstr "☕ Project‑ը աջակցեք"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Եթե սիրում եք իմ նախագիծը, կարող եք գնել ինձ սուրճ։"
+
+msgid "Buy Me A Coffee"
+msgstr "Գնել ինձ սուրճ"
+
+msgid "Thank you! 🙏"
+msgstr "Շնորհակալ եմ! 🙏"

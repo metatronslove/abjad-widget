@@ -1,0 +1,832 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Burmese <my_MM>\n"
+"Language: my-MM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad သတ်မှတ်ချက်များ"
+
+msgid "Abjad Value"
+msgstr "Abjad တန်ဖိုး"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Abjad တွက်ချက်မှုရလဒ်များ"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad တွက်ချက်မှုများကိုဖုံးကာ"
+
+msgid "Abjad not calculated"
+msgstr "Abjad တွက်ချက်မရသေး"
+
+msgid "Abjad order"
+msgstr "Abjad အလိုအလျောက်"
+
+msgid "Add elements"
+msgstr "အချက်အလက်ထပ်မံထည့်ပါ"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "မိုးလေ"
+
+msgid "All"
+msgstr "အားလုံး"
+
+msgid "Arabic"
+msgstr "အာရပ်"
+
+msgid "Arabic letters"
+msgstr "အာရပ်လက္ဟာ"
+
+msgid "Arabic numbers"
+msgstr "အာရပ်ဂဏန်းများ"
+
+msgid "As data for operation"
+msgstr "လုပ်ဆောင်ချက်အတွက် ဒေတာအဖြစ်"
+
+msgid "Bast loop results"
+msgstr "Bast ပလောင်းရလဒ်များ"
+
+msgid "Bast not calculated"
+msgstr "Bast တွက်ချက်မရသေး"
+
+msgid "Bast repetition count"
+msgstr "Bast ထပ်မံရေးရေတွက်ချက်"
+
+msgid "Bast results hidden"
+msgstr "Bast ရလဒ်များကိုဖုံးကာ"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet အလိုအလျောက်"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet ဇယား"
+
+msgid "Big"
+msgstr "ကြီး"
+
+msgid "Bigger"
+msgstr "ပိုကြီး"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "ကျွန်တော်အတွက်ကော်ဖီ တစ်ခွက်ယူပါ"
+
+msgid "Calculate"
+msgstr "တွက်ချက်"
+
+msgid "Calculate Abjad"
+msgstr "Abjad တွက်ချက်"
+
+msgid "Calculate Bastet"
+msgstr "Bastet ကိုတွက်ချက်ပါ"
+
+msgid "Calculate Huddam"
+msgstr "Huddam ကိုတွက်ချက်ပါ"
+
+msgid "Calculation details"
+msgstr "တွက်ချက်ချက်အချက်အလက်များ"
+
+msgid "Choose Keyboard Layout"
+msgstr "ကီးဘုတ်တစ်ဆင့်ရွေးချယ်ပါ"
+
+msgid "Clear text box"
+msgstr "စာသားအကွက်ရှင်းလင်းပါ"
+
+msgid "Click row for details"
+msgstr "အသေးစိတ်အတွက်တန်းကိုနှိပ်ပါ"
+
+msgid "Close Keyboard"
+msgstr "ကီးဘုတ်ကိုပိတ်ပါ"
+
+msgid "Closed"
+msgstr "ပိတ်သွားသည်"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"ကော်မားသည်မူလဖြင့်ထုတ်ထားသောကန့်သတ်ကိန်းဖြစ်ပြီးထိုအခြေအနေတွင်ထိန်းသိမ်းထားရပါသည်!"
+
+msgid "Dashboard"
+msgstr "ဒက်ရှိုင်းဘုတ်"
+
+msgid "Data entry separators:"
+msgstr "ဒေတာဝင်မှုကန့်သတ်ကိန်းများ:"
+
+msgid "Data type profile"
+msgstr "ဒေတာအမျိုးအစားကိုယ်ရေးအကျဉ်း"
+
+msgid "Dead keys"
+msgstr "မသုံးသည့်ကီးများ"
+
+msgid "Decrease keyboard size"
+msgstr "ကီးဘုတ်အရွယ်အစားသိပ်လျော့ပါ"
+
+msgid "Don't calculate"
+msgstr "တွက်ချက်မလုပ်ပါ"
+
+msgid "Duty entity name results"
+msgstr "တာဝန်ရှိသောအရာဝတ္ထုအမည်ရလဒ်များ"
+
+msgid "Duty entity type"
+msgstr "တာဝန်ရှိသောအရာဝတ္ထုအမျိုးအစား"
+
+msgid "Earth"
+msgstr "ကမ္ဘာ"
+
+msgid "Element classification"
+msgstr "အထွေထွေသတ္တုအမျိုးအစား"
+
+msgid "Element classification method"
+msgstr "အထွေထွေသတ္တုအမျိုးအစားသတ်မှတ်ခြင်းနည်းလမ်း"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "စာတမ်းထည့်ပါ... အာရေဗီ, ဟီးဘရိ, တူရကီစာလုံးများ, ဗဟိုအရေအတွက်များ"
+
+msgid "Entered data"
+msgstr "ထည့်သွင်းထားသောဒေတာ"
+
+msgid "Entry"
+msgstr "ဝင်ရေး"
+
+msgid "Entry letter count"
+msgstr "ဝင်ရေးအက္ခရာအရေအတွက်"
+
+msgid "Evil"
+msgstr "မကောင်း"
+
+msgid "Fire"
+msgstr "မီး"
+
+msgid "For entered data"
+msgstr "ထည့်သွင်းထားသောဒေတာအတွက်"
+
+msgid "Frequency in Quran"
+msgstr "ကုန်တွမ်မှာအများအပြား"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "ဟီးဘရိ"
+
+msgid "Hebrew alphabet elements"
+msgstr "ဟီးဗရိတ်အက္ခရာအင်္ဂါရပ်များ"
+
+msgid "Hebrew letters"
+msgstr "ဟီးဗရိတ်အက္ခရာများ"
+
+msgid "High"
+msgstr "အရင့်"
+
+msgid "Hija order"
+msgstr "Hija အစဉ်"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam အမည်များ ဖုံးကပ်ထားသည်"
+
+msgid "Huddam not calculated"
+msgstr "Huddam မတွက်ထားပါ"
+
+msgid "Iklil's order"
+msgstr "Iklil အစဉ်"
+
+msgid "Increase keyboard size"
+msgstr "ကီးဘုတ်အရွယ်အစား တိုးရန်"
+
+msgid "Indian numbers"
+msgstr "ဟိန္ဒူကိန်း"
+
+msgid "Interface language"
+msgstr "အသုံးပြုသူ အင်တာဖေ့စ်ဘာသာ"
+
+msgid "Let character quantity decide"
+msgstr "အက္ခရာအရေအတွက်ကိုဆုံးဖြတ်ခွင့်ပြုပါ"
+
+msgid "Letter count"
+msgstr "အက္ခရာအရေအတွက်"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "ကျွန်ုပ်၏ ပရိုဂျက်များကိုအချစ်တက်သလား? ငါ့အတွက်ကော်ဖီတစ်ခါဝယ်ပေးပါ"
+
+msgid "Low"
+msgstr "အနိမ့်"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija အစဉ်"
+
+msgid "Minimum"
+msgstr "အနည်းဆုံး"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "အရေအတွက် ဖတ်ရန်ဘာသာ"
+
+msgid "Numerical values"
+msgstr "အရေအတွက်တန်ဖိုးများ"
+
+msgid "Open"
+msgstr "ဖွင့်"
+
+msgid "Order"
+msgstr "အစဉ်"
+
+msgid "Possible phrases"
+msgstr "ဖြစ်နိုင်သော စာလုံးစုများ"
+
+msgid "Program settings"
+msgstr "ပရိုဂျက်ဆက်တင်များ"
+
+msgid "Pronunciation"
+msgstr "အသံထွက်"
+
+msgid "Regular expression"
+msgstr "အမှန်တကယ်ထုတ်ဖော်ချက်"
+
+msgid "Regularly preferred classification"
+msgstr "အကျယ်တဝင်အကြံပြုသည့် အတန်းခွဲ"
+
+msgid "Reset"
+msgstr "ပြန်လည်သတ်မှတ်"
+
+msgid "Separators"
+msgstr "ကွဲခွာချက်များ"
+
+msgid "Settings"
+msgstr "အဆင့်သတ်မှတ်ချက်များ"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad တန်းစီ"
+
+msgid "Show numpad"
+msgstr "နံပါတ်ကီးများပြပါ"
+
+msgid "Show virtual keyboard"
+msgstr "အထောက်အကူကီးပြပါ"
+
+msgid "Small"
+msgstr "သေးငယ်"
+
+msgid "Small + letter count"
+msgstr "သေးငယ် + စာလုံးရေ"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "ထောက်ပံ့"
+
+msgid "Taken (letter)"
+msgstr "ထုတ်ယူထားသော (စာလုံး)"
+
+msgid "Taken (letter; abjad)"
+msgstr "ထုတ်ယူထားသော (စာလုံး; abjad)"
+
+msgid "Taken Letters"
+msgstr "ထုတ်ယူထားသော စာလုံးများ"
+
+msgid "Text or number cell"
+msgstr "စာသား သို့မဟုတ် အရေအတွက်ကလပ်"
+
+msgid "Thank you for your support!"
+msgstr "သင့်ထောက်ပံ့မှုအတွက်ကျေးဇူးတင်ပါတယ်!"
+
+msgid "Total"
+msgstr "စုစုပေါင်း"
+
+msgid "Turkish"
+msgstr "တူကီ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "တူကီလက်ရှိအက္ခရာ Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "တူကီလက်ရှိအက္ခရာအရပ်များ"
+
+msgid "Turkish letters"
+msgstr "တူကီစာလုံးများ"
+
+msgid "Undefined characters"
+msgstr "မသတ်မှတ်ထားသော စာတစ်ခုများ"
+
+msgid "Value"
+msgstr "တန်ဖိုး"
+
+msgid "Value & Detail"
+msgstr "တန်ဖိုး & အသေးစိတ်"
+
+msgid "Version"
+msgstr "ဗားရှင်း"
+
+msgid "Water"
+msgstr "ရေ"
+
+msgid "When data is entered"
+msgstr "ဒေတာထည့်သွင်းသည့်အခါ"
+
+msgid "When reading large digits"
+msgstr "ကြီးမားသောအရေအတွက်များ ဖတ်စဉ်"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad သုံးပြီး စာလုံးအရေအတွက် ထပ်ထည့်သွင်းထားသည်"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ဖန်တီးမှုများ သတ်မှတ်ချက်"
+
+msgid "add to initial value"
+msgstr "အရင်တန်ဖိုးထဲတွင် ထပ်ထည့်သည်"
+
+msgid "and"
+msgstr "နှင့်"
+
+msgid "auto calculate immediately"
+msgstr "အလိုအလျောက် ချက်ချင်းတွက်ချက်သည်"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() နှင့် nutket() ဖန်တီးမှုများ သတ်မှတ်ချက်"
+
+msgid "count once"
+msgstr "တစ်ခါတွက်ချက်သည်"
+
+msgid "count twice"
+msgstr "နှစ်ခါတွက်ချက်သည်"
+
+msgid "display with Arabic numbers"
+msgstr "အာရေဘီဂန်ဂဏန်းများဖြင့် ပြသသည်"
+
+msgid "display with Indian numbers"
+msgstr "အင်ဒီးယားဂဏန်းများဖြင့် ပြသသည်"
+
+msgid "do not add to initial value"
+msgstr "အရင်တန်ဖိုးထဲတွင် ထပ်ထည့်ခြင်းမပြုပါ"
+
+msgid "do not force to other functions"
+msgstr "အခြားလုပ်ဆောင်ချက်များသို့ မိုဟန်ခတ်မည် မဟုတ်ပါ"
+
+msgid "do not purify"
+msgstr "သန့်ရှင်းမလုပ်ပါ"
+
+msgid "force to other functions"
+msgstr "အခြားလုပ်ဆောင်ချက်များသို့ မိုဟန်ခတ်သည်"
+
+msgid "group multiplier letters"
+msgstr "အုပ်စု တိုး multiplier စာလုံးများ"
+
+msgid "hide"
+msgstr "ဝှက်ထားသည်"
+
+msgid "hide abjad values"
+msgstr "abjad တန်ဖိုးများကို ဝှက်ထားသည်"
+
+msgid "hide bast results"
+msgstr "bast ရလဒ်များကို ဖျောက်ပါ"
+
+msgid "hide huddam names"
+msgstr "huddam အမည်များကို ဖျောက်ပါ"
+
+msgid "huddam() function settings"
+msgstr "huddam() လုပ်ဆောင်ချက်အကွာအဝေး"
+
+msgid "no bast applied."
+msgstr "bast တစ်ခုလုံး မသုံးပါ။"
+
+msgid "no data entered"
+msgstr "ဒေတာထည့်သွင်းမည် မရှိပါ"
+
+msgid "other suffix"
+msgstr "အခြားသော အထပ်"
+
+msgid "purify data"
+msgstr "ဒေတာကို သန့်ရှင်းပါ"
+
+msgid "repeat multiplier for each digit"
+msgstr "အခန်းအတစ်ခုစီအတွက် ထပ်လောင်းကိန်း"
+
+msgid "show"
+msgstr "ပြသ"
+
+msgid "show abjad values"
+msgstr "abjad တန်ဖိုးများကို ပြသပါ"
+
+msgid "show bast results"
+msgstr "bast ရလဒ်များကို ပြသပါ"
+
+msgid "show huddam names"
+msgstr "huddam အမည်များကို ပြသပါ"
+
+msgid "suffix"
+msgstr "အထပ်"
+
+msgid "times bast applied."
+msgstr "bast သုံးသော ကြိမ်"
+
+msgid "use calculated abjad results"
+msgstr "တွက်ချက်ထားသော abjad ရလဒ်များကို အသုံးပြုပါ"
+
+msgid "use calculated abjad total"
+msgstr "တွက်ချက်ထားသော abjad စုစုပေါင်းကို အသုံးပြုပါ"
+
+msgid "use calculated bast results"
+msgstr "တွက်ချက်ထားသော bast ရလဒ်များကို အသုံးပြုပါ"
+
+msgid "use entered data directly"
+msgstr "ထည့်သွင်းထားသော ဒေတာကိုတိုက်ရိုက်အသုံးပြုပါ"
+
+msgid "use entered data total"
+msgstr "ထည့်သွင်းထားသော ဒေတာစုစုပေါင်းကို အသုံးပြုပါ"
+
+msgid "use in all bast repetitions"
+msgstr "bast မှာရှိသော တစ်ခုလုံးတွင် အသုံးပြုပါ"
+
+msgid "use only at beginning if possible"
+msgstr "ရနိုင်သလားဆိုရင် ပထမတွင်သာ အသုံးပြုပါ"
+
+msgid "wait for settings and data entry"
+msgstr "သတ်မှတ်ချက်များနှင့် ဒေတာထည့်သွင်းခြင်းကို စောင့်ဆိုင်းပါ"
+
+msgid "Abjad Table"
+msgstr "Abjad ဇယား"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "အသေးစိတ်"
+
+msgid "Element Classification"
+msgstr "အင်္ဂါရပ်သက်မှတ်ခြင်း"
+
+msgid "Abjad Order"
+msgstr "Abjad အုပ်စု"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Widget ၏အပြင်အဆင်ကို တည်းဖြတ်ရန် သင်သတ်မှတ်သည့် CSS ကိုထည့်ပါ။"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Widget ၏လည်ပတ်မှုကို ပြောင်းလဲရန် သင်သတ်မှတ်သည့် JavaScript ကိုထည့်ပါ။ "
+"မမှန်ကန်သောကုဒ်သည် widget ကို ပျက်စီးစေနိုင်သည်။"
+
+msgid "An error occurred while loading content."
+msgstr "အကြောင်းအရာတင်သွင်းရာတွင် အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။"
+
+msgid "Button"
+msgstr "ခလုတ်"
+
+msgid "Button Color"
+msgstr "ခလုတ်အရောင်"
+
+msgid "Button Emoji"
+msgstr "ခလုတ် Emoji"
+
+msgid "Button Message"
+msgstr "ခလုတ်စာသတင်း"
+
+msgid "Button Settings"
+msgstr "ခလုတ်ပြင်ဆင်မှု"
+
+msgid "Button Type"
+msgstr "ခလုတ်အမျိုးအစား"
+
+msgid "CSS saved successfully."
+msgstr "CSS ကို အောင်မြင်စွာ သိမ်းဆည်းလိုက်ပါပြီ။"
+
+msgid "Check this box to activate the widget."
+msgstr "Widget ကို ဖွင့်ရန် ဤအမည်အကွက်ကို စစ်ပါ။"
+
+msgid "Code Editor"
+msgstr "ကုဒ်တည်းဖြတ်ကိရိယာ"
+
+msgid "Custom CSS"
+msgstr "သီးခြား CSS"
+
+msgid "Custom JavaScript"
+msgstr "သီးခြား JavaScript"
+
+msgid "Description"
+msgstr "ဖော်ပြချက်"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "ဓာတ်ပုံ URL ဖြည့်ပါ"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "ဥပမာ: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "ယေဘူယျ"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ကို အောင်မြင်စွာ သိမ်းဆည်းလိုက်ပါပြီ။"
+
+msgid "Left"
+msgstr "ဘယ်ဘက်"
+
+msgid "Live Preview"
+msgstr "တိုက်ရိုက်တင်သွင်းကြည့်ရှုမှု"
+
+msgid "Loading..."
+msgstr "ဖွင့်နေတယ်..."
+
+msgid "PNG Image URL"
+msgstr "PNG ဓာတ်ပုံ URL"
+
+msgid "Paste SVG code"
+msgstr "SVG ကုဒ်ကူးထည့်ပါ"
+
+msgid "Please enter a valid URL."
+msgstr "တရားဝင် URL တစ်ခုထည့်ပါ။"
+
+msgid "Position"
+msgstr "တည်နေရာ"
+
+msgid "Reset to Default"
+msgstr "မူလတည်နေရာသို့ ပြန်လည်သတ်မှတ်ပါ"
+
+msgid "Right"
+msgstr "ညာဘက်"
+
+msgid "SVG Code"
+msgstr "SVG ကုဒ်"
+
+msgid "Save CSS"
+msgstr "CSS သိမ်းဆည်းပါ"
+
+msgid "Save JavaScript"
+msgstr "JavaScript သိမ်းဆည်းပါ"
+
+msgid "Save Settings"
+msgstr "သိမ်းဆည်း ဆက်တင်များ"
+
+msgid "Settings saved successfully."
+msgstr "ဆက်တင်များအောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ။"
+
+msgid "Style Editor"
+msgstr "အပြင်အဆင်တည်းဖြတ်သမား"
+
+msgid "WARNING"
+msgstr "သတိပေးချက်"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"ကြိုဆိုပါသည်! ဤကွပ်ကဲမီးကွက်မှ widget သတင်းများနှင့် "
+"ကြေညာချက်များကိုလိုက်နာနိုင်ပါသည်။"
+
+msgid "Widget Settings"
+msgstr "Widget ဆက်တင်များ"
+
+msgid "Widget Status"
+msgstr "Widget အခြေအနေ"
+
+msgid "Widget active"
+msgstr "Widget အသက်ဝင်"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"အမှား JavaScript ကုဒ်က widget ကို ချို့ယွင်းစေနိုင်သည်။ "
+"ပြင်ဆင်မှုများမပြုလုပ်မီ မူလအခြေအနေသိုလှောင်ထားပါ။"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "သင့် Buy Me a Coffee အသုံးပြုသူအမည်"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"သင်၏ပြင်ဆင်မှုများသည် widget ရဲ့အရောင်ပုံသဏ္ဍာန်ကို "
+"တိုက်ရိုက်ထိခိုက်သွားမည်။ CSS မသိသေးပါက မူရင်း ဆက်တင်များကို အသုံးပြုရန် "
+"အကြံပြုသည်။"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - ဒေသထောက်ခံ ဒါ့ဘုတ်"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "သဘာဝသံသယနှင့် စူးစမ်းသမားများ"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"လက္ခဏာအင်္ဂါရပ်များ: စူးစမ်းအားစိတ်၊ ကိုယ်ပိုင်ထင်မြင်၊ ဖွင့်လှစ်လမ်း၊ "
+"အထောက်အထားသို့ ဆွဲဆောင်သည်။ ဘဝအတွင်း၌ ဖုံးကုံးသည့် အဓိပ္ပါယ် သို့မဟုတ် "
+"ပုံစံများကို ဖော်ထုတ်လိုက်သည်။ လုပ်ငန်းအမျိုးအစား: "
+"စိတ်ရင်းသွားတော်အထောက်အကူပြုသူများ၊ tarot ဖတ်ရှုသူများ၊ ကမ္ဘာသိပ္ပံရှင်များ "
+"သို့မဟုတ် New Age လုပ်ထုံးစံများတွင် ပါဝင်သည့် တစ်ဦးချင်းစီ။ မူဝါဒအခြေခံ: "
+"စိတ်ရင်းသို့မဟုတ် metaphysical ယုံကြည်ချက်များကို များမားပါသည်။ "
+"လက်တွဲစွမ်းရည်ကို ပြည့်စုံသော တရားဝင်အဓိပ္ပါယ်များ သို့မဟုတ် ကမ္ဘာတစ်လွှား "
+"စွမ်းအားများနှင့် ချိတ်ဆက်ရန် အတည်တကျကြည့်ရှုသည်။"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "အရေအတွက်ပညာရှင်များနှင့် Gematria စိတ်ဝင်စားသူများ"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"လက္ခဏာအင်္ဂါရပ်များ: စာရင်းအတွင်းစစ်ဆေးသူ၊ အသေးအချင်းအချက်အလက်ဆိုင်ရာ၊ "
+"သရုပ်ဆောင်အဓိပ္ပါယ်များကို ဖော်ထုတ်သုံးသပ်သည့် စိတ်ဝင်စားမှုရှိသူ။ "
+"စကားလုံးနှင့်အရေအတွက်တို့အကြား ဆက်စပ်မှုကို မေတ္တာထားသည်။ "
+"လုပ်ငန်းအမျိုးအစား: လွတ်လပ်သောအရေအတွက်ပညာရှင်များ၊ "
+"သမ္မာအကြောင်းအရာရေးသားသူများ သို့မဟုတ် အရေအတွက်ကို "
+"သုတေသနမဲ့သည့်အမဲထုတ်လေ့လာသူများ။ မူဝါဒအခြေခံ: အရေအတွက်ကို ပျော်ရွှင်သော "
+"ပညာရှင်ရေးရာ လေ့လာမှုအနေဖြင့် သုံးသပ်သည့်အများစုမှ စတင်၍ အထူးဝိသေသလက္ခဏာကို "
+"ယုံကြည်သည့်အထူးအလေးအနက်ရှိသူများထံသို့ အရပ်တစ်ကွင်းအထိ "
+"ကြားလှုံ့ဆော်နိုင်သည်။"
+
+msgid "Historians and Linguists"
+msgstr "သမိုင်းရေးသားသူများနှင့် ဘာသာစကားပညာရှင်များ"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"လက္ခဏာအင်္ဂါရပ်များ: ပညာရှင်ဆိုင်ရာ၊ စနစ်တကျ၊ Abjad တို့ကဲ့သို့ "
+"အရေအတွက်စနစ်များ၏ သမိုင်းမို့ဟုတ် ယဉ်လက်နောက်ခံအတွင်းစိတ်ဝင်စားသည်။ "
+"လုပ်ငန်းအမျိုးအစား: ပညာရှင်များ၊ သုတေသနတင်သမားများ သို့မဟုတ် "
+"ဗဟိုအရှေ့အထောက်အထားများ၊ သမိုင်း၊ ဘာသာရေးစာတမ်းများကို လေ့လာနေသော "
+"ကျောင်းသားများ။ မူဝါဒအခြေခံ: ပုဂ္ဂလိက၊ ပညာရေးအယူအဆမှအတည်ပြုမှုအထောက်အကူပြု၍ "
+"တိုက်ရိုက် သုံးသပ်သည်။"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "ဘာသာရေး သို့မဟုတ် ယုံကြည်ချက်အခြေခံသူများ"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"လက္ခဏာအင်္ဂါရပ်များ: တရားမြတ်၊ စိတ်သုံးသပ်၊ ယုံကြည်ချက်နှင့် ပိုမိုနီးကပ်သော"
+" ဆက်သွယ်မှု ရှာဖွေသည်။ ဘာသာရေးစာတမ်းများ သို့မဟုတ် ဘုရားသခင်သတင်းစာများကို "
+"လေ့လာရန် ဆောက်တည်သော လက်ရာများ အသုံးပြုသည်။ လုပ်ငန်းအမျိုးအစား: "
+"ဘာသာရေးပညာရှင်များ၊ imams၊ မိူ္တန်၊ တင်္တိသံ၊ ၎င်း၏ "
+"မင်းသမီးသမိုင်းစိတ်အထဲတွင် အားတော်လှန်သော အားကောင်းသည့်လူများ။ မူဝါဒအခြေခံ: "
+"ယခင်တည်ထောင်ထားသော သံသယ မဟုတ်သည့် ပုံစံတစ်ခု မဟုတ်သည့်အနေဖြင့် သဘာဝကျသော "
+"စိတ်ကူးယဉ်မဟုတ်သော မိုင်းကွင်းတစ်ခု ဖြင့် ထုတ်လွှင့်သုံးသပ်သည်။"
+
+msgid "Writers and Artists"
+msgstr "ရေးသားသူနှင့် အနုပညာရှင်များ"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"လက္ခဏာအင်္ဂါရပ်များ: ဖန်တီးရေး၊ စိတ်ကူးယဉ်၊ သရုပ်ဆောင်သို့မဟုတ် "
+"လွှမ်းမိုးသော အယူအဆများဆီသို့ ဆွဲဆောင်သည်။ လက်ရာကို "
+"ပိုမိုအဓိပ္ပါယ်ကောင်းစေရန် လက်ရာအတွက် ထုတ်လုပ်ထားသော လုပ်ငန်းအနေဖြင့် "
+"လုပ်ဆောင်နိုင်သည်။ လုပ်ငန်းအမျိုးအစား: ဆရာ၊ ဝါသနာ၊ ကြည်နူးဖွယ်ကောင်းသော "
+"အနုပညာသမားများ သို့မဟုတ် သီချင်းသမားများ။ မူဝါဒအခြေခံ: စိတ်ကူးယဉ်လူများမှ "
+"စတင်၍ စိတ်ရင်းသို့မဟုတ် စူးစမ်းလေ့လာသည့် လူများအထိ ကွဲပြားနိုင်သည်။"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "စိန်ခေါ်မေးခွန်းနှင့် ရှာဖွေမှု ပျော်ရွှင်သူများ"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"လက္ခဏာအင်္ဂါရပ်များ: ပျော်ရွှင်၊ ဦးစားပေး စူးစမ်းသော၊ ပြဿနာများကို "
+"ဖြေရှင်းသုံးသပ်ခြင်းနှင့် ပုံစံများကို ဖတ်ရှုခြင်းကို ချစ်ကြသည်။ "
+"လုပ်ငန်းအမျိုးအစား: ပရဟိတအလှူဝတ်တန်ဆာ၊ စိန်ခေါ်ရေးဆွဲသမားများ သို့မဟုတ် "
+"ပညာသင်ကြားသူများ။ မူဝါဒအခြေခံ: ဗဟုသုတအနက် မကောင်းသော၊ သတိပြုသော "
+"စွဲချက်အနေနှင့် အရည်အချင်းကောင်းမွန်သော စီးပွားရေးအနေဖြင့် အသုံးပြုသည်။"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "အလားအလာ မည်သို့သော အကြံပြုသူများနှင့် ဦးစားပေး စိတ်ကူးယဉ်များ"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"လက္ခဏာအင်္ဂါရပ်များ: အထွေထွေဇာတ်လမ်းအရာများကို သေသေပါသည့် စူးစမ်းမှု၊ "
+"စနစ်များထဲမှ ဖုံးကုံးသည့် တကယုံတကရာကို ဖော်ထုတ်သည့် စိတ်ကူးယဉ်။ "
+"လုပ်ငန်းအမျိုးအစား: တစ်ဦးချင်းစီ သုတေသနရေးသားသူများ၊ ဘလော့ဂ်ရေးသားသူများ "
+"သို့မဟုတ် လှုပ်ရှားသူများ။ မူဝါဒအခြေခံ: တစ်ခါတစ်ရံ ဂုဏ်ထူးထွေးသော "
+"ဒေသတစ်ကွက်သို့ မျှတသော ဖော်ပြမှုကို ဗဟိုကမ်းမောင်းသည်။"
+
+msgid "☕ Support the Project"
+msgstr "☕ ပရောဂျက်ကို ထောက်ပံ့ပါ"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "မင်း၏ ပရောဂျက်ကို ကြိုက်ပါက ကော်ဖီ တစ်ချပ် ဝယ်ယူနိုင်ပါသည်!"
+
+msgid "Buy Me A Coffee"
+msgstr "ကော်ဖီဝယ်ယူပါ"
+
+msgid "Thank you! 🙏"
+msgstr "ကျေးဇူးတင်ပါတယ်! 🙏"

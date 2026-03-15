@@ -1,0 +1,821 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Hausa <ha_NG>\n"
+"Language: ha-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Saitunan Abjad"
+
+msgid "Abjad Value"
+msgstr "Kima ta Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard na Abjad Widget"
+
+msgid "Abjad calculation results"
+msgstr "Sakamakon lissafin Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Lissafin Abjad an ɓoye"
+
+msgid "Abjad not calculated"
+msgstr "Abjad bai lissafa ba"
+
+msgid "Abjad order"
+msgstr "Tsarin Abjad"
+
+msgid "Add elements"
+msgstr "Ƙara abubuwa"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Iska"
+
+msgid "All"
+msgstr "Duka"
+
+msgid "Arabic"
+msgstr "Larabci"
+
+msgid "Arabic letters"
+msgstr "Haruffan Larabci"
+
+msgid "Arabic numbers"
+msgstr "Lambobin Larabci"
+
+msgid "As data for operation"
+msgstr "Kamar bayanai don aiki"
+
+msgid "Bast loop results"
+msgstr "Sakamakon zagaye na Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast bai lissafa ba"
+
+msgid "Bast repetition count"
+msgstr "Yawan maimaitawa na Bast"
+
+msgid "Bast results hidden"
+msgstr "Sakamakon Bast an ɓoye"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Tsarin Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda na Bastet"
+
+msgid "Bastet table"
+msgstr "Teburin Bastet"
+
+msgid "Big"
+msgstr "Babba"
+
+msgid "Bigger"
+msgstr "Babba fiye"
+
+msgid "Buy Me a Coffee ID"
+msgstr "ID don sayi niya kofi"
+
+msgid "Buy me a coffee"
+msgstr "Sayi mini kofi"
+
+msgid "Calculate"
+msgstr "Lissafa"
+
+msgid "Calculate Abjad"
+msgstr "Lissafa Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Lissafa Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Lissafa Huddam"
+
+msgid "Calculation details"
+msgstr "Bayanin lissafi"
+
+msgid "Choose Keyboard Layout"
+msgstr "Zaɓi tsarin keyboard"
+
+msgid "Clear text box"
+msgstr "Share akwatin rubutu"
+
+msgid "Click row for details"
+msgstr "Danna layi don cikakkun bayanai"
+
+msgid "Close Keyboard"
+msgstr "Rufe keyboard"
+
+msgid "Closed"
+msgstr "An rufe"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Buri (,) shine rarrabewa na asali kuma dole ne a ci gaba da sanya alama!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Rarrabewar shigar da bayanai:"
+
+msgid "Data type profile"
+msgstr "Bayanan nau'in bayanai"
+
+msgid "Dead keys"
+msgstr "Makullin da ba su aiki"
+
+msgid "Decrease keyboard size"
+msgstr "Rage girman keyboard"
+
+msgid "Don't calculate"
+msgstr "Kada ka lissafa"
+
+msgid "Duty entity name results"
+msgstr "Sakamakon sunan kayan aiki"
+
+msgid "Duty entity type"
+msgstr "Nau'in kayan aikin aiki"
+
+msgid "Earth"
+msgstr "Duniya"
+
+msgid "Element classification"
+msgstr "Rarraba abubuwa"
+
+msgid "Element classification method"
+msgstr "Hanyar rarraba abubuwa"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Shigar da rubutu... Haruffa na Larabci, Ibrananci, Turanci, lambobi"
+
+msgid "Entered data"
+msgstr "Bayanan da aka shigar"
+
+msgid "Entry"
+msgstr "Shigarwa"
+
+msgid "Entry letter count"
+msgstr "Yawan haruffa a shigarwa"
+
+msgid "Evil"
+msgstr "Mugun"
+
+msgid "Fire"
+msgstr "Igi"
+
+msgid "For entered data"
+msgstr "Don bayanan da aka shigar"
+
+msgid "Frequency in Quran"
+msgstr "Yawan a cikin Qur'an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibrananci"
+
+msgid "Hebrew alphabet elements"
+msgstr "Abubuwan rubutun Ibrananci"
+
+msgid "Hebrew letters"
+msgstr "Haruffan Ibrananci"
+
+msgid "High"
+msgstr "Fada"
+
+msgid "Hija order"
+msgstr "Tsarin Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Sunayen Huddam an ɓoye"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ba a lissafa ba"
+
+msgid "Iklil's order"
+msgstr "Tsarin Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Ƙara girman keyboard"
+
+msgid "Indian numbers"
+msgstr "Lambobin India"
+
+msgid "Interface language"
+msgstr "Harshe na interface"
+
+msgid "Let character quantity decide"
+msgstr "Bari yawan haruffa ya yanke shawara"
+
+msgid "Letter count"
+msgstr "Adadin haruffa"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ina son ayyukana? Say min kofi!"
+
+msgid "Low"
+msgstr "Ƙasa"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Tsarin Hija na Maghribian"
+
+msgid "Minimum"
+msgstr "Mafi karancin"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Harshe na karanta lamba"
+
+msgid "Numerical values"
+msgstr "Darajojin lambobi"
+
+msgid "Open"
+msgstr "Bude"
+
+msgid "Order"
+msgstr "Tsari"
+
+msgid "Possible phrases"
+msgstr "Mabuɗan jimla"
+
+msgid "Program settings"
+msgstr "Saitunan shirin"
+
+msgid "Pronunciation"
+msgstr "Kwalliya"
+
+msgid "Regular expression"
+msgstr "Kirkirar kiran"
+
+msgid "Regularly preferred classification"
+msgstr "Rarraba da ake yawan so"
+
+msgid "Reset"
+msgstr "Sake saita"
+
+msgid "Separators"
+msgstr "Rarrabawa"
+
+msgid "Settings"
+msgstr "Saituna"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Nuna numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Nuna keyboard na zamani"
+
+msgid "Small"
+msgstr "Ƙarami"
+
+msgid "Small + letter count"
+msgstr "Ƙarami + adadin haruffa"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Goyon baya"
+
+msgid "Taken (letter)"
+msgstr "An ɗauke (harafi)"
+
+msgid "Taken (letter; abjad)"
+msgstr "An ɗauke (harafi; abjad)"
+
+msgid "Taken Letters"
+msgstr "Haruffan da aka ɗauke"
+
+msgid "Text or number cell"
+msgstr "Kutu na rubutu ko lamba"
+
+msgid "Thank you for your support!"
+msgstr "Na gode da goyon bayan ku!"
+
+msgid "Total"
+msgstr "Jimla"
+
+msgid "Turkish"
+msgstr "Turkiyya"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turkish Alphabet Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Abubuwan alphabet na Turkiyya"
+
+msgid "Turkish letters"
+msgstr "Haruffan Turkiyya"
+
+msgid "Undefined characters"
+msgstr "Karakterin da ba a ayyana ba"
+
+msgid "Value"
+msgstr "Kima"
+
+msgid "Value & Detail"
+msgstr "Kima & Bayani"
+
+msgid "Version"
+msgstr "Siffa"
+
+msgid "Water"
+msgstr "Ruwa"
+
+msgid "When data is entered"
+msgstr "Lokacin da bayanai aka shigar"
+
+msgid "When reading large digits"
+msgstr "Lokacin da ake karanta manyan lambobi"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad an ƙididdige da ƙari adadin haruffa"
+
+msgid "abjad() functions settings"
+msgstr "saitunan ayyukan abjad()"
+
+msgid "add to initial value"
+msgstr "kara ga ƙimar farko"
+
+msgid "and"
+msgstr "da"
+
+msgid "auto calculate immediately"
+msgstr "Ƙididdige ta atomatik nan take"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "saitunan ayyukan bastet() da nutket()"
+
+msgid "count once"
+msgstr "lissafa sau ɗaya"
+
+msgid "count twice"
+msgstr "lissafa sau biyu"
+
+msgid "display with Arabic numbers"
+msgstr "nuna tare da lambobin Larabci"
+
+msgid "display with Indian numbers"
+msgstr "nuna tare da lambobin Indiya"
+
+msgid "do not add to initial value"
+msgstr "ba ku ƙara ga ƙimar farko"
+
+msgid "do not force to other functions"
+msgstr "ba ku tilasta zuwa sauran ayyuka"
+
+msgid "do not purify"
+msgstr "ba ku tsarkake"
+
+msgid "force to other functions"
+msgstr "tilasta zuwa sauran ayyuka"
+
+msgid "group multiplier letters"
+msgstr "ƙungiyar haruffan ninka"
+
+msgid "hide"
+msgstr "rufe"
+
+msgid "hide abjad values"
+msgstr "rufe ƙimar abjad"
+
+msgid "hide bast results"
+msgstr "toje sakamakon bast"
+
+msgid "hide huddam names"
+msgstr "toje sunayen huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() saitunan aikin"
+
+msgid "no bast applied."
+msgstr "babu bast da aka yi."
+
+msgid "no data entered"
+msgstr "ba a shigar da bayanai ba"
+
+msgid "other suffix"
+msgstr "suffix daban"
+
+msgid "purify data"
+msgstr "tsarkake bayanai"
+
+msgid "repeat multiplier for each digit"
+msgstr "maimaita mai ninka don kowanne lamba"
+
+msgid "show"
+msgstr "nuna"
+
+msgid "show abjad values"
+msgstr "nuna darajar abjad"
+
+msgid "show bast results"
+msgstr "nuna sakamakon bast"
+
+msgid "show huddam names"
+msgstr "nuna sunayen huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "lokaci da aka yi amfani da bast."
+
+msgid "use calculated abjad results"
+msgstr "yi amfani da sakamakon abjad da aka lissafa"
+
+msgid "use calculated abjad total"
+msgstr "yi amfani da jimlar abjad da aka lissafa"
+
+msgid "use calculated bast results"
+msgstr "yi amfani da sakamakon bast da aka lissafa"
+
+msgid "use entered data directly"
+msgstr "yi amfani da bayanai da aka shigar kai tsaye"
+
+msgid "use entered data total"
+msgstr "yi amfani da jimlar bayanai da aka shigar"
+
+msgid "use in all bast repetitions"
+msgstr "yi amfani a duk maimaitawar bast"
+
+msgid "use only at beginning if possible"
+msgstr "yi amfani kawai a farkon idan zai yiwu"
+
+msgid "wait for settings and data entry"
+msgstr "jirantar da saituna da shigar da bayanai"
+
+msgid "Abjad Table"
+msgstr "Jadawalin Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Bayanai"
+
+msgid "Element Classification"
+msgstr "Rarraba Abun"
+
+msgid "Abjad Order"
+msgstr "Tsarin Abjad"
+
+msgid "Abjad Widget"
+msgstr "Wandin Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ƙara CSS na musamman don gyara kallo na wandin."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ƙara JavaScript na musamman don canza halayyar wandin. Lambar da ba daidai "
+"ba na iya lalata wandin!"
+
+msgid "An error occurred while loading content."
+msgstr "An sami kuskure yayin lodin abun ciki."
+
+msgid "Button"
+msgstr "Maɓalli"
+
+msgid "Button Color"
+msgstr "Launin maɓalli"
+
+msgid "Button Emoji"
+msgstr "Emoji maɓalli"
+
+msgid "Button Message"
+msgstr "Saƙon maɓalli"
+
+msgid "Button Settings"
+msgstr "Saitunan maɓalli"
+
+msgid "Button Type"
+msgstr "Irin maɓalli"
+
+msgid "CSS saved successfully."
+msgstr "CSS an adana lafiya."
+
+msgid "Check this box to activate the widget."
+msgstr "Danna wannan akwatin don kunna widget."
+
+msgid "Code Editor"
+msgstr "Mai Shirya Lambar"
+
+msgid "Custom CSS"
+msgstr "CSS na Musamman"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript na Musamman"
+
+msgid "Description"
+msgstr "Bayanin"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Shigar da adireshin hoto"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Misali: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Gabaɗaya"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript an adana lafiya."
+
+msgid "Left"
+msgstr "Ɗama"
+
+msgid "Live Preview"
+msgstr "Duba kai tsaye"
+
+msgid "Loading..."
+msgstr "Ana lodawa..."
+
+msgid "PNG Image URL"
+msgstr "PNG adireshin hoto"
+
+msgid "Paste SVG code"
+msgstr "Matsa lambar SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Don Allah shigar da ingantaccen adireshi."
+
+msgid "Position"
+msgstr "Matsayi"
+
+msgid "Reset to Default"
+msgstr "Sake saita zuwa asali"
+
+msgid "Right"
+msgstr "Dama"
+
+msgid "SVG Code"
+msgstr "Lambar SVG"
+
+msgid "Save CSS"
+msgstr "Ajiye CSS"
+
+msgid "Save JavaScript"
+msgstr "Ajiye JavaScript"
+
+msgid "Save Settings"
+msgstr "Ajiye Saituna"
+
+msgid "Settings saved successfully."
+msgstr "An ajiye saitunan cikin nasara."
+
+msgid "Style Editor"
+msgstr "Mai gyara salon"
+
+msgid "WARNING"
+msgstr "GABATARWA"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Barka! Kuna iya bin labarai da sanarwa na widget daga wannan panel."
+
+msgid "Widget Settings"
+msgstr "Saitunan Widget"
+
+msgid "Widget Status"
+msgstr "Yanayin Widget"
+
+msgid "Widget active"
+msgstr "Widget yana aiki"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kuskuren JavaScript na iya lalata widget. Ka yi ajiyar bayanai kafin ka yi "
+"canje-canje."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Sunan mai amfani na Buy Me a Coffee naka"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Canje-canje naka zasu shafi kwalliyar widget kai tsaye. Idan ba ka san CSS "
+"ba, ana ba da shawarar amfani da saitunan tsohuwa."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Widget Abjad - Dashboard na Gida"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Masu neman ruhaniya da al'janni"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Halaye na mutum: Masu tambaya, masu tsinkaye, masu kallo, da kuma jin dadin "
+"ilimin sirri. Suna iya da sha'awar gano ma'ana ko tsari a rayuwa. Ayyuka: "
+"Kwararrun ruhaniya, masu karanta tarot, masu nazarin taurari, ko wasu masu "
+"shiga aikin New Age. Fannin tunani: Yawanci suna da ra'ayin ruhaniya ko na "
+"al'ada. Suna iya ganin kayan aikin a matsayin hanyar haɗuwa da gaskiya mai "
+"zurfi ko makamashi."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Masu kimiyyar lissafi da masu sha'awar Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Halaye na mutum: Mai nazari, mai kulawa da cikakkun bayanai, kuma yana son "
+"dangantakar lambobi da harshe. Suna iya jin dadin fassara ma'ana na alama. "
+"Ayyuka: Masu aikin lissafi kai tsaye, marubuta kan batutuwan al'ada, ko masu"
+" sha'awar lissafi. Fannin tunani: Yana iya kasancewa daga waɗanda ke ganin "
+"lissafi a matsayin nishaɗi ne zuwa ga waɗanda ke yarda da mahimmancin "
+"ruhaniya."
+
+msgid "Historians and Linguists"
+msgstr "Masana Tarihi da Babbanci"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Halaye na mutum: Mai ilimi, mai tsarin aiki, kuma mai sha'awar tarihin ko "
+"al'adun da suka shafi tsarin lissafi kamar Abjad. Ayyuka: Ilimi, masu "
+"bincike, ko dalibai da ke nazarin harsunan Gabas ta Tsakiya, tarih, ko "
+"rubuce-rubucen addini. Fannin tunani: Yawanci suna duban kayan aiki daga "
+"hangen nesa na addini, mai ilimi, mai mayar da hankali ga ma'anar tarihin ko"
+" na harshe."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Masu addini ko Mabiyan addini"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Halaye na mutum: Mai takura, mai tunani, kuma na neman haɗin kai mai zurfi "
+"da addini. Suna iya amfani da kayan aikin don bincika rubuce-rubucen addini "
+"ko saƙonnin ilimi. Ayyuka: Masana addini, imami, farauta, ko jama'a da ke da"
+" sha'awar al'adun addini na gargajiya. Fannin tunani: Yawanci suna da "
+"ra'ayin gargajiya ko na karewa, suna amfani da kayan aiki don karfafa imani "
+"na ruhaniya."
+
+msgid "Writers and Artists"
+msgstr "Marubuta da Fasaha"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Halaye na mutum: Mai kirkira, mai tunani, kuma na jin daɗin ma'ana ko "
+"abubuwan da ba su da ainihi. Suna iya amfani da kayan aikin don samun ilimi "
+"ko kara ma'ana ga aikin su. Ayyuka: Marubuta, mawaka, masu zane, ko mawaki. "
+"Fannin tunani: Yana iya kasancewa daga masu kirkira na zamani zuwa ga masu "
+"sha'awar ruhaniya."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Masu sha'awar Wasu da Rarraba"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Halaye na mutum: Mai wasa, mai ilimi, kuma na jin daɗi wajen warware "
+"matsaloli masu wahala ko fassara tsari. Ayyuka: Masu sha'awa, masu ƙirƙirar "
+"wasa, ko malamai. Fannin tunani: Yawanci suna ganin kayan aiki a matsayin "
+"nishaɗi ko gwajin kwakwalwa, ba tare da dangantaka da ra'ayi ba."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Masu ra'ayin dabara da masu tunani daban"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Halaye na mutum: Yana da shakku game da labaran zamani, na jin daɗi wajen "
+"gano gaskiya ko tsari a cikin tsarin. Ayyuka: Masu bincike masu zaman kansu,"
+" masu rubutu a yanar gizo, ko masu fafutukar canji. Fannin tunani: Yana iya "
+"kasancewa da ra'ayi na radikal ko na ba a saba da shi, yana amfani da kayan "
+"aiki don tallafawa ka'idodin daban ko labarai."
+
+msgid "☕ Support the Project"
+msgstr "☕ Tallafa wa Ayyukan"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Idan ka so aikin na, za ka iya sayi kofi!"
+
+msgid "Buy Me A Coffee"
+msgstr "Sayi Ni Kofi"
+
+msgid "Thank you! 🙏"
+msgstr "Na gode! 🙏"

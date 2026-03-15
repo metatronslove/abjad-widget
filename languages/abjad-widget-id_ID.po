@@ -1,0 +1,823 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Indonesian <id_ID>\n"
+"Language: id-ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Pengaturan Abjad"
+
+msgid "Abjad Value"
+msgstr "Nilai Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dasbor Widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Hasil perhitungan Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Perhitungan Abjad disembunyikan"
+
+msgid "Abjad not calculated"
+msgstr "Abjad tidak dihitung"
+
+msgid "Abjad order"
+msgstr "Urutan Abjad"
+
+msgid "Add elements"
+msgstr "Tambahkan elemen"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Udara"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Arabic"
+msgstr "Arab"
+
+msgid "Arabic letters"
+msgstr "Huruf Arab"
+
+msgid "Arabic numbers"
+msgstr "Angka Arab"
+
+msgid "As data for operation"
+msgstr "Sebagai data untuk operasi"
+
+msgid "Bast loop results"
+msgstr "Hasil loop Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast tidak dihitung"
+
+msgid "Bast repetition count"
+msgstr "Jumlah pengulangan Bast"
+
+msgid "Bast results hidden"
+msgstr "Hasil Bast disembunyikan"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Urutan Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tabel Bastet"
+
+msgid "Big"
+msgstr "Besar"
+
+msgid "Bigger"
+msgstr "Lebih Besar"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Beli kopi untuk saya"
+
+msgid "Calculate"
+msgstr "Hitung"
+
+msgid "Calculate Abjad"
+msgstr "Hitung Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Hitung Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Hitung Huddam"
+
+msgid "Calculation details"
+msgstr "Rincian perhitungan"
+
+msgid "Choose Keyboard Layout"
+msgstr "Pilih Tata Letak Keyboard"
+
+msgid "Clear text box"
+msgstr "Bersihkan kotak teks"
+
+msgid "Click row for details"
+msgstr "Klik baris untuk detail"
+
+msgid "Close Keyboard"
+msgstr "Tutup Keyboard"
+
+msgid "Closed"
+msgstr "Ditutup"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma adalah pemisah default dan harus tetap dicentang!"
+
+msgid "Dashboard"
+msgstr "Dasbor"
+
+msgid "Data entry separators:"
+msgstr "Pemisah masukan data:"
+
+msgid "Data type profile"
+msgstr "Profil tipe data"
+
+msgid "Dead keys"
+msgstr "Tombol mati"
+
+msgid "Decrease keyboard size"
+msgstr "Perkecil ukuran keyboard"
+
+msgid "Don't calculate"
+msgstr "Jangan hitung"
+
+msgid "Duty entity name results"
+msgstr "Hasil nama entitas tugas"
+
+msgid "Duty entity type"
+msgstr "Jenis entitas tugas"
+
+msgid "Earth"
+msgstr "Bumi"
+
+msgid "Element classification"
+msgstr "Klasifikasi unsur"
+
+msgid "Element classification method"
+msgstr "Metode klasifikasi unsur"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Masukkan teks... Huruf Arab, Ibrani, Turki, angka"
+
+msgid "Entered data"
+msgstr "Data yang dimasukkan"
+
+msgid "Entry"
+msgstr "Entri"
+
+msgid "Entry letter count"
+msgstr "Jumlah huruf entri"
+
+msgid "Evil"
+msgstr "Jahat"
+
+msgid "Fire"
+msgstr "Api"
+
+msgid "For entered data"
+msgstr "Untuk data yang dimasukkan"
+
+msgid "Frequency in Quran"
+msgstr "Frekuensi dalam Al-Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibrani"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elemen alfabet Ibrani"
+
+msgid "Hebrew letters"
+msgstr "Huruf Ibrani"
+
+msgid "High"
+msgstr "Tinggi"
+
+msgid "Hija order"
+msgstr "Urutan Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Nama Huddam tersembunyi"
+
+msgid "Huddam not calculated"
+msgstr "Huddam tidak dihitung"
+
+msgid "Iklil's order"
+msgstr "Urutan Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Perbesar ukuran papan ketik"
+
+msgid "Indian numbers"
+msgstr "Angka India"
+
+msgid "Interface language"
+msgstr "Bahasa antarmuka"
+
+msgid "Let character quantity decide"
+msgstr "Biarkan jumlah karakter menentukan"
+
+msgid "Letter count"
+msgstr "Jumlah huruf"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Suka proyek saya? Beli saya kopi!"
+
+msgid "Low"
+msgstr "Rendah"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Urutan Maghribian hija"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Bahasa membaca angka"
+
+msgid "Numerical values"
+msgstr "Nilai numerik"
+
+msgid "Open"
+msgstr "Buka"
+
+msgid "Order"
+msgstr "Urutan"
+
+msgid "Possible phrases"
+msgstr "Frasa yang mungkin"
+
+msgid "Program settings"
+msgstr "Pengaturan program"
+
+msgid "Pronunciation"
+msgstr "Pengucapan"
+
+msgid "Regular expression"
+msgstr "Ekspresi reguler"
+
+msgid "Regularly preferred classification"
+msgstr "Klasifikasi yang biasanya dipilih"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Separators"
+msgstr "Pemisah"
+
+msgid "Settings"
+msgstr "Pengaturan"
+
+msgid "Shamsee abjad order"
+msgstr "Urutan abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Tampilkan numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Tampilkan papan ketik virtual"
+
+msgid "Small"
+msgstr "Kecil"
+
+msgid "Small + letter count"
+msgstr "Kecil + jumlah huruf"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Dukungan"
+
+msgid "Taken (letter)"
+msgstr "Diambil (huruf)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Diambil (huruf; abjad)"
+
+msgid "Taken Letters"
+msgstr "Huruf Terambil"
+
+msgid "Text or number cell"
+msgstr "Sel teks atau angka"
+
+msgid "Thank you for your support!"
+msgstr "Terima kasih atas dukungan Anda!"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad Alfabet Turki"
+
+msgid "Turkish alphabet elements"
+msgstr "Elemen alfabet Turki"
+
+msgid "Turkish letters"
+msgstr "Huruf Turki"
+
+msgid "Undefined characters"
+msgstr "Karakter tidak terdefinisi"
+
+msgid "Value"
+msgstr "Nilai"
+
+msgid "Value & Detail"
+msgstr "Nilai & Detail"
+
+msgid "Version"
+msgstr "Versi"
+
+msgid "Water"
+msgstr "Air"
+
+msgid "When data is entered"
+msgstr "Saat data dimasukkan"
+
+msgid "When reading large digits"
+msgstr "Saat membaca digit besar"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad dihitung dan jumlah huruf ditambahkan"
+
+msgid "abjad() functions settings"
+msgstr "pengaturan fungsi abjad()"
+
+msgid "add to initial value"
+msgstr "tambahkan ke nilai awal"
+
+msgid "and"
+msgstr "dan"
+
+msgid "auto calculate immediately"
+msgstr "hitung otomatis segera"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "pengaturan fungsi bastet() dan nutket()"
+
+msgid "count once"
+msgstr "hitung sekali"
+
+msgid "count twice"
+msgstr "hitung dua kali"
+
+msgid "display with Arabic numbers"
+msgstr "tampilkan dengan angka Arab"
+
+msgid "display with Indian numbers"
+msgstr "tampilkan dengan angka India"
+
+msgid "do not add to initial value"
+msgstr "jangan tambahkan ke nilai awal"
+
+msgid "do not force to other functions"
+msgstr "jangan paksa ke fungsi lain"
+
+msgid "do not purify"
+msgstr "jangan bersihkan"
+
+msgid "force to other functions"
+msgstr "paksa ke fungsi lain"
+
+msgid "group multiplier letters"
+msgstr "huruf pengganda kelompok"
+
+msgid "hide"
+msgstr "sembunyikan"
+
+msgid "hide abjad values"
+msgstr "sembunyikan nilai abjad"
+
+msgid "hide bast results"
+msgstr "Sembunyikan hasil bast"
+
+msgid "hide huddam names"
+msgstr "Sembunyikan nama huddam"
+
+msgid "huddam() function settings"
+msgstr "Pengaturan fungsi huddam()"
+
+msgid "no bast applied."
+msgstr "tidak ada bast diterapkan."
+
+msgid "no data entered"
+msgstr "tidak ada data yang dimasukkan"
+
+msgid "other suffix"
+msgstr "akhiran lain"
+
+msgid "purify data"
+msgstr "Bersihkan data"
+
+msgid "repeat multiplier for each digit"
+msgstr "ulang pengali untuk setiap digit"
+
+msgid "show"
+msgstr "Tampilkan"
+
+msgid "show abjad values"
+msgstr "Tampilkan nilai Abjad"
+
+msgid "show bast results"
+msgstr "Tampilkan hasil bast"
+
+msgid "show huddam names"
+msgstr "Tampilkan nama huddam"
+
+msgid "suffix"
+msgstr "akhiran"
+
+msgid "times bast applied."
+msgstr "kali bast diterapkan."
+
+msgid "use calculated abjad results"
+msgstr "Gunakan hasil abjad yang dihitung"
+
+msgid "use calculated abjad total"
+msgstr "Gunakan total abjad yang dihitung"
+
+msgid "use calculated bast results"
+msgstr "Gunakan hasil bast yang dihitung"
+
+msgid "use entered data directly"
+msgstr "Gunakan data yang dimasukkan secara langsung"
+
+msgid "use entered data total"
+msgstr "Gunakan total data yang dimasukkan"
+
+msgid "use in all bast repetitions"
+msgstr "Gunakan di semua pengulangan bast"
+
+msgid "use only at beginning if possible"
+msgstr "Gunakan hanya di awal jika memungkinkan"
+
+msgid "wait for settings and data entry"
+msgstr "Tunggu pengaturan dan entri data"
+
+msgid "Abjad Table"
+msgstr "Tabel Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Detail"
+
+msgid "Element Classification"
+msgstr "Klasifikasi Elemen"
+
+msgid "Abjad Order"
+msgstr "Urutan Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Tambahkan CSS kustom untuk menyesuaikan tampilan widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Tambahkan JavaScript kustom untuk mengubah perilaku widget. Kode yang salah "
+"dapat merusak widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Terjadi kesalahan saat memuat konten."
+
+msgid "Button"
+msgstr "Tombol"
+
+msgid "Button Color"
+msgstr "Warna Tombol"
+
+msgid "Button Emoji"
+msgstr "Emoji Tombol"
+
+msgid "Button Message"
+msgstr "Pesan Tombol"
+
+msgid "Button Settings"
+msgstr "Pengaturan Tombol"
+
+msgid "Button Type"
+msgstr "Tipe Tombol"
+
+msgid "CSS saved successfully."
+msgstr "CSS berhasil disimpan."
+
+msgid "Check this box to activate the widget."
+msgstr "Centang kotak ini untuk mengaktifkan widget."
+
+msgid "Code Editor"
+msgstr "Editor Kode"
+
+msgid "Custom CSS"
+msgstr "CSS Kustom"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Kustom"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Masukkan URL gambar"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Contoh: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript berhasil disimpan."
+
+msgid "Left"
+msgstr "Kiri"
+
+msgid "Live Preview"
+msgstr "Pratinjau Langsung"
+
+msgid "Loading..."
+msgstr "Memuat..."
+
+msgid "PNG Image URL"
+msgstr "URL Gambar PNG"
+
+msgid "Paste SVG code"
+msgstr "Tempel kode SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Silakan masukkan URL yang valid."
+
+msgid "Position"
+msgstr "Posisi"
+
+msgid "Reset to Default"
+msgstr "Reset ke Default"
+
+msgid "Right"
+msgstr "Kanan"
+
+msgid "SVG Code"
+msgstr "Kode SVG"
+
+msgid "Save CSS"
+msgstr "Simpan CSS"
+
+msgid "Save JavaScript"
+msgstr "Simpan JavaScript"
+
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+msgid "Settings saved successfully."
+msgstr "Pengaturan berhasil disimpan."
+
+msgid "Style Editor"
+msgstr "Editor Gaya"
+
+msgid "WARNING"
+msgstr "PERINGATAN"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Selamat datang! Anda dapat mengikuti berita dan pengumuman widget dari panel"
+" ini."
+
+msgid "Widget Settings"
+msgstr "Pengaturan Widget"
+
+msgid "Widget Status"
+msgstr "Status Widget"
+
+msgid "Widget active"
+msgstr "Widget aktif"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kode JavaScript yang salah dapat merusak widget. Cadangkan sebelum membuat "
+"perubahan."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Nama pengguna Buy Me a Coffee Anda"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Perubahan Anda akan langsung memengaruhi penampilan widget. Jika Anda tidak "
+"tahu CSS, disarankan menggunakan pengaturan default."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dasbor Lokal"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Pencari Spiritual dan Mistik"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Ciri Kepribadian: Penasaran, introspektif, terbuka pikiran, dan tertarik "
+"pada pengetahuan esoterik. Mereka mungkin memiliki minat kuat untuk "
+"mengungkap makna atau pola tersembunyi dalam kehidupan. Pekerjaan: Pelatih "
+"spiritual, pembaca tarot, astrolog, atau individu yang terlibat dalam "
+"praktik New Age. Spektrum Ideologis: Cenderung condong pada keyakinan "
+"spiritual atau metafisik. Mereka mungkin melihat alat tersebut sebagai cara "
+"untuk terhubung dengan kebenaran lebih dalam atau energi universal."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerolog dan Penggemar Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Ciri Kepribadian: Analitis, berorientasi pada detail, dan terpesona oleh "
+"hubungan antara angka dan bahasa. Mereka mungkin menikmati memecahkan makna "
+"simbolik. Pekerjaan: Numerolog lepas, penulis topik esoterik, atau hobiis "
+"yang mengeksplorasi numerologi. Spektrum Ideologis: Bisa berkisar dari yang "
+"melihat numerologi sebagai latihan intelektual menyenangkan hingga yang "
+"percaya pada signifikansi spiritualnya yang mendalam."
+
+msgid "Historians and Linguists"
+msgstr "Sejarawan dan Linguistik"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Ciri Kepribadian: Akademik, metodis, dan tertarik pada konteks sejarah atau "
+"budaya sistem numerik seperti Abjad. Pekerjaan: Akademisi, peneliti, atau "
+"mahasiswa yang mempelajari bahasa Timur Tengah, sejarah, atau teks "
+"keagamaan. Spektrum Ideologis: Cenderung mendekati alat dari perspektif "
+"sekuler dan akademik, memfokuskan pada signifikansi sejarah atau "
+"linguistiknya."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Individu Beragama atau Berbasis Kepercayaan"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Ciri Kepribadian: Beriman, reflektif, dan mencari hubungan lebih dalam "
+"dengan kepercayaan mereka. Mereka mungkin menggunakan alat untuk menjelajahi"
+" teks agama atau pesan ilahi. Pekerjaan: Ulama, imam, pendeta, atau lajang "
+"dengan minat kuat pada tradisi mistik kepercayaan mereka. Spektrum "
+"Ideologis: Cenderung memiliki pandangan dunia tradisional atau konservatif, "
+"menggunakan alat untuk memperkuat keyakinan spiritual mereka."
+
+msgid "Writers and Artists"
+msgstr "Penulis dan Seniman"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Ciri Kepribadian: Kreatif, imajinatif, dan tertarik pada konsep simbolik "
+"atau abstrak. Mereka mungkin menggunakan alat sebagai inspirasi atau "
+"menambah lapisan makna pada karya mereka. Pekerjaan: Penulis, penyair, "
+"seniman visual, atau musisi. Spektrum Ideologis: Bisa berkisar dari kreator "
+"sekuler hingga yang memiliki sisi spiritual atau mistis."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Penggemar Puzzle dan Teka-Teki"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Ciri Kepribadian: Ceria, penasaran intelektual, dan menikmati memecahkan "
+"masalah kompleks atau memecahkan pola. Pekerjaan: Hobiis, perancang puzzle, "
+"atau pendidik. Spektrum Ideologis: Cenderung melihat alat sebagai hiburan "
+"atau latihan mental, dengan sedikit keterikatan ideologis."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Teoritis Konspirasi dan Pemikir Alternatif"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Ciri Kepribadian: Skeptis terhadap narasi arus utama, tertarik pada "
+"mengungkap kebenaran tersembunyi atau pola dalam sistem. Pekerjaan: Peneliti"
+" independen, blogger, atau aktivis. Spektrum Ideologis: Mungkin memiliki "
+"pandangan dunia yang lebih radikal atau tidak konvensional, menggunakan alat"
+" untuk mendukung teori atau narasi alternatif."
+
+msgid "☕ Support the Project"
+msgstr "☕ Dukungan Proyek"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Jika Anda menyukai proyek saya, Anda dapat membeli kopi untuk saya!"
+
+msgid "Buy Me A Coffee"
+msgstr "Beli Kopi untuk Saya"
+
+msgid "Thank you! 🙏"
+msgstr "Terima kasih! 🙏"

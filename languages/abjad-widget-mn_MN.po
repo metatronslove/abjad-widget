@@ -1,0 +1,823 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Mongolian <mn_MN>\n"
+"Language: mn-MN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad тохиргоо"
+
+msgid "Abjad Value"
+msgstr "Abjad утга"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget хяналтын самбар"
+
+msgid "Abjad calculation results"
+msgstr "Abjad тооцооны үр дүн"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad тооцоолол нууцлагдлаа"
+
+msgid "Abjad not calculated"
+msgstr "Abjad тооцогдоогүй"
+
+msgid "Abjad order"
+msgstr "Abjad дараалал"
+
+msgid "Add elements"
+msgstr "Элемент нэмэх"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Агаар"
+
+msgid "All"
+msgstr "Бүх"
+
+msgid "Arabic"
+msgstr "Араб"
+
+msgid "Arabic letters"
+msgstr "Араб үсгүүд"
+
+msgid "Arabic numbers"
+msgstr "Араб тоон"
+
+msgid "As data for operation"
+msgstr "Үйлдэлд зориулсан өгөгдөл"
+
+msgid "Bast loop results"
+msgstr "Bast давталтын үр дүн"
+
+msgid "Bast not calculated"
+msgstr "Bast тооцогдоогүй"
+
+msgid "Bast repetition count"
+msgstr "Bast давталтын тоо"
+
+msgid "Bast results hidden"
+msgstr "Bast үр дүн нууцлагдлаа"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet дараалал"
+
+msgid "Bastet shadda"
+msgstr "Bastet шадда"
+
+msgid "Bastet table"
+msgstr "Bastet хүснэгт"
+
+msgid "Big"
+msgstr "Том"
+
+msgid "Bigger"
+msgstr "Ингэхих"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Биэн нэг кофе олгоорой"
+
+msgid "Calculate"
+msgstr "Тоолж"
+
+msgid "Calculate Abjad"
+msgstr "Abjad тооцоол"
+
+msgid "Calculate Bastet"
+msgstr "Бастетийг тооцоолох"
+
+msgid "Calculate Huddam"
+msgstr "Худдамыг тооцоолох"
+
+msgid "Calculation details"
+msgstr "Тооцолалтын дэлгэрэнгүй"
+
+msgid "Choose Keyboard Layout"
+msgstr "Гар дээрийн схемийг сонго"
+
+msgid "Clear text box"
+msgstr "Гар дээрийн хайрцгийг цэвэрлэнэ"
+
+msgid "Click row for details"
+msgstr "Дэлгэрэнгүй мэдээллийг харахын тулд мөр дээр дарна уу"
+
+msgid "Close Keyboard"
+msgstr "Гар дээрийг хаах"
+
+msgid "Closed"
+msgstr "Хаагдлаа"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Кома нь анхны тусгаарлагч бөгөөд идэвхитэй байх ёстой!"
+
+msgid "Dashboard"
+msgstr "Дашбоард"
+
+msgid "Data entry separators:"
+msgstr "Оруулалтын тусгаарлагчид:"
+
+msgid "Data type profile"
+msgstr "Өгөгдлийн төрөл профайл"
+
+msgid "Dead keys"
+msgstr "Үхсэн түлхүүрүүд"
+
+msgid "Decrease keyboard size"
+msgstr "Гар дээрийн хэмжээг багасгах"
+
+msgid "Don't calculate"
+msgstr "Тооцоолохгүй"
+
+msgid "Duty entity name results"
+msgstr "Үүрэгтэй объектын нэрийн үр дүн"
+
+msgid "Duty entity type"
+msgstr "Үүрэгтэй объектын төрөл"
+
+msgid "Earth"
+msgstr "Арт"
+
+msgid "Element classification"
+msgstr "Элементын ангилал"
+
+msgid "Element classification method"
+msgstr "Элемент ангилалын арга"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Бичлэг оруулна... Араб, Иврит, Төрийн үсгүүд, тоонууд"
+
+msgid "Entered data"
+msgstr "Оруулсан өгөгдөл"
+
+msgid "Entry"
+msgstr "Оруулалт"
+
+msgid "Entry letter count"
+msgstr "Оруулсан үсгийн тоо"
+
+msgid "Evil"
+msgstr "Халдвуу"
+
+msgid "Fire"
+msgstr "Нар"
+
+msgid "For entered data"
+msgstr "Оруулсан өгөгдөлд зориулж"
+
+msgid "Frequency in Quran"
+msgstr "Куранд хэрхэн давтагдана"
+
+msgid "Gematria"
+msgstr "Гематриа"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hebrew alphabet elements"
+msgstr "Ивритийн алфавитын элементүүд"
+
+msgid "Hebrew letters"
+msgstr "Иврит үсгүүд"
+
+msgid "High"
+msgstr "Өндөр"
+
+msgid "Hija order"
+msgstr "Hija дараалал"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam нэрүүд нууцлагдсан"
+
+msgid "Huddam not calculated"
+msgstr "Huddam тооцогдоогүй"
+
+msgid "Iklil's order"
+msgstr "Iklil-ийн дараалал"
+
+msgid "Increase keyboard size"
+msgstr "Клавиатурын хэмжээг нэмэгдүүлэх"
+
+msgid "Indian numbers"
+msgstr "Индийн тоонууд"
+
+msgid "Interface language"
+msgstr "Хэрэглэгчийн хэл"
+
+msgid "Let character quantity decide"
+msgstr "Тэмдэгтийн тоо шийдэхийг зөвшөөрөх"
+
+msgid "Letter count"
+msgstr "үсгийн тоо"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Миний төслүүдийг таалагдсан уу? Би кофе авна уу?"
+
+msgid "Low"
+msgstr "Бага"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija дараалал"
+
+msgid "Minimum"
+msgstr "Хамгийн бага"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Тоон уншигч хэл"
+
+msgid "Numerical values"
+msgstr "Тоон утга"
+
+msgid "Open"
+msgstr "Нээх"
+
+msgid "Order"
+msgstr "Дараалал"
+
+msgid "Possible phrases"
+msgstr "Мөмдөг илэрхийлэл"
+
+msgid "Program settings"
+msgstr "Програмын тохиргоо"
+
+msgid "Pronunciation"
+msgstr "Хэчир"
+
+msgid "Regular expression"
+msgstr "Регуляр илэрхийлэл"
+
+msgid "Regularly preferred classification"
+msgstr "Тогтмол хүндэтгэсэн ангилал"
+
+msgid "Reset"
+msgstr "Цэвэрлэх"
+
+msgid "Separators"
+msgstr "Таслалтууд"
+
+msgid "Settings"
+msgstr "Тохиргоо"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad дараалал"
+
+msgid "Show numpad"
+msgstr "Numpad‑ыг харуулах"
+
+msgid "Show virtual keyboard"
+msgstr "Шилэн гарчгийг харуулах"
+
+msgid "Small"
+msgstr "Жижиг"
+
+msgid "Small + letter count"
+msgstr "Жижиг + үсэг тоо"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Дэмжлэг"
+
+msgid "Taken (letter)"
+msgstr "Эргүүлсэн (үсэг)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Эргүүлсэн (үсэг; abjad)"
+
+msgid "Taken Letters"
+msgstr "Эргүүлсэн үсгүүд"
+
+msgid "Text or number cell"
+msgstr "Текст эсвэл тооны нүд"
+
+msgid "Thank you for your support!"
+msgstr "Дэмжигчид баярлалаа!"
+
+msgid "Total"
+msgstr "Нийт"
+
+msgid "Turkish"
+msgstr "Түркийн"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Түркийн алфавит abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Түркийн алфавит элементүүд"
+
+msgid "Turkish letters"
+msgstr "Түркийн үсгүүд"
+
+msgid "Undefined characters"
+msgstr "Тодорхойлогдоогүй тэмдэгтүүд"
+
+msgid "Value"
+msgstr "Утга"
+
+msgid "Value & Detail"
+msgstr "Утга & дэлгэрэнгүй"
+
+msgid "Version"
+msgstr "Хувилбар"
+
+msgid "Water"
+msgstr "Ун"
+
+msgid "When data is entered"
+msgstr "Мэдээлэл оруулсан үед"
+
+msgid "When reading large digits"
+msgstr "Хурдан тоон унших үед"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad тооцогдож, үсэгийн тоо нэмэгдсэн"
+
+msgid "abjad() functions settings"
+msgstr "abjad() функциййн тохиргоо"
+
+msgid "add to initial value"
+msgstr "эхний утга руу нэмэх"
+
+msgid "and"
+msgstr "ба"
+
+msgid "auto calculate immediately"
+msgstr "тусдаа шууд тооцох"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ба nutket() функциййн тохиргоо"
+
+msgid "count once"
+msgstr "нэг удаа тооцох"
+
+msgid "count twice"
+msgstr "хоёр удаа тооцох"
+
+msgid "display with Arabic numbers"
+msgstr "араб тоонуудаар үзүүлэх"
+
+msgid "display with Indian numbers"
+msgstr "индий тоонуудаар үзүүлэх"
+
+msgid "do not add to initial value"
+msgstr "эхний утга руу нэмэхгүй"
+
+msgid "do not force to other functions"
+msgstr "өөр функцуудад түрүүлэхгүй"
+
+msgid "do not purify"
+msgstr "зэвэрүүлэхгүй"
+
+msgid "force to other functions"
+msgstr "өөр функцуудад түрүүлэх"
+
+msgid "group multiplier letters"
+msgstr "мультипликатор үсэгнүүдийг бүлэглэж"
+
+msgid "hide"
+msgstr "онууруулах"
+
+msgid "hide abjad values"
+msgstr "abjad утгуудыг нууруулах"
+
+msgid "hide bast results"
+msgstr "bast үр дүнг нуух"
+
+msgid "hide huddam names"
+msgstr "huddam нэрүүдийг нуух"
+
+msgid "huddam() function settings"
+msgstr "huddam() функцын тохиргоо"
+
+msgid "no bast applied."
+msgstr "bast хэрэглэгдээгүй."
+
+msgid "no data entered"
+msgstr "мэдээлэл оруулагүй"
+
+msgid "other suffix"
+msgstr "өөр суффикс"
+
+msgid "purify data"
+msgstr "мэдээллийг цэвэрлэх"
+
+msgid "repeat multiplier for each digit"
+msgstr "багана бүрийн давталтын үржүүлэгч"
+
+msgid "show"
+msgstr "харуулах"
+
+msgid "show abjad values"
+msgstr "abjad утгуудыг харуулах"
+
+msgid "show bast results"
+msgstr "bast үр дүнг харуулах"
+
+msgid "show huddam names"
+msgstr "huddam нэрүүдийг харуулах"
+
+msgid "suffix"
+msgstr "суффикс"
+
+msgid "times bast applied."
+msgstr "bast удаа хэрэглэгдсэн."
+
+msgid "use calculated abjad results"
+msgstr "тооцоолсон abjad үр дүнг ашиглах"
+
+msgid "use calculated abjad total"
+msgstr "тооцоолсон abjad нийт суурь ашиглах"
+
+msgid "use calculated bast results"
+msgstr "тооцоолсон bast үр дүнг ашиглах"
+
+msgid "use entered data directly"
+msgstr "оролсон мэдээллийг шууд ашиглах"
+
+msgid "use entered data total"
+msgstr "оролсон мэдээллийн нийт суурь ашиглах"
+
+msgid "use in all bast repetitions"
+msgstr "бүх bast давталтанд ашиглах"
+
+msgid "use only at beginning if possible"
+msgstr "боломжтой бол зөвхөн эхэнд ашиглах"
+
+msgid "wait for settings and data entry"
+msgstr "тохиргоо болон мэдээлэл оруулахыг хүлээх"
+
+msgid "Abjad Table"
+msgstr "Abjad Table"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Дэлгэрэнгүй"
+
+msgid "Element Classification"
+msgstr "Элементын ангилал"
+
+msgid "Abjad Order"
+msgstr "Abjad Order"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Виджетийн харагдацыг өөрчлөхийн тулд хэрэглэгчийн CSS нэмнэ."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Виджетийн үйлдлийг өөрчлөхийн тулд хэрэглэгчийн JavaScript нэмнэ. Алдаатай "
+"код нь виджэт эвдэрч болох юм!"
+
+msgid "An error occurred while loading content."
+msgstr "Контент татах явцад алдаа гарлаа."
+
+msgid "Button"
+msgstr "Товч"
+
+msgid "Button Color"
+msgstr "Товчны өнгө"
+
+msgid "Button Emoji"
+msgstr "Товчны эмодзи"
+
+msgid "Button Message"
+msgstr "Товчны мессеж"
+
+msgid "Button Settings"
+msgstr "Товчны тохиргоо"
+
+msgid "Button Type"
+msgstr "Товчны төрөл"
+
+msgid "CSS saved successfully."
+msgstr "CSS амжилттай хадгалагдсан."
+
+msgid "Check this box to activate the widget."
+msgstr "Энэ хайрцгийг шалгаж, widget-ийг идэвхжүүлнэ."
+
+msgid "Code Editor"
+msgstr "Код засварлагч"
+
+msgid "Custom CSS"
+msgstr "Тусгай CSS"
+
+msgid "Custom JavaScript"
+msgstr "Тусгай JavaScript"
+
+msgid "Description"
+msgstr "Тодорхойлолт"
+
+msgid "Emoji"
+msgstr "Эмодзи"
+
+msgid "Enter image URL"
+msgstr "Зураг URL оруулна"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Жишээ: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Ерөнхий"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript амжилттай хадгалагдсан."
+
+msgid "Left"
+msgstr "зүүн"
+
+msgid "Live Preview"
+msgstr "Онлайн урьдчилсан үзэл"
+
+msgid "Loading..."
+msgstr "Ачааллаж байна..."
+
+msgid "PNG Image URL"
+msgstr "PNG зураг URL"
+
+msgid "Paste SVG code"
+msgstr "SVG кодыг хуулах"
+
+msgid "Please enter a valid URL."
+msgstr "Зөв URL оруулна уу."
+
+msgid "Position"
+msgstr "Төлөв"
+
+msgid "Reset to Default"
+msgstr "Үндсэн утгуудыг сэргээх"
+
+msgid "Right"
+msgstr "баруун"
+
+msgid "SVG Code"
+msgstr "SVG код"
+
+msgid "Save CSS"
+msgstr "CSS хадгалах"
+
+msgid "Save JavaScript"
+msgstr "JavaScript хадгалах"
+
+msgid "Save Settings"
+msgstr "Тохиргоог хадгалах"
+
+msgid "Settings saved successfully."
+msgstr "Тохиргоо амжилттай хадгалагдлаа."
+
+msgid "Style Editor"
+msgstr "Стилийн засварлагч"
+
+msgid "WARNING"
+msgstr "СЭМЭХ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Тавтай морил! Та энэ панелээс виджэтын мэдээ болон зарлан мэдээллийг дагаж "
+"болно."
+
+msgid "Widget Settings"
+msgstr "Виджэтын тохиргоо"
+
+msgid "Widget Status"
+msgstr "Виджэтын төлөв"
+
+msgid "Widget active"
+msgstr "Виджэт идэвхтэй"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Буруу JavaScript код нь виджэтнийг эвдэрхийж болзошгүй. Өөрчлөлт хийхээс "
+"урьд захирах."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Buy Me a Coffee хэрэглэгчийн нэр"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Таны өөрчлөлтүүд шууд виджэтний харагдагт нөлөөлнө. CSS-ийг мэдэхгүй бол "
+"анхдагч тохиргоог ашиглахыг зөвлөж байна."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Оршихуй хянах самбар"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Татварын хайгчид ба сүмсүүд"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Хувьсагчийн шинж чанар: Сонирхолтой, дотоод сонирхолтой, нээлттэй сэтгэлтэй "
+"бөгөөд эзотерик мэдлэгийг татаж. Тэдний амьдралд нууц утга буюу загварыг "
+"илрүүлэхэд их сонирхолтой байж болох. Ажлын байр: Татварын дасгалжуулагч, "
+"таро уншигч, жоригч, эсвэл Шинэ Агаарын практик оролцогч. Идеологийн спектр:"
+" Татвар буюу метафизик итгэл үнэмшилд хандсан байх магадлалтай. Тэдний "
+"хэрэгслүүдийг гүн гүнзгий үнэн зөв ба ердийн эрчим хүчтэй холбогдох арга гэж"
+" үздэг."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Тооны шинжлэх ухааныг мэддэг ба Гематрияд дуртай хүмүүс"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Хувьсагчийн шинж чанар: Аналитик, дэлгэрэнгүй орчлонгийн тухай сонирхолтой "
+"бөгөөд тоо болон хэлний харилцаагаа гайхамшигтай гэж үздэг. Тэдгээр нь "
+"тэмдэглэгээний утга агуулгыг тайлахад ханддаг. Ажлын байр: Шалгагч тооны "
+"шинжлэх ухааны эзэн, эзотерик сэдвээр бичсэн зохиолч, эсвэл тооны шинжлэх "
+"ухааны талаар судалдаг амрах хэрэгтэй. Идеологийн спектр: Тооны шинжлэх "
+"ухааныг хөгжилтэй оюуны дасгал гэж үздэгээс гүн гүнзгий татварын эрх "
+"чөлөөтэй хүмүүст хүртэл хязгаарлагдаж байна."
+
+msgid "Historians and Linguists"
+msgstr "Түүхчид ба хэл шинжлэх ухааны хүмүүс"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Хувьсагчийн шинж чанар: Судалгаа эрхэм, арга зүйтэй бөгөөд Абджад шиг тооны "
+"системүүдийн түүхэн, соёлын нөхцөлд сонирхолтой. Ажлын байр: Сургуулийн "
+"оюутан, судлаач, эсвэл Төв дотоодын хэлийг, түүх, шашны бичиг баримтыг "
+"судалдаг сурагч. Идеологийн спектр: Хэрэгслүүдийг сүлжээн орон нутгийн, "
+"академийн өнцөг дээр багтаж түүх, хэлний чухал ач холбогдол дээр төвлөрдөг."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Шашинтай эсвэл итгэл үнэмшлийн хүмүүст"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Хувьсагчийн шинж чанар: Их сэтгэлээр, сэтгүүлчтэй бөгөөд итгэл үнэмшилээ "
+"гүнзгий холбохыг хайж. Тэдний хэрэгслүүдийг шашны баримт бичгийг, бурхантай "
+"харилцах санааг судлахад ашигладаг. Ажлын байр: Шашинч, имам, дарин эсвэл "
+"шашны сүмийн мэргэжлийн мэргэжлээрээ сонирхолтой. Идеологийн спектр: "
+"Традицын эсвэл баримжааны үзэлээрийн ертөнцтэй байх магадлалтай бөгөөд "
+"хэрэгслүүдийг тэдний духовит итгэл үнэмшлийг бататгахад ашигладаг."
+
+msgid "Writers and Artists"
+msgstr "Зохиолч ба Уран бүтээлч"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Хувьсагчийн шинж чанар: Бүтээлч, ухаантай бөгөөд тэмдэглэгээний эсвэл "
+"ойлгомжгүй ойлголтуудад татагддаг. Тэдгээр нь хэрэгслүүдийг урам зориг эсвэл"
+" ажилд утга нэмэхэд ашигладаг. Ажлын байр: Судлаач, жингийн зохиолч, дүрслэл"
+" урлагч, эсвэл хөгжимчин. Идеологийн спектр: Сүгээр урлагчид болон "
+"сэтгэлгээгээ эзэмших хүмүүст хүртэл хязгаарлагдаж байна."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Бүлэг болон загадж чадах дуртай"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Хувьсагчийн шинж чанар: Хямралтай, оюуны сонирхолтой бөгөөд төвөгтэй асуудал"
+" эсвэл загваруудыг тайлахад дуртай. Ажлын байр: Амархан, бүлэг зохион "
+"бүтээгч, эсвэл боловсролт. Идеологийн спектр: Хэрэгслүүдийг тоглоомын эсвэл "
+"оюуны дасгал гэж үзэх бөгөөд бага идэвхтэй идэвхтэй байдаг."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Нууцлаг төсөөлөл болон орж байгаа бодолчид"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Хувьсагчийн шинж чанар: Үндсэн түүхийг сэтгэлзүйн талаар шүүмжлэгч бөгөөд "
+"нууц тийм үнэн зөвүүдийг илрүүлэх, системүүдийн загваруудыг судлахыг татаж. "
+"Ажлын байр: Хувийн судлаач, блогер, эсвэл идэвхжсэн. Идеологийн спектр: "
+"Ихэвчлэн өөрчлөлтийн эсвэл ялгаатай үзэл бодлыг үзүүлдэг бөгөөд "
+"хэрэгслүүдийг альтернативаар дэмжихэд ашигладаг."
+
+msgid "☕ Support the Project"
+msgstr "☕ төслийг дэмжих"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Хэрэв та миний төслийг дуртай бол минийд кофе очих боломжтой!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Баярлалаа! 🙏"

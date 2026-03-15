@@ -1,0 +1,812 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Ganda <lg_UG>\n"
+"Language: lg-UG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Ebigendero bya Abjad"
+
+msgid "Abjad Value"
+msgstr "Ekikadde k'Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard y'obusaba bwa Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Amatuli g'okukola k'Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Okukola k'Abjad kusiibwamu"
+
+msgid "Abjad not calculated"
+msgstr "Abjad tekikyaleme"
+
+msgid "Abjad order"
+msgstr "Obulabula bwa Abjad"
+
+msgid "Add elements"
+msgstr "Okukola ebintu"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Mwiju"
+
+msgid "All"
+msgstr "Bwokka"
+
+msgid "Arabic"
+msgstr "Olu Arabi"
+
+msgid "Arabic letters"
+msgstr "Ebikimya bya Arabi"
+
+msgid "Arabic numbers"
+msgstr "Ebimero by'Arabi"
+
+msgid "As data for operation"
+msgstr "Nga data okukola ku nsonga"
+
+msgid "Bast loop results"
+msgstr "Amatuli g'ebyoonyo bya Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast tekikyaleme"
+
+msgid "Bast repetition count"
+msgstr "Ekikadde k'ekyoonyo k'Bast"
+
+msgid "Bast results hidden"
+msgstr "Amatuli g'ekyoonyo k'Bast kusiibwamu"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Obulabula bwa Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Eteekateeka bwa Bastet"
+
+msgid "Big"
+msgstr "Obukulu"
+
+msgid "Bigger"
+msgstr "Obukulu obukulu"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Kweera ekkula"
+
+msgid "Calculate"
+msgstr "Okukola"
+
+msgid "Calculate Abjad"
+msgstr "Okukola Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Okwekenne Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Okwekenne Huddam"
+
+msgid "Calculation details"
+msgstr "Eby'okwekenne"
+
+msgid "Choose Keyboard Layout"
+msgstr "Lawo ku bukoleddwa bwa keyboard"
+
+msgid "Clear text box"
+msgstr "Sesa Box ya Tekisita"
+
+msgid "Click row for details"
+msgstr "Kanda ku row ebikwata"
+
+msgid "Close Keyboard"
+msgstr "Sasa keyboard"
+
+msgid "Closed"
+msgstr "Ssasanyiziddwa"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Okusooka okukozesa comma era ekirina okutuukiramu!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Separators ez'okukola:"
+
+msgid "Data type profile"
+msgstr "Profile y'obukadde bw'obulamu"
+
+msgid "Dead keys"
+msgstr "Tuwekiri"
+
+msgid "Decrease keyboard size"
+msgstr "Kwekkana obulongo obwa keyboard"
+
+msgid "Don't calculate"
+msgstr "Teyekwekenne"
+
+msgid "Duty entity name results"
+msgstr "Eby'okukola ekikadde k'ekisolo"
+
+msgid "Duty entity type"
+msgstr "Ekikadde ky'obutale"
+
+msgid "Earth"
+msgstr "Gyebale"
+
+msgid "Element classification"
+msgstr "Okukozesa obubaka bwa eleminti"
+
+msgid "Element classification method"
+msgstr "Okuteekateeka obubaka bwa eleminti"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Wandika tekisita... Amagulu g'Arabika, Ibranika, Turukiska, ne mibaga"
+
+msgid "Entered data"
+msgstr "Data ekyolebwa"
+
+msgid "Entry"
+msgstr "Ekyozesa"
+
+msgid "Entry letter count"
+msgstr "Ennyo eyozesa ku magulu"
+
+msgid "Evil"
+msgstr "Obusolo"
+
+msgid "Fire"
+msgstr "Obuyinza"
+
+msgid "For entered data"
+msgstr "Ku data ekyolebwa"
+
+msgid "Frequency in Quran"
+msgstr "Enyira mu Quraane"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibranika"
+
+msgid "Hebrew alphabet elements"
+msgstr "Ebintu by'Aberehu ku alfabeti"
+
+msgid "Hebrew letters"
+msgstr "Ebizibira by'Aberehu"
+
+msgid "High"
+msgstr "Kikulu"
+
+msgid "Hija order"
+msgstr "Okugoberera Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Amazzi g'ama Huddam"
+
+msgid "Huddam not calculated"
+msgstr "Huddam tekikolese"
+
+msgid "Iklil's order"
+msgstr "Okugoberera k'Ikilil"
+
+msgid "Increase keyboard size"
+msgstr "Kyusa obunene bwa keyboard"
+
+msgid "Indian numbers"
+msgstr "Mbirimu gy'Abanyindira"
+
+msgid "Interface language"
+msgstr "Luganda lwendeweyo"
+
+msgid "Let character quantity decide"
+msgstr "Singa ku namba y'ebizibira"
+
+msgid "Letter count"
+msgstr "Namba y'ebizibira"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Olina okutuusa ebikolwa byange? Tekereza kukula ekikula!"
+
+msgid "Low"
+msgstr "Ekimu"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Ekiminimu"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Luganda lwendeweyo lw'okutegeera mibare"
+
+msgid "Numerical values"
+msgstr "Ebipimo by'obulimba"
+
+msgid "Open"
+msgstr "Fungura"
+
+msgid "Order"
+msgstr "Okugoberera"
+
+msgid "Possible phrases"
+msgstr "Ebikubo eby'obuloko"
+
+msgid "Program settings"
+msgstr "Ebikwata ku mukono"
+
+msgid "Pronunciation"
+msgstr "Obuvunyanvu"
+
+msgid "Regular expression"
+msgstr "Ekisanyizo kya regex"
+
+msgid "Regularly preferred classification"
+msgstr "Ekikula ekirina okukkirirako"
+
+msgid "Reset"
+msgstr "Sasira"
+
+msgid "Separators"
+msgstr "Bwekyo"
+
+msgid "Settings"
+msgstr "Ebikozesebwa"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Kukereka numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Kukereka eky'okola ebyekimanyi"
+
+msgid "Small"
+msgstr "Obutiko"
+
+msgid "Small + letter count"
+msgstr "Obutiko + ensalo za ensalo"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Okukola"
+
+msgid "Taken (letter)"
+msgstr "Ebyetali (ensalo)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Ebyetali (ensalo; abjad)"
+
+msgid "Taken Letters"
+msgstr "Ensalawo z'ebyetali"
+
+msgid "Text or number cell"
+msgstr "Enkola y'eky'obulirizi oba ky'ebyokyo"
+
+msgid "Thank you for your support!"
+msgstr "Webadde okusingaamu!"
+
+msgid "Total"
+msgstr "Bungi"
+
+msgid "Turkish"
+msgstr "Togole"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad mu Ganda g'Omutogole"
+
+msgid "Turkish alphabet elements"
+msgstr "Ebikozesebwa by'omu Ganda g'Omutogole"
+
+msgid "Turkish letters"
+msgstr "Ensalawo z'omutogole"
+
+msgid "Undefined characters"
+msgstr "Ebikozesebwa ebirina obugingo"
+
+msgid "Value"
+msgstr "Ekyo"
+
+msgid "Value & Detail"
+msgstr "Ekyo & Ebikwata ku nkola"
+
+msgid "Version"
+msgstr "Ekyo ly'obulimi"
+
+msgid "Water"
+msgstr "Omuto"
+
+msgid "When data is entered"
+msgstr "Okugula ebikozesebwa mu kusiibwa"
+
+msgid "When reading large digits"
+msgstr "Okusoma ensalo ezinkulu"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad ekwekwatiddwa n'ennamba y'obusanyizo ekyaddiyiddwa"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ebyokukola"
+
+msgid "add to initial value"
+msgstr "okuwandiika mu ky'ekiyambi"
+
+msgid "and"
+msgstr "ne"
+
+msgid "auto calculate immediately"
+msgstr "ekwekwata obutali mu kkubo"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() and nutket() ebyokukola"
+
+msgid "count once"
+msgstr "kuzikadde emu"
+
+msgid "count twice"
+msgstr "kuzikadde ebyekabiri"
+
+msgid "display with Arabic numbers"
+msgstr "okwekoza mu namba z'Abarabia"
+
+msgid "display with Indian numbers"
+msgstr "okwekoza mu namba z'India"
+
+msgid "do not add to initial value"
+msgstr "teky'okuwandiika mu ky'ekiyambi"
+
+msgid "do not force to other functions"
+msgstr "teky'okukozesa ku byokukola eby'enjawulo"
+
+msgid "do not purify"
+msgstr "teky'okukisa"
+
+msgid "force to other functions"
+msgstr "okukozesa ku byokukola eby'enjawulo"
+
+msgid "group multiplier letters"
+msgstr "enkola y'okukozesa entukyali"
+
+msgid "hide"
+msgstr "kuyiga"
+
+msgid "hide abjad values"
+msgstr "kuyiga ebintu by'abjad"
+
+msgid "hide bast results"
+msgstr "Kugabako ebisubizo bya bast"
+
+msgid "hide huddam names"
+msgstr "Kugabako amazina ga huddam"
+
+msgid "huddam() function settings"
+msgstr "Ebyokutumbula bya huddam()"
+
+msgid "no bast applied."
+msgstr "Tewandiridde bast."
+
+msgid "no data entered"
+msgstr "Ebika tekyaliwo"
+
+msgid "other suffix"
+msgstr "Okusinzi eyonna"
+
+msgid "purify data"
+msgstr "Kuzikiza ebika"
+
+msgid "repeat multiplier for each digit"
+msgstr "Okulabika okusinga buli kirimi"
+
+msgid "show"
+msgstr "Buboniza"
+
+msgid "show abjad values"
+msgstr "Buboniza ebiraga abjad"
+
+msgid "show bast results"
+msgstr "Buboniza ebisubizo bya bast"
+
+msgid "show huddam names"
+msgstr "Buboniza amazina ga huddam"
+
+msgid "suffix"
+msgstr "Okusinzi"
+
+msgid "times bast applied."
+msgstr "Buli ekyo bast ekiradde."
+
+msgid "use calculated abjad results"
+msgstr "Koyogera ebisubizo eby'obulabirwe obuyikizibwa"
+
+msgid "use calculated abjad total"
+msgstr "Koyogera obutatu obuyikizibwa"
+
+msgid "use calculated bast results"
+msgstr "Koyogera ebisubizo eby'obulabirwe obuyikizibwa obutuufu bwa bast"
+
+msgid "use entered data directly"
+msgstr "Koyogera ebika eziraddwamu ku mulimu"
+
+msgid "use entered data total"
+msgstr "Koyogera obutatu obutadde ku mulimu"
+
+msgid "use in all bast repetitions"
+msgstr "Okukozesa ku nnyaawo zonna za bast"
+
+msgid "use only at beginning if possible"
+msgstr "Kukozesa ku maaso gusa gye byakuyita"
+
+msgid "wait for settings and data entry"
+msgstr "Muli nga tulaba okukozesa n'ebika"
+
+msgid "Abjad Table"
+msgstr "Tabe ya abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Ebikubako"
+
+msgid "Element Classification"
+msgstr "Okukwatirizibwa kw'ebigambo"
+
+msgid "Abjad Order"
+msgstr "Okutwalira abjad"
+
+msgid "Abjad Widget"
+msgstr "Ekweta ku abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Kutegeka CSS eyo okusobola okuteekateeka obusanyizo obulabirwe."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Kutegeka JavaScript eyo okusobola okutayamba obusanyizo obulabirwe. Code "
+"ekirungi tekirina kusanyirizibwa widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Kaleebawo ddala wakati okusaba ku bintu."
+
+msgid "Button"
+msgstr "Button"
+
+msgid "Button Color"
+msgstr "Ekirungi ky'ekibuga"
+
+msgid "Button Emoji"
+msgstr "Emoji y'ekibuga"
+
+msgid "Button Message"
+msgstr "Obutumwa bw'ekibuga"
+
+msgid "Button Settings"
+msgstr "Emirongo y'ekibuga"
+
+msgid "Button Type"
+msgstr "Ekisa ky'ekibuga"
+
+msgid "CSS saved successfully."
+msgstr "CSS ennyonyeddwa ekisala."
+
+msgid "Check this box to activate the widget."
+msgstr "Tebuuza obutambi buno okutangiza widget."
+
+msgid "Code Editor"
+msgstr "Omweereza w'okutegereza code"
+
+msgid "Custom CSS"
+msgstr "CSS ekibiiriddwa"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ekibiiriddwa"
+
+msgid "Description"
+msgstr "Okusobola"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Wandika URL y'ekimuntu"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Ekikala: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Okulowooza"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ennyonyeddwa ekisala."
+
+msgid "Left"
+msgstr "Kwe"
+
+msgid "Live Preview"
+msgstr "Okulaba ekikala"
+
+msgid "Loading..."
+msgstr "Kukkiriza..."
+
+msgid "PNG Image URL"
+msgstr "URL y'ekimuntu PNG"
+
+msgid "Paste SVG code"
+msgstr "Biga SVG code"
+
+msgid "Please enter a valid URL."
+msgstr "Saba URL egweeyo."
+
+msgid "Position"
+msgstr "Okulongoosa"
+
+msgid "Reset to Default"
+msgstr "Sunga ku Default"
+
+msgid "Right"
+msgstr "Kwo"
+
+msgid "SVG Code"
+msgstr "Code ya SVG"
+
+msgid "Save CSS"
+msgstr "Kusiima CSS"
+
+msgid "Save JavaScript"
+msgstr "Kusiima JavaScript"
+
+msgid "Save Settings"
+msgstr "Ssange Eby'okukozesa"
+
+msgid "Settings saved successfully."
+msgstr "Eby'okukozesa byasembeddwa okutuukirirwa."
+
+msgid "Style Editor"
+msgstr "Okulwanyisa Style"
+
+msgid "WARNING"
+msgstr "Kwekyo"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Gyebaleko! Ongozesa okutegeera obulabe n'ebirimu by'ekitabo okuva mu panel "
+"eno."
+
+msgid "Widget Settings"
+msgstr "Eby'okukozesa by'ekitabo"
+
+msgid "Widget Status"
+msgstr "Obuumo bw'ekitabo"
+
+msgid "Widget active"
+msgstr "Ekitabo kye kirina"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Okutaliiko JavaScript okutali mu kutegeera ekitabo. Tetegekawo ekibaluwa "
+"musole mu kusanyira ensobi."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Erinnya lyo mu Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Enkola z'olina zizibala mu kweraba k'ekitabo. Bw'oli musawo CSS, tekwe "
+"ekitaba okw'okola mu default settings."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Ekitabo - Dashboard Y'obwongo"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Abakusanyirizi eby'ekiyabo ne abasanyirizi"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Ebitalwa ku Mutima: Omugulamu, Omusanyizo, Omukwano ogw'okukola, n'okukola "
+"ku nsanyizo ez'obutamanya. Basobola okuba n'obusanyizo obukulu mu kukulaama "
+"ebiseera eby'obulamu. Ebisanyizo: Abakola eby'ekiyabo, abasomesa ku tarot, "
+"abasomesa ku nsawandiiko, oba abantu abawandiikira ku ngeri ya New Age. "
+"Ebika: Basobola okweba ku by'ekiyabo oba by'obulamu. Basobola okutegeera "
+"ebiseera by'obulamu ne by'ensanyizo."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Abamanyi n'Abasanyirizi bya Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Ebitalwa ku Mutima: Omubambi, Omukisa, n'omusanyizo ku bulangirira "
+"eby'omwezi n'obulamu. Basobola okuba n'okusaba okusobola kubala obulamu. "
+"Ebisanyizo: Abamanyi b'eby'omwezi, abasomesa ku nsanyizo, oba abantu "
+"abawandiikira ku Gematria. Ebika: Basobola okweba ku by'ekiyabo oba "
+"by'obulamu."
+
+msgid "Historians and Linguists"
+msgstr "Abasanyirizi n'Abasanyirizi eby'obulimi"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Ebitalwa ku Mutima: Okusanyiro, Okukola ku ngeri, n'okukola ku bisanyizo "
+"eby'obulamu. Ebisanyizo: Abakolawo, abakuumba, oba abantu abawandiikira mu "
+"Middle East. Ebika: Basobola okweba ku by'ekiyabo oba by'obulamu."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Abasanyirizi oba abantu ab'omu eby'obutafu"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Ebitalwa ku Mutima: Obulamu, Okusanyizo, n'okukola ku by'ekiyabo. Basobola "
+"okweka obulamu. Ebisanyizo: Abasanyirizi, abayimirizo, abatambiko, oba "
+"abantu abawandiikira ku by'ekiyabo. Ebika: Basobola okweba ku by'ekiyabo oba"
+" by'obulamu."
+
+msgid "Writers and Artists"
+msgstr "Abasomesa n'Abasanyirizi"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Ebitalwa ku Mutima: Obukulembeze, Omusaazi, n'okukola ku nsanyizo "
+"ez'obutamanya. Basobola okweka obulamu. Ebisanyizo: Abasolwa, abapukizi, "
+"abasanyirizi, oba abakozi. Ebika: Basobola okweba ku by'ekiyabo oba "
+"by'obulamu."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Abasanyirizi ebipulizibula ne eby'obusanyizo"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Ebitalwa ku Mutima: Okukola, Okusanyizo, n'okukola mu kutegeera. Ebisanyizo:"
+" Abasanyirizi, abapulizibula, oba abakozi. Ebika: Basobola okweba ku "
+"by'ekiyabo."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Abasanyirizi ebikadde n'abantu ab'obufuna"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Ebitalwa ku Mutima: Okukola, Okusanyizo, n'okukola mu kutegeera. Ebisanyizo:"
+" Abasanyirizi, abasanyirizi, abalala. Ebika: Basobola okweba ku by'ekiyabo."
+
+msgid "☕ Support the Project"
+msgstr "☕ Tunga obukago ku mushinga"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr ""
+"Buli k'oba nze mu nteekateeka yange, ogenda okutumbula omuziriziro wange!"
+
+msgid "Buy Me A Coffee"
+msgstr "Tamba Omuziriziro"
+
+msgid "Thank you! 🙏"
+msgstr "Webale! 🙏"

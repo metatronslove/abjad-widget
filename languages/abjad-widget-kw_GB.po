@@ -1,0 +1,800 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Cornish <kw_GB>\n"
+"Language: kw-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Kedhylder Abjad"
+
+msgid "Abjad Value"
+msgstr "Wulia Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Lys kalkuly Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Kalkuly Abjad yn kened"
+
+msgid "Abjad not calculated"
+msgstr "Nynk kalkuly Abjad"
+
+msgid "Abjad order"
+msgstr "Rang Abjad"
+
+msgid "Add elements"
+msgstr "Gowethow ghys"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Ayr"
+
+msgid "All"
+msgstr "Holl"
+
+msgid "Arabic"
+msgstr "Arabe"
+
+msgid "Arabic letters"
+msgstr "Liver Arabe"
+
+msgid "Arabic numbers"
+msgstr "Nombro Arabe"
+
+msgid "As data for operation"
+msgstr "Kowthans as re an dhys"
+
+msgid "Bast loop results"
+msgstr "Lys cylgwyn Bast"
+
+msgid "Bast not calculated"
+msgstr "Nynk kalkuly Bast"
+
+msgid "Bast repetition count"
+msgstr "Kontyre ow kelwel Bast"
+
+msgid "Bast results hidden"
+msgstr "Lys Bast yn kened"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Rang Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Taol Bastet"
+
+msgid "Big"
+msgstr "Meur"
+
+msgid "Bigger"
+msgstr "Meur ha"
+
+msgid "Buy Me a Coffee ID"
+msgstr "ID Buy Me a Coffee"
+
+msgid "Buy me a coffee"
+msgstr "Duwes ow an kahvel"
+
+msgid "Calculate"
+msgstr "Kalkuly"
+
+msgid "Calculate Abjad"
+msgstr "Kalkuly Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kemmyn Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kemmyn Huddam"
+
+msgid "Calculation details"
+msgstr "Kemmyn a-dhewas"
+
+msgid "Choose Keyboard Layout"
+msgstr "Dreyer Kemmyn Gres"
+
+msgid "Clear text box"
+msgstr "Glaes boks an teks"
+
+msgid "Click row for details"
+msgstr "Klikow rag a-dhewas"
+
+msgid "Close Keyboard"
+msgstr "Suk Kemmyn"
+
+msgid "Closed"
+msgstr "Suk"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Kamm a yn gwrys gwrysys gans owth ow kens a-wren!"
+
+msgid "Dashboard"
+msgstr "Brosk"
+
+msgid "Data entry separators:"
+msgstr "Separatays gans data:"
+
+msgid "Data type profile"
+msgstr "Proffyl an dewel data"
+
+msgid "Dead keys"
+msgstr "Streyth an keynys"
+
+msgid "Decrease keyboard size"
+msgstr "Dreyer gans meur a gans a-dhewas"
+
+msgid "Don't calculate"
+msgstr "Nynni kemmyn"
+
+msgid "Duty entity name results"
+msgstr "Resulwyn nan ow kenkyn"
+
+msgid "Duty entity type"
+msgstr "Kenkyn an anw"
+
+msgid "Earth"
+msgstr "Trew"
+
+msgid "Element classification"
+msgstr "Klassyfyans an elment"
+
+msgid "Element classification method"
+msgstr "Meth ow klassyfyans an elment"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Gwridh an teks... Arabek, Ibranek, Turke, ow letys, ow numery"
+
+msgid "Entered data"
+msgstr "Data a-wredh"
+
+msgid "Entry"
+msgstr "Kemmyn"
+
+msgid "Entry letter count"
+msgstr "Kantow an letys a-dreyer"
+
+msgid "Evil"
+msgstr "Lugos"
+
+msgid "Fire"
+msgstr "Fyth"
+
+msgid "For entered data"
+msgstr "Res a-wredh"
+
+msgid "Frequency in Quran"
+msgstr "Kantow yn Qur'an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibranek"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elementow an alfabys hebreans"
+
+msgid "Hebrew letters"
+msgstr "Letrioù hebreans"
+
+msgid "High"
+msgstr "Uchel"
+
+msgid "Hija order"
+msgstr "Hija derzhow"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam names hidden"
+
+msgid "Huddam not calculated"
+msgstr "Huddam not calculated"
+
+msgid "Iklil's order"
+msgstr "Iklil's order"
+
+msgid "Increase keyboard size"
+msgstr "Ponnon keybord size"
+
+msgid "Indian numbers"
+msgstr "Niverow India"
+
+msgid "Interface language"
+msgstr "Yezh an interface"
+
+msgid "Let character quantity decide"
+msgstr "Lytha termyn gwrys"
+
+msgid "Letter count"
+msgstr "Niverow letr"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Like my projects? Buy me a coffee!"
+
+msgid "Low"
+msgstr "Low"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Number reading language"
+
+msgid "Numerical values"
+msgstr "Kernowow Niverow"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Order"
+msgstr "Derzhow"
+
+msgid "Possible phrases"
+msgstr "Kernowow Gwrys"
+
+msgid "Program settings"
+msgstr "Kernowow program"
+
+msgid "Pronunciation"
+msgstr "Pronunys"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Regularly preferred classification"
+msgstr "Regularly preferred classification"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Separators"
+msgstr "Kynas"
+
+msgid "Settings"
+msgstr "Kenyw"
+
+msgid "Shamsee abjad order"
+msgstr "Urhes an abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Gwel an numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Gwel an keyboard virdhe"
+
+msgid "Small"
+msgstr "Smal"
+
+msgid "Small + letter count"
+msgstr "Smal + an kelwel ynni"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Teyrus"
+
+msgid "Taken (letter)"
+msgstr "Tynn (kelwel)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Tynn (kelwel; abjad)"
+
+msgid "Taken Letters"
+msgstr "Tynn Kelwel"
+
+msgid "Text or number cell"
+msgstr "Cell a teks a numer"
+
+msgid "Thank you for your support!"
+msgstr "Meus lowena rag y teyrus!"
+
+msgid "Total"
+msgstr "Kendyn"
+
+msgid "Turkish"
+msgstr "Turk"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alfabey Abjad Turc"
+
+msgid "Turkish alphabet elements"
+msgstr "Edel an alfabey Turk"
+
+msgid "Turkish letters"
+msgstr "Kelwel an Turk"
+
+msgid "Undefined characters"
+msgstr "Karacteryn diwr"
+
+msgid "Value"
+msgstr "Kevri"
+
+msgid "Value & Detail"
+msgstr "Kevri & Tewgh"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Wath"
+
+msgid "When data is entered"
+msgstr "Gans an don an dres"
+
+msgid "When reading large digits"
+msgstr "Gans ow reth rag an niver ha an digite"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad owthowgh ha kenna kavyn bosowgh"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funksionoù settings"
+
+msgid "add to initial value"
+msgstr "bosowgh ow thowgh pry"
+
+msgid "and"
+msgstr "ha"
+
+msgid "auto calculate immediately"
+msgstr "auto owthowgh owgh"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ha nutket() funksionoù settings"
+
+msgid "count once"
+msgstr "kenna un"
+
+msgid "count twice"
+msgstr "kenna owgh"
+
+msgid "display with Arabic numbers"
+msgstr "skandh yn owthowgh Arabyshe"
+
+msgid "display with Indian numbers"
+msgstr "skandh yn owthowgh Indian"
+
+msgid "do not add to initial value"
+msgstr "na bosowgh ow thowgh pry"
+
+msgid "do not force to other functions"
+msgstr "na for'owgh owthowgh an'n funksionoù all"
+
+msgid "do not purify"
+msgstr "na pur'owgh"
+
+msgid "force to other functions"
+msgstr "for'owgh owthowgh an'n funksionoù all"
+
+msgid "group multiplier letters"
+msgstr "grupowgh owthowgh kavyn"
+
+msgid "hide"
+msgstr "n'ka"
+
+msgid "hide abjad values"
+msgstr "n'ka abjad thowgh"
+
+msgid "hide bast results"
+msgstr "kas reswleyn bast"
+
+msgid "hide huddam names"
+msgstr "kas anyn huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() ow kelwel setyow"
+
+msgid "no bast applied."
+msgstr "Ny reswleyn bast ow kelwel."
+
+msgid "no data entered"
+msgstr "Ny daneow enwans"
+
+msgid "other suffix"
+msgstr "owthennys"
+
+msgid "purify data"
+msgstr "purel daneow"
+
+msgid "repeat multiplier for each digit"
+msgstr "keghow ow kelwel per digit"
+
+msgid "show"
+msgstr "sow"
+
+msgid "show abjad values"
+msgstr "sow gwertha abjad"
+
+msgid "show bast results"
+msgstr "sow reswleyn bast"
+
+msgid "show huddam names"
+msgstr "sow anyn huddam"
+
+msgid "suffix"
+msgstr "owthennys"
+
+msgid "times bast applied."
+msgstr "tivres reswleyn bast."
+
+msgid "use calculated abjad results"
+msgstr "adwle ow rethys abjad"
+
+msgid "use calculated abjad total"
+msgstr "adwle ow rethys abjad gans"
+
+msgid "use calculated bast results"
+msgstr "adwle ow rethys reswleyn bast"
+
+msgid "use entered data directly"
+msgstr "adwle daneow enwans direct"
+
+msgid "use entered data total"
+msgstr "adwle daneow enwans gans"
+
+msgid "use in all bast repetitions"
+msgstr "adwle yn an ow rethys reswleyn bast"
+
+msgid "use only at beginning if possible"
+msgstr "adwle yn an geryow aenys"
+
+msgid "wait for settings and data entry"
+msgstr "wathres ow kelwel ha daneow enwans"
+
+msgid "Abjad Table"
+msgstr "Tebwl Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Detal"
+
+msgid "Element Classification"
+msgstr "Klasowghyow Element"
+
+msgid "Abjad Order"
+msgstr "Order Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widhit Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Kemm CSS nythys ow kelya widhit."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Kemm JavaScript nythys ow kelya ow kerthow widhit. Gres kod anven brek y "
+"widhit!"
+
+msgid "An error occurred while loading content."
+msgstr "Yth ow kelwel gwrys ow kenedhes content."
+
+msgid "Button"
+msgstr "Butoù"
+
+msgid "Button Color"
+msgstr "Koulour butoù"
+
+msgid "Button Emoji"
+msgstr "Emoji butoù"
+
+msgid "Button Message"
+msgstr "Mesans butoù"
+
+msgid "Button Settings"
+msgstr "Gweres butoù"
+
+msgid "Button Type"
+msgstr "Dyer butoù"
+
+msgid "CSS saved successfully."
+msgstr "CSS savveth ow kelwel."
+
+msgid "Check this box to activate the widget."
+msgstr "Kwis ow box gans gwrys ow kregas ow widget."
+
+msgid "Code Editor"
+msgstr "Editour Koad"
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+msgid "Description"
+msgstr "Kenedhes"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Enter image URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Example: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Generyow"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript savveth ow kelwel."
+
+msgid "Left"
+msgstr "Leñv"
+
+msgid "Live Preview"
+msgstr "Preview Live"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "PNG Image URL"
+msgstr "PNG Image URL"
+
+msgid "Paste SVG code"
+msgstr "Paste SVG code"
+
+msgid "Please enter a valid URL."
+msgstr "Please enter a valid URL."
+
+msgid "Position"
+msgstr "Posysyon"
+
+msgid "Reset to Default"
+msgstr "Reset to Default"
+
+msgid "Right"
+msgstr "Deugh"
+
+msgid "SVG Code"
+msgstr "SVG Code"
+
+msgid "Save CSS"
+msgstr "Save CSS"
+
+msgid "Save JavaScript"
+msgstr "Save JavaScript"
+
+msgid "Save Settings"
+msgstr "Spara Stogow"
+
+msgid "Settings saved successfully."
+msgstr "Stogow ow gathow an gwrys."
+
+msgid "Style Editor"
+msgstr "Gwrio Styl"
+
+msgid "WARNING"
+msgstr "Dhyweres"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Yma an gwrys! Ma 'veg gans a ywel a wathgh an widget ha gwrys a wathgh gans "
+"an panel."
+
+msgid "Widget Settings"
+msgstr "Stogow an Widget"
+
+msgid "Widget Status"
+msgstr "Status an Widget"
+
+msgid "Widget active"
+msgstr "Widget an ywel"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kod JavaScript fall a lemmyn a'gwrys an widget. Resc a'm meur gwrys a'y wor."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "An anv ow Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Gans ow gwrys an gwrys ow skedh an widget. Ma 'veg digorya CSS, yth yn an "
+"gwrys ow wre. Gwel an gwrys ow stogow gans gans an gwrys."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Gans a Gwerin"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Gwel a gwel an spiritu a yn"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Trattow an gwres: Kynnyth, gwysgh, ywel gans an gwely, ha gans ow gwrys an "
+"gwell. Ma 'veg gans a gwely gans an gwrys ow gathow an gwrys. Occupations: "
+"Gwel an gwrys, lysk a ghel, astrologo, gwrys an gwrys. Ideological Spectrum:"
+" Ma 'veg gans an gwrys ow gathow an gwrys."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologs ha Gematria Enthusiasts"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Trattow an gwres: Analit, gwrys gans an gwrys, ow gwrys an gwrys. Ma 'veg "
+"gans an gwrys an gwrys. Occupations: Gwrys an gwrys, gwrys gans an gwrys. "
+"Ideological Spectrum: Gans an gwrys an gwrys."
+
+msgid "Historians and Linguists"
+msgstr "History a ywel an gwrys"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Trattow an gwres: Gwisg, gwrys gans an gwrys, gwrys an gwrys. Occupations: "
+"Academics, gwell, gwrys an gwrys. Ideological Spectrum: Gans an gwrys."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religious ow an gwrys"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Trattow an gwres: Devout, reflect, ow gwrys an gwrys. Occupations: Scholars,"
+" imams, priests, gwrys an gwrys. Ideological Spectrum: Gans an gwrys."
+
+msgid "Writers and Artists"
+msgstr "Gwrys ha Artist"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Trattow an gwres: Gwrys, gwrys, ow gwrys an gwrys. Occupations: Authors, "
+"poets, artists. Ideological Spectrum: Gans an gwrys."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle ha Riddle Enthusiasts"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Trattow an gwres: Playful, curious, ow gwrys an gwrys. Occupations: "
+"Hobbyists, designers, gwrys an gwrys. Ideological Spectrum: Gans an gwrys."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy Theorists ha Alternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Trattow an gwres: Skeptical, gwrys an gwrys. Occupations: Researchers, "
+"bloggers, activists. Ideological Spectrum: Gans an gwrys."
+
+msgid "☕ Support the Project"
+msgstr "☕ Support an Gwrys"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ma 'veg gwrys an gwrys, gans ow buy me a coffee!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Navas a'n! 🙏"

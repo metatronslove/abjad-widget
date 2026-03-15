@@ -1,0 +1,826 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Maltese <mt_MT>\n"
+"Language: mt-MT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Impostazzjonijiet Abjad"
+
+msgid "Abjad Value"
+msgstr "Valur Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard tal-Widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Risultat tal-kalkolu tal-Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Kalkoli tal-Abjad immaskati"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ma kalkolux"
+
+msgid "Abjad order"
+msgstr "Ordni tal-Abjad"
+
+msgid "Add elements"
+msgstr "Żid elementi"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Arja"
+
+msgid "All"
+msgstr "Kollox"
+
+msgid "Arabic"
+msgstr "Arab"
+
+msgid "Arabic letters"
+msgstr "Lettri Arab"
+
+msgid "Arabic numbers"
+msgstr "Numri Arab"
+
+msgid "As data for operation"
+msgstr "Bħal data għall-operazzjoni"
+
+msgid "Bast loop results"
+msgstr "Risultat tal-lupu Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast ma kalkolux"
+
+msgid "Bast repetition count"
+msgstr "Kont ta' ritrati Bast"
+
+msgid "Bast results hidden"
+msgstr "Risultat ta' Bast immaskati"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Ordni tal-Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tabel ta' Bastet"
+
+msgid "Big"
+msgstr "Kbir"
+
+msgid "Bigger"
+msgstr "Kbir aktar"
+
+msgid "Buy Me a Coffee ID"
+msgstr "ID ta' Ipjiż Kafè Għalik"
+
+msgid "Buy me a coffee"
+msgstr "Ipjiż 'Kafè Għalik'"
+
+msgid "Calculate"
+msgstr "Kalkola"
+
+msgid "Calculate Abjad"
+msgstr "Kalkola Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Ħasab Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Ħasab Huddam"
+
+msgid "Calculation details"
+msgstr "Dettalji tal-ħsib"
+
+msgid "Choose Keyboard Layout"
+msgstr "Agħżel layout tal-ktabbatura"
+
+msgid "Clear text box"
+msgstr "Ħassar l-kwota tal-ktib"
+
+msgid "Click row for details"
+msgstr "Ċappja l-rija għal detalji"
+
+msgid "Close Keyboard"
+msgstr "Agħlaq il-ktabbatura"
+
+msgid "Closed"
+msgstr "Imqaf"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Il-koma huwa l-isparazzjoni default u għandek tibqiegħed marbuta!"
+
+msgid "Dashboard"
+msgstr "Pannell tal-Controll"
+
+msgid "Data entry separators:"
+msgstr "Separatur ta' l-inkluzjoni tad-data:"
+
+msgid "Data type profile"
+msgstr "Profil tal-tip ta' data"
+
+msgid "Dead keys"
+msgstr "Tastijiet mort"
+
+msgid "Decrease keyboard size"
+msgstr "Inqas il-medża tal-ktabbatura"
+
+msgid "Don't calculate"
+msgstr "Ilma ma tħassab"
+
+msgid "Duty entity name results"
+msgstr "Riżultati tal-ism tal-entità duty"
+
+msgid "Duty entity type"
+msgstr "Tip tal-entità duty"
+
+msgid "Earth"
+msgstr "Ar"
+
+msgid "Element classification"
+msgstr "Klasifikazzjoni ta' elementi"
+
+msgid "Element classification method"
+msgstr "Metodu ta' klassifikazzjoni ta' elementi"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Ġieġ il-tekstu... Lettri Aġrij, Ibran, Turk u numru"
+
+msgid "Entered data"
+msgstr "Data maħruġa"
+
+msgid "Entry"
+msgstr "Ġieġ"
+
+msgid "Entry letter count"
+msgstr "Kont ta' l-ktarak ta' l-Ġieġ"
+
+msgid "Evil"
+msgstr "Il-mara"
+
+msgid "Fire"
+msgstr "Iħmara"
+
+msgid "For entered data"
+msgstr "għall-data maħruġa"
+
+msgid "Frequency in Quran"
+msgstr "Frekqenza fil-Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibran"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elmenti tal-alfabett ebraiku"
+
+msgid "Hebrew letters"
+msgstr "Lettri ebraiki"
+
+msgid "High"
+msgstr "Irriegħis"
+
+msgid "Hija order"
+msgstr "Ordni tal-Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Ismijiet tal‑Huddam mħarrb"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ma ħsabx"
+
+msgid "Iklil's order"
+msgstr "Ordni ta’ Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Ikbar id-daqs tal‑teklatura"
+
+msgid "Indian numbers"
+msgstr "Numri tal‑Indjan"
+
+msgid "Interface language"
+msgstr "Lingwa tal‑interfazzju"
+
+msgid "Let character quantity decide"
+msgstr "Żid il‑kontrol tal‑qantità ta’ karattri"
+
+msgid "Letter count"
+msgstr "Kont tal‑lettri"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ġejn tħares il‑proġetti tiegħi? Iksebli kafu!"
+
+msgid "Low"
+msgstr "Il‑qied"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Ordni tal‑Hija ta’ Maghribian"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Lingwa ta’ lest ta’ numri"
+
+msgid "Numerical values"
+msgstr "Valuri numriku"
+
+msgid "Open"
+msgstr "Iftaħ"
+
+msgid "Order"
+msgstr "Ordni"
+
+msgid "Possible phrases"
+msgstr "Frasi possibbli"
+
+msgid "Program settings"
+msgstr "Parametri tal‑programma"
+
+msgid "Pronunciation"
+msgstr "Talaffuz"
+
+msgid "Regular expression"
+msgstr "Ekspresjoni regolari"
+
+msgid "Regularly preferred classification"
+msgstr "Klassifikazzjoni preferuta rregolarment"
+
+msgid "Reset"
+msgstr "Irrisettja"
+
+msgid "Separators"
+msgstr "Separaturi"
+
+msgid "Settings"
+msgstr "Issettjar"
+
+msgid "Shamsee abjad order"
+msgstr "Ordin abjad ta' Shamsee"
+
+msgid "Show numpad"
+msgstr "Uri numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Uri t-tastiera virtual"
+
+msgid "Small"
+msgstr "Ktieq"
+
+msgid "Small + letter count"
+msgstr "Ktieq + numru tal-littri"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Suport"
+
+msgid "Taken (letter)"
+msgstr "Ħareġ (ħarf)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Ħareġ (ħarf; abjad)"
+
+msgid "Taken Letters"
+msgstr "Ħareġ Li Ħareġ"
+
+msgid "Text or number cell"
+msgstr "Ċell ta' test jew numru"
+
+msgid "Thank you for your support!"
+msgstr "Grazzi għall-suport tiegħek!"
+
+msgid "Total"
+msgstr "Ġmien"
+
+msgid "Turkish"
+msgstr "Turc"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alfabett turk u Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Elementi tal-alfabett turk"
+
+msgid "Turkish letters"
+msgstr "ħrifijiet turki"
+
+msgid "Undefined characters"
+msgstr "Karattri ma kiex definit"
+
+msgid "Value"
+msgstr "Valur"
+
+msgid "Value & Detail"
+msgstr "Valur & Dettalj"
+
+msgid "Version"
+msgstr "Verżjoni"
+
+msgid "Water"
+msgstr "Ħob"
+
+msgid "When data is entered"
+msgstr "Meta data jiġu mħażża"
+
+msgid "When reading large digits"
+msgstr "Meta tikteb dejjeż kbir"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad kalkulatu u ħesab tal-aktar ta' ħeżem ta' l-ktief"
+
+msgid "abjad() functions settings"
+msgstr "settings tal-funzjonijiet abjad()"
+
+msgid "add to initial value"
+msgstr "żid għall-valur inizjali"
+
+msgid "and"
+msgstr "u"
+
+msgid "auto calculate immediately"
+msgstr "ħoss kalkolu awtomatiku madwar"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "settings tal-funzjonijiet bastet() u nutket()"
+
+msgid "count once"
+msgstr "ħesab l-okka"
+
+msgid "count twice"
+msgstr "ħesab tliet"
+
+msgid "display with Arabic numbers"
+msgstr "werġiet bil-numri Arab"
+
+msgid "display with Indian numbers"
+msgstr "werġiet bil-numri Ċin"
+
+msgid "do not add to initial value"
+msgstr "m’għandx żid għall-valur inizjali"
+
+msgid "do not force to other functions"
+msgstr "m’għandx imħtieġ għal funzijonijiet oħra"
+
+msgid "do not purify"
+msgstr "m’għandx tħawwar"
+
+msgid "force to other functions"
+msgstr "imtħabbija għal funzijonijiet oħra"
+
+msgid "group multiplier letters"
+msgstr "ħrifta tal-lettera multiplikar"
+
+msgid "hide"
+msgstr "imtlaħ"
+
+msgid "hide abjad values"
+msgstr "imtlaħ il-valuri abjad"
+
+msgid "hide bast results"
+msgstr "ħbi' riżultati tal-bast"
+
+msgid "hide huddam names"
+msgstr "ħbi' isemti tal-huddam"
+
+msgid "huddam() function settings"
+msgstr "is-settings tal-funzjoni huddam()"
+
+msgid "no bast applied."
+msgstr "l-ebda bast ippralltat."
+
+msgid "no data entered"
+msgstr "l-ebda d-data maħluqa"
+
+msgid "other suffix"
+msgstr "isuffiss oħra"
+
+msgid "purify data"
+msgstr "ħalli d-data"
+
+msgid "repeat multiplier for each digit"
+msgstr "repeta multiplikatur għal kull digit"
+
+msgid "show"
+msgstr "uri"
+
+msgid "show abjad values"
+msgstr "uri valuri ta' Abjad"
+
+msgid "show bast results"
+msgstr "uri riżultati tal-bast"
+
+msgid "show huddam names"
+msgstr "uri isemti tal-huddam"
+
+msgid "suffix"
+msgstr "isuffiss"
+
+msgid "times bast applied."
+msgstr "xierqa tal-bast ippralltat."
+
+msgid "use calculated abjad results"
+msgstr "uża riżultati kalkulati ta' Abjad"
+
+msgid "use calculated abjad total"
+msgstr "uża total kalkulatu ta' Abjad"
+
+msgid "use calculated bast results"
+msgstr "uża riżultati kalkulati tal-bast"
+
+msgid "use entered data directly"
+msgstr "uża d-data maħluqa direttament"
+
+msgid "use entered data total"
+msgstr "uża total ta' d-data maħluqa"
+
+msgid "use in all bast repetitions"
+msgstr "uża f'kull ripetizzjonijiet tal-bast"
+
+msgid "use only at beginning if possible"
+msgstr "uża biss fil-bidu jekk jista' jkun"
+
+msgid "wait for settings and data entry"
+msgstr "ħalli seħbi għall-settings u l-inklad ta' d-data"
+
+msgid "Abjad Table"
+msgstr "Talun ta' Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Dettalji"
+
+msgid "Element Classification"
+msgstr "Klasifikazzjoni ta' Elementi"
+
+msgid "Abjad Order"
+msgstr "Ordin ta' Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget ta' Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Żid CSS personalizzat biex tħejjem l-kwistjoni ta' widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Żid JavaScript personalizzat biex tmodifika l-iffaċja tal-widget. Kod xkiel "
+"jista' jiżżugħ il-widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Żball ġie maħsub meta l-kontenut jinqat."
+
+msgid "Button"
+msgstr "Buttuna"
+
+msgid "Button Color"
+msgstr "Kulur tal-buttuna"
+
+msgid "Button Emoji"
+msgstr "Emoji tal-buttuna"
+
+msgid "Button Message"
+msgstr "Messaġġ tal-buttuna"
+
+msgid "Button Settings"
+msgstr "Settings tal-buttuna"
+
+msgid "Button Type"
+msgstr "Tip ta' buttuna"
+
+msgid "CSS saved successfully."
+msgstr "CSS ġie ħlief b'suċċess."
+
+msgid "Check this box to activate the widget."
+msgstr "Ħall il-kaxxa hawn biex taktivja l-widget."
+
+msgid "Code Editor"
+msgstr "Editur tal-kodiċi"
+
+msgid "Custom CSS"
+msgstr "CSS personalizzat"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript personalizzat"
+
+msgid "Description"
+msgstr "Deskrizzjoni"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Ħu l-URL tal-immagine"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Eżempju: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Ġenerali"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ġie ħlief b'suċċess."
+
+msgid "Left"
+msgstr "Sxiefna"
+
+msgid "Live Preview"
+msgstr "Previżjoni ta' ħieġ"
+
+msgid "Loading..."
+msgstr "L-iżvilupp..."
+
+msgid "PNG Image URL"
+msgstr "URL tal-immagine PNG"
+
+msgid "Paste SVG code"
+msgstr "Ħu l-kodiċi SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Ħu URL valida."
+
+msgid "Position"
+msgstr "Pożizzjoni"
+
+msgid "Reset to Default"
+msgstr "Reset għall-default"
+
+msgid "Right"
+msgstr "Dritt"
+
+msgid "SVG Code"
+msgstr "Kodiċi SVG"
+
+msgid "Save CSS"
+msgstr "Ħlief CSS"
+
+msgid "Save JavaScript"
+msgstr "Ħlief JavaScript"
+
+msgid "Save Settings"
+msgstr "Ħlief Settings"
+
+msgid "Settings saved successfully."
+msgstr "Settings ġiet ħlief b'suċċess."
+
+msgid "Style Editor"
+msgstr "Editur tal-Style"
+
+msgid "WARNING"
+msgstr "ATTENZJONI"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Merħba! Tista' titħaddix fuq l-aħbarijiet u l-annuntjar ta' widget minn dan "
+"il-panel."
+
+msgid "Widget Settings"
+msgstr "Settings tal-widget"
+
+msgid "Widget Status"
+msgstr "Status tal-widget"
+
+msgid "Widget active"
+msgstr "Widget attiv"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Il-kodiċi JavaScript ħażin jista' jsir seħba lill-widget. Għadda backup "
+"qabel tibda titkabbir."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Isem tal-kont tiegħek fuq Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"It-tkabbir tiegħek se jaffettwa direttament l-kwistjoni ta' widget. Jekk ma "
+"tħaresx CSS, huwa rrakkomandat li tuża settings default."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard Lokali"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Seeker spiritwali u misti"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Traits tal-Personalità: Curjal, introspektiv, open-minded, u aktar "
+"attrattiva għall-għarfien esoteriku. Kunnu jistgħu jkollhom interess żgħir "
+"fil-kuntratt tal-meanings meħtieġa jew fil-mustaqbal. Occupazzjonijiet: "
+"Ċoach spiritwali, raġenti ta' tarot, astrolajzi, jew individwi magħżula fil-"
+"prattiċi tal-New Age. Spektrum ideologiku: Jikkawża lill-ħin spiritwali jew "
+"metafisiku. Kunnu jistgħu jħarsu l-għodda bħala mod biex jikkomunika mal-"
+"verità profondi jew l-enerġiji universali."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numaristi u Enthusiasti ta' Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Traits tal-Personalità: Analiżi, orientat għad-dettall, u fascinated bil-"
+"rapports bejn in-numri u l-lingwa. Kunnu jistgħu jkollhom divertiment fil-"
+"interpretazzjoni tal-meanings simboliċi. Occupazzjonijiet: Numaristi "
+"freelance, writers fuq l-argijiet esoteriku, jew hobbi u jiskopru numaroli. "
+"Spektrum ideologiku: Kunnu jistgħu jkollhom differenti minn dawk li jirranaw"
+" numaroli bħala funnu intellettwali għal dawk li jaħsbu l-impatt spiritwal "
+"profond."
+
+msgid "Historians and Linguists"
+msgstr "Istorjani u lingwi"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Traits tal-Personalità: Scholaru, metodiku, u interessat fil-kontest tal-"
+"istorija jew kultur li jwettgħu s-sistemi numarli bħal Abjad. "
+"Occupazzjonijiet: Akadmiċi, ricerka, jew studenti li jħarsu l-lingwi ta' "
+"l-Mediterranean, l-istorja, jew il-teksti religjonali. Spektrum ideologiku: "
+"Kunnu se jikkawża l-għodda minn perspective sekulari u akademiku, iħares "
+"lejn il-impatt tal-istorja u linguistika."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Individwi religjonali jew bil-fiduċja"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Traits tal-Personalità: Devut, riflessiv, u seħba li jikkonnettaw l-fiduċja "
+"tagħhom. Kunnu jistgħu jżżomm il-għodda biex jitqawdru l-teksti religjonali "
+"jew il-messaggi divini. Occupazzjonijiet: Scholaru religjovi, imams, "
+"priests, jew laypeople li jkollhom interess fuq l-tradizzjonijiet misti tal-"
+"fiduċja. Spektrum ideologiku: Kunnu se jkollu worldview tradizzjonali jew "
+"konservattiv, u jħareġ l-għodda biex jiżviluppa l-impatt spiritwali."
+
+msgid "Writers and Artists"
+msgstr "Auturi u Artisti"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Traits tal-Personalità: Kreattiv, imġinattiv, u attrattiva għal konċetti "
+"simboliċi u abstratti. Kunnu jistgħu jħarsu l-għodda għall-inspirazzjoni jew"
+" biex jżid layers ta' meanig għat-tkabbir tagħhom. Occupazzjonijiet: Auturi,"
+" poeti, artisti visivi, jew musikanti. Spektrum ideologiku: Kunnu jistgħu "
+"jkollhom differenzi bejn kreattivi sekulari u dawk li għandhom tendenza "
+"spiritwal jew misti."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Enthusiasti ta' Puzzle u Riddles"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Traits tal-Personalità: Għażiż, intellettwali, u jkollhom divertiment fil-"
+"soluzzjoni ta' problemi komplessi jew l-interpretazzjoni ta' patterns. "
+"Occupazzjonijiet: Hobbyists, puzzle designers, jew edukaturi. Spektrum "
+"ideologiku: Kunnu se jagħmlu l-għodda bħala forma ta' entertainment jew "
+"liżzi ta' mental, bl-iktar mal-attacc ideologiku."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Teoristi ta' Kkonspirazzjoni u Ħsieb alternattiv"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Traits tal-Personalità: Skeptiku minn narattivi mainstream, attrattiva "
+"għall-kuntratt ta' verità meħtieġa u patterns fil-sistemi. Occupazzjonijiet:"
+" Ricerki indipendenti, bloggers, jew activist. Spektrum ideologiku: Kunnu "
+"jista' jkollhom worldview radikali jew unconventional, u jħareġ il-għodda "
+"biex issupporta l-ideat alternattivi."
+
+msgid "☕ Support the Project"
+msgstr "☕ Ħejja l-Proġett"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Jekk tħobb il-proġett tiegħi, tista' tixtri latte għalija!"
+
+msgid "Buy Me A Coffee"
+msgstr "Tixtri Latte għalija"
+
+msgid "Thank you! 🙏"
+msgstr "Grazzi! 🙏"

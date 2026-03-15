@@ -1,0 +1,822 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Khmer <km_KH>\n"
+"Language: km-KH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "ការកំណត់អាបចាដ"
+
+msgid "Abjad Value"
+msgstr "តម្លៃអាបចាដ"
+
+msgid "Abjad Widget Dashboard"
+msgstr "ផ្ទាំងវីដ్జិតអាបចាដ"
+
+msgid "Abjad calculation results"
+msgstr "លទ្ធផលគណនាអាបចាដ"
+
+msgid "Abjad calculations hidden"
+msgstr "ការគណនាអាបចាដលាក់"
+
+msgid "Abjad not calculated"
+msgstr "អាបចាដមិនគណនាឡើយ"
+
+msgid "Abjad order"
+msgstr "លំដាប់អាបចាដ"
+
+msgid "Add elements"
+msgstr "បន្ថែមធាតុ"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "ខ្យល់"
+
+msgid "All"
+msgstr "ទាំងអស់"
+
+msgid "Arabic"
+msgstr "អារ៉ាប់"
+
+msgid "Arabic letters"
+msgstr "អក្សរ​អារ៉ាប់"
+
+msgid "Arabic numbers"
+msgstr "លេខ​អារ៉ាប់"
+
+msgid "As data for operation"
+msgstr "ជាទិន្នន័យសម្រាប់ប្រតិបត្តិការ"
+
+msgid "Bast loop results"
+msgstr "លទ្ធផលរង្វង់ Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast មិនគណនាឡើយ"
+
+msgid "Bast repetition count"
+msgstr "ចំនួនការប្រតិបត្តិការ Bast"
+
+msgid "Bast results hidden"
+msgstr "លទ្ធផល Bast លាក់"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "លំដាប់ Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "តារាង Bastet"
+
+msgid "Big"
+msgstr "ធំ"
+
+msgid "Bigger"
+msgstr "ធំជាង"
+
+msgid "Buy Me a Coffee ID"
+msgstr "លេខសម្គាល់ Buy Me a Coffee"
+
+msgid "Buy me a coffee"
+msgstr "ទិញកាហ្វេឲ្យខ្ញុំ"
+
+msgid "Calculate"
+msgstr "គណនា"
+
+msgid "Calculate Abjad"
+msgstr "គណនា​អាបចាដ"
+
+msgid "Calculate Bastet"
+msgstr "គណនា Bastet"
+
+msgid "Calculate Huddam"
+msgstr "គណនា Huddam"
+
+msgid "Calculation details"
+msgstr "លម្អិតគណនា"
+
+msgid "Choose Keyboard Layout"
+msgstr "ជ្រើសរើសប្លង់ក្តារចុច"
+
+msgid "Clear text box"
+msgstr "សម្អាតប្រអប់អត្ថបទ"
+
+msgid "Click row for details"
+msgstr "ចុចជួរដេកសម្រាប់លម្អិត"
+
+msgid "Close Keyboard"
+msgstr "បិទក្តារចុច"
+
+msgid "Closed"
+msgstr "បិទ"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "ក្បៀសគឺជាផ្នែកបំបែកលំនាំដើមហើយត្រូវតែរក្សាទុក!"
+
+msgid "Dashboard"
+msgstr "ផ្ទាំងគ្រប់គ្រង"
+
+msgid "Data entry separators:"
+msgstr "ការបំបែកការបញ្ចូលទិន្នន័យ:"
+
+msgid "Data type profile"
+msgstr "ប្រវត្តិប្រភេទទិន្នន័យ"
+
+msgid "Dead keys"
+msgstr "គ្រាប់ចុចស្លាប់"
+
+msgid "Decrease keyboard size"
+msgstr "កាត់បន្ថយទំហំក្តារចុច"
+
+msgid "Don't calculate"
+msgstr "កុំគណនា"
+
+msgid "Duty entity name results"
+msgstr "លទ្ធផលឈ្មោះអង្គភាពតួនាទី"
+
+msgid "Duty entity type"
+msgstr "ប្រភេទអង្គភាពតួនាទី"
+
+msgid "Earth"
+msgstr "ដី"
+
+msgid "Element classification"
+msgstr "ចាត់ចែងធាតុ"
+
+msgid "Element classification method"
+msgstr "វិធីសាស្ត្រចាត់ចែងធាតុ"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "បញ្ចូលអត្ថបទ... អក្សរ​អារ៉ាប់, អ៊ីប៊្រេអ៊ី, អក្សរ​ទូក, លេខ"
+
+msgid "Entered data"
+msgstr "ទិន្នន័យដែលបានបញ្ចូល"
+
+msgid "Entry"
+msgstr "ការបញ្ចូល"
+
+msgid "Entry letter count"
+msgstr "ចំនួនអក្សរ​ក្នុងការបញ្ចូល"
+
+msgid "Evil"
+msgstr "អាក្រក់"
+
+msgid "Fire"
+msgstr "ភ្លើង"
+
+msgid "For entered data"
+msgstr "សម្រាប់ទិន្នន័យដែលបានបញ្ចូល"
+
+msgid "Frequency in Quran"
+msgstr "ល្បឿនក្នុងកូរ៉ាន់"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "អ៊ីប៊្រេអ៊ី"
+
+msgid "Hebrew alphabet elements"
+msgstr "ធាតុអក្សរ Hebrew"
+
+msgid "Hebrew letters"
+msgstr "អក្សរ Hebrew"
+
+msgid "High"
+msgstr "ខ្ពស់"
+
+msgid "Hija order"
+msgstr "លំដាប់ Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "ឈ្មោះ Huddam ត្រូវបានលាក់"
+
+msgid "Huddam not calculated"
+msgstr "Huddam មិនបានគណនា"
+
+msgid "Iklil's order"
+msgstr "លំដាប់ Iklil"
+
+msgid "Increase keyboard size"
+msgstr "បង្កើនទំហំក្ដារចុច"
+
+msgid "Indian numbers"
+msgstr "លេខទូទៅហិណ្ឌូ"
+
+msgid "Interface language"
+msgstr "ភាសាប្រព័ន្ធ"
+
+msgid "Let character quantity decide"
+msgstr "អនុញ្ញាតឲ្យចំនួនតួអក្សរ​កំណត់"
+
+msgid "Letter count"
+msgstr "ចំនួនអក្សរ"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "ចូលចិត្តគម្រោងរបស់ខ្ញុំ? ទិញកាហ្វេមួយសម្រាប់ខ្ញុំ!"
+
+msgid "Low"
+msgstr "ទាប"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "អប្បបរមា"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "ភាសាការអានលេខ"
+
+msgid "Numerical values"
+msgstr "តម្លៃលេខ"
+
+msgid "Open"
+msgstr "បើក"
+
+msgid "Order"
+msgstr "លំដាប់"
+
+msgid "Possible phrases"
+msgstr "ប្រយោគអាចប្រើ"
+
+msgid "Program settings"
+msgstr "ការកំណត់កម្មវិធី"
+
+msgid "Pronunciation"
+msgstr "ការចម្លើយ"
+
+msgid "Regular expression"
+msgstr "កន្សោមធម្មតា"
+
+msgid "Regularly preferred classification"
+msgstr "ការបែងចែកដែលជាទូទៅគេរាប់អាន"
+
+msgid "Reset"
+msgstr "កំណត់ឡើងវិញ"
+
+msgid "Separators"
+msgstr "សញ្ញាបំបែក"
+
+msgid "Settings"
+msgstr "ការកំណត់"
+
+msgid "Shamsee abjad order"
+msgstr "លំដាប់ Abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "បង្ហាញ numpad"
+
+msgid "Show virtual keyboard"
+msgstr "បង្ហាញ virtual keyboard"
+
+msgid "Small"
+msgstr "តូច"
+
+msgid "Small + letter count"
+msgstr "តូច + ចំនួនអក្សរ"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "គាំទ្រ"
+
+msgid "Taken (letter)"
+msgstr "ទទួល (អក្សរ)"
+
+msgid "Taken (letter; abjad)"
+msgstr "ទទួល (អក្សរ; Abjad)"
+
+msgid "Taken Letters"
+msgstr "អក្សរទទួល"
+
+msgid "Text or number cell"
+msgstr "កោសិកា​អត្ថបទ ឬ​ចំនួន"
+
+msgid "Thank you for your support!"
+msgstr "សូម​អរគុណសម្រាប់ការគាំទ្រ​របស់អ្នក!"
+
+msgid "Total"
+msgstr "សរុប"
+
+msgid "Turkish"
+msgstr "បូស៊ែ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad អក្សរបូស៊ែ"
+
+msgid "Turkish alphabet elements"
+msgstr "ធាតុអក្សរបូស៊ែ"
+
+msgid "Turkish letters"
+msgstr "អក្សរបូស៊ែ"
+
+msgid "Undefined characters"
+msgstr "តួអក្សរមិនបានកំណត់"
+
+msgid "Value"
+msgstr "តម្លៃ"
+
+msgid "Value & Detail"
+msgstr "តម្លៃ & ពិស្តារ"
+
+msgid "Version"
+msgstr "កំណែ"
+
+msgid "Water"
+msgstr "ទឹក"
+
+msgid "When data is entered"
+msgstr "នៅពេលទិន្នន័យបានបញ្ចូល"
+
+msgid "When reading large digits"
+msgstr "នៅពេលអានលេខធំ"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "គណនាអាប់ដាជ និងបន្ថែមចំនួនអក្សរ"
+
+msgid "abjad() functions settings"
+msgstr "ការកំណត់របស់មុខងារ abjad()"
+
+msgid "add to initial value"
+msgstr "បន្ថែមទៅតម្លៃដើម"
+
+msgid "and"
+msgstr "និង"
+
+msgid "auto calculate immediately"
+msgstr "គណនាដោយស្វ័យប្រវត្តិនៅលើកដើម"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "ការកំណត់របស់មុខងារ bastet() និង nutket()"
+
+msgid "count once"
+msgstr "រាប់ម្តង"
+
+msgid "count twice"
+msgstr "រាប់ពីរបួន"
+
+msgid "display with Arabic numbers"
+msgstr "បង្ហាញជាមួយលេខអារ៉ាប់"
+
+msgid "display with Indian numbers"
+msgstr "បង្ហាញជាមួយលេខអ៊ីណ្ឌ"
+
+msgid "do not add to initial value"
+msgstr "កុំបន្ថែមទៅតម្លៃដើម"
+
+msgid "do not force to other functions"
+msgstr "កុំបង្ខំទៅមុខងារផ្សេងទៀត"
+
+msgid "do not purify"
+msgstr "កុំបរិសុទ្ធ"
+
+msgid "force to other functions"
+msgstr "បង្ខំទៅមុខងារផ្សេងទៀត"
+
+msgid "group multiplier letters"
+msgstr "ក្រុមអក្សរដោយគុណ"
+
+msgid "hide"
+msgstr "លាក់"
+
+msgid "hide abjad values"
+msgstr "លាក់តម្លៃអាប់ដាជ"
+
+msgid "hide bast results"
+msgstr "លាក់លទ្ធផល bast"
+
+msgid "hide huddam names"
+msgstr "លាក់ឈ្មោះ huddam"
+
+msgid "huddam() function settings"
+msgstr "ការកំណត់មុខងារ huddam()"
+
+msgid "no bast applied."
+msgstr "គ្មាន bast អនុវត្ត។"
+
+msgid "no data entered"
+msgstr "គ្មានទិន្នន័យបានបញ្ចូល"
+
+msgid "other suffix"
+msgstr "ឈ្មោះបន្ថែមផ្សេង"
+
+msgid "purify data"
+msgstr "សម្អាតទិន្នន័យ"
+
+msgid "repeat multiplier for each digit"
+msgstr "គុណសម្រាប់រាល់លេខ"
+
+msgid "show"
+msgstr "បង្ហាញ"
+
+msgid "show abjad values"
+msgstr "បង្ហាញតម្លៃ abjad"
+
+msgid "show bast results"
+msgstr "បង្ហាញលទ្ធផល bast"
+
+msgid "show huddam names"
+msgstr "បង្ហាញឈ្មោះ huddam"
+
+msgid "suffix"
+msgstr "បន្ថែម"
+
+msgid "times bast applied."
+msgstr "bast បានអនុវត្តដង."
+
+msgid "use calculated abjad results"
+msgstr "ប្រើលទ្ធផល abjad ដែលបានគណនា"
+
+msgid "use calculated abjad total"
+msgstr "ប្រើសរុប abjad ដែលបានគណនា"
+
+msgid "use calculated bast results"
+msgstr "ប្រើលទ្ធផល bast ដែលបានគណនា"
+
+msgid "use entered data directly"
+msgstr "ប្រើទិន្នន័យដែលបានបញ្ចូលដោយផ្ទាល់"
+
+msgid "use entered data total"
+msgstr "ប្រើសរុបទិន្នន័យដែលបានបញ្ចូល"
+
+msgid "use in all bast repetitions"
+msgstr "ប្រើនៅក្នុងការបន្តទាំងអស់នៃ bast"
+
+msgid "use only at beginning if possible"
+msgstr "ប្រើតែដំបូងបើអាច"
+
+msgid "wait for settings and data entry"
+msgstr "រង់ចាំការកំណត់ និងការបញ្ចូលទិន្នន័យ"
+
+msgid "Abjad Table"
+msgstr "តារាង Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "ព័ត៌មានលម្អិត"
+
+msgid "Element Classification"
+msgstr "ប្រភេទធាតុ"
+
+msgid "Abjad Order"
+msgstr "លំដាប់ Abjad"
+
+msgid "Abjad Widget"
+msgstr "ធាតុ Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "បន្ថែម CSS ផ្ទាល់ខ្លួនដើម្បីប្តូរបង្ហាញរបស់ធាតុ។"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"បន្ថែម JavaScript ផ្ទាល់ខ្លួនដើម្បីប្តូរតម្លៃធាតុ។ កូដខុសអាចបំផ្លាញធាតុ!"
+
+msgid "An error occurred while loading content."
+msgstr "កំហុស​មួយ​បានកើតឡើងក្នុងការផ្ទុកមាតិកា។"
+
+msgid "Button"
+msgstr "ប៊ូតុង"
+
+msgid "Button Color"
+msgstr "ពណ៌​ប៊ូតុង"
+
+msgid "Button Emoji"
+msgstr "អេមូជី​ប៊ូតុង"
+
+msgid "Button Message"
+msgstr "សារ​ប៊ូតុង"
+
+msgid "Button Settings"
+msgstr "ការកំណត់​ប៊ូតុង"
+
+msgid "Button Type"
+msgstr "ប្រភេទ​ប៊ូតុង"
+
+msgid "CSS saved successfully."
+msgstr "បានរក្សាទុក CSS ជោគជ័យ។"
+
+msgid "Check this box to activate the widget."
+msgstr "ធីកប្រអប់នេះដើម្បីដាក់សកម្ម​វីចេត។"
+
+msgid "Code Editor"
+msgstr "កម្មវិធី​កែសម្រួលកូដ"
+
+msgid "Custom CSS"
+msgstr "CSS ផ្ទាល់ខ្លួន"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ផ្ទាល់ខ្លួន"
+
+msgid "Description"
+msgstr "សេចក្តី​ពិពណ៌នា"
+
+msgid "Emoji"
+msgstr "អេមូជី"
+
+msgid "Enter image URL"
+msgstr "បញ្ចូល URL រូបភាព"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "ឧទាហរណ៍: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "ទូទៅ"
+
+msgid "JavaScript saved successfully."
+msgstr "បានរក្សាទុក JavaScript ជោគជ័យ។"
+
+msgid "Left"
+msgstr "ឆ្វេង"
+
+msgid "Live Preview"
+msgstr "មើលជាមុនផ្ទាល់"
+
+msgid "Loading..."
+msgstr "កំពុងផ្ទុក..."
+
+msgid "PNG Image URL"
+msgstr "URL រូបភាព PNG"
+
+msgid "Paste SVG code"
+msgstr "បញ្ចូលកូដ SVG"
+
+msgid "Please enter a valid URL."
+msgstr "សូមបញ្ចូល URL ត្រឹមត្រូវ។"
+
+msgid "Position"
+msgstr "ទីតាំង"
+
+msgid "Reset to Default"
+msgstr "ស្ដារទៅលំនាំដើម"
+
+msgid "Right"
+msgstr "ស្ដាំ"
+
+msgid "SVG Code"
+msgstr "កូដ SVG"
+
+msgid "Save CSS"
+msgstr "រក្សាទុក CSS"
+
+msgid "Save JavaScript"
+msgstr "រក្សាទុក JavaScript"
+
+msgid "Save Settings"
+msgstr "រក្សាទុកការកំណត់"
+
+msgid "Settings saved successfully."
+msgstr "ការកំណត់បានរក្សាទុកដោយជោគជ័យ។"
+
+msgid "Style Editor"
+msgstr "កម្មវិធីកែសម្រួលរចនា"
+
+msgid "WARNING"
+msgstr "ការព្រមាន"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "សូមស្វាគមន៍! អ្នកអាចតាមដានព័ត៌មាន និងប្រកាសរបស់វីដ្ដីនៅក្នុងបន្ទះនេះ។"
+
+msgid "Widget Settings"
+msgstr "ការកំណត់វីដ្ដី"
+
+msgid "Widget Status"
+msgstr "ស្ថានភាពវីដ្ដី"
+
+msgid "Widget active"
+msgstr "វីដ្ដីដំណើរការ"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"កូដ JavaScript មិនត្រឹមត្រូវអាចបំបែកវីដ្ដីបាន។ "
+"សូមរក្សាទុកสำรองមុនធ្វើការផ្លាស់ប្តូរ។"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "ឈ្មោះអ្នកប្រើ Buy Me a Coffee របស់អ្នក"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"ការផ្លាស់ប្តូររបស់អ្នកនឹងមានផលប៉ះពាល់ដល់រចនាបថវីដ្ដីដោយផ្ទាល់។ "
+"ប្រសិនបើអ្នកមិនទាន់ស្គាល់ CSS សូមប្រើកំណត់លំនាំដើម។"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - ផ្ទាំងគ្រប់គ្រងតំបន់"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "អ្នកស្វែងរក spirit និង mystics"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"លក្ខណៈផ្ទាល់ខ្លួន: មានចំណង់ដល់, ស្វែងរកខ្លួនក្នុងខ្លួន, មានចិត្តបើកចំហ, "
+"និងទាក់ទាញទៅកាន់ចំណេះដឹង esoteric. "
+"ពួកគេអាចមានចំណាប់អារម្មណ៍ខ្លាំងក្នុងការផ្ទាញន័យឬលំនាំល hidden នៅក្នុងជីវិត។ "
+"អាជីព: គ្រូបង្ហាត់ spirit, អ្នកអាន tarot, អ្នកព្យាករណ៍ astrology, "
+"ឬជនដែលចូលរួមក្នុងការអនុវត្ត New Age។ វិសាលភាពគំនិត: ប្រហែលចុះទៅកាន់ជំនឿ "
+"spirit ឬ metaphysical។ "
+"ពួកគេអាចមើលឧបករណ៍ជាវិធីដើម្បីភ្ជាប់ជាមួយការពិតដែលลึกឬន energy សកល។"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "អ្នករៀនលេខវិទ្យា និងអ្នកចូលចិត្ត Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"លក្ខណៈផ្ទាល់ខ្លួន: វិភាគ, មានការយកលំអិត, "
+"និងរីករាយពីទំនាក់ទំនងរវាងលេខនិងភាសា។ ពួកគេអាចរីករាយក្នុងការបំបែកន័យសញ្ញា។ "
+"អាជីព: អ្នករៀនលេខវិទ្យាផ្ទាល់ខ្លួន, អ្នកសរសេរពីប្រធានបទ esoteric, "
+"ឬអ្នកចំណូលចិត្តរៀនលេខវិទ្យា។ វិសាលភាពគំនិត: "
+"អាចមានពីអ្នកដែលមើលលេខវិទ្យាជាការលេងបញ្ញត្តិឬអ្នកដែលជឿនឹងមានសារៈសំខាន់នៃជំនឿ "
+"spirit។"
+
+msgid "Historians and Linguists"
+msgstr "អ្នកប្រវត្តិនិទ្យាករ និងភាសាវិទ្យា"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"លក្ខណៈផ្ទាល់ខ្លួន: សិក្សាសាធារណៈ, វិធីសាស្រ្ត, "
+"និងមានចំណាប់អារម្មណ៍ចំពោះបរិបទប្រវត្តិសាស្ត្រ ឬវប្បធម៌នៃប្រព័ន្ធលេខដូចជា "
+"Abjad។ អាជីព: វិទ្យាសាស្ត្រ, អ្នកស្រាវជ្រាវ, "
+"ឬសិស្សដែលសិក្សាភាសាពាណិជ្ជសាស្ត្រ, ប្រវត្តិសាស្ត្រ, ឬអត្ថបទព្រះវិញ្ញាណ។ "
+"វិសាលភាពគំនិត: ប្រហែលនឹងវិវរបង្ហាញឧបករណ៍ពីមุมវិទ្យាសាស្ត្រដែលសមាគម, "
+"ចាប់ផ្តើមពីបរិបទប្រវត្តិសាស្ត្រ ឬភាសា។"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "អ្នកដែលមានជំនឿ religion ឬ faith-based"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"លក្ខណៈផ្ទាល់ខ្លួន: មានចិត្តស្មោះ, សម្រាបស្មើ, "
+"និងស្វែងរកការតភ្ជាប់ជ្រៅជាមួយជំនឿរបស់ពួកគេ។ "
+"ពួកគេអាចប្រើឧបករណ៍ដើម្បីស្វែងរកអត្ថបទព្រះវិញ្ញាណឬសារបុរាណ។ អាជីព: "
+"អ្នកសិក្សាព្រះវិញ្ញាណ, អ៊ីមាម, ព្រះសួ, "
+"ឬមនុស្សសាធារណៈដែលមានចំណាប់អារម្មណ៍ខ្លាំងក្នុងប្រព័ន្ធវប្បធម៌នៃជំនឿរបស់ពួកគេ។"
+" វិសាលភាពគំនិត: ប្រហែលនឹងមានទស្សនៈបុរាណឬរក្សាភាពប្រកបដោយការទទួលទាន, "
+"ប្រើឧបករណ៍ដើម្បីសម្អាតជំនឿ spirit។"
+
+msgid "Writers and Artists"
+msgstr "អ្នកនិពន្ធ និងសិល្បៈ"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"លក្ខណៈផ្ទាល់ខ្លួន: ច្នៃប្រឌិត, ច្នៃប្រឌិតនៃគំនិត, និងទាក់ទាញទៅកាន់គំនិតសញ្ញា"
+" ឬអាក្រក់។ ពួកគេអាចប្រើឧបករណ៍សម្រាប់ការទទួលស្គាល់ "
+"ឬបន្ថែមស្រទាប់នៃន័យទៅកាន់ការងាររបស់ពួកគេ។ អាជីព: អ្នកនិពន្ធ, អ្នកនិពន្ធ, "
+"សិល្បៈឬអ្នកចម្រៀង។ វិសាលភាពគំនិត: អាចមានពីអ្នកស្ទួនវាយចិត្តទៅកាន់អ្នកមានជំនឿ"
+" spirit ឬ mystical។"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "អ្នកចូលចិត្ត puzzle និង riddles"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"លក្ខណៈផ្ទាល់ខ្លួន: រីករាយ, ចាប់អារម្មណ៍ក្នុងវិស័យវិទ្យាសាស្ត្រ, "
+"និងរីករាយក្នុងការបំបែកបញ្ហាស្មុគស្មាញឬបំបែកលំនាំ។ អាជីព: អ្នកចំណូលចិត្ត, "
+"អ្នករចនាគំរូ puzzle, ឬអ្នកបង្រៀន។ វិសាលភាពគំនិត: "
+"ប្រហែលនឹងប្រើឧបករណ៍ជារបៀបកំសាន្ត ឬការបង្រៀនផ្លូវចិត្ត, "
+"កុំមានការតភ្ជាប់គំនិត។"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "អ្នកទស្សន៍ conspiracy និង Alternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"លក្ខណៈផ្ទាល់ខ្លួន: ព្រមាននៃប្រវត្តិសាស្ត្រប្រចាំ, "
+"ទាក់ទាញទៅកាន់ការចាប់អារម្មណ៍ល hidden និងលំនាំក្នុងប្រព័ន្ធ។ អាជីព: "
+"អ្នកស្រាវជ្រាវឯករាជ្យ, ប្លក់, ឬអ្នកសកម្ម។ វិសាលភាពគំនិត: អាចមានទស្សនៈ "
+"radical ឬ unconventional, ប្រើឧបករណ៍ដើម្បីគាំទ្រ theories alternatives ឬ "
+"narratives alternatives។"
+
+msgid "☕ Support the Project"
+msgstr "☕ គាំទ្រ​គម្រោង"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "បើអ្នកស្រឡាញ់គម្រោងរបស់ខ្ញុំ អ្នកអាចទិញកាហ្វេឲ្យខ្ញុំបាន!"
+
+msgid "Buy Me A Coffee"
+msgstr "ទិញកាហ្វេឲ្យខ្ញុំ"
+
+msgid "Thank you! 🙏"
+msgstr "អរគុណ! 🙏"

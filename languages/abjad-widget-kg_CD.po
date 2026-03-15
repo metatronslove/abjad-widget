@@ -1,0 +1,813 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Kongo <kg_CD>\n"
+"Language: kg-CD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Misungwa ya Abjad"
+
+msgid "Abjad Value"
+msgstr "Mivalue ya Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Mizikila ya Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Mizikila ya Abjad ezamika"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ezalenge"
+
+msgid "Abjad order"
+msgstr "Mikolo ya Abjad"
+
+msgid "Add elements"
+msgstr "Yokisa mibeko"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Mvila"
+
+msgid "All"
+msgstr "Bulo"
+
+msgid "Arabic"
+msgstr "Arapi"
+
+msgid "Arabic letters"
+msgstr "Bivili ya Arapi"
+
+msgid "Arabic numbers"
+msgstr "Bikisa ya Arapi"
+
+msgid "As data for operation"
+msgstr "Benda data mpo ya lolenge"
+
+msgid "Bast loop results"
+msgstr "Bast melo ezivelo"
+
+msgid "Bast not calculated"
+msgstr "Bast ezalenge"
+
+msgid "Bast repetition count"
+msgstr "Bast mosi zola"
+
+msgid "Bast results hidden"
+msgstr "Bast ezivelo ezamika"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet mikolo"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tabulo"
+
+msgid "Big"
+msgstr "Mokoko"
+
+msgid "Bigger"
+msgstr "Mokoko mosala"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Buy me a coffee"
+
+msgid "Calculate"
+msgstr "Kukomba"
+
+msgid "Calculate Abjad"
+msgstr "Abjad kukomba"
+
+msgid "Calculate Bastet"
+msgstr "Samba Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Samba Huddam"
+
+msgid "Calculation details"
+msgstr "Mikasa ya Samba"
+
+msgid "Choose Keyboard Layout"
+msgstr "Tanga mbila ya Keyboard"
+
+msgid "Clear text box"
+msgstr "Sukila mbala ya mangu"
+
+msgid "Click row for details"
+msgstr "Penda row ya mikasa"
+
+msgid "Close Keyboard"
+msgstr "Tika Keyboard"
+
+msgid "Closed"
+msgstr "Tika"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Komma esengeli ya kisa mpe ekoki kozanga lenda!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Bikula ya mbila ya data"
+
+msgid "Data type profile"
+msgstr "Profile ya data type"
+
+msgid "Dead keys"
+msgstr "Dead keys"
+
+msgid "Decrease keyboard size"
+msgstr "Koma Keyboard"
+
+msgid "Don't calculate"
+msgstr "Soki samba"
+
+msgid "Duty entity name results"
+msgstr "Mikala ya duty entity name"
+
+msgid "Duty entity type"
+msgstr "Moko ya duty entity"
+
+msgid "Earth"
+msgstr "Bongo"
+
+msgid "Element classification"
+msgstr "Kusamba ya classification ya element"
+
+msgid "Element classification method"
+msgstr "Method ya classification ya element"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Linga mangu... Arabi, Ibran, Turkish letters, numbers"
+
+msgid "Entered data"
+msgstr "Data oyo esengeli"
+
+msgid "Entry"
+msgstr "Mako"
+
+msgid "Entry letter count"
+msgstr "Nombolo ya mangu"
+
+msgid "Evil"
+msgstr "Moko"
+
+msgid "Fire"
+msgstr "Bikisa"
+
+msgid "For entered data"
+msgstr "Yango ya data oyo esengeli"
+
+msgid "Frequency in Quran"
+msgstr "Kusamba ya Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibran"
+
+msgid "Hebrew alphabet elements"
+msgstr "Zina ya alfabete ya Ibran"
+
+msgid "Hebrew letters"
+msgstr "Hrafi ya Ibran"
+
+msgid "High"
+msgstr "Pi"
+
+msgid "Hija order"
+msgstr "Kika ya Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam mibala yina"
+
+msgid "Huddam not calculated"
+msgstr "Huddam yokola miswika"
+
+msgid "Iklil's order"
+msgstr "Kika ya Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Zala kiboko ya keyboard"
+
+msgid "Indian numbers"
+msgstr "Mibala ya India"
+
+msgid "Interface language"
+msgstr "Lingwa ya interface"
+
+msgid "Let character quantity decide"
+msgstr "Sambisa motala ya mbala"
+
+msgid "Letter count"
+msgstr "Mibala ya hrafi"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Bikama minga ya bingu? Buma me kofi!"
+
+msgid "Low"
+msgstr "Kula"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Lingwa ya kusoma mibala"
+
+msgid "Numerical values"
+msgstr "Mibala ya numera"
+
+msgid "Open"
+msgstr "Buka"
+
+msgid "Order"
+msgstr "Kika"
+
+msgid "Possible phrases"
+msgstr "Sumbulu ya mpila"
+
+msgid "Program settings"
+msgstr "Zina ya program"
+
+msgid "Pronunciation"
+msgstr "Mboli"
+
+msgid "Regular expression"
+msgstr "Ekspresion ya nkita"
+
+msgid "Regularly preferred classification"
+msgstr "Classification ya likolo"
+
+msgid "Reset"
+msgstr "Kusima"
+
+msgid "Separators"
+msgstr "Bikomba"
+
+msgid "Settings"
+msgstr "Mikili"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Beka numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Beka keyboard ya virtual"
+
+msgid "Small"
+msgstr "Moke"
+
+msgid "Small + letter count"
+msgstr "Moke + kambo ya namba"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Kusamba"
+
+msgid "Taken (letter)"
+msgstr "Kumbana (kambo)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Kumbana (kambo; abjad)"
+
+msgid "Taken Letters"
+msgstr "Kumbana Kambo"
+
+msgid "Text or number cell"
+msgstr "Moya au namba cele"
+
+msgid "Thank you for your support!"
+msgstr "Soki ozo kusamba, thank you for your support!"
+
+msgid "Total"
+msgstr "Motal"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turki alfabeti abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turki alfabeti eleman"
+
+msgid "Turkish letters"
+msgstr "Turki kambo"
+
+msgid "Undefined characters"
+msgstr "Undefined characters"
+
+msgid "Value"
+msgstr "Balik"
+
+msgid "Value & Detail"
+msgstr "Balik & Detail"
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Water"
+msgstr "Su"
+
+msgid "When data is entered"
+msgstr "Beti data lili"
+
+msgid "When reading large digits"
+msgstr "Beti data lili"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad ebikola mpe loloba ya namba ya boni"
+
+msgid "abjad() functions settings"
+msgstr "Zing'ina ya mafunzo ya abjad()"
+
+msgid "add to initial value"
+msgstr "Ombanga mpo na likolo ya mayé"
+
+msgid "and"
+msgstr "pesa"
+
+msgid "auto calculate immediately"
+msgstr "Okwati ekosala liboko"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Zing'ina ya mafunzo ya bastet() mpe nutket()"
+
+msgid "count once"
+msgstr "Kisamba moko"
+
+msgid "count twice"
+msgstr "Kisamba mibale"
+
+msgid "display with Arabic numbers"
+msgstr "Kekata na mabala ya Arabé"
+
+msgid "display with Indian numbers"
+msgstr "Kekata na mabala ya India"
+
+msgid "do not add to initial value"
+msgstr "Oyo mbangala mpo na likolo ya mayé"
+
+msgid "do not force to other functions"
+msgstr "Oyo mbangala mpo na mafunzo mosusu"
+
+msgid "do not purify"
+msgstr "Oyo mbangala mpo na kobaka"
+
+msgid "force to other functions"
+msgstr "Komba mpo na mafunzo mosusu"
+
+msgid "group multiplier letters"
+msgstr "Baka ya boni ya lobi"
+
+msgid "hide"
+msgstr "Yoka"
+
+msgid "hide abjad values"
+msgstr "Yoka mabala ya abjad"
+
+msgid "hide bast results"
+msgstr "faki bimaka ya bast"
+
+msgid "hide huddam names"
+msgstr "faki bino ya huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() function settings"
+
+msgid "no bast applied."
+msgstr "mbi ya bast te liki."
+
+msgid "no data entered"
+msgstr "mbi data te yobi"
+
+msgid "other suffix"
+msgstr "kati ya makisi"
+
+msgid "purify data"
+msgstr "bula data"
+
+msgid "repeat multiplier for each digit"
+msgstr "muli ya kalisi ya esoko"
+
+msgid "show"
+msgstr "bona"
+
+msgid "show abjad values"
+msgstr "bona abjad values"
+
+msgid "show bast results"
+msgstr "bona bimaka ya bast"
+
+msgid "show huddam names"
+msgstr "bona bino ya huddam"
+
+msgid "suffix"
+msgstr "kati"
+
+msgid "times bast applied."
+msgstr "mili ya bast."
+
+msgid "use calculated abjad results"
+msgstr "tusei abjad results yebangi"
+
+msgid "use calculated abjad total"
+msgstr "tusei abjad total yebangi"
+
+msgid "use calculated bast results"
+msgstr "tusei bast results yebangi"
+
+msgid "use entered data directly"
+msgstr "tusei data yo yobi ete"
+
+msgid "use entered data total"
+msgstr "tusei total ya data yo yobi"
+
+msgid "use in all bast repetitions"
+msgstr "tusei esika ya esika ya bast"
+
+msgid "use only at beginning if possible"
+msgstr "tusei moko mokili malamu"
+
+msgid "wait for settings and data entry"
+msgstr "bala malamu settings mpe data yobi"
+
+msgid "Abjad Table"
+msgstr "Abjad Table"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Yekole"
+
+msgid "Element Classification"
+msgstr "Classification ya element"
+
+msgid "Abjad Order"
+msgstr "Abjad Order"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Bongola CSS mosusu mpo ya kosala widget kosala"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Bongola JavaScript mosusu mpo ya kosala widget kosala. Malemba te okoki "
+"kosila widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Boko zinga okokita misi."
+
+msgid "Button"
+msgstr "Buto"
+
+msgid "Button Color"
+msgstr "Buto ya moko"
+
+msgid "Button Emoji"
+msgstr "Buto ya emoji"
+
+msgid "Button Message"
+msgstr "Buto ya mbulu"
+
+msgid "Button Settings"
+msgstr "Buto ya maboko"
+
+msgid "Button Type"
+msgstr "Buto ya mbila"
+
+msgid "CSS saved successfully."
+msgstr "CSS ekokesa."
+
+msgid "Check this box to activate the widget."
+msgstr "Fungula ye nziya kuki ko okola widget."
+
+msgid "Code Editor"
+msgstr "Nokola Kode"
+
+msgid "Custom CSS"
+msgstr "CSS ya mbisi"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ya mbisi"
+
+msgid "Description"
+msgstr "Tiyalo"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Yiba URL ya foto"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Misimbi: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Moyo"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ekokesa."
+
+msgid "Left"
+msgstr "Kola"
+
+msgid "Live Preview"
+msgstr "Mbwila ya mboka"
+
+msgid "Loading..."
+msgstr "Okokita..."
+
+msgid "PNG Image URL"
+msgstr "URL ya foto PNG"
+
+msgid "Paste SVG code"
+msgstr "Kopesa kode SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Nizila yiba URL ya nzila."
+
+msgid "Position"
+msgstr "Mbulo"
+
+msgid "Reset to Default"
+msgstr "Bongo te mumbu"
+
+msgid "Right"
+msgstr "Koy"
+
+msgid "SVG Code"
+msgstr "Kode SVG"
+
+msgid "Save CSS"
+msgstr "Tika CSS"
+
+msgid "Save JavaScript"
+msgstr "Tika JavaScript"
+
+msgid "Save Settings"
+msgstr "Ensalisa Settings"
+
+msgid "Settings saved successfully."
+msgstr "Settings esalvo na mbongo"
+
+msgid "Style Editor"
+msgstr "Editora ya Estilo"
+
+msgid "WARNING"
+msgstr "TENGU"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Bokende! Oza kokobana makolo na bisalu ya widget na panel oyo"
+
+msgid "Widget Settings"
+msgstr "Settings ya Widget"
+
+msgid "Widget Status"
+msgstr "Status ya Widget"
+
+msgid "Widget active"
+msgstr "Widget esabana"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kode ya JavaScript mokili ekoki koloka widget. Yelesa backup na mbuso ya "
+"banso"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Yengé Buy Me a Coffee username"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Biko yengé esalema ekobanga mu kisoni ya widget. Soki oza na CSS e te, "
+"okuponi okuena Settings esalvo"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard ya Bokono"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "BaKoyaki na BaMystics"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Mbukuta ya Personali: Beko, ekobana, ekosangisa, ebala na mawa ya "
+"esoterique. Baku yebana na mokanda ya kubongola bisalu e te na bisamu. "
+"Mikolo: BaCoach ya spiritual, baTarot reader, baAstrologer, oya bantu oyo "
+"basambaka na misala ya New Age. Mbali ya ideology: Bakoza na esoterique to "
+"metapheresi. Bakoza mawa na bisamu to moba ya bisamu ya muoyo to moebola ya "
+"mbala."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologists na Gematria Enthusiasts"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Mbukuta ya Personali: Analitik, ekosangisa maloya, ekosangisa na mobali ya "
+"mibale to malumu. Bakoza na kumonisa bisamu. Mikolo: Numerologists "
+"freelance, baWriter ya esoterique, baHobbyist oyo bakamwene na numerology. "
+"Mbali ya ideology: Bakoza na esoterique to intellectual fun to esoterique to"
+" spiritual."
+
+msgid "Historians and Linguists"
+msgstr "Historians na Linguists"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Mbukuta ya Personali: Scholarly, ekosangisa, ebala na bisamu ya bisali ya "
+"mibale. Mikolo: Academics, baResearcher, baStudent oyo bakalola malenge ya "
+"Middle East, history, to bisamu ya bongo. Mbali ya ideology: Bakoza na "
+"academic perspective, ekosangisa bisamu ya history to linguistics."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religious or Faith-Based Individuals"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Mbukuta ya Personali: Devout, ekosangisa, ebala na mobali ya misala ya "
+"faith. Bakoza mawa ya bisamu ya bongo to mobali ya mbongisi. Mikolo: "
+"Religious scholars, imams, priests, baLaypeople oyo bakamwene na tradition "
+"mystique. Mbali ya ideology: Bakoza na traditional to conservative "
+"worldview, bakoza mawa na bisamu ya spiritual."
+
+msgid "Writers and Artists"
+msgstr "Writers na Artists"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Mbukuta ya Personali: Creative, imagination, ekosangisa symbolic to "
+"abstract. Bakoza mawa na inspiration to ekosangisa meaning. Mikolo: Authors,"
+" poets, visual artists, musicians. Mbali ya ideology: Bakoza na secular to "
+"spiritual or mystical."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle na Riddle Enthusiasts"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Mbukuta ya Personali: Playful, curious, ekosangisa problem complex to "
+"decoding patterns. Mikolo: Hobbyists, puzzle designers, educators. Mbali ya "
+"ideology: Bakoza mawa na entertainment or mental exercise, no ideology."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy Theorists na Alternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Mbukuta ya Personali: Skeptical, ekosangisa hidden truths to patterns. "
+"Mikolo: Independent researchers, bloggers, activists. Mbali ya ideology: "
+"Bakoza mawa na radical to unconventional worldview, bakoza mawa support "
+"alternative theories."
+
+msgid "☕ Support the Project"
+msgstr "☕ Support the Project"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Soki osukila projet yandi, oza kokoba coffee na ngai!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Nakanisa! 🙏"

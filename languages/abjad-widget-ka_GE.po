@@ -1,0 +1,825 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Georgian <ka_GE>\n"
+"Language: ka-GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad მორგება"
+
+msgid "Abjad Value"
+msgstr "Abjad მნიშვნელობა"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget დაფა"
+
+msgid "Abjad calculation results"
+msgstr "Abjad გამოთვლების შედეგები"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad გამოთვლები დამალული"
+
+msgid "Abjad not calculated"
+msgstr "Abjad არ გამოთვლად"
+
+msgid "Abjad order"
+msgstr "Abjad რიგი"
+
+msgid "Add elements"
+msgstr "ელემენტები დაამატეთ"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "ჰაერი"
+
+msgid "All"
+msgstr "ყველა"
+
+msgid "Arabic"
+msgstr "არაბული"
+
+msgid "Arabic letters"
+msgstr "არაბული ასოები"
+
+msgid "Arabic numbers"
+msgstr "არაბული რიცხვები"
+
+msgid "As data for operation"
+msgstr "ოპერაციისთვის მონაცემად"
+
+msgid "Bast loop results"
+msgstr "Bast ციკლის შედეგები"
+
+msgid "Bast not calculated"
+msgstr "Bast არ გამოთვლად"
+
+msgid "Bast repetition count"
+msgstr "Bast განმეორების რაოდენობა"
+
+msgid "Bast results hidden"
+msgstr "Bast შედეგები დამალული"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet რიგი"
+
+msgid "Bastet shadda"
+msgstr "Bastet შადდა"
+
+msgid "Bastet table"
+msgstr "Bastet ცხრილი"
+
+msgid "Big"
+msgstr "დიდი"
+
+msgid "Bigger"
+msgstr "უფრო დიდი"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "ყიდე ჩემთვის ყავა"
+
+msgid "Calculate"
+msgstr "გამოთვალ"
+
+msgid "Calculate Abjad"
+msgstr "Abjad გამოთვალ"
+
+msgid "Calculate Bastet"
+msgstr "Bastet-ით გამოთვლა"
+
+msgid "Calculate Huddam"
+msgstr "Huddam-ით გამოთვლა"
+
+msgid "Calculation details"
+msgstr "გამოთვლის დეტალები"
+
+msgid "Choose Keyboard Layout"
+msgstr "კლავიატურის განლაგების არჩევა"
+
+msgid "Clear text box"
+msgstr "ტექსტის ყუთის გასუფთავება"
+
+msgid "Click row for details"
+msgstr "დეტალებისთვის მწკრივზე დაწკაპეთ"
+
+msgid "Close Keyboard"
+msgstr "კლავიატურის დახურვა"
+
+msgid "Closed"
+msgstr "დახურულია"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma ნაგულისხმევი გამყოფია და უნდა დარჩეს მონიშნული!"
+
+msgid "Dashboard"
+msgstr "სამუშაო დაფა"
+
+msgid "Data entry separators:"
+msgstr "მონაცემთა შეყვანის გამყოფები:"
+
+msgid "Data type profile"
+msgstr "მონაცემთა ტიპის პროფილი"
+
+msgid "Dead keys"
+msgstr "მוות ღილაკები"
+
+msgid "Decrease keyboard size"
+msgstr "კლავიატურის ზომის შემცირება"
+
+msgid "Don't calculate"
+msgstr "არ გაანგარიშოთ"
+
+msgid "Duty entity name results"
+msgstr "დავალების აქტივობის სახელის შედეგები"
+
+msgid "Duty entity type"
+msgstr "დავალების აქტივობის ტიპი"
+
+msgid "Earth"
+msgstr "მიწა"
+
+msgid "Element classification"
+msgstr "ელემენტის კლასიფიცირება"
+
+msgid "Element classification method"
+msgstr "ელემენტის კლასიფიცირების მეთოდი"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "შეიყვანეთ ტექსტი... არაბული, იბრაული, თურქული ასოები, ციფრები"
+
+msgid "Entered data"
+msgstr "შეყვანილი მონაცემები"
+
+msgid "Entry"
+msgstr "შეყვანა"
+
+msgid "Entry letter count"
+msgstr "შეყვანილი ასოების რაოდენობა"
+
+msgid "Evil"
+msgstr "ცუდი"
+
+msgid "Fire"
+msgstr "ცეცხლი"
+
+msgid "For entered data"
+msgstr "შეყვანილი მონაცემებისთვის"
+
+msgid "Frequency in Quran"
+msgstr "კურანში ხშირად"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "იბრაული"
+
+msgid "Hebrew alphabet elements"
+msgstr "ებრაული ანბანის ელემენტები"
+
+msgid "Hebrew letters"
+msgstr "ებრაული ასოები"
+
+msgid "High"
+msgstr "მაღალი"
+
+msgid "Hija order"
+msgstr "ჰიჰა რიგი"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam სახელები დამალულია"
+
+msgid "Huddam not calculated"
+msgstr "Huddam არ ითვლება"
+
+msgid "Iklil's order"
+msgstr "Iklil-ის რიგი"
+
+msgid "Increase keyboard size"
+msgstr "კლავიატურის ზომის გაზრდა"
+
+msgid "Indian numbers"
+msgstr "ინდური რიცხვები"
+
+msgid "Interface language"
+msgstr "ინტერფეისის ენა"
+
+msgid "Let character quantity decide"
+msgstr "გამოატყვისე სიმბოლოების რაოდენობა"
+
+msgid "Letter count"
+msgstr "ასოების რაოდენობა"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "პროექტები მომწონს? მომყიდეთ ყავა!"
+
+msgid "Low"
+msgstr "დაბალი"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "მინიმუმ"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "რიცხვების კითხვა ენა"
+
+msgid "Numerical values"
+msgstr "ციფრული მნიშვნელობები"
+
+msgid "Open"
+msgstr "გახსნა"
+
+msgid "Order"
+msgstr "რიგი"
+
+msgid "Possible phrases"
+msgstr "შესაძლო ფრაზები"
+
+msgid "Program settings"
+msgstr "პროგრამის პარამეტრები"
+
+msgid "Pronunciation"
+msgstr "გამოთქმა"
+
+msgid "Regular expression"
+msgstr "რეგულარული გამოსახულება"
+
+msgid "Regularly preferred classification"
+msgstr "ხშირად სასურველი კლასიფიკაცია"
+
+msgid "Reset"
+msgstr "აღადგება"
+
+msgid "Separators"
+msgstr "გაყოფები"
+
+msgid "Settings"
+msgstr "პარამეტრები"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Numpad‑ის ჩვენება"
+
+msgid "Show virtual keyboard"
+msgstr "ვირტუალური კლავიატურის ჩვენება"
+
+msgid "Small"
+msgstr "პატარა"
+
+msgid "Small + letter count"
+msgstr "პატარა + ასოების რაოდენობა"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "მხარდაჭერა"
+
+msgid "Taken (letter)"
+msgstr "მიღებულია (ასო)"
+
+msgid "Taken (letter; abjad)"
+msgstr "მიღებულია (ასო; abjad)"
+
+msgid "Taken Letters"
+msgstr "მიღებული ასოები"
+
+msgid "Text or number cell"
+msgstr "ტექსტი ან რიცხვი უძრავი"
+
+msgid "Thank you for your support!"
+msgstr "გმადლობთ თქვენი მხარდაჭერისთვის!"
+
+msgid "Total"
+msgstr "ჯამში"
+
+msgid "Turkish"
+msgstr "თურქული"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "თურქული ანბანის Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "თურქული ანბანის ელემენტები"
+
+msgid "Turkish letters"
+msgstr "თურქული ასოები"
+
+msgid "Undefined characters"
+msgstr "უცნობი სიმბოლოები"
+
+msgid "Value"
+msgstr "მნიშვნელობა"
+
+msgid "Value & Detail"
+msgstr "მნიშვნელობა & დეტალი"
+
+msgid "Version"
+msgstr "ვერსია"
+
+msgid "Water"
+msgstr "წყალი"
+
+msgid "When data is entered"
+msgstr "მონაცემები შეყვანისას"
+
+msgid "When reading large digits"
+msgstr "დიდი რიცხვების კითხვა"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad გათვლდა და ასოების რაოდენობა დაემატა"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ფუნქციების პარამეტრები"
+
+msgid "add to initial value"
+msgstr "დამატება საწყის მნიშვნელობას"
+
+msgid "and"
+msgstr "და"
+
+msgid "auto calculate immediately"
+msgstr "ავტოგანგარიშება დაუყოვნებლივ"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() და nutket() ფუნქციების პარამეტრები"
+
+msgid "count once"
+msgstr "ათვლას ერთხელ"
+
+msgid "count twice"
+msgstr "ათვლას ორჯერ"
+
+msgid "display with Arabic numbers"
+msgstr "გამოსახეთ არაბული რიცხვებით"
+
+msgid "display with Indian numbers"
+msgstr "გამოსახეთ ინდური რიცხვებით"
+
+msgid "do not add to initial value"
+msgstr "არ დაამატოთ საწყის მნიშვნელობას"
+
+msgid "do not force to other functions"
+msgstr "არ ძალაძალოთ სხვა ფუნქციებზე"
+
+msgid "do not purify"
+msgstr "არ წმინდნათ"
+
+msgid "force to other functions"
+msgstr "ძალაძალეთ სხვა ფუნქციებზე"
+
+msgid "group multiplier letters"
+msgstr "ჯგუფის გამამრავლ ასოები"
+
+msgid "hide"
+msgstr "დამალეთ"
+
+msgid "hide abjad values"
+msgstr "დამალეთ abjad მნიშვნელობები"
+
+msgid "hide bast results"
+msgstr "დამალეთ bast შედეგები"
+
+msgid "hide huddam names"
+msgstr "დამალეთ huddam სახელები"
+
+msgid "huddam() function settings"
+msgstr "huddam() ფუნქციის პარამეტრები"
+
+msgid "no bast applied."
+msgstr "bast არ გამოიყენება."
+
+msgid "no data entered"
+msgstr "მონაცემები არ შეიყვანა"
+
+msgid "other suffix"
+msgstr "სხვა სუფიქსი"
+
+msgid "purify data"
+msgstr "მონაცემთა გაწმენდა"
+
+msgid "repeat multiplier for each digit"
+msgstr "გამეორების բազմապատკი თითოეული ციფრისთვის"
+
+msgid "show"
+msgstr "ჩვენება"
+
+msgid "show abjad values"
+msgstr "აჩვენე abjad მნიშვნელობები"
+
+msgid "show bast results"
+msgstr "აჩვენე bast შედეგები"
+
+msgid "show huddam names"
+msgstr "აჩვენე huddam სახელები"
+
+msgid "suffix"
+msgstr "სუფიქსი"
+
+msgid "times bast applied."
+msgstr "bast გადატარებულია"
+
+msgid "use calculated abjad results"
+msgstr "გამოიყენე გამოთვლილი abjad შედეგები"
+
+msgid "use calculated abjad total"
+msgstr "გამოიყენე გამოთვლილი abjad ჯამი"
+
+msgid "use calculated bast results"
+msgstr "გამოიყენე გამოთვლილი bast შედეგები"
+
+msgid "use entered data directly"
+msgstr "გამოიყენე შეყვანილი მონაცემები პირდაპირ"
+
+msgid "use entered data total"
+msgstr "გამოიყენე შეყვანილი მონაცემთა ჯამი"
+
+msgid "use in all bast repetitions"
+msgstr "გამოიყენე ყველა bast გამეორებაში"
+
+msgid "use only at beginning if possible"
+msgstr "გამოიყენე მხოლოდ დასაწყისში, თუ შესაძლებელია"
+
+msgid "wait for settings and data entry"
+msgstr "შეიგება პარამეტრებისა და მონაცემთა შეყვანისთვის"
+
+msgid "Abjad Table"
+msgstr "Abjad ცხრილი"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "დეტალები"
+
+msgid "Element Classification"
+msgstr "ელემენტის კლასიფიკაცია"
+
+msgid "Abjad Order"
+msgstr "Abjad თანმიმდევრობა"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "დაამატეთ მორგებული CSS widget-ის გარეგნობის მორგებისთვის."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"დაამატეთ მორგებული JavaScript widget-ის ქცევის შესაცვლელად. არასწორი კოდი "
+"widget-ი გაახშობა!"
+
+msgid "An error occurred while loading content."
+msgstr "დაფიქსირდა შეცდომა კონტენტის ჩატვირთვისას."
+
+msgid "Button"
+msgstr "ღილაკი"
+
+msgid "Button Color"
+msgstr "ღილაკის ფერი"
+
+msgid "Button Emoji"
+msgstr "ღილაკის ემოჯი"
+
+msgid "Button Message"
+msgstr "ღილაკის შეტყობინება"
+
+msgid "Button Settings"
+msgstr "ღილაკის პარამეტრები"
+
+msgid "Button Type"
+msgstr "ღილაკის ტიპი"
+
+msgid "CSS saved successfully."
+msgstr "CSS წარმატებით შენახულია."
+
+msgid "Check this box to activate the widget."
+msgstr "ამ მარკერის მონიშნეთ widget‑ის აქტივაციისთვის."
+
+msgid "Code Editor"
+msgstr "კოდ რედაქტორი"
+
+msgid "Custom CSS"
+msgstr "მორგებული CSS"
+
+msgid "Custom JavaScript"
+msgstr "მორგებული JavaScript"
+
+msgid "Description"
+msgstr "აღწერა"
+
+msgid "Emoji"
+msgstr "ემოჯი"
+
+msgid "Enter image URL"
+msgstr "შეიყვანეთ სურათის URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "მაგალითი: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "ზოგადი"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript წარმატებით შენახულია."
+
+msgid "Left"
+msgstr "მარცხენა"
+
+msgid "Live Preview"
+msgstr "ცოცხალი წინასწარი გადახედვა"
+
+msgid "Loading..."
+msgstr "იტვირთება..."
+
+msgid "PNG Image URL"
+msgstr "PNG სურათის URL"
+
+msgid "Paste SVG code"
+msgstr "SVG კოდის ჩასმა"
+
+msgid "Please enter a valid URL."
+msgstr "გთხოვთ, შეიყვანეთ სწორი URL."
+
+msgid "Position"
+msgstr "პოზიცია"
+
+msgid "Reset to Default"
+msgstr "ნაგულისხმევზე დაბრუნება"
+
+msgid "Right"
+msgstr "მარჯვენა"
+
+msgid "SVG Code"
+msgstr "SVG კოდი"
+
+msgid "Save CSS"
+msgstr "CSS შენახვა"
+
+msgid "Save JavaScript"
+msgstr "JavaScript შენახვა"
+
+msgid "Save Settings"
+msgstr "პარამეტრების შენახვა"
+
+msgid "Settings saved successfully."
+msgstr "პარამეტრები წარმატებით შენახულია."
+
+msgid "Style Editor"
+msgstr "სტილის რედაქტორი"
+
+msgid "WARNING"
+msgstr "ყურადღება"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"კეთილი იყოს თქვენი მობრძანება! შეგიძლიათ მიჰყვეთ ווידგეტის სიახლეებსა და "
+"განცხადებებს ამ პანელიდან."
+
+msgid "Widget Settings"
+msgstr "ვიჯეტის პარამეტრები"
+
+msgid "Widget Status"
+msgstr "ვიჯეტის მდგომარეობა"
+
+msgid "Widget active"
+msgstr "ვიჯეტი აქტიურია"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"ცუდი JavaScript‑ის კოდი შეიძლება გამოიწვიოს ვიჯეტის დაშლის. შეინახეთ "
+"დამარქაფება ცვლილებების შეტანის წინ."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "თქვენი Buy Me a Coffee მომხმარებლის სახელი"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"თქვენი ცვლილებები პირდაპირ იმოქმედებს ვიჯეტის გარეგნულობაზე. თუ არ იცით "
+"CSS‑ს, გირჩევთ გამოიყენოთ ნაგულისხმევი პარამეტრები."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - ადგილობრივი მენეჯერი"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "სულიერი ძიებლები და მისტიკოსები"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"პიროვნული მახასიათებლები: ცნობისმოყვარე, შიდა შეხედულება, ღია მიფთის, და "
+"მოყვება ექსოტერიკურ ცოდნას. შეიძლება ჰქონდეთ ძლიერი ინტერესები დასამგვრელი "
+"საიდუმლოებების ან შაბლონების აღმოჩენაში. პროფესიონალები: სულიერი კოაჩები, "
+"ტაროტის მკითხველები, ასტროლოგები, ან პირები, რომლებიც მონაწილეობენ ახალი "
+"ეპოქის პრაქტიკებში. იდეოლოგიური სპექტრი: სავარაუდოდ, ისინი მიგვწერიან "
+"სულიერი ან მეტაფიზიკური ნორმებს. ისინი შეიძლება აღიქვან ხელსაწყოებს როგორც "
+"საშუალება ღრმა სიმართლეებთან ან სამყაროში ენერგიებთან მიერთებისთვის."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologists and Gematria Enthusiasts"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"პიროვნული მახასიათებლები: ანალიტიკური, დეტალის მიმართ, და აღზრდილია "
+"რიცხვებისა და ენის ურთიერთობის შესახებ. შეიძლება გემოვნებინათ სიმბოლური "
+"მნიშვნელობების გადაჭრა. პროფესიონალები: თავისუფალი numerologists, წერილი, "
+"რომელიც შეეხება ექსოტერიკურ თემებს, ან ჰობიისტები, რომლებიც numerology‑ს "
+"კვლევას ახდენენ. იდეოლოგიური სპექტრი: შეიძლება იყოს ის, ვინც numerology‑ს "
+"ნახვავს როგორც გასაოცარი ინტელექტუალური აქტივობას, ან ის, ვინც "
+"დაინტერესებულია მის ღრმა spirituall მნიშვნელობით."
+
+msgid "Historians and Linguists"
+msgstr "ისტორიონები და ლინგვისტები"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"პიროვნული მახასიათებლები: აკადემიური, მეთოდური და დაინტერესებულია ისტორიული "
+"ან კულტურული კონტექსტებით, როგორიცაა Abjad. პროფესიონალები: აკადემიკოსები, "
+"კვლევები, ან სტუდენტები, რომლებიც სწავლობენ შუაპარსული ენებს, ისტორიას ან "
+"რელიგიურ ტექსტებს. იდეოლოგიური სპექტრი: სავარაუდოდ, ისინი მიაწვდენენ "
+"ხელსაწყოებს חילოს, აკადემიური პერსპექტივიდან, კონცენტრირებით მათი ისტორიული "
+"ან ლინგვისტიკური მნიშვნელობაზე."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "რელიგიური ან ნამივის საფუძველზე პირები"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"პიროვნული მახასიათებლები: რჩეული, ანალიტიკური და ძებნის ღრმა კავშირებს მათი "
+"ნება. შეიძლება გამოიყენონ ხელსაწყოები რელიგიური ტექსტების ან ღვთის "
+"შეტყობინებების შესწავლაში. პროფესიონალები: რელიგიური შემსწავლელები, იმამები,"
+" ლიტურგები, ან laypeople, რომლებიც აქვთ ძლიერი ინტერესები მათი ნება მისტიური"
+" ტრადიციებში. იდეოლოგიური სპექტრი: სავარაუდოდ, ისინი მოიცავს ტრადიციულ ან "
+"კონსერვატიულ ხედვას, გამოიყენებენ ხელსაწყოებს spirituall ნమ్మებებზე."
+
+msgid "Writers and Artists"
+msgstr "წერილები და მხატვრები"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"პიროვნული მახასიათებლები: შემოქმედებითი, წარმოსახვითი და მოყვება სიმბოლური "
+"ან აბსტრაქტული კონცეფციებს. შეიძლება გამოიყენონ ხელსაწყოები შრომის "
+"მოულოდნელი ან დამატებითი მნიშვნელობის მისაღებად. პროფესიონალები: ავტორები, "
+"პოეტები, ვიზუალური მხატვრები, ან მუსიკოსები. იდეოლოგიური სპექტრი: შეიძლება "
+"იყოს ქველმომეცისგან და spirituall მიშვნით."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle და Riddle Enthusiasts"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"პიროვნული მახასიათებლები: მხიარული, ინტელექტუალურად მოყვები და მყოველთვის "
+"უყვარს რთული პრობლემების გადაწყვეტა ან შაბლონების გადაჭრა. პროფესიონალები: "
+"ჰობიისტები, puzzle დიზაინერები, ან განათლებಕರು. იდეოლოგიური სპექტრი: "
+"სავარაუდოდ, ისინი მიაღწევენ ხელსაწყოებს როგორც განტვირთვის ან mental აქტივის"
+" სახით, ნაკლებად ideologi."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy Theorists and Alternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"პიროვნული მახასიათებლები: სკეპტიკური მთავარი ნარატივებისთვის, მოყვება "
+"საიდუმლოების ან შაბლონების აღმოჩენაში სისტემებში. პროფესიონალები: "
+"დამოუკიდებელი მკვლევარები, ბლოგერები ან აქტივისტები. იდეოლოგიური სპექტრი: "
+"შეიძლება ჰქონდეს უფრო რადიკალური ან არასამეწყვეტი ხედვა, ხელსაწყოებს "
+"იყენებენ alternatiive თეორიების ან ნარატივების მხარდაჭერისთვის."
+
+msgid "☕ Support the Project"
+msgstr "☕ პროექტის მხარდაჭერა"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "თუ მოგწონთ ჩემი პროექტი, შეგიძლიათ დამყიდეთ ყავა!"
+
+msgid "Buy Me A Coffee"
+msgstr "ყავა შეიძინეთ"
+
+msgid "Thank you! 🙏"
+msgstr "მადლობა! 🙏"

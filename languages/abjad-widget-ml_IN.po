@@ -1,0 +1,825 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Malayalam <ml_IN>\n"
+"Language: ml-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "അബ്ജാദ് ക്രമീകരണങ്ങൾ"
+
+msgid "Abjad Value"
+msgstr "അബ്ജാദ് മൂല്യം"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "അബ്ജാദ് കണക്കാക്കൽ ഫലങ്ങൾ"
+
+msgid "Abjad calculations hidden"
+msgstr "അബ്ജാദ് കണക്കുകൾ മറച്ചു"
+
+msgid "Abjad not calculated"
+msgstr "അബ്ജാദ് കണക്കാക്കിയിട്ടില്ല"
+
+msgid "Abjad order"
+msgstr "അബ്ജാദ് ക്രമം"
+
+msgid "Add elements"
+msgstr "ഘടകങ്ങൾ ചേർക്കുക"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "വായു"
+
+msgid "All"
+msgstr "എല്ലാം"
+
+msgid "Arabic"
+msgstr "അറബിക്"
+
+msgid "Arabic letters"
+msgstr "അറബിക് അക്ഷരങ്ങൾ"
+
+msgid "Arabic numbers"
+msgstr "അറബിക് സംഖ്യകൾ"
+
+msgid "As data for operation"
+msgstr "പ്രവർത്തനത്തിനുള്ള ഡാറ്റയായി"
+
+msgid "Bast loop results"
+msgstr "Bast ലൂപ് ഫലങ്ങൾ"
+
+msgid "Bast not calculated"
+msgstr "Bast കണക്കാക്കിയിട്ടില്ല"
+
+msgid "Bast repetition count"
+msgstr "Bast ആവർത്തന എണ്ണം"
+
+msgid "Bast results hidden"
+msgstr "Bast ഫലങ്ങൾ മറച്ചു"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet ക്രമം"
+
+msgid "Bastet shadda"
+msgstr "Bastet ഷഡ്ഡ"
+
+msgid "Bastet table"
+msgstr "Bastet പട്ടിക"
+
+msgid "Big"
+msgstr "വലിയ"
+
+msgid "Bigger"
+msgstr "കൂടുതൽ വലിയ"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "എനിക്കൊരു കാപ്പി വാങ്ങൂ"
+
+msgid "Calculate"
+msgstr "കണക്കാക്കുക"
+
+msgid "Calculate Abjad"
+msgstr "അബ്ജാദ് കണക്കാക്കുക"
+
+msgid "Calculate Bastet"
+msgstr "ബാസ്റ്റെറ്റ് കണക്കാക്കുക"
+
+msgid "Calculate Huddam"
+msgstr "ഹുദ്ദം കണക്കാക്കുക"
+
+msgid "Calculation details"
+msgstr "കണക്കാക്കൽ വിശദാംശങ്ങൾ"
+
+msgid "Choose Keyboard Layout"
+msgstr "കീബോർഡ് ലേ‑ഔട്ട് തിരഞ്ഞെടുക്കുക"
+
+msgid "Clear text box"
+msgstr "ടെക്സ്റ്റ് ബോക്സ് ശൂന്യമാക്കുക"
+
+msgid "Click row for details"
+msgstr "വിശദാംശങ്ങൾക്ക് വരി ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Close Keyboard"
+msgstr "കീബോർഡ് അടയ്ക്കുക"
+
+msgid "Closed"
+msgstr "അടച്ചിരിക്കുന്നു"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "കോമ ഡീഫോൾട്ട് സെപ്പറേറ്റർ ആണ്, ഇത് അടയാളപ്പെടുത്തണം!"
+
+msgid "Dashboard"
+msgstr "ഡാഷ്ബോർഡ്"
+
+msgid "Data entry separators:"
+msgstr "ഡാറ്റ എൻട്രി സെപ്പറേറ്ററുകൾ:"
+
+msgid "Data type profile"
+msgstr "ഡാറ്റ തരം പ്രൊഫൈൽ"
+
+msgid "Dead keys"
+msgstr "ഡെഡ് കീകൾ"
+
+msgid "Decrease keyboard size"
+msgstr "കീബോർഡ് വലുപ്പം കുറയ്ക്കുക"
+
+msgid "Don't calculate"
+msgstr "കണക്കാക്കരുത്"
+
+msgid "Duty entity name results"
+msgstr "ഡ്യൂട്ടി എൻറ്റിറ്റി പേര് ഫലങ്ങൾ"
+
+msgid "Duty entity type"
+msgstr "ഡ്യൂട്ടി എൻറ്റിറ്റി തരം"
+
+msgid "Earth"
+msgstr "ഭൂമി"
+
+msgid "Element classification"
+msgstr "ഘടക വർഗ്ഗീകരണം"
+
+msgid "Element classification method"
+msgstr "ഘടക വർഗ്ഗീകരണ രീതി"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "ടെക്സ്റ്റ് നൽകുക... അറബിക്, ഹീബ്രു, തുര്‍ക്കിഷ് അക്ഷരങ്ങൾ, നമ്പറുകൾ"
+
+msgid "Entered data"
+msgstr "ഇൻപുട്ട് ചെയ്ത ഡാറ്റ"
+
+msgid "Entry"
+msgstr "ഇൻപുട്ട്"
+
+msgid "Entry letter count"
+msgstr "ഇൻപുട്ട് അക്ഷര എണ്ണം"
+
+msgid "Evil"
+msgstr "ദുഷ്ടം"
+
+msgid "Fire"
+msgstr "തീ"
+
+msgid "For entered data"
+msgstr "ഇൻപുട്ട് ചെയ്ത ഡാറ്റയ്ക്ക്"
+
+msgid "Frequency in Quran"
+msgstr "ഖുര്‍ആനിലെ ആവൃത്തി"
+
+msgid "Gematria"
+msgstr "ജെമാറ്റ്രിയ"
+
+msgid "Hebrew"
+msgstr "ഹീബ്രു"
+
+msgid "Hebrew alphabet elements"
+msgstr "ഇബ്രാനി അക്ഷരമാല ഘടകങ്ങൾ"
+
+msgid "Hebrew letters"
+msgstr "ഇബ്രാനി അക്ഷരങ്ങൾ"
+
+msgid "High"
+msgstr "ഉയർന്ന"
+
+msgid "Hija order"
+msgstr "ഹിജാ ക്രമം"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam പേരുകൾ മറഞ്ഞിരിക്കുന്നു"
+
+msgid "Huddam not calculated"
+msgstr "Huddam കണക്കാക്കപ്പെട്ടില്ല"
+
+msgid "Iklil's order"
+msgstr "Iklil ന്റെ ക്രമം"
+
+msgid "Increase keyboard size"
+msgstr "കീബോർഡ് വലുപ്പം കൂട്ടുക"
+
+msgid "Indian numbers"
+msgstr "ഹിന്ദി അക്കങ്ങൾ"
+
+msgid "Interface language"
+msgstr "ഇന്റർഫേസ് ഭാഷ"
+
+msgid "Let character quantity decide"
+msgstr "അക്ഷരങ്ങളുടെ എണ്ണം തീരുമാനിക്കാൻ അനുവദിക്കുക"
+
+msgid "Letter count"
+msgstr "അക്ഷരങ്ങളുടെ എണ്ണം"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "എന്റെ പദ്ധതികൾ ഇഷ്ടമാണെങ്കിൽ, എനിക്ക് ഒരു കാപ്പി വാങ്ങൂ!"
+
+msgid "Low"
+msgstr "താഴ്ന്ന"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija ക്രമം"
+
+msgid "Minimum"
+msgstr "കുറഞ്ഞത്"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "സംഖ്യ വായന ഭാഷ"
+
+msgid "Numerical values"
+msgstr "സംഖ്യാ മൂല്യങ്ങൾ"
+
+msgid "Open"
+msgstr "തുറക്കുക"
+
+msgid "Order"
+msgstr "ക്രമം"
+
+msgid "Possible phrases"
+msgstr "സാധ്യമായ വാക്യങ്ങൾ"
+
+msgid "Program settings"
+msgstr "പ്രോഗ്രാം ക്രമീകരണങ്ങൾ"
+
+msgid "Pronunciation"
+msgstr "ഉച്ചാരണം"
+
+msgid "Regular expression"
+msgstr "നിയമിത വ്യാഖ്യാനം"
+
+msgid "Regularly preferred classification"
+msgstr "സാധാരണമായി ഇഷ്ടപ്പെടുന്ന വർഗ്ഗീകരണം"
+
+msgid "Reset"
+msgstr "പുനഃക്രമീകരിക്കുക"
+
+msgid "Separators"
+msgstr "വിഭജകർ"
+
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങൾ"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad ക്രമം"
+
+msgid "Show numpad"
+msgstr "നമ്പഡ് കാണിക്കുക"
+
+msgid "Show virtual keyboard"
+msgstr "വിർച്ച്വൽ കീബോർഡ് കാണിക്കുക"
+
+msgid "Small"
+msgstr "ചെറുത്"
+
+msgid "Small + letter count"
+msgstr "ചെറുത് + അക്ഷരങ്ങളുടെ എണ്ണം"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "പിന്തുണ"
+
+msgid "Taken (letter)"
+msgstr "എടുത്തത് (അക്ഷരം)"
+
+msgid "Taken (letter; abjad)"
+msgstr "എടുത്തത് (അക്ഷരം; abjad)"
+
+msgid "Taken Letters"
+msgstr "എടുത്ത അക്ഷരങ്ങൾ"
+
+msgid "Text or number cell"
+msgstr "ടെക്സ്റ്റ് അല്ലെങ്കിൽ നമ്പർ സെൽ"
+
+msgid "Thank you for your support!"
+msgstr "നിങ്ങളുടെ പിന്തുണയ്ക്ക് നന്ദി!"
+
+msgid "Total"
+msgstr "മൊത്തം"
+
+msgid "Turkish"
+msgstr "തുര്‍ക്കിഷ്"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "തുര്‍ക്കി അക്ഷരമാല abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "തുര്‍ക്കി അക്ഷരമാല ഘടകങ്ങൾ"
+
+msgid "Turkish letters"
+msgstr "തുര്‍ക്കി അക്ഷരങ്ങൾ"
+
+msgid "Undefined characters"
+msgstr "നിർവചിക്കാത്ത പ്രതീകങ്ങൾ"
+
+msgid "Value"
+msgstr "മൂല്യം"
+
+msgid "Value & Detail"
+msgstr "മൂല്യം & വിശദാംശം"
+
+msgid "Version"
+msgstr "പതിപ്പ്"
+
+msgid "Water"
+msgstr "വെള്ളം"
+
+msgid "When data is entered"
+msgstr "ഡാറ്റ നൽകുമ്പോൾ"
+
+msgid "When reading large digits"
+msgstr "വലിയ അക്കങ്ങൾ വായിക്കുമ്പോൾ"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "അബ്ജാദ് കണക്കാക്കി അക്ഷര എണ്ണം ചേർത്തു"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ഫങ്ഷനുകളുടെ ക്രമീകരണങ്ങൾ"
+
+msgid "add to initial value"
+msgstr "ആദ്യ മൂല്യത്തിൽ ചേർക്കുക"
+
+msgid "and"
+msgstr "മറ്റ്"
+
+msgid "auto calculate immediately"
+msgstr "സ്വയമേവ ഉടൻ കണക്കാക്കുക"
+
+msgid "bast"
+msgstr "ബാസ്റ്റ്"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ഉം nutket() ഉം ഫങ്ഷനുകളുടെ ക്രമീകരണങ്ങൾ"
+
+msgid "count once"
+msgstr "ഒരിക്കല്‍ എണ്ണുക"
+
+msgid "count twice"
+msgstr "രണ്ടുതവണ എണ്ണുക"
+
+msgid "display with Arabic numbers"
+msgstr "അറബി സംഖ്യകള്‍ ഉപയോഗിച്ച് കാണിക്കുക"
+
+msgid "display with Indian numbers"
+msgstr "ഇന്ത്യന്‍ സംഖ്യകള്‍ ഉപയോഗിച്ച് കാണിക്കുക"
+
+msgid "do not add to initial value"
+msgstr "ആദ്യ മൂല്യത്തില്‍ ചേർക്കരുത്"
+
+msgid "do not force to other functions"
+msgstr "മറ്റു ഫങ്ഷനുകളില്‍ നിര്‍ബന്ധിക്കരുത്"
+
+msgid "do not purify"
+msgstr "ശുദ്ധീകരിക്കരുത്"
+
+msgid "force to other functions"
+msgstr "മറ്റു ഫങ്ഷനുകളിലേക്ക് നിര്‍ബന്ധിക്കുക"
+
+msgid "group multiplier letters"
+msgstr "ഗ്രൂപ്പ് ഗുണന അക്ഷരങ്ങള്‍"
+
+msgid "hide"
+msgstr "അഡക്കുക"
+
+msgid "hide abjad values"
+msgstr "അബ്ജാദ് മൂല്യങ്ങള്‍ മറയ്ക്കുക"
+
+msgid "hide bast results"
+msgstr "ബാസ്റ്റ് ഫലങ്ങൾ മറയ്ക്കുക"
+
+msgid "hide huddam names"
+msgstr "huddam പേരുകൾ മറയ്ക്കുക"
+
+msgid "huddam() function settings"
+msgstr "huddam() ഫംഗ്ഷൻ ക്രമീകരണങ്ങൾ"
+
+msgid "no bast applied."
+msgstr "ബാസ്റ്റ് പ്രയോഗിക്കപ്പെട്ടിട്ടില്ല."
+
+msgid "no data entered"
+msgstr "ഡാറ്റ നൽകപ്പെട്ടിട്ടില്ല"
+
+msgid "other suffix"
+msgstr "മറ്റൊരു suffix"
+
+msgid "purify data"
+msgstr "ഡാറ്റ ശുദ്ധീകരിക്കുക"
+
+msgid "repeat multiplier for each digit"
+msgstr "ഓരോ അക്കത്തിനും ആവർത്തന ഗുണകം"
+
+msgid "show"
+msgstr "കാണിക്കുക"
+
+msgid "show abjad values"
+msgstr "Abjad മൂല്യങ്ങൾ കാണിക്കുക"
+
+msgid "show bast results"
+msgstr "bast ഫലങ്ങൾ കാണിക്കുക"
+
+msgid "show huddam names"
+msgstr "huddam പേരുകൾ കാണിക്കുക"
+
+msgid "suffix"
+msgstr "ഉപസർഗം"
+
+msgid "times bast applied."
+msgstr "bast പ്രയോഗിക്കപ്പെട്ട തവണകൾ."
+
+msgid "use calculated abjad results"
+msgstr "കണക്കാക്കിയ Abjad ഫലങ്ങൾ ഉപയോഗിക്കുക"
+
+msgid "use calculated abjad total"
+msgstr "കണക്കാക്കിയ Abjad മൊത്തം ഉപയോഗിക്കുക"
+
+msgid "use calculated bast results"
+msgstr "കണക്കാക്കിയ bast ഫലങ്ങൾ ഉപയോഗിക്കുക"
+
+msgid "use entered data directly"
+msgstr "നൽകിയ ഡാറ്റ നേരിട്ട് ഉപയോഗിക്കുക"
+
+msgid "use entered data total"
+msgstr "നൽകിയ ഡാറ്റ മൊത്തം ഉപയോഗിക്കുക"
+
+msgid "use in all bast repetitions"
+msgstr "എല്ലാ bast ആവർത്തനങ്ങളിലും ഉപയോഗിക്കുക"
+
+msgid "use only at beginning if possible"
+msgstr "സാധ്യമെങ്കിൽ തുടക്കത്തിൽ മാത്രം ഉപയോഗിക്കുക"
+
+msgid "wait for settings and data entry"
+msgstr "ക്രമീകരണങ്ങളും ഡാറ്റ എൻട്രിയും കാത്തിരിക്കുക"
+
+msgid "Abjad Table"
+msgstr "Abjad പട്ടിക"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "വിവരങ്ങൾ"
+
+msgid "Element Classification"
+msgstr "ഘടക വർഗീകരണം"
+
+msgid "Abjad Order"
+msgstr "Abjad ക്രമം"
+
+msgid "Abjad Widget"
+msgstr "Abjad വിഡ്ജറ്റ്"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "വിഡ്ജറ്റിന്റെ രൂപം ഇഷ്‌ടാനുസൃതമാക്കാൻ കസ്റ്റം CSS ചേർക്കുക."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"വിഡ്ജറ്റിന്റെ പെരുമാറ്റം മാറ്റാൻ കസ്റ്റം ജാവാസ്ക്രിപ്റ്റ് ചേർക്കുക. തെറ്റായ "
+"കോഡ് വിഡ്ജറ്റിനെ തകർക്കാം!"
+
+msgid "An error occurred while loading content."
+msgstr "ഉള്ളടക്കം ലോഡുചെയ്യുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു."
+
+msgid "Button"
+msgstr "ബട്ടൺ"
+
+msgid "Button Color"
+msgstr "ബട്ടൺ നിറം"
+
+msgid "Button Emoji"
+msgstr "ബട്ടൺ ഇമോജി"
+
+msgid "Button Message"
+msgstr "ബട്ടൺ സന്ദേശം"
+
+msgid "Button Settings"
+msgstr "ബട്ടൺ ക്രമീകരണങ്ങൾ"
+
+msgid "Button Type"
+msgstr "ബട്ടൺ തരം"
+
+msgid "CSS saved successfully."
+msgstr "CSS വിജയകരമായി സംരക്ഷിച്ചു."
+
+msgid "Check this box to activate the widget."
+msgstr "വിഡ്ജറ്റ് സജീവമാക്കാൻ ഈ ബോക്സ് തിരഞ്ഞെടുക്കുക."
+
+msgid "Code Editor"
+msgstr "കോഡ് എഡിറ്റർ"
+
+msgid "Custom CSS"
+msgstr "കസ്റ്റം CSS"
+
+msgid "Custom JavaScript"
+msgstr "കസ്റ്റം ജാവാസ്ക്രിപ്റ്റ്"
+
+msgid "Description"
+msgstr "വിവരണം"
+
+msgid "Emoji"
+msgstr "ഇമോജി"
+
+msgid "Enter image URL"
+msgstr "ചിത്രത്തിന്റെ URL നൽകുക"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "ഉദാഹരണം: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "ജനറൽ"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript വിജയകരമായി സംരക്ഷിച്ചു."
+
+msgid "Left"
+msgstr "ഇടത്"
+
+msgid "Live Preview"
+msgstr "ലൈവ് പ്രിവ്യൂ"
+
+msgid "Loading..."
+msgstr "ലോഡുചെയ്യുന്നു..."
+
+msgid "PNG Image URL"
+msgstr "PNG ചിത്രം URL"
+
+msgid "Paste SVG code"
+msgstr "SVG കോഡ് പേസ്റ്റ് ചെയ്യുക"
+
+msgid "Please enter a valid URL."
+msgstr "ദയവായി സാധുവായ URL നൽകുക."
+
+msgid "Position"
+msgstr "സ്ഥാനം"
+
+msgid "Reset to Default"
+msgstr "ഡീഫോൾട്ടിലേക്ക് പുനഃസജ്ജീകരിക്കുക"
+
+msgid "Right"
+msgstr "വലത്"
+
+msgid "SVG Code"
+msgstr "SVG കോഡ്"
+
+msgid "Save CSS"
+msgstr "CSS സംരക്ഷിക്കുക"
+
+msgid "Save JavaScript"
+msgstr "JavaScript സംരക്ഷിക്കുക"
+
+msgid "Save Settings"
+msgstr "ക്രമീകരണങ്ങൾ സംരക്ഷിക്കുക"
+
+msgid "Settings saved successfully."
+msgstr "ക്രമീകരണങ്ങൾ വിജയകരമായി സംരക്ഷിക്കപ്പെട്ടു."
+
+msgid "Style Editor"
+msgstr "സ്റ്റൈൽ എഡിറ്റർ"
+
+msgid "WARNING"
+msgstr "മുന്നറിയിപ്പ്"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"സ്വാഗതം! നിങ്ങൾക്ക് ഈ പാനൽ വഴി വിഡ്ജറ്റ് വാർത്തകളും പ്രഖ്യാപനങ്ങളും "
+"പിന്തുടരാം."
+
+msgid "Widget Settings"
+msgstr "വിഡ്ജറ്റ് ക്രമീകരണങ്ങൾ"
+
+msgid "Widget Status"
+msgstr "വിഡ്ജറ്റ് നില"
+
+msgid "Widget active"
+msgstr "വിഡ്ജറ്റ് സജീവം"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"തെറ്റായ ജാവാസ്ക്രിപ്റ്റ് കോഡ് വിഡ്ജറ്റ് തകര്ക്കാം. മാറ്റങ്ങൾ വരുത്തുന്നതിന് "
+"മുമ്പ് ബാക്കപ്പ് എടുക്കുക."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "നിങ്ങളുടെ Buy Me a Coffee ഉപയോക്തൃനാമം"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"നിങ്ങളുടെ മാറ്റങ്ങൾ വിഡ്ജറ്റിന്റെ രൂപത്തെ നേരിട്ട് ബാധിക്കും. CSS "
+"അറിയില്ലെങ്കിൽ ഡീഫോൾട്ട് ക്രമീകരണങ്ങൾ ഉപയോഗിക്കാൻ നിർദ്ദേശിക്കുന്നു."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - ലോക്കൽ ഡാഷ്ബോർഡ്"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "ആത്മീയ അന്വേഷകരും അത്ഭുതവാദികളും"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"വ്യക്തിത്വ സവിശേഷതകൾ: കൗതുകം നിറഞ്ഞ, സ്വയം നിരീക്ഷിക്കുന്ന, തുറന്ന "
+"മനസ്സുള്ള, ഒപ്പം രഹസ്യജ്ഞാനത്തോട് ആകർഷിതർ. ജീവിതത്തിലെ മറഞ്ഞിരിക്കുന്ന "
+"അർത്ഥങ്ങളോ മാതൃകകളോ കണ്ടെത്തുന്നതിൽ ശക്തമായ താൽപ്പര്യം അവർക്ക് ഉണ്ടായേക്കാം."
+" തൊഴിൽ: ആത്മീയ പരിശീലകർ, ടാറോ കാർഡ് വായനക്കാർ, ജ്യോതിഷികൾ, അല്ലെങ്കിൽ ന്യൂ "
+"ഏജ് പ്രവർത്തനങ്ങളിൽ പങ്കാളികളായ വ്യക്തികൾ. ആശയപരമായ ശ്രേണി: ആത്മീയ "
+"അല്ലെങ്കിൽ മെറ്റാഫിസിക്കൽ വിശ്വാസങ്ങളിലേക്ക് പ്രവണത. അവർ ഈ ഉപകരണങ്ങളെ "
+"ആഴമുള്ള സത്യങ്ങളോ സർവ്വജനീന ഊർജങ്ങളോ ബന്ധിപ്പിക്കാനുള്ള മാർഗമായി കാണാൻ "
+"സാധ്യതയുണ്ട്."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "നമ്പരശാസ്ത്രജ്ഞരും ജെമാറ്റ്രിയ പ്രേമികളും"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"വ്യക്തിത്വ സവിശേഷതകൾ: വിശകലനപരമായ, വിശദാംശങ്ങളോട് ശ്രദ്ധയുള്ള, സംഖ്യകളുടെയും"
+" ഭാഷയുടെയും ബന്ധം കൊണ്ടുതന്നെ ആകർഷിതർ. ചിഹ്നാത്മക അർത്ഥങ്ങൾ ഡികോഡ് "
+"ചെയ്യുന്നത് അവർക്ക് ഇഷ്ടമാണ്. തൊഴിൽ: സ്വതന്ത്ര നമ്പരശാസ്ത്രജ്ഞർ, രഹസ്യ "
+"വിഷയങ്ങളിൽ എഴുത്തുകാർ, അല്ലെങ്കിൽ നമ്പരശാസ്ത്രം പരിശോധിക്കുന്ന ഹോബിസ്റ്റുകൾ."
+" ആശയപരമായ ശ്രേണി: നമ്പരശാസ്ത്രത്തെ ഒരു രസകരമായ ബുദ്ധിപരമായ വ്യായാമമായി "
+"കാണുന്നവരിൽ നിന്നും അതിന്റെ ആഴമേറിയ ആത്മീയ പ്രാധാന്യത്തിൽ "
+"വിശ്വസിക്കുന്നവരിലേക്ക് വ്യാപിപ്പിക്കാം."
+
+msgid "Historians and Linguists"
+msgstr "ചരിത്രകാരന്മാരും ഭാഷാശാസ്ത്രജ്ഞരുമ്"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"വ്യക്തിത്വ സവിശേഷതകൾ: പണ്ഡിതപരമായ, സുസംഘടിതമായ, അബ്ജാദ് പോലുള്ള സംഖ്യാ "
+"വ്യവസ്ഥകളുടെ ചരിത്രമോ സാംസ്കാരിക പശ്ചാത്തലങ്ങളോ സംബന്ധിച്ച് "
+"താൽപ്പര്യപ്പെടുന്നവ. തൊഴിൽ: അക്കാദമീഷ്യൻമാർ, ഗവേഷകർ, മദ്ധ്യപൂർവൻ ഭാഷകൾ, "
+"ചരിത്രം, മതഗ്രന്ഥങ്ങൾ പഠിക്കുന്ന വിദ്യാർത്ഥികൾ. ആശയപരമായ ശ്രേണി: ഉപകരണങ്ങളെ "
+"ഒരു മതേതര, അക്കാദമിക് ദൃഷ്ടികോണത്തിൽ നിന്ന് സമീപിക്കാൻ സാധ്യതയുണ്ട്, അവയുടെ "
+"ചരിത്രപരമോ ഭാഷാപരമോ പ്രാധാന്യത്തിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ച്."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "മതപരമോ വിശ്വാസപരമോ ആയ വ്യക്തികൾ"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"വ്യക്തിത്വ സവിശേഷതകൾ: ഭക്തനായ, ആലോചനാപരമായ, അവരുടെ വിശ്വാസവുമായി ആഴത്തിലുള്ള"
+" ബന്ധം അന്വേഷിക്കുന്നവ. അവർ ഉപകരണങ്ങളെ മതഗ്രന്ഥങ്ങളോ ദിവ്യ സന്ദേശങ്ങളോ "
+"പരിശോധിക്കാൻ ഉപയോഗിക്കാം. തൊഴിൽ: മതപണ്ഡിതർ, ഇമാംമാർ, പുരോഹിതർ, അല്ലെങ്കിൽ "
+"അവരുടെ വിശ്വാസത്തിന്റെ അത്ഭുതപരമായ പരമ്പരാഗതങ്ങളോട് ശക്തമായ താൽപ്പര്യമുള്ള "
+"സാധാരണക്കാർ. ആശയപരമായ ശ്രേണി: പരമ്പരാഗതമോ സംരക്ഷണപരമോ ആയ ലോകദൃഷ്ടി, "
+"ഉപകരണങ്ങളെ അവരുടെ ആത്മീയ വിശ്വാസങ്ങൾ ഉറപ്പിക്കാൻ ഉപയോഗിക്കുന്നത്."
+
+msgid "Writers and Artists"
+msgstr "എഴുത്തുകാരും കലാകാരന്മാരും"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"വ്യക്തിത്വ സവിശേഷതകൾ: സൃഷ്ടിശീലമുള്ള, കല്പനാശക്തിയുള്ള, ചിഹ്നാത്മകമോ "
+"അഭ്യാസപരമോ ആശയങ്ങളിലേക്ക് ആകർഷിക്കപ്പെടുന്നവ. അവർ ഉപകരണങ്ങളെ പ്രചോദനത്തിനോ "
+"അവരുടെ പ്രവൃത്തിക്ക് അർത്ഥത്തിന്റെ പാളികൾ ചേർക്കാനോ ഉപയോഗിക്കാം. തൊഴിൽ: "
+"എഴുത്തുകാരൻമാർ, കവികൾ, ദൃശ്യകലാകാരന്മാർ, സംഗീതജ്ഞർ. ആശയപരമായ ശ്രേണി: മതേതര "
+"സൃഷ്ടിശീലക്കാരിൽ നിന്നും ആത്മീയമോ അത്ഭുതപരമോ ഉള്ളവരിലേക്കുമുള്ള വ്യാപ്തി."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "പസിൽ, രിഡിൽ പ്രേമികൾ"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"വ്യക്തിത്വ സവിശേഷതകൾ: കളിയുള്ള, ബുദ്ധിപരമായ കൗതുകം ഉള്ള, സങ്കീർണ്ണ "
+"പ്രശ്നങ്ങൾ പരിഹരിക്കാനോ മാതൃകകൾ ഡികോഡ് ചെയ്യാനോ ആസ്വദിക്കുന്നവ. തൊഴിൽ: "
+"ഹോബിസ്റ്റുകൾ, പസിൽ രൂപകർത്താക്കൾ, അധ്യാപകർ. ആശയപരമായ ശ്രേണി: ഉപകരണങ്ങളെ "
+"വിനോദമോ മാനസിക വ്യായാമമോ ആയി കാണാൻ സാധ്യതയുണ്ട്, കുറഞ്ഞ ആശയപരമായ ബന്ധം."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "സംശയാവാദികളും വിപരീത ചിന്തകരും"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"വ്യക്തിത്വ സവിശേഷതകൾ: പ്രധാനധാരയിലെ കഥകളോട് സംശയപരമായ, സിസ്റ്റങ്ങളിലെ മറഞ്ഞ "
+"സത്യങ്ങളോ മാതൃകകളോ കണ്ടെത്തുന്നതിൽ ആകർഷിതർ. തൊഴിൽ: സ്വതന്ത്ര ഗവേഷകർ, "
+"ബ്ലോഗർമാർ, പ്രവർത്തകർ. ആശയപരമായ ശ്രേണി: കൂടുതൽ റാഡിക്കൽ അല്ലെങ്കിൽ അസാധാരണ "
+"ലോകദൃഷ്ടി, ഉപകരണങ്ങളെ പര്യായ സിദ്ധാന്തങ്ങളോ കഥകളോ പിന്തുണയ്ക്കാൻ "
+"ഉപയോഗിക്കുന്നു."
+
+msgid "☕ Support the Project"
+msgstr "☕ പദ്ധതിയെ പിന്തുണയ്ക്കുക"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "എന്റെ പദ്ധതി ഇഷ്ടപ്പെട്ടാൽ, എന്നെക്കായി ഒരു കോഫി വാങ്ങാം!"
+
+msgid "Buy Me A Coffee"
+msgstr "എന്നെക്കായി കോഫി വാങ്ങൂ"
+
+msgid "Thank you! 🙏"
+msgstr "നന്ദി! 🙏"

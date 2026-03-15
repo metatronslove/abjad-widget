@@ -1,0 +1,819 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Greenlandic <kl_GL>\n"
+"Language: kl-GL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad tunngat"
+
+msgid "Abjad Value"
+msgstr "Abjad nunap"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Abjad kalkulatuuni natersimasoq"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad kalkulatuuniornerpaaq"
+
+msgid "Abjad not calculated"
+msgstr "Abjad kalkulatuunili"
+
+msgid "Abjad order"
+msgstr "Abjad atuussart"
+
+msgid "Add elements"
+msgstr "Elementer aterluar"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Atner"
+
+msgid "All"
+msgstr "All"
+
+msgid "Arabic"
+msgstr "Arappiaq"
+
+msgid "Arabic letters"
+msgstr "Arap pisut"
+
+msgid "Arabic numbers"
+msgstr "Arap nuusat"
+
+msgid "As data for operation"
+msgstr "Oqneranik data"
+
+msgid "Bast loop results"
+msgstr "Bast loop natersimasoq"
+
+msgid "Bast not calculated"
+msgstr "Bast kalkulatuunili"
+
+msgid "Bast repetition count"
+msgstr "Bast atimallat"
+
+msgid "Bast results hidden"
+msgstr "Bast natersimasoq aterpaaq"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet atuussart"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet table"
+
+msgid "Big"
+msgstr "Aju"
+
+msgid "Bigger"
+msgstr "Aju suli"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Qallaar aali"
+
+msgid "Calculate"
+msgstr "Kalkulatuun"
+
+msgid "Calculate Abjad"
+msgstr "Abjad kalkulatuun"
+
+msgid "Calculate Bastet"
+msgstr "Bastet aasaq"
+
+msgid "Calculate Huddam"
+msgstr "Huddam aasaq"
+
+msgid "Calculation details"
+msgstr "aasaqit suerler"
+
+msgid "Choose Keyboard Layout"
+msgstr "Keyboard layout qannuta"
+
+msgid "Clear text box"
+msgstr "text box aanga"
+
+msgid "Click row for details"
+msgstr "suerlullineq aaneq"
+
+msgid "Close Keyboard"
+msgstr "Keyboard qannga"
+
+msgid "Closed"
+msgstr "qanngaa"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma default suerlu nunarsuaq aat iannaangaat!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "data entry suerluer:"
+
+msgid "Data type profile"
+msgstr "data type profil"
+
+msgid "Dead keys"
+msgstr "dead keys"
+
+msgid "Decrease keyboard size"
+msgstr "Keyboard size pissuk"
+
+msgid "Don't calculate"
+msgstr "aasaq qilalluarus"
+
+msgid "Duty entity name results"
+msgstr "duty entity name results"
+
+msgid "Duty entity type"
+msgstr "duty entity type"
+
+msgid "Earth"
+msgstr "Aqajaq"
+
+msgid "Element classification"
+msgstr "element classification"
+
+msgid "Element classification method"
+msgstr "element classification method"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "enter text... Arabic, Hebrew, Turkish letters, numbers"
+
+msgid "Entered data"
+msgstr "entered data"
+
+msgid "Entry"
+msgstr "entry"
+
+msgid "Entry letter count"
+msgstr "entry letter count"
+
+msgid "Evil"
+msgstr "evil"
+
+msgid "Fire"
+msgstr "ileq"
+
+msgid "For entered data"
+msgstr "for entered data"
+
+msgid "Frequency in Quran"
+msgstr "frequency in quran"
+
+msgid "Gematria"
+msgstr "gematria"
+
+msgid "Hebrew"
+msgstr "hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Ibraniq alfabetit ipalluarussat"
+
+msgid "Hebrew letters"
+msgstr "Ibraniq aaseq"
+
+msgid "High"
+msgstr "Suli"
+
+msgid "Hija order"
+msgstr "Hija iluaraaseq"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam annatippalluk"
+
+msgid "Huddam not calculated"
+msgstr "Huddam misukkataqartoq"
+
+msgid "Iklil's order"
+msgstr "Iklil iluaraaseq"
+
+msgid "Increase keyboard size"
+msgstr "Klaviatorip suliartup"
+
+msgid "Indian numbers"
+msgstr "Indiaannermik numera"
+
+msgid "Interface language"
+msgstr "Iliassup qaffiiminnat"
+
+msgid "Let character quantity decide"
+msgstr "Angut aaseq ipalluarussat iput"
+
+msgid "Letter count"
+msgstr "Aaseq ipalluarussat"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Qaujimmutik projeksit? Qangaa qannaarup."
+
+msgid "Low"
+msgstr "Kalluk"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Kuammittusaat"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Suma takissat qaffiiminnat"
+
+msgid "Numerical values"
+msgstr "Numeraatip kittuaat"
+
+msgid "Open"
+msgstr "Alaq"
+
+msgid "Order"
+msgstr "Iluaraaseq"
+
+msgid "Possible phrases"
+msgstr "Iluaraluat iineq"
+
+msgid "Program settings"
+msgstr "Programmaat ipalluarussat"
+
+msgid "Pronunciation"
+msgstr "Talaq"
+
+msgid "Regular expression"
+msgstr "Maatut aaseq"
+
+msgid "Regularly preferred classification"
+msgstr "Taqaasik ipalluarussat"
+
+msgid "Reset"
+msgstr "Suliartup"
+
+msgid "Separators"
+msgstr "Pisuk"
+
+msgid "Settings"
+msgstr "Ilaguarpoq"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Numpad nuna"
+
+msgid "Show virtual keyboard"
+msgstr "Virtual keyboard nuna"
+
+msgid "Small"
+msgstr "Qau"
+
+msgid "Small + letter count"
+msgstr "Qau + ʔatalaasuk"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Qallunaat"
+
+msgid "Taken (letter)"
+msgstr "Alin (ʔatalaas)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Alin (ʔatalaas; abjad)"
+
+msgid "Taken Letters"
+msgstr "Alin ʔatalaas"
+
+msgid "Text or number cell"
+msgstr "Saqerpaat / numero atuusippaat"
+
+msgid "Thank you for your support!"
+msgstr "Qallunaatillugit inuuk!"
+
+msgid "Total"
+msgstr "Aqa"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turki alfabetus abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Turki alfabetus atuarput"
+
+msgid "Turkish letters"
+msgstr "Turki ʔatalaas"
+
+msgid "Undefined characters"
+msgstr "Mikinnertussanngorsoq ʔatalaas"
+
+msgid "Value"
+msgstr "Tusa"
+
+msgid "Value & Detail"
+msgstr "Tusa & Nammussaq"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Nanu"
+
+msgid "When data is entered"
+msgstr "Data sisannartussaq"
+
+msgid "When reading large digits"
+msgstr "Siku suli aqqasaat"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad kisilius, saalerit aallanngaat"
+
+msgid "abjad() functions settings"
+msgstr "abjad() funskusiut ilassaat"
+
+msgid "add to initial value"
+msgstr "qanngortusini aallu"
+
+msgid "and"
+msgstr "amma"
+
+msgid "auto calculate immediately"
+msgstr "tivukartannguaq"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() aamma nutket() funskusiut ilassaat"
+
+msgid "count once"
+msgstr "tallernut iters"
+
+msgid "count twice"
+msgstr "tallernut ikort"
+
+msgid "display with Arabic numbers"
+msgstr "arabia numaruni nuna"
+
+msgid "display with Indian numbers"
+msgstr "India numaruni nuna"
+
+msgid "do not add to initial value"
+msgstr "qanngortusini aallu siusi"
+
+msgid "do not force to other functions"
+msgstr "ittuut takussinna siusi"
+
+msgid "do not purify"
+msgstr "siusi"
+
+msgid "force to other functions"
+msgstr "ittuut takussinna"
+
+msgid "group multiplier letters"
+msgstr "kullipilliap tullu"
+
+msgid "hide"
+msgstr "ipil"
+
+msgid "hide abjad values"
+msgstr "abjad qinuq ipil"
+
+msgid "hide bast results"
+msgstr "basti nutaaq qaqartusaat"
+
+msgid "hide huddam names"
+msgstr "huddamimik nutaaq qaqartusaat"
+
+msgid "huddam() function settings"
+msgstr "huddam() funsiuni nutaaq"
+
+msgid "no bast applied."
+msgstr "basti angut qilanngort."
+
+msgid "no data entered"
+msgstr "pili angut"
+
+msgid "other suffix"
+msgstr "qitarrillu"
+
+msgid "purify data"
+msgstr "pili qulallernissa"
+
+msgid "repeat multiplier for each digit"
+msgstr "digitimittanutit suli"
+
+msgid "show"
+msgstr "nutaat"
+
+msgid "show abjad values"
+msgstr "abjad nutaaq nutaat"
+
+msgid "show bast results"
+msgstr "basti nutaaq nutaat"
+
+msgid "show huddam names"
+msgstr "huddamimik nutaaq nutaat"
+
+msgid "suffix"
+msgstr "qitarrillu"
+
+msgid "times bast applied."
+msgstr "basti angut aat."
+
+msgid "use calculated abjad results"
+msgstr "abjad nutaaq sum nutaaq"
+
+msgid "use calculated abjad total"
+msgstr "abjad sum nutaaq"
+
+msgid "use calculated bast results"
+msgstr "basti sum nutaaq"
+
+msgid "use entered data directly"
+msgstr "pili nutaaq"
+
+msgid "use entered data total"
+msgstr "pili sum nutaaq"
+
+msgid "use in all bast repetitions"
+msgstr "basti nutaaqissa nutaaq"
+
+msgid "use only at beginning if possible"
+msgstr "qalattat qaqqara"
+
+msgid "wait for settings and data entry"
+msgstr "nutaaqit nutaaq"
+
+msgid "Abjad Table"
+msgstr "Abjad Tabel"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Qassit"
+
+msgid "Element Classification"
+msgstr "Element Classification"
+
+msgid "Abjad Order"
+msgstr "Abjad Order"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "CSS unnitut css niqallissa widget apparensia."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"JavaScript unnitut css niqallissa widget apparensia. Tuppartut koderit "
+"widgetit qulinnart!"
+
+msgid "An error occurred while loading content."
+msgstr "Sisineq suliat ilorluussaq."
+
+msgid "Button"
+msgstr "Button"
+
+msgid "Button Color"
+msgstr "Button Iññaq"
+
+msgid "Button Emoji"
+msgstr "Button Emoji"
+
+msgid "Button Message"
+msgstr "Button Kangi"
+
+msgid "Button Settings"
+msgstr "Button Pissartus"
+
+msgid "Button Type"
+msgstr "Button Paas"
+
+msgid "CSS saved successfully."
+msgstr "CSS pilliussaq."
+
+msgid "Check this box to activate the widget."
+msgstr "Aturussartussa atuassavakkat."
+
+msgid "Code Editor"
+msgstr "Kallaneq Ipilaar"
+
+msgid "Custom CSS"
+msgstr "Ippat CSS"
+
+msgid "Custom JavaScript"
+msgstr "Ippat JavaScript"
+
+msgid "Description"
+msgstr "Iliffart"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Sivertaq imaaga URL"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Eksempel: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Allup"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript pilliussaq."
+
+msgid "Left"
+msgstr "Lugaar"
+
+msgid "Live Preview"
+msgstr "Aputi Silli"
+
+msgid "Loading..."
+msgstr "Ilorluus..."
+
+msgid "PNG Image URL"
+msgstr "PNG Imaaga URL"
+
+msgid "Paste SVG code"
+msgstr "Paste SVG kodigo"
+
+msgid "Please enter a valid URL."
+msgstr "Aasita URL aallannermi."
+
+msgid "Position"
+msgstr "Innannguar"
+
+msgid "Reset to Default"
+msgstr "Default-ara tikta"
+
+msgid "Right"
+msgstr "Iqar"
+
+msgid "SVG Code"
+msgstr "SVG kodigo"
+
+msgid "Save CSS"
+msgstr "CSS pilliussaq"
+
+msgid "Save JavaScript"
+msgstr "JavaScript pilliussaq"
+
+msgid "Save Settings"
+msgstr "Allatta takussinnaasi"
+
+msgid "Settings saved successfully."
+msgstr "Takussinnaasi suliussammik."
+
+msgid "Style Editor"
+msgstr "Stilsutaataq"
+
+msgid "WARNING"
+msgstr "MALLER"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Aammassuseq! Pan panelissa widget news-iaat pisineqaa."
+
+msgid "Widget Settings"
+msgstr "Widget takussinnaasi"
+
+msgid "Widget Status"
+msgstr "Widget status"
+
+msgid "Widget active"
+msgstr "Widget aktiff"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Wiiwilli JavaScript kodeseramik widget-sin takussinnaasi. Qullissaallutaq."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Sinnit Buy Me a Coffee username"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Sinnilanni pillusami widget takussinnaasi silli. CSS-mik malerineq, default "
+"takussinnaasi alingisinnaa qilianni."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Lokal Dashboard"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Sivialer aaliittanut"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Personality Traits: Kuraart, introspektiv, avassivillu, aammalu esoterik "
+"qangaat. Silli ataqassavimmi inuussinnaasimaattunut, nunarsuaq inera. "
+"Occupations: Sivialer coach-aller, tarot qangaannik-aller, astrologer-aller,"
+" allanik New Age takussinnaasinersimallat. Ideological Spectrum: Sivialer "
+"takussinnaasimaattut, ataassiu. Silli aalarnartussivimmi pirtuqsittanut "
+"allanik qasillarnani, ataassiu."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologistit aamma Gematriar qangassat"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Personality Traits: Analytisk, detalj-oriit, aammalu nukkunnerit "
+"inuussinnaasimaattut. Silli inikkaarsimasarput "
+"simbolliirittussinnaasimaattut. Occupations: Freelance numerologistit, "
+"esoterik topikkis atuarit, allanik numerologiaq ittaqarput. Ideological "
+"Spectrum: Iruqartunat allanik nutanussuarpittumik nunaaqatigiit, allanik "
+"nutarutallutit takussinnaasimaattut."
+
+msgid "Historians and Linguists"
+msgstr "Historistaller aamma Lingvistaller"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Personality Traits: Skållariit, metodik, aammalu inuussinnaasimaattunut "
+"historisk eller kulturell kontekstit numerisk systemit like Abjad. "
+"Occupations: Akademik-aller, istraqer-aller, or student-aller, "
+"takussinnaasimi Middle Eastern språk, historia, eller religiøse tekster. "
+"Ideological Spectrum: Sivialer takussinnaasimaattut, secular, akademisk "
+"perspektiv, fokus i historisk eller lingvistisk betydning."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religiusimimik aaliittanut"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. Silli aami aami aami aami. Occupations: Religious scholars, "
+"imams, priests, or laypeople with a strong interest in their faith’s "
+"mystical traditions. Ideological Spectrum: Likely to have a traditional or "
+"conservative worldview, using the tools to reinforce their spiritual "
+"beliefs."
+
+msgid "Writers and Artists"
+msgstr "Atuarit aamma Artister"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Personality Traits: Kreaativ, imajinativ, and drawn to symbolic or abstract "
+"concepts. Silli aami aami. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzlep aammalu Riddleq qangassat"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracyq Theorists aamma Alternative Qangassat"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+
+msgid "☕ Support the Project"
+msgstr "☕ Projektip tukialuk"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Qanuusiman projectimi, pan aami aami buy me a coffee!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Qanami! 🙏"

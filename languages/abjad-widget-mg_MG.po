@@ -1,0 +1,795 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Malagasy <mg_MG>\n"
+"Language: mg-MG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Safidin'i Abjad"
+
+msgid "Abjad Value"
+msgstr "Sandan'i Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Voka-drakitra kajy Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Kajy Abjad miafina"
+
+msgid "Abjad not calculated"
+msgstr "Abjad tsy voakajy"
+
+msgid "Abjad order"
+msgstr "Filaharana Abjad"
+
+msgid "Add elements"
+msgstr "Manampy singa"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Rivotra"
+
+msgid "All"
+msgstr "Rehetra"
+
+msgid "Arabic"
+msgstr "Arabo"
+
+msgid "Arabic letters"
+msgstr "Taratasy Arabo"
+
+msgid "Arabic numbers"
+msgstr "Laharana Arabo"
+
+msgid "As data for operation"
+msgstr "Toy ny angona ho an'ny fandidiana"
+
+msgid "Bast loop results"
+msgstr "Vokatr'ilo loop Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast tsy voakajy"
+
+msgid "Bast repetition count"
+msgstr "Isan'ny averin'ny Bast"
+
+msgid "Bast results hidden"
+msgstr "Vokatr'ilo Bast miafina"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Filaharana Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet table"
+
+msgid "Big"
+msgstr "Lehibe"
+
+msgid "Bigger"
+msgstr "Lehibe kokoa"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Ento kafe ahy"
+
+msgid "Calculate"
+msgstr "Kajy"
+
+msgid "Calculate Abjad"
+msgstr "Kajy Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kajio Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kajio Huddam"
+
+msgid "Calculation details"
+msgstr "Antsipirihany kajy"
+
+msgid "Choose Keyboard Layout"
+msgstr "Safidio ny layout klavier"
+
+msgid "Clear text box"
+msgstr "Esory ny boaty lahatsoratra"
+
+msgid "Click row for details"
+msgstr "Tsindrio ny andalana mba hahazoana antsipirihany"
+
+msgid "Close Keyboard"
+msgstr "Hidy klavier"
+
+msgid "Closed"
+msgstr "Voahidy"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Ny koma dia mpampahatsiahy default ary tsy maintsy voafantina!"
+
+msgid "Dashboard"
+msgstr "Tabilao"
+
+msgid "Data entry separators:"
+msgstr "Siny fidirana angona:"
+
+msgid "Data type profile"
+msgstr "Profiil'ny karazana angona"
+
+msgid "Dead keys"
+msgstr "Bato maty"
+
+msgid "Decrease keyboard size"
+msgstr "Sokafy kely kokoa ny klavier"
+
+msgid "Don't calculate"
+msgstr "Aza kajio"
+
+msgid "Duty entity name results"
+msgstr "Valin'ny anarana entin'ny tompon'andraikitra"
+
+msgid "Duty entity type"
+msgstr "Karazana entin'ny tompon'andraikitra"
+
+msgid "Earth"
+msgstr "Tany"
+
+msgid "Element classification"
+msgstr "Fanasokajiana singa"
+
+msgid "Element classification method"
+msgstr "Fomba fanasokajiana singa"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Soraty... Soratra Arabo, Hebreo, Torki, isa"
+
+msgid "Entered data"
+msgstr "Angona nampidirina"
+
+msgid "Entry"
+msgstr "Fidirana"
+
+msgid "Entry letter count"
+msgstr "Isan'ny litera amin'ny fidirana"
+
+msgid "Evil"
+msgstr "Ratsy"
+
+msgid "Fire"
+msgstr "Afo"
+
+msgid "For entered data"
+msgstr "Ho an'ny angona nampidirina"
+
+msgid "Frequency in Quran"
+msgstr "Fahavitrihana ao amin'ny Qur'an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebreo"
+
+msgid "Hebrew alphabet elements"
+msgstr "Zavatra amin'ny abidy hebreo"
+
+msgid "Hebrew letters"
+msgstr "Litera hebreo"
+
+msgid "High"
+msgstr "Ambony"
+
+msgid "Hija order"
+msgstr "Filaharana Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Anaran'ny Huddam miafina"
+
+msgid "Huddam not calculated"
+msgstr "Huddam tsy voalahatra"
+
+msgid "Iklil's order"
+msgstr "Filaharana Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Manitatra ny haben'ny clavier"
+
+msgid "Indian numbers"
+msgstr "Isan'India"
+
+msgid "Interface language"
+msgstr "Fiteny interface"
+
+msgid "Let character quantity decide"
+msgstr "Avelao ny isan'ny tarehintsoratra hifidy"
+
+msgid "Letter count"
+msgstr "Isan'ny litera"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Tiako ve ny tetikasa? Omeo kafe ahy!"
+
+msgid "Low"
+msgstr "Ambany"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Filaharana Maghribian hija"
+
+msgid "Minimum"
+msgstr "Farany ambany"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Fiteny hamaky isa"
+
+msgid "Numerical values"
+msgstr "Sandan'ny isa"
+
+msgid "Open"
+msgstr "Sokafy"
+
+msgid "Order"
+msgstr "Filaharana"
+
+msgid "Possible phrases"
+msgstr "Fiteny azo atao"
+
+msgid "Program settings"
+msgstr "Safidy programa"
+
+msgid "Pronunciation"
+msgstr "Fitenenana"
+
+msgid "Regular expression"
+msgstr "Fanehoana miverimberina"
+
+msgid "Regularly preferred classification"
+msgstr "Fizarana tiana amin'ny fomba matetika"
+
+msgid "Reset"
+msgstr "Avereno"
+
+msgid "Separators"
+msgstr "Mpitsara"
+
+msgid "Settings"
+msgstr "Fikirakirana"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Asehoy ny numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Asehoy ny klavie virtoaly"
+
+msgid "Small"
+msgstr "Kely"
+
+msgid "Small + letter count"
+msgstr "Kely + isa litera"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Fanohanana"
+
+msgid "Taken (letter)"
+msgstr "Nahazo (taratasy)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Nahazo (taratasy; abjad)"
+
+msgid "Taken Letters"
+msgstr "Litera nahazo"
+
+msgid "Text or number cell"
+msgstr "Cellule amin'ny lahatsoratra na isa"
+
+msgid "Thank you for your support!"
+msgstr "Misaotra amin'ny fanohananao!"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Turkish"
+msgstr "Torky"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad taratasy Torky"
+
+msgid "Turkish alphabet elements"
+msgstr "Singan'ny taratasy Torky"
+
+msgid "Turkish letters"
+msgstr "Taratasy Torky"
+
+msgid "Undefined characters"
+msgstr "Endri-tsoratra tsy voafaritra"
+
+msgid "Value"
+msgstr "Sandan'"
+
+msgid "Value & Detail"
+msgstr "Sandan' & antsipiriany"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Rano"
+
+msgid "When data is entered"
+msgstr "Rehefa tafiditra ny angona"
+
+msgid "When reading large digits"
+msgstr "Rehefa mamaky isa lehibe"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad naloa ary isa taratasy nampiana"
+
+msgid "abjad() functions settings"
+msgstr "amfitombenana abjad() fanovàna"
+
+msgid "add to initial value"
+msgstr "ampiana amin'ny sanda voalohany"
+
+msgid "and"
+msgstr "sy"
+
+msgid "auto calculate immediately"
+msgstr "manao kajy ho azy avy hatrany"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "amfitombenana bastet() sy nutket() fanovàna"
+
+msgid "count once"
+msgstr "isa tokana"
+
+msgid "count twice"
+msgstr "isa roa"
+
+msgid "display with Arabic numbers"
+msgstr "maneho amin'ny isa Arabo"
+
+msgid "display with Indian numbers"
+msgstr "maneho amin'ny isa Indiana"
+
+msgid "do not add to initial value"
+msgstr "tsy ampiana amin'ny sanda voalohany"
+
+msgid "do not force to other functions"
+msgstr "tsy voatery amin'ny asa hafa"
+
+msgid "do not purify"
+msgstr "tsy madio"
+
+msgid "force to other functions"
+msgstr "ery amin'ny asa hafa"
+
+msgid "group multiplier letters"
+msgstr "taratasy mpitombo vondrona"
+
+msgid "hide"
+msgstr "afeno"
+
+msgid "hide abjad values"
+msgstr "afeno ny sanda abjad"
+
+msgid "hide bast results"
+msgstr "Amorona vokatra bast"
+
+msgid "hide huddam names"
+msgstr "Amorona anarana huddam"
+
+msgid "huddam() function settings"
+msgstr "fanamboarana fiasa huddam()"
+
+msgid "no bast applied."
+msgstr "tsy misy bast ampiharina."
+
+msgid "no data entered"
+msgstr "tsy nampiditra angona"
+
+msgid "other suffix"
+msgstr "suffix hafa"
+
+msgid "purify data"
+msgstr "adio angona"
+
+msgid "repeat multiplier for each digit"
+msgstr "multiplikator miverina amin'ny isa tsirairay"
+
+msgid "show"
+msgstr "asehoy"
+
+msgid "show abjad values"
+msgstr "asehoy sandan'ny abjad"
+
+msgid "show bast results"
+msgstr "asehoy vokatra bast"
+
+msgid "show huddam names"
+msgstr "asehoy anarana huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "fampiharana bast maromaro."
+
+msgid "use calculated abjad results"
+msgstr "ampiasao vokatra abjad voahevitra"
+
+msgid "use calculated abjad total"
+msgstr "ampiasao total abjad voahevitra"
+
+msgid "use calculated bast results"
+msgstr "ampiasao vokatra bast voahevitra"
+
+msgid "use entered data directly"
+msgstr "ampiasao angona nampidirina mivantana"
+
+msgid "use entered data total"
+msgstr "ampiasao total angona nampidirina"
+
+msgid "use in all bast repetitions"
+msgstr "ampiasao amin'ny fiverimberinana bast rehetra"
+
+msgid "use only at beginning if possible"
+msgstr "ampiasao fotsiny amin'ny fiandohana raha azo atao"
+
+msgid "wait for settings and data entry"
+msgstr "miandry fikirana sy fidirana angona"
+
+msgid "Abjad Table"
+msgstr "Latabatra Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "antsipiriany"
+
+msgid "Element Classification"
+msgstr "Fizaran'ny singa"
+
+msgid "Abjad Order"
+msgstr "Fandaharana Abjad"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Manampia CSS manokana mba hanamboatra ny endriky ny widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Manampia JavaScript manokana mba hanova ny fanao amin'ny widget. Kaody diso "
+"dia mety hanakatra ny widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Nisy hadisoana niseho raha nampiditra votoaty."
+
+msgid "Button"
+msgstr "Birao"
+
+msgid "Button Color"
+msgstr "Loko Birao"
+
+msgid "Button Emoji"
+msgstr "Emoji Birao"
+
+msgid "Button Message"
+msgstr "Hafatra Birao"
+
+msgid "Button Settings"
+msgstr "Fikirakirana Birao"
+
+msgid "Button Type"
+msgstr "Karazana Birao"
+
+msgid "CSS saved successfully."
+msgstr "Voatahiry soa aman-tsara ny CSS."
+
+msgid "Check this box to activate the widget."
+msgstr "Tsindrio ity boaty ity mba hanokafana ny widget."
+
+msgid "Code Editor"
+msgstr "Mpanao soratra kaody"
+
+msgid "Custom CSS"
+msgstr "CSS manokana"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript manokana"
+
+msgid "Description"
+msgstr "Famaritana"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Ampidiro ny URL sary"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Ohatra: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Ankapobeny"
+
+msgid "JavaScript saved successfully."
+msgstr "Voatahiry soa aman-tsara ny JavaScript."
+
+msgid "Left"
+msgstr "Avy havia"
+
+msgid "Live Preview"
+msgstr "Sary miaina"
+
+msgid "Loading..."
+msgstr "Mampiditra..."
+
+msgid "PNG Image URL"
+msgstr "URL sary PNG"
+
+msgid "Paste SVG code"
+msgstr "Tehirizo ny kaody SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Azafady, soraty URL marina."
+
+msgid "Position"
+msgstr "Toerana"
+
+msgid "Reset to Default"
+msgstr "Avereno amin'ny default"
+
+msgid "Right"
+msgstr "Avy ankavanana"
+
+msgid "SVG Code"
+msgstr "Kaody SVG"
+
+msgid "Save CSS"
+msgstr "Tehirizo ny CSS"
+
+msgid "Save JavaScript"
+msgstr "Tehirizo ny JavaScript"
+
+msgid "Save Settings"
+msgstr "Tehirizo ny fikirakirana"
+
+msgid "Settings saved successfully."
+msgstr "Voatahiry soa aman-tsara ny fikirakirana."
+
+msgid "Style Editor"
+msgstr "Mpanao endrika"
+
+msgid "WARNING"
+msgstr "FAMARANITRA"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Tongasoa! Azonao arahana vaovao sy fanambarana momba ny widget amin'ity "
+"takelaka ity."
+
+msgid "Widget Settings"
+msgstr "Fikirakiran'ny widget"
+
+msgid "Widget Status"
+msgstr "Toetry ny widget"
+
+msgid "Widget active"
+msgstr "Widget miasa"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Ny kaody JavaScript diso dia mety hanimba ny widget. Backup alohan'ny "
+"hanovàna."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Anaran'ny mpampiasa Buy Me a Coffee anao"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Ny fanovanao dia hisy fiantraikany mivantana amin'ny endriky ny widget. Raha"
+" tsy fantatrao ny CSS, dia atolotra anao ny mampiasa fikirakirana default."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Widget Abjad - Dashboard eo an-toerana"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Mpikaroka ara-panahy sy Mpifandray"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Toetra: Kizazaka, mandinika, saina malalaka, ary mankafy fahaiza-manao feno."
+" Mety manana fitiavana mafy amin'ny famoahana dika miafina na firafitry ny "
+"fiainana. Asa: Mpampianatra ara-panahy, mpamaky tarot, astrologa, na olona "
+"miasa amin'ny fanao New Age. Spectrum ideolojika: Mety ho mankaty amin'ny "
+"finoana ara-panahy na metaphysika. Mety hanjifany amin'ireo fitaovana ho "
+"fomba hifandraisana amin'ny marina lalina na herin'ny tontolo iainana."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerôlôjia sy Mpankafy Gematria"
+
+msgid "Historians and Linguists"
+msgstr "Mpanao tantara sy Mpiteny"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Toetra: Mpanao siansa, manan-drafitra, ary liana amin'ny toe-javatra ara-"
+"tantara na kolontsaina amin'ny rafitra isa toy ny Abjad. Asa: Mpampianatra, "
+"mpikaroka, na mpianatra mianatra fiteny Azia afovoany, tantara, na soratra "
+"ara-pivavahana. Spectrum ideolojika: Mety mihevitra amin'ny fomba "
+"siantifika, manampy amin'ny maha-ara-tsaina, manodidina amin'ny maha-azo "
+"tsapa amin'ny tantara na teny."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Olona ara-pivavahana na mifototra amin'ny finoana"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Toetra: Mampanahy, mandinika, ary mitady fifandraisana lalindalina kokoa "
+"amin'ny finoany. Mety mampiasa ireo fitaovana mba hijery soratra ara-"
+"pivavahana na hafatra masina. Asa: Mpanao fanadihadiana ara-pivavahana, "
+"imam, mpangady, na olona mahazatra manana fitiavana amin'ny fomban-drazana "
+"amin'ny finoany. Spectrum ideolojika: Mety manana fomba fijery ara-pomba na "
+"maharitra, mampiasa ireo fitaovana hanamafisana ny finoany ara-panahy."
+
+msgid "Writers and Artists"
+msgstr "Mpanoratra sy Mpanao Sary"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Toetra: Mamorona, feno saina, ary mankafy amin'ny zavatra manan-danja na "
+"fanao abstract. Mety mampiasa ireo fitaovana ho famoronana na hanampy "
+"laharana amin'ny asany. Asa: Mpandray, poeta, mpanao sary, na mpanao mozika."
+" Spectrum ideolojika: Mety miova amin'ny mpamokatra tsy ara-panahy ka "
+"hatramin'ny izay manana faniriana ara-panahy na mistery."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Mpankafy Puzzle sy Riddle"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Mpanao teori-piadiana sy Mpanao saina hafa"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Toetra: Mampihena amin'ny tantara mahazatra, mankafy amin'ny fanavahana "
+"marina miafina na firafitry amin'ny rafitra. Asa: Mpikaroka misokatra, "
+"blogger, na mpandray anjara. Spectrum ideolojika: Mety manana fomba fijery "
+"mavesatra na tsy mahazatra, mampiasa ireo fitaovana hanohana teori-piadiana "
+"na tantara hafa."
+
+msgid "☕ Support the Project"
+msgstr "☕ Manohana ny tetikasa"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Raha tianao ny tetikako, azonao mividy kafe amiko!"
+
+msgid "Buy Me A Coffee"
+msgstr "Mividy kafe amiko"
+
+msgid "Thank you! 🙏"
+msgstr "Misaotra! 🙏"
