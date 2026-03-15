@@ -864,31 +864,39 @@ function shapebastet() {
     }
 }
 
-    function shapehuddam() {
-        var forceRules = getSetting('forcerules');
-        var calcHuddam = document.getElementById(window.widgetId + '-calculatehuddam');
-        var huddamOrder = document.getElementById(window.widgetId + '-huddamorder');
-        
-        if (!calcHuddam) return;
-        
-        if (forceRules == 'force' || calcHuddam.value == 'dont') {
-            if (huddamOrder) huddamOrder.style.display = 'none';
-        } else {
-            if (huddamOrder) huddamOrder.style.display = '';
+function shapehuddam() {
+    var forceRules = getSetting('forcerules');
+    var calcHuddam = document.getElementById(window.widgetId + '-calculatehuddam');
+    var huddamOrder = document.getElementById(window.widgetId + '-huddamorder');
+    var huddamOrderClassElements = document.getElementsByClassName('huddamorder');
+    
+    if (!calcHuddam) return;
+    
+    if (forceRules == 'force' || calcHuddam.value == 'dont') {
+        if (huddamOrder) {
+            Array.from(huddamOrderClassElements).forEach(function(element) {
+                element.style.display = 'none';
+            });
         }
-        
-        if (calcHuddam.value == 'dont') {
-            HideAndSeek([".sourcehuddam", ".dutytype", ".huddammode"], [], 450, 900);
-            var res = document.getElementById(window.widgetId + '-huddamresults');
-            if (res) res.innerHTML = "<center>" + __('huddam_not_viewed') + "</center>";
-        } else if (calcHuddam.value == 'calculate') {
-            HideAndSeek([], [".sourcehuddam", ".dutytype", ".huddammode"], 450, 900);
-            
-            var res = document.getElementById(window.widgetId + '-huddamresults');
-            if (res) res.innerHTML = "<center>" + __('huddam_not_calculated') + "</center>";
+    } else {
+        if (huddamOrder) {
+            Array.from(huddamOrderClassElements).forEach(function(element) {
+                element.style.display = '';
+            });
         }
     }
-
+    
+    if (calcHuddam.value == 'dont') {
+        HideAndSeek([".sourcehuddam", ".dutytype", ".huddammode"], [], 450, 900);
+        var res = document.getElementById(window.widgetId + '-huddamresults');
+        if (res) res.innerHTML = "<center>" + __('huddam_not_viewed') + "</center>";
+    } else if (calcHuddam.value == 'calculate') {
+        HideAndSeek([], [".sourcehuddam", ".dutytype", ".huddammode"], 450, 900);
+        
+        var res = document.getElementById(window.widgetId + '-huddamresults');
+        if (res) res.innerHTML = "<center>" + __('huddam_not_calculated') + "</center>";
+    }
+}
 // =========================================================================
 // YARDIMCI FONKSİYONLAR
 // =========================================================================
