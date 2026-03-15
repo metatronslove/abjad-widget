@@ -1,0 +1,826 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tswana <tn_ZA>\n"
+"Language: tn-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Dikgang tsa Abjad"
+
+msgid "Abjad Value"
+msgstr "Baleng la Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard ya widget ya Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Litsela tsa baloho ya Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Baloho ya Abjad e lephologileng"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ga e balwang"
+
+msgid "Abjad order"
+msgstr "Sephutseli sa Abjad"
+
+msgid "Add elements"
+msgstr "Kgaoganya maélé"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Moele"
+
+msgid "All"
+msgstr "Teng"
+
+msgid "Arabic"
+msgstr "Arap"
+
+msgid "Arabic letters"
+msgstr "Litlhopholo tsa Arap"
+
+msgid "Arabic numbers"
+msgstr "Nomoro tsa Arap"
+
+msgid "As data for operation"
+msgstr "Fa data e le data ya tshebelo"
+
+msgid "Bast loop results"
+msgstr "Litsela tsa sekolo sa Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast ga e balwang"
+
+msgid "Bast repetition count"
+msgstr "Thobela ya sekolo sa Bast"
+
+msgid "Bast results hidden"
+msgstr "Litsela tsa Bast e lephologileng"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Sephutseli sa Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tebole ya Bastet"
+
+msgid "Big"
+msgstr "Motholo"
+
+msgid "Bigger"
+msgstr "Go le go kgetha"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Bua me ka kafa"
+
+msgid "Calculate"
+msgstr "Bala"
+
+msgid "Calculate Abjad"
+msgstr "Bala Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kweba Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kweba Huddam"
+
+msgid "Calculation details"
+msgstr "Detai tsa Kgwebo"
+
+msgid "Choose Keyboard Layout"
+msgstr "Kgetha Tlhabologo"
+
+msgid "Clear text box"
+msgstr "Sula Sekgoro"
+
+msgid "Click row for details"
+msgstr "Kopanya leeti bakeng sa Detai"
+
+msgid "Close Keyboard"
+msgstr "Fetoga Khabet"
+
+msgid "Closed"
+msgstr "Fetogile"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Khaula ke mohala o tlhagolokwa mme o swanetše go se feletšwe!"
+
+msgid "Dashboard"
+msgstr "Sethapati"
+
+msgid "Data entry separators:"
+msgstr "Mokgobolo wa tswalwa ya data:"
+
+msgid "Data type profile"
+msgstr "Profayela ya mofuta wa data"
+
+msgid "Dead keys"
+msgstr "Ditsholo tse di naya"
+
+msgid "Decrease keyboard size"
+msgstr "Kgaotla kgolo ya khabet"
+
+msgid "Don't calculate"
+msgstr "Se ke kweba"
+
+msgid "Duty entity name results"
+msgstr "Mphatlalatso ya maitiki a mošomo"
+
+msgid "Duty entity type"
+msgstr "Mmogo wa mošomo"
+
+msgid "Earth"
+msgstr "Setlhogo"
+
+msgid "Element classification"
+msgstr "Kgatlhopho ya moelele"
+
+msgid "Element classification method"
+msgstr "Kgatlhopho ya moelele"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Kengola mošwetšo... Arapi, Ibrani, Turki go se seba, dikgolo"
+
+msgid "Entered data"
+msgstr "Data e e kenyaletswe"
+
+msgid "Entry"
+msgstr "Kengololo"
+
+msgid "Entry letter count"
+msgstr "Kakanyo ya litlhabeng tsa Kengololo"
+
+msgid "Evil"
+msgstr "Tlotle"
+
+msgid "Fire"
+msgstr "Lelo"
+
+msgid "For entered data"
+msgstr "Fa go e le data"
+
+msgid "Frequency in Quran"
+msgstr "Kakanyo mo Kure"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibrani"
+
+msgid "Hebrew alphabet elements"
+msgstr "Dintlha tsa lebo la Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Dintlha tsa Hebrew"
+
+msgid "High"
+msgstr "Go godimo"
+
+msgid "Hija order"
+msgstr "Tsenya ya Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Mina ya Huddam e e boikaditseng"
+
+msgid "Huddam not calculated"
+msgstr "Huddam e e sa lefilweng"
+
+msgid "Iklil's order"
+msgstr "Tsenya ya Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Kakanya bokgoni jwa keyboard"
+
+msgid "Indian numbers"
+msgstr "Nomer tsa India"
+
+msgid "Interface language"
+msgstr "Letlakalelo la polelo"
+
+msgid "Let character quantity decide"
+msgstr "Bohlokwa jwa palo ya karakteri bo tla di lema"
+
+msgid "Letter count"
+msgstr "Palo ya lemo"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "O rata diprojekiti tsa me? Tlisa kopi kwa me!"
+
+msgid "Low"
+msgstr "Go tlase"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Tsenya ya Maghribian hija"
+
+msgid "Minimum"
+msgstr "Boseletso"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Polelo ya go bala nomer"
+
+msgid "Numerical values"
+msgstr "Mabala a mananeo"
+
+msgid "Open"
+msgstr "Bula"
+
+msgid "Order"
+msgstr "Tsenya"
+
+msgid "Possible phrases"
+msgstr "Pharse e e ka kgetha"
+
+msgid "Program settings"
+msgstr "Lefapha la program"
+
+msgid "Pronunciation"
+msgstr "Puo"
+
+msgid "Regular expression"
+msgstr "Ketsahalo ya mankolo"
+
+msgid "Regularly preferred classification"
+msgstr "Phologolo e e tsene e e le"
+
+msgid "Reset"
+msgstr "Setlha"
+
+msgid "Separators"
+msgstr "mabapane"
+
+msgid "Settings"
+msgstr "diphetho"
+
+msgid "Shamsee abjad order"
+msgstr "Maele a Sekai a Shamsee"
+
+msgid "Show numpad"
+msgstr "Bona numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Bona letlhabisi le sepeletsi"
+
+msgid "Small"
+msgstr "phapa"
+
+msgid "Small + letter count"
+msgstr "phapa + palo ya mola"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Khokha"
+
+msgid "Taken (letter)"
+msgstr "Afaele (mola)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Afaele (mola; abjad)"
+
+msgid "Taken Letters"
+msgstr "Moloi a Afaele"
+
+msgid "Text or number cell"
+msgstr "Letlhabisi la metsi tsa mopelele kgotsa letlhabisi la palo"
+
+msgid "Thank you for your support!"
+msgstr "Re leboga go thusa!"
+
+msgid "Total"
+msgstr "Kgolo"
+
+msgid "Turkish"
+msgstr "Turkana"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alphabet ya Turkana Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Mafungo a Alphabet ya Turkana"
+
+msgid "Turkish letters"
+msgstr "Moloi a Turkana"
+
+msgid "Undefined characters"
+msgstr "Mafungo a se ne se tlhaloganyeng"
+
+msgid "Value"
+msgstr "Bolek"
+
+msgid "Value & Detail"
+msgstr "Bolek & Lefapha"
+
+msgid "Version"
+msgstr "Phapang"
+
+msgid "Water"
+msgstr "Tšwane"
+
+msgid "When data is entered"
+msgstr "Ge faeleng di di tsenya"
+
+msgid "When reading large digits"
+msgstr "Ge o se kelela di digit di dikgolo"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad e lekanyetšego le palo ya litlhaku e latelletso"
+
+msgid "abjad() functions settings"
+msgstr "Tlhophiso tsa tsenyetso tsa abjad()"
+
+msgid "add to initial value"
+msgstr "kenya mo boleng bja pele"
+
+msgid "and"
+msgstr "le"
+
+msgid "auto calculate immediately"
+msgstr "Lekanya ka botoka ka potlakane"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Tlhophiso tsa tsenyetso tsa bastet() le nutket()"
+
+msgid "count once"
+msgstr "lekanetswa kamoo"
+
+msgid "count twice"
+msgstr "lekanetswa kakaretso"
+
+msgid "display with Arabic numbers"
+msgstr "bontša ka manomoro a Arab"
+
+msgid "display with Indian numbers"
+msgstr "bontša ka manomoro a India"
+
+msgid "do not add to initial value"
+msgstr "sa kgone go kenya mo boleng bja pele"
+
+msgid "do not force to other functions"
+msgstr "sa kgone go tlisa ka botsene go tsenyetso dingwe"
+
+msgid "do not purify"
+msgstr "sa kgone go tswetsa"
+
+msgid "force to other functions"
+msgstr "tlisa ka botsene go tsenyetso dingwe"
+
+msgid "group multiplier letters"
+msgstr "lekgolo la dipoleso tsa lephane"
+
+msgid "hide"
+msgstr "fetša"
+
+msgid "hide abjad values"
+msgstr "fetša boleng jwa abjad"
+
+msgid "hide bast results"
+msgstr "Pata ditlhaloso tsa bast"
+
+msgid "hide huddam names"
+msgstr "Pata dikgwetsa tsa huddam"
+
+msgid "huddam() function settings"
+msgstr "Tshwetso ya function ya huddam()"
+
+msgid "no bast applied."
+msgstr "Ga se lebediswa bast."
+
+msgid "no data entered"
+msgstr "Ga se tsenya data."
+
+msgid "other suffix"
+msgstr "Suffix e nngwe"
+
+msgid "purify data"
+msgstr "Netefatsa data."
+
+msgid "repeat multiplier for each digit"
+msgstr "Balang multipler bakeng sa sebaloni se sengwe le se sengwe"
+
+msgid "show"
+msgstr "Bontsha"
+
+msgid "show abjad values"
+msgstr "Bontsha boleng jwa abjad"
+
+msgid "show bast results"
+msgstr "Bontsha ditlhaloso tsa bast"
+
+msgid "show huddam names"
+msgstr "Bontsha dikgwetsa tsa huddam"
+
+msgid "suffix"
+msgstr "Suffix"
+
+msgid "times bast applied."
+msgstr "Ditshwanelo tsa bast di lebeditswe."
+
+msgid "use calculated abjad results"
+msgstr "Diri ditlhaloso tsa abjad tse di lekotsweng"
+
+msgid "use calculated abjad total"
+msgstr "Diri boleng jwa totala jwa abjad tse lekotsweng"
+
+msgid "use calculated bast results"
+msgstr "Diri ditlhaloso tsa bast tse lekotsweng"
+
+msgid "use entered data directly"
+msgstr "Diri data e e tsenyegileng ka botlalo"
+
+msgid "use entered data total"
+msgstr "Diri boleng jwa totala jwa data e e tsenyegileng"
+
+msgid "use in all bast repetitions"
+msgstr "Diri mo diphetoho tsotlhe tsa bast"
+
+msgid "use only at beginning if possible"
+msgstr "Diri fela mo ntlha ya ntlha fa go kgonega"
+
+msgid "wait for settings and data entry"
+msgstr "Emela mo tshwetso le tsenya data"
+
+msgid "Abjad Table"
+msgstr "Thabela ya Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Dintlha"
+
+msgid "Element Classification"
+msgstr "Katswalo ya Leano"
+
+msgid "Abjad Order"
+msgstr "Moelelo wa Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget ya Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Nang CSS e e diriwang go fetola mafollo a widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Nang JavaScript e e diriwang go fetola maikarabelo a widget. Go dira code e "
+"sa le mo go kgonthe widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Phoso e e tsenyeng fa e lebelwa dintlha."
+
+msgid "Button"
+msgstr "Kobojwe"
+
+msgid "Button Color"
+msgstr "Mmala oa Kobojwe"
+
+msgid "Button Emoji"
+msgstr "Emoji ea Kobojwe"
+
+msgid "Button Message"
+msgstr "Molaodi oa Kobojwe"
+
+msgid "Button Settings"
+msgstr "Ditshwanelo tsa Kobojwe"
+
+msgid "Button Type"
+msgstr "Lebo la Kobojwe"
+
+msgid "CSS saved successfully."
+msgstr "CSS e lelegile ka katleho."
+
+msgid "Check this box to activate the widget."
+msgstr "Kagela lefapha lena ho latela widget."
+
+msgid "Code Editor"
+msgstr "Monota wa code"
+
+msgid "Custom CSS"
+msgstr "CSS e e seng le setlha"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript e e seng le setlha"
+
+msgid "Description"
+msgstr "Tlhaloso"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Tsenya URL ea setshwantsho"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Mohlala: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Phela"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript e lelegile ka katleho."
+
+msgid "Left"
+msgstr "Ka lefoko"
+
+msgid "Live Preview"
+msgstr "Tlhahlobo e e moipileng"
+
+msgid "Loading..."
+msgstr "Go lebelwa..."
+
+msgid "PNG Image URL"
+msgstr "URL ea setshwantsho sa PNG"
+
+msgid "Paste SVG code"
+msgstr "Betsa code ea SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Ka kopo tsenya URL e nepahetseng."
+
+msgid "Position"
+msgstr "Moelo"
+
+msgid "Reset to Default"
+msgstr "Akaela ho Default"
+
+msgid "Right"
+msgstr "Ka borwa"
+
+msgid "SVG Code"
+msgstr "Code ea SVG"
+
+msgid "Save CSS"
+msgstr "Boloka CSS"
+
+msgid "Save JavaScript"
+msgstr "Boloka JavaScript"
+
+msgid "Save Settings"
+msgstr "Boloka Dikakanyo"
+
+msgid "Settings saved successfully."
+msgstr "Dikakanyo di boloketswe ka katlego."
+
+msgid "Style Editor"
+msgstr "Mongwe wa Mofuta"
+
+msgid "WARNING"
+msgstr "LEBONELE"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Rea go amogela! O ka latela dipatlisiso le dinyenyane tsa widget go tswa mo "
+"gare ga polelo eno."
+
+msgid "Widget Settings"
+msgstr "Dikakanyo tsa Widget"
+
+msgid "Widget Status"
+msgstr "Boemo jwa Widget"
+
+msgid "Widget active"
+msgstr "Widget e e sebetseng"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Mothopo wo o phoso wa JavaScript o ka futhola widget. Diakanyega pele go "
+"dira diphetogo."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Leina la gago la Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Diphetogo tsa gago di tla ametsa ka tsela ya go bonala ga widget. Ge o sa "
+"itse CSS, go kgothaletswe go dirisa dikakanyo tsa tlhagiso."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard ya lebepheng"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Bago ba Tlotlo le Babo ba Dipheko"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Ditlhoko tsa moho: Kanyetsitsi, e dirilweng ka mo, e nang le tlhoka ya go "
+"bonwa, le go itshwantse mo tsebo e e sa lefe. Ba ka ba le tsone tlotla e e "
+"tsitsitseng ya go batla ditlhoko tse di kene le diphato mo bophelo. "
+"Diphetoho: Babo ba tlotlo, ba bala barobo ba tarot, ba badiri ba "
+"astrological, goba batho ba bone baphatlaleng tsa New Age. Tlhalelo ya "
+"Thutelo: O ka ikanyetsa ke mo le go bonwa ga tlotlo kgotsa maikutlo a go "
+"feta. Ba ka bona diketleho jaaka tsela ya go kopanya le botho jo bo boneng "
+"le dinokeng tsa tshenyakgolo."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Babo ba Boitshwaro le Babo ba Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Ditlhoko tsa moho: Aterane, e na le boitsebi jwa dintlha, le go itshwantse "
+"mo boiphokego jwa dipalo le moelelo. Ba thabela go loketsa ditlhoko tse di "
+"diragetsweng. Diphetoho: Babo ba boitshwaro ba boiphokega, ba bapelo ka "
+"dipheko tsa dipheko, goba batho ba balang boitshwaro. Tlhalelo ya Thutelo: "
+"Ba ka akanyetsa go bona boitshwaro jaaka boiphokego jo bo le bokamoso jwa "
+"tlotlo."
+
+msgid "Historians and Linguists"
+msgstr "Babo ba Historia le Babo ba Lehloo"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Ditlhoko tsa moho: Boipuso, e na le moemong, le go itshwantse mo lekanong "
+"tsa setsi le setshwantsho tsa sistim tsa dipalo jaaka Abjad. Diphetoho: Babo"
+" ba maikemisetso, ba bapelo, goba baithuti ba ithuta dikgati tsa Borwa, "
+"historia, goba dikgale tsa tikolo. Tlhalelo ya Thutelo: O ka akanyetsa go "
+"bona diketleho fa e le bokgosi, le go kopa ka bokamoso jwa yona ya leina le "
+"go bonang le go akanya ka leina le le botlhokwa."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Babo ba Bolebelo kgotsa ba ba tsheletseng mo Tlotloleng"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Ditlhoko tsa moho: Bophahamo, moelelo, le go batla go kopanya le tlotlo ya "
+"bona. Ba ka dirisa diketleho go ithuta dikgale tsa Bolebelo kgotsa matso di "
+"lepholago. Diphetoho: Babo ba bophahamo, imams, ba badira, goba batho ba "
+"batlolo ba ba na le tsone tlotla mo dipheko tsa bona tsa tlotlo. Tlhalelo ya"
+" Thutelo: O ka akanyetsa go bona boitshwaro jo bo le setso, le go dirisa "
+"diketleho go tshwama tlotlo ya bona."
+
+msgid "Writers and Artists"
+msgstr "Ba bapelo le Babo ba Mofetlha"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Ditlhoko tsa moho: Bohlale, le boitsebi jwa bokamisa, le go itshwantse mo "
+"dikgang tsa dikatlhama kgotsa tsa boemo. Ba ka dirisa diketleho go tsaya go "
+"ikanyetsa kgotsa go oketsa dikatlhama mo mosola wa bona. Diphetoho: Babo ba "
+"go re, ba bopula, ba badiri ba go bonwa, goba ba bopula. Tlhalelo ya "
+"Thutelo: Ba ka akanyetsa go bona diketleho go tswa mo go boiphokega, go "
+"tswelela go tsa boitshwaro, le go akanyetsa tsa tlotlo."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Babo ba Plesi le Babo ba Bolelwa"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Ditlhoko tsa moho: Boamogelo, go itshwantse mo bokhamphisi, le go thabela go"
+" bapula dipotso tse di thata kgotsa go loketsa diphato. Diphetoho: Babo ba "
+"ba balang, ba boitsama, goba ba bapela. Tlhalelo ya Thutelo: O ka akanyetsa "
+"go bona diketleho fa e le bokamoso jwa go bapula kgotsa dikatlhama tsa "
+"moipelo, go se na boitswetse jo bo botlhokwa."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Babo ba Lekakanyo le Babo ba Dipheko tsa Alternatif"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Ditlhoko tsa moho: Baphatlisitša bao ba tswelela mo lekanong tsa lefelo, ba "
+"itshwantse go bona botho jwa go feta kgotsa diphato mo sistim. Diphetoho: "
+"Babo ba phatlisiso, ba blogging, goba ba batswale. Tlhalelo ya Thutelo: Ba "
+"ka akanyetsa go bona boiphokego jo bo le bo le bokamoso jwa go bona, le go "
+"dirisa diketleho go tshegetsa dipheko tsa alternatifs kgotsa lekanong."
+
+msgid "☕ Support the Project"
+msgstr "☕ Tsitsang Phulo"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ge o rata pholo ya me, o ka reka kofi!"
+
+msgid "Buy Me A Coffee"
+msgstr "Reka Me Kofi"
+
+msgid "Thank you! 🙏"
+msgstr "Ke a leboga! 🙏"

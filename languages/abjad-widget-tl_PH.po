@@ -1,0 +1,830 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tagalog <tl_PH>\n"
+"Language: tl-PH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Mga setting ng Abjad"
+
+msgid "Abjad Value"
+msgstr "Halaga ng Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard ng Abjad Widget"
+
+msgid "Abjad calculation results"
+msgstr "Mga resulta ng pagkalkula ng Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Nakatago ang mga kalkulasyon ng Abjad"
+
+msgid "Abjad not calculated"
+msgstr "Hindi nakalkula ang Abjad"
+
+msgid "Abjad order"
+msgstr "Orden ng Abjad"
+
+msgid "Add elements"
+msgstr "Magdagdag ng elemento"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Hangin"
+
+msgid "All"
+msgstr "Lahat"
+
+msgid "Arabic"
+msgstr "Arabe"
+
+msgid "Arabic letters"
+msgstr "Mga titik ng Arabe"
+
+msgid "Arabic numbers"
+msgstr "Mga numero ng Arabe"
+
+msgid "As data for operation"
+msgstr "Bilang datos para sa operasyon"
+
+msgid "Bast loop results"
+msgstr "Mga resulta ng Bast loop"
+
+msgid "Bast not calculated"
+msgstr "Hindi nakalkula ang Bast"
+
+msgid "Bast repetition count"
+msgstr "Bilang ng ulit ng Bast"
+
+msgid "Bast results hidden"
+msgstr "Nakatago ang mga resulta ng Bast"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Orden ng Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Talahanayan ng Bastet"
+
+msgid "Big"
+msgstr "Malaki"
+
+msgid "Bigger"
+msgstr "Mas malaki"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Bumili ng kape para sa akin"
+
+msgid "Calculate"
+msgstr "Kalkulahin"
+
+msgid "Calculate Abjad"
+msgstr "Kalkulahin ang Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Kalkulahin Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Kalkulahin Huddam"
+
+msgid "Calculation details"
+msgstr "Detalye ng kalkulasyon"
+
+msgid "Choose Keyboard Layout"
+msgstr "Pumili ng Layout ng Keyboard"
+
+msgid "Clear text box"
+msgstr "Tanggalin ang teksto"
+
+msgid "Click row for details"
+msgstr "I-click ang hilera para sa mga detalye"
+
+msgid "Close Keyboard"
+msgstr "Isara ang Keyboard"
+
+msgid "Closed"
+msgstr "Isinara"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Ang kuwit ay default na tagapaghiwalay at dapat manatiling naka-check!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Mga tagapaghiwalay ng pagpasok ng data:"
+
+msgid "Data type profile"
+msgstr "Profile ng uri ng data"
+
+msgid "Dead keys"
+msgstr "Dead keys"
+
+msgid "Decrease keyboard size"
+msgstr "Bawasan ang laki ng keyboard"
+
+msgid "Don't calculate"
+msgstr "Huwag kalkulahin"
+
+msgid "Duty entity name results"
+msgstr "Mga resulta ng pangalan ng entidad na may tungkulin"
+
+msgid "Duty entity type"
+msgstr "Uri ng entity na may tungkulin"
+
+msgid "Earth"
+msgstr "Daigdig"
+
+msgid "Element classification"
+msgstr "Klasipikasyon ng elemento"
+
+msgid "Element classification method"
+msgstr "Pamamaraan ng klasipikasyon ng elemento"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Ilagay ang teksto... Mga titik Arabic, Hebrew, Turkish, at mga numero"
+
+msgid "Entered data"
+msgstr "Naipasok na data"
+
+msgid "Entry"
+msgstr "Pasok"
+
+msgid "Entry letter count"
+msgstr "Bilang ng letra sa pasok"
+
+msgid "Evil"
+msgstr "Masama"
+
+msgid "Fire"
+msgstr "Ala"
+
+msgid "For entered data"
+msgstr "Para sa naipasok na datos"
+
+msgid "Frequency in Quran"
+msgstr "Kadalasan sa Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrew"
+
+msgid "Hebrew alphabet elements"
+msgstr "Mga elemento ng alpabetong Hebreo"
+
+msgid "Hebrew letters"
+msgstr "Mga titik ng Hebreo"
+
+msgid "High"
+msgstr "Mataas"
+
+msgid "Hija order"
+msgstr "Hija order"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Tagong mga pangalan ng Huddam"
+
+msgid "Huddam not calculated"
+msgstr "Hindi na-kwenta ang Huddam"
+
+msgid "Iklil's order"
+msgstr "Order ni Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Palakihin ang sukat ng keyboard"
+
+msgid "Indian numbers"
+msgstr "Mga numero ng India"
+
+msgid "Interface language"
+msgstr "Wika ng interface"
+
+msgid "Let character quantity decide"
+msgstr "Payagan ang bilang ng karakter na magpasiya"
+
+msgid "Letter count"
+msgstr "Bilang ng titik"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Mahilig ka ba sa mga proyekto ko? Bilisan mo ako ng kape!"
+
+msgid "Low"
+msgstr "Mababa"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Wika ng pagbabasa ng numero"
+
+msgid "Numerical values"
+msgstr "Mga numerong halaga"
+
+msgid "Open"
+msgstr "Buksan"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Possible phrases"
+msgstr "Posibleng parirala"
+
+msgid "Program settings"
+msgstr "Mga setting ng programa"
+
+msgid "Pronunciation"
+msgstr "Pagbigkas"
+
+msgid "Regular expression"
+msgstr "Regular expression"
+
+msgid "Regularly preferred classification"
+msgstr "Kadalasang piniling klasipikasyon"
+
+msgid "Reset"
+msgstr "I-reset"
+
+msgid "Separators"
+msgstr "Mga tagapaghiwalay"
+
+msgid "Settings"
+msgstr "Mga setting"
+
+msgid "Shamsee abjad order"
+msgstr "Sunod ng abjad ng Shamsee"
+
+msgid "Show numpad"
+msgstr "Ipakita ang numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Ipakita ang virtual na keyboard"
+
+msgid "Small"
+msgstr "Maliit"
+
+msgid "Small + letter count"
+msgstr "Maliit + bilang ng titik"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Suporta"
+
+msgid "Taken (letter)"
+msgstr "Kinuha (titik)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Kinuha (titik; abjad)"
+
+msgid "Taken Letters"
+msgstr "Mga Kinuha na Titik"
+
+msgid "Text or number cell"
+msgstr "Selyo ng teksto o numero"
+
+msgid "Thank you for your support!"
+msgstr "Salamat sa iyong suporta!"
+
+msgid "Total"
+msgstr "Kabuuan"
+
+msgid "Turkish"
+msgstr "Turko"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad ng Alpabetong Turko"
+
+msgid "Turkish alphabet elements"
+msgstr "Mga elemento ng alpabetong Turko"
+
+msgid "Turkish letters"
+msgstr "Mga titik ng Turko"
+
+msgid "Undefined characters"
+msgstr "Hindi tinukoy na mga karakter"
+
+msgid "Value"
+msgstr "Halaga"
+
+msgid "Value & Detail"
+msgstr "Halaga & Detalye"
+
+msgid "Version"
+msgstr "Bersyon"
+
+msgid "Water"
+msgstr "Tubig"
+
+msgid "When data is entered"
+msgstr "Kapag naipasok ang datos"
+
+msgid "When reading large digits"
+msgstr "Kapag nagbabasa ng malalaking numero"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad na-calculated at nadagdagan ang bilang ng mga letra"
+
+msgid "abjad() functions settings"
+msgstr "abjad() mga setting ng function"
+
+msgid "add to initial value"
+msgstr "idagdag sa paunang halaga"
+
+msgid "and"
+msgstr "at"
+
+msgid "auto calculate immediately"
+msgstr "auto kalkulahin agad"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() at nutket() mga setting ng function"
+
+msgid "count once"
+msgstr "bilang isang beses"
+
+msgid "count twice"
+msgstr "bilang dalawang beses"
+
+msgid "display with Arabic numbers"
+msgstr "ipakita gamit ang Arabic na numero"
+
+msgid "display with Indian numbers"
+msgstr "ipakita gamit ang Indian na numero"
+
+msgid "do not add to initial value"
+msgstr "huwag idagdag sa paunang halaga"
+
+msgid "do not force to other functions"
+msgstr "huwag pilitin sa iba pang mga function"
+
+msgid "do not purify"
+msgstr "huwag linisin"
+
+msgid "force to other functions"
+msgstr "pilitin sa ibang function"
+
+msgid "group multiplier letters"
+msgstr "grupo ng mga letra multiplier"
+
+msgid "hide"
+msgstr "itago"
+
+msgid "hide abjad values"
+msgstr "itago ang mga abjad values"
+
+msgid "hide bast results"
+msgstr "Itago ang mga resulta ng bast"
+
+msgid "hide huddam names"
+msgstr "Itago ang mga pangalan ng huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() function settings"
+
+msgid "no bast applied."
+msgstr "walang bast na inilapat."
+
+msgid "no data entered"
+msgstr "walang data na naipasok"
+
+msgid "other suffix"
+msgstr "ibang suffix"
+
+msgid "purify data"
+msgstr "linisin ang data"
+
+msgid "repeat multiplier for each digit"
+msgstr "ulitin ang multiplier para sa bawat digit"
+
+msgid "show"
+msgstr "ipakita"
+
+msgid "show abjad values"
+msgstr "ipakita ang mga abjad values"
+
+msgid "show bast results"
+msgstr "ipakita ang mga resulta ng bast"
+
+msgid "show huddam names"
+msgstr "ipakita ang mga pangalan ng huddam"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "Bast na ilapat nang ilang beses."
+
+msgid "use calculated abjad results"
+msgstr "gamitin ang na-kalkulang abjad results"
+
+msgid "use calculated abjad total"
+msgstr "gamitin ang na-kalkulang abjad total"
+
+msgid "use calculated bast results"
+msgstr "gamitin ang na-kalkulang bast results"
+
+msgid "use entered data directly"
+msgstr "gamitin ang naipasok na data nang direkta"
+
+msgid "use entered data total"
+msgstr "gamitin ang kabuuan ng naipasok na data"
+
+msgid "use in all bast repetitions"
+msgstr "gamitin sa lahat ng bast repetitions"
+
+msgid "use only at beginning if possible"
+msgstr "gamitin lamang sa simula kung maaari"
+
+msgid "wait for settings and data entry"
+msgstr "hintayin ang settings at pagpasok ng data"
+
+msgid "Abjad Table"
+msgstr "Abjad Table"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Detalye"
+
+msgid "Element Classification"
+msgstr "Klasipikasyon ng Elemento"
+
+msgid "Abjad Order"
+msgstr "Abjad Order"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Magdagdag ng custom CSS upang i-customize ang itsura ng widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Magdagdag ng custom JavaScript upang baguhin ang pag-uugali ng widget. Ang "
+"maling code ay maaaring sirain ang widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Nagkaroon ng error habang naglo-load ng nilalaman."
+
+msgid "Button"
+msgstr "Button"
+
+msgid "Button Color"
+msgstr "Kulay ng Button"
+
+msgid "Button Emoji"
+msgstr "Emoji ng Button"
+
+msgid "Button Message"
+msgstr "Mensahe ng Button"
+
+msgid "Button Settings"
+msgstr "Mga Setting ng Button"
+
+msgid "Button Type"
+msgstr "Uri ng Button"
+
+msgid "CSS saved successfully."
+msgstr "CSS na na-save nang matagumpay."
+
+msgid "Check this box to activate the widget."
+msgstr "I-check ang kahon na ito upang i-activate ang widget."
+
+msgid "Code Editor"
+msgstr "Editor ng Code"
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+msgid "Description"
+msgstr "Deskripsyon"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Ilagay ang URL ng larawan"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Halimbawa: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Pangkalahatan"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript na na-save nang matagumpay."
+
+msgid "Left"
+msgstr "Kaliwa"
+
+msgid "Live Preview"
+msgstr "Live Preview"
+
+msgid "Loading..."
+msgstr "Naglo-load..."
+
+msgid "PNG Image URL"
+msgstr "URL ng PNG Image"
+
+msgid "Paste SVG code"
+msgstr "I-paste ang SVG code"
+
+msgid "Please enter a valid URL."
+msgstr "Mangyaring maglagay ng tamang URL."
+
+msgid "Position"
+msgstr "Posisyon"
+
+msgid "Reset to Default"
+msgstr "I-reset sa Default"
+
+msgid "Right"
+msgstr "Kanan"
+
+msgid "SVG Code"
+msgstr "SVG Code"
+
+msgid "Save CSS"
+msgstr "I-save ang CSS"
+
+msgid "Save JavaScript"
+msgstr "I-save ang JavaScript"
+
+msgid "Save Settings"
+msgstr "I-save ang Settings"
+
+msgid "Settings saved successfully."
+msgstr "Matagumpay na na-save ang Settings."
+
+msgid "Style Editor"
+msgstr "Editor ng Estilo"
+
+msgid "WARNING"
+msgstr "BABALA"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Maligayang pagdating! Maaari mong sundan ang mga balita at anunsyo ng widget"
+" mula sa panel na ito."
+
+msgid "Widget Settings"
+msgstr "Mga Setting ng Widget"
+
+msgid "Widget Status"
+msgstr "Kalagayan ng Widget"
+
+msgid "Widget active"
+msgstr "Widget aktibo"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Ang maling JavaScript code ay maaaring sirain ang widget. Gumawa ng backup "
+"bago magbago."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Ang iyong Buy Me a Coffee username"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Ang iyong mga pagbabago ay direktang makaaapekto sa hitsura ng widget. Kung "
+"hindi mo alam ang CSS, inirerekomenda na gamitin ang default settings."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Lokal na Dashboard"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Mga Nanghahanap ng Espirituwal at Mistiko"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Katangian ng personalidad: Mapagkumpitensya, introspektibo, bukas na isipan,"
+" at nakakaakit sa esoterikong kaalaman. Maaaring may matinding interes na "
+"tuklasin ang nakatagong kahulugan o pattern sa buhay. Trabaho: Mga "
+"espirituwal na tagapayo, tagabasa ng tarot, mga astrologo, o mga indibidwal "
+"na kasali sa New Age na mga gawain. Spektrum na ideolohikal: Malamang na "
+"magtungo sa espirituwal o metaphysical na paniniwala. Maaaring makita nila "
+"ang mga kasangkapan bilang paraan upang kumonekta sa mas malalim na "
+"katotohanan o sa unibersal na enerhiya."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Mga Numerologo at Hilig sa Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Katangian ng personalidad: Analitiko, detalyadong nakatuon, at nahuhumaling "
+"sa ugnayan ng mga numero at wika. Maaaring mag-enjoy sa pag-decoder ng mga "
+"simbolikong kahulugan. Trabaho: Mga freelance numerologo, mga manunulat "
+"tungkol sa esoterikong paksa, o mga hobbyist na nag-eexplore ng "
+"numerolohiya. Spektrum na ideolohikal: Maaaring mag-iba mula sa mga nakikita"
+" ang numerolohiya bilang isang nakakatuwang intelektwal na ehersisyo "
+"hanggang sa mga naniniwala sa malalim na espirituwal na kahalagahan."
+
+msgid "Historians and Linguists"
+msgstr "Mga Historista at Linggwista"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Katangian ng personalidad: Akademiko, metodikal, at interesado sa historikal"
+" o kulturang konteksto ng mga numerikal na sistema gaya ng Abjad. Trabaho: "
+"Mga akademiko, mananaliksik, o mag-aaral na nag-aaral ng mga wika ng Gitnang"
+" Silangan, kasaysayan, o mga relihiyosong teksto. Spektrum na ideolohikal: "
+"Malamang na lapitan ang mga kasangkapan mula sa isang sekular, akademikong "
+"pananaw, na nakatuon sa kanilang historikal o lingguwistikong kahalagahan."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Mga Indibidwal na Relihiyoso o May Pananampalataya"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Katangian ng personalidad: Tapat, mapanuring, at naghahanap ng mas malalim "
+"na koneksyon sa kanilang pananampalataya. Maaaring gamitin ang mga "
+"kasangkapan upang tuklasin ang mga relihiyosong teksto o mga banal na "
+"mensahe. Trabaho: Mga iskolar na relihiyoso, imam, pari, o mga laypeople na "
+"may malakas na interes sa mistikal na tradisyon ng kanilang pananampalataya."
+" Spektrum na ideolohikal: Malamang na may tradisyunal o konserbatibong "
+"pananaw sa mundo, gamit ang mga kasangkapan upang patibayin ang kanilang "
+"espirituwal na paniniwala."
+
+msgid "Writers and Artists"
+msgstr "Mga Manunulat at Manggagawa"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Katangian ng personalidad: Malikhain, malikhain, at nakakaakit sa "
+"simbolikong o abstract na konsepto. Maaaring gamitin ang mga kasangkapan "
+"para sa inspirasyon o upang magdagdag ng mga layer ng kahulugan sa kanilang "
+"trabaho. Trabaho: Mga awtor, makata, biswal na artista, o musikero. Spektrum"
+" na ideolohikal: Maaaring mag-iba mula sa mga sekular na malikhaing "
+"indibidwal hanggang sa mga may espirituwal o mistikal na kagustuhan."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Mga Hilig sa Puzzle at Riddle"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Katangian ng personalidad: Mapaglaro, intelektwal na masigasig, at nag-"
+"eenjoy sa paglutas ng mga komplikadong problema o pag-decoder ng mga "
+"pattern. Trabaho: Mga hobbyist, designer ng puzzle, o edukador. Spektrum na "
+"ideolohikal: Malamang na lapitan ang mga kasangkapan bilang isang anyo ng "
+"libangan o mental na ehersisyo, na may kaunting ideolohikal na pag-attach."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Mga Teorista ng Komplotasyon at Alternatibong Nag-iisip"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Katangian ng personalidad: Skeptikal sa mainstream na naratibo, nakakaakit "
+"sa pag-ukol ng mga nakatagong katotohanan o pattern sa mga sistema. Trabaho:"
+" Independent researchers, bloggers, o mga activist. Spektrum na ideolohikal:"
+" Maaaring magkaroon ng mas radikal o hindi pangkaraniwang pananaw, gamit ang"
+" mga kasangkapan upang suportahan ang alternatibong teorya o naratibo."
+
+msgid "☕ Support the Project"
+msgstr "☕ Suportahan ang Proyekto"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Kung gusto mo ang aking proyekto, maaari mo akong bigyan ng kape!"
+
+msgid "Buy Me A Coffee"
+msgstr "Bumili Ng Kape Para Sa Akin"
+
+msgid "Thank you! 🙏"
+msgstr "Salamat! 🙏"

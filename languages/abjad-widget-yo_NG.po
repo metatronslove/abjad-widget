@@ -1,0 +1,813 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Yoruba <yo_NG>\n"
+"Language: yo-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Iṣeto Abjad"
+
+msgid "Abjad Value"
+msgstr "Iye Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Iṣakoso Widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Abjad Abajọ́"
+
+msgid "Abjad calculations hidden"
+msgstr "Ìṣirò Abjad Kọ́"
+
+msgid "Abjad not calculated"
+msgstr "Abjad kò ṣe"
+
+msgid "Abjad order"
+msgstr "Ìtòsọ́nà Abjad"
+
+msgid "Add elements"
+msgstr "Fikun-un àwọn ohun"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Afẹfẹ"
+
+msgid "All"
+msgstr "Gbogbo"
+
+msgid "Arabic"
+msgstr "Arábi"
+
+msgid "Arabic letters"
+msgstr "Àkọsílẹ̀ Arábi"
+
+msgid "Arabic numbers"
+msgstr "Nọ́mbà Arábi"
+
+msgid "As data for operation"
+msgstr "Gẹ́gẹ́ bí data fún iṣẹ́"
+
+msgid "Bast loop results"
+msgstr "Abajọ̀ Bast Loop"
+
+msgid "Bast not calculated"
+msgstr "Bast kò ṣe"
+
+msgid "Bast repetition count"
+msgstr "Iye àtẹ̀sí Bast"
+
+msgid "Bast results hidden"
+msgstr "Abajọ̀ Bast Kọ́"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Ìtòsọ́nà Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet tabili"
+
+msgid "Big"
+msgstr "Gíga"
+
+msgid "Bigger"
+msgstr "Ìdàgbàsókè"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Ra mi kọfi"
+
+msgid "Calculate"
+msgstr "Ṣèwò"
+
+msgid "Calculate Abjad"
+msgstr "Ṣèwò Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Ṣiṣiro Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Ṣiṣiro Huddam"
+
+msgid "Calculation details"
+msgstr "Àlàyé iṣiro"
+
+msgid "Choose Keyboard Layout"
+msgstr "Yan àkọ́lé bọtini"
+
+msgid "Clear text box"
+msgstr "Pa apoti ọrọ"
+
+msgid "Click row for details"
+msgstr "Tẹ ila fún àlàyé"
+
+msgid "Close Keyboard"
+msgstr "Pa bọtini"
+
+msgid "Closed"
+msgstr "Ti pa"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Ìyẹ̀ jẹ́ aláyèyọ́ àtúnṣe àkọ́kọ́, kí o sì dúró ṣinṣin!"
+
+msgid "Dashboard"
+msgstr "Ẹ̀rọ àkọsílẹ̀"
+
+msgid "Data entry separators:"
+msgstr "Àpẹẹrẹ àkóónú data:"
+
+msgid "Data type profile"
+msgstr "Profaili orí data"
+
+msgid "Dead keys"
+msgstr "Bọtini kú"
+
+msgid "Decrease keyboard size"
+msgstr "Kó méje àwọ̀n bọtini"
+
+msgid "Don't calculate"
+msgstr "Ma ṣe iṣiro"
+
+msgid "Duty entity name results"
+msgstr "Àbájáde orúkọ ohun-ìṣàkóso"
+
+msgid "Duty entity type"
+msgstr "Iru ohun-ìṣàkóso"
+
+msgid "Earth"
+msgstr "Ilẹ̀"
+
+msgid "Element classification"
+msgstr "Ìtọ́kasí ohun-elo"
+
+msgid "Element classification method"
+msgstr "Ọna ìtọ́kasí ohun-elo"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Tẹ̀ ọrọ̀... Àwọn lẹ́tà Àràbì, Ibi, Túrùkì, àti nọ́mbà"
+
+msgid "Entered data"
+msgstr "Data tó wọlé"
+
+msgid "Entry"
+msgstr "Ìwọlé"
+
+msgid "Entry letter count"
+msgstr "Iwọn lẹ́tà ìwọlé"
+
+msgid "Evil"
+msgstr "Bíi"
+
+msgid "Fire"
+msgstr "Agbọn"
+
+msgid "For entered data"
+msgstr "Fun data tó wọlé"
+
+msgid "Frequency in Quran"
+msgstr "Ìdárayá ní Kuran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibi"
+
+msgid "Hebrew alphabet elements"
+msgstr "Àwọn eroja alfabẹ Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Àwọn lẹta Hebrew"
+
+msgid "High"
+msgstr "Gíga"
+
+msgid "Hija order"
+msgstr "Ìtòlẹ́pẹ̀ Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Àkọlé Huddam tó wà ní ìpamọ̀"
+
+msgid "Huddam not calculated"
+msgstr "Huddam kò ṣe àyẹ̀wò"
+
+msgid "Iklil's order"
+msgstr "Ìtòlẹ́pẹ̀ Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Ìdíkun àgbègbè bọtini"
+
+msgid "Indian numbers"
+msgstr "Nọ́mbà India"
+
+msgid "Interface language"
+msgstr "Èdè ibùdó"
+
+msgid "Let character quantity decide"
+msgstr "Jẹ́ kí iye ohun kikọ́ pinnu"
+
+msgid "Letter count"
+msgstr "Ìṣirò lẹ́tà"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ṣe o fẹ́ iṣẹ́ mi? Ra mi kofi!"
+
+msgid "Low"
+msgstr "Kékèké"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Mínimù"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Èdè kika nọ́mbà"
+
+msgid "Numerical values"
+msgstr "Àwọn àkópọ̀ nọ́mbà"
+
+msgid "Open"
+msgstr "Ṣí"
+
+msgid "Order"
+msgstr "Ìtòlẹ́pẹ̀"
+
+msgid "Possible phrases"
+msgstr "Àwọn gbolohun àyíká"
+
+msgid "Program settings"
+msgstr "Ìtòlẹ́pẹ̀ eto"
+
+msgid "Pronunciation"
+msgstr "Ìtúmọ̀ ọrọ̀"
+
+msgid "Regular expression"
+msgstr "Ìpẹ̀yà àtúnṣe"
+
+msgid "Regularly preferred classification"
+msgstr "Ìtòlẹ́pẹ̀ tí a fẹ́ lọ́pọ̀"
+
+msgid "Reset"
+msgstr "Bọ́lẹ̀"
+
+msgid "Separators"
+msgstr "Awọn apara"
+
+msgid "Settings"
+msgstr "Awọn eto"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad order"
+
+msgid "Show numpad"
+msgstr "Ṣafihan numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Ṣafihan bọtini foju"
+
+msgid "Small"
+msgstr "Kekere"
+
+msgid "Small + letter count"
+msgstr "Kekere + nọmba lẹ́tà"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Atilẹyin"
+
+msgid "Taken (letter)"
+msgstr "Ti gba (ọ̀rọ̀ lẹ́tà)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Ti gba (ọ̀rọ̀ lẹ́tà; abjad)"
+
+msgid "Taken Letters"
+msgstr "Ti gba Awọn lẹ́tà"
+
+msgid "Text or number cell"
+msgstr "Ìpò ọrọ̀ tàbí nọmba"
+
+msgid "Thank you for your support!"
+msgstr "A dúpẹ́ fún àtilẹyin rẹ!"
+
+msgid "Total"
+msgstr "Lapapọ"
+
+msgid "Turkish"
+msgstr "Turiki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alphabẹti Abjad Turiki"
+
+msgid "Turkish alphabet elements"
+msgstr "Àwọn apá alfabẹti Turiki"
+
+msgid "Turkish letters"
+msgstr "Awọn lẹ́tà Turiki"
+
+msgid "Undefined characters"
+msgstr "Awọn ohun kikọ ti ko ṣàlàyé"
+
+msgid "Value"
+msgstr "Iye"
+
+msgid "Value & Detail"
+msgstr "Iye & alaye"
+
+msgid "Version"
+msgstr "Ìpele"
+
+msgid "Water"
+msgstr "Omi"
+
+msgid "When data is entered"
+msgstr "Nígbà tí a bá fi data sílẹ̀"
+
+msgid "When reading large digits"
+msgstr "Nígbà tí a ń ka àkúnya tó ńlá"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad ti a ṣe iṣiro ati ka nọmba lẹta ti a fi kun"
+
+msgid "abjad() functions settings"
+msgstr "abjad() eto iṣẹ"
+
+msgid "add to initial value"
+msgstr "fi kun iye ibẹrẹ"
+
+msgid "and"
+msgstr "ati"
+
+msgid "auto calculate immediately"
+msgstr "ṣiro aifọwọyi lẹsẹkẹsẹ"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ati nutket() eto iṣẹ"
+
+msgid "count once"
+msgstr "ka lẹẹkan"
+
+msgid "count twice"
+msgstr "ka lẹẹmeji"
+
+msgid "display with Arabic numbers"
+msgstr "fihan pẹlu awọn nọmba Arabic"
+
+msgid "display with Indian numbers"
+msgstr "fihan pẹlu awọn nọmba Indian"
+
+msgid "do not add to initial value"
+msgstr "ma ṣe fi kun iye ibẹrẹ"
+
+msgid "do not force to other functions"
+msgstr "maṣe fi agbara mu awọn iṣẹ miiran"
+
+msgid "do not purify"
+msgstr "ma ṣe ṣeduro"
+
+msgid "force to other functions"
+msgstr "fi agbara mu awọn iṣẹ miiran"
+
+msgid "group multiplier letters"
+msgstr "akọkọ awọn lẹta onigbọwọ"
+
+msgid "hide"
+msgstr "pa a"
+
+msgid "hide abjad values"
+msgstr "pa awọn iye abjad"
+
+msgid "hide bast results"
+msgstr "tago awọn esi bast"
+
+msgid "hide huddam names"
+msgstr "tago orukọ huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() eto iṣẹ"
+
+msgid "no bast applied."
+msgstr "kò si bast tó lo."
+
+msgid "no data entered"
+msgstr "kò sí data tó tẹ̀sí"
+
+msgid "other suffix"
+msgstr "ìpẹ̀yà mìíràn"
+
+msgid "purify data"
+msgstr "yẹ̀ data"
+
+msgid "repeat multiplier for each digit"
+msgstr "tún ṣe àfikún fún ọkọ́ kọọkan"
+
+msgid "show"
+msgstr "fi hàn"
+
+msgid "show abjad values"
+msgstr "fi awọn iye abjad hàn"
+
+msgid "show bast results"
+msgstr "fi awọn abajade bast hàn"
+
+msgid "show huddam names"
+msgstr "fi orukọ huddam hàn"
+
+msgid "suffix"
+msgstr "ìpẹ̀yà"
+
+msgid "times bast applied."
+msgstr "gbogbo igba ti a lo bast."
+
+msgid "use calculated abjad results"
+msgstr "lò awọn abajade abjad tí a ṣe àgbékalẹ̀"
+
+msgid "use calculated abjad total"
+msgstr "lò apapọ abjad tí a ṣe àgbékalẹ̀"
+
+msgid "use calculated bast results"
+msgstr "lò awọn abajade bast tí a ṣe àgbékalẹ̀"
+
+msgid "use entered data directly"
+msgstr "lò data tó tẹ̀sí taara"
+
+msgid "use entered data total"
+msgstr "lò apapọ data tó tẹ̀sí"
+
+msgid "use in all bast repetitions"
+msgstr "lò ní gbogbo àtẹ́yẹ̀ bast"
+
+msgid "use only at beginning if possible"
+msgstr "lò ní aiyẹ̀bá ti o bá ṣeeṣe"
+
+msgid "wait for settings and data entry"
+msgstr "dákẹ́ dúró fún awọn eto àti titẹ data"
+
+msgid "Abjad Table"
+msgstr "Tabili Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Alaye"
+
+msgid "Element Classification"
+msgstr "Ẹ̀ka Ẹ̀yà"
+
+msgid "Abjad Order"
+msgstr "Àtòjọ Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Ṣafikun CSS aládáyé lati ṣe àtúnṣe irisi widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Ṣafikun JavaScript aládáyé lati ṣe àtúnṣe ìṣe widget. Koodu aṣiṣe le fa "
+"widget baje!"
+
+msgid "An error occurred while loading content."
+msgstr "Aṣiṣe kan ṣẹlẹ lakoko gbigba akoonu."
+
+msgid "Button"
+msgstr "Bọtini"
+
+msgid "Button Color"
+msgstr "Awọ Bọtini"
+
+msgid "Button Emoji"
+msgstr "Emoji Bọtini"
+
+msgid "Button Message"
+msgstr "Ifiranṣẹ Bọtini"
+
+msgid "Button Settings"
+msgstr "Eto Bọtini"
+
+msgid "Button Type"
+msgstr "Iru Bọtini"
+
+msgid "CSS saved successfully."
+msgstr "CSS ti fipamọ pẹlu aṣeyọri."
+
+msgid "Check this box to activate the widget."
+msgstr "Ṣayẹwo apoti yii lati muu ẹrọ ṣiṣẹ."
+
+msgid "Code Editor"
+msgstr "Alakoso Koodu"
+
+msgid "Custom CSS"
+msgstr "CSS Aṣa"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Aṣa"
+
+msgid "Description"
+msgstr "Apejuwe"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Tẹ URL aworan"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Àpẹẹrẹ: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Gbogbo"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ti fipamọ pẹlu aṣeyọri."
+
+msgid "Left"
+msgstr "Apa osi"
+
+msgid "Live Preview"
+msgstr "Ifihan laaye"
+
+msgid "Loading..."
+msgstr "Nilo..."
+
+msgid "PNG Image URL"
+msgstr "URL Aworan PNG"
+
+msgid "Paste SVG code"
+msgstr "Daakọ Koodu SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Jọwọ tẹ URL to dara."
+
+msgid "Position"
+msgstr "Ipo"
+
+msgid "Reset to Default"
+msgstr "Tun ṣeto si Aiyipada"
+
+msgid "Right"
+msgstr "Apa otun"
+
+msgid "SVG Code"
+msgstr "Koodu SVG"
+
+msgid "Save CSS"
+msgstr "Fipamọ CSS"
+
+msgid "Save JavaScript"
+msgstr "Fipamọ JavaScript"
+
+msgid "Save Settings"
+msgstr "Fipamọ Eto"
+
+msgid "Settings saved successfully."
+msgstr "Eto ti fipamọ ni aṣeyọri."
+
+msgid "Style Editor"
+msgstr "Ṣatunkọ Àpẹrẹ"
+
+msgid "WARNING"
+msgstr "ÌKÍNÌ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Kaabo! O le tẹle iroyin widget ati awọn iroyin ikede lati panẹli yii."
+
+msgid "Widget Settings"
+msgstr "Eto Widget"
+
+msgid "Widget Status"
+msgstr "Ipo Widget"
+
+msgid "Widget active"
+msgstr "Widget ṣiṣẹ́"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Koodu JavaScript ti ko tọ le fọ widget. Pa àpamọ ṣaaju ki o to ṣe ayipada."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Orukọ olumulo Buy Me a Coffee rẹ"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Ayipada rẹ yoo ni ipa taara lori iwo widget. Ti o ko ba mọ CSS, o dara lati "
+"lo awọn eto aiyipada."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard Agbegbe"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Alákọ̀ọ́rọ̀ Ọlọ́run àti Aláìlera"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Àwọn àkúnya: Olùkọ́rin, tó ń ṣàkíyèsí ara rẹ, ṣí ọkàn, àti tó ń tọ́ sí ìmọ̀ "
+"ìtàn tó yàtọ̀. Wọ́n lè ní ìfẹ́ tó lágbára sí ìwáàlẹ̀ ìtumọ̀ tàbí àpẹẹrẹ tó "
+"wà lórí ayé. Iṣẹ́: Ọ̀kọ́ olùkọ́ Spiritual, olùkàtarot, astrologers, tàbí "
+"àwọn tó kópa nínú ìdákọ̀sọ̀ New Age. Àyíká ìgbọ́ran: O lè ní àfọ̀mọ́ sí "
+"ìgbọ́ran spiritual tàbí metaphysical. Wọ́n lè rí àwọn irinṣẹ́ gẹ́gẹ́ bí ọ̀nà"
+" tó lè so pọ̀ mọ́ ìtàn tó gùdọ̀tàbí agbára gbogbo."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Alákòóso nọ́mbà àti Àwọn Olùfẹ́ Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Àwọn àkúnya: Ọ̀nà àkúnya, tó ń wò àdéhùn, àti tí ń fẹ́ràn ìbáṣepọ̀ láàárín "
+"nọ́mbà àti èdè. Wọ́n lè rí ìtẹ́lẹ̀ ìtumọ̀ àfihàn. Iṣẹ́: Alákòóso nọ́mbà "
+"arìnrìn, onkọwe nípa àkọsílẹ̀ àìmọ̀, tàbí àwọn tó ń ṣàwárí numerology. Àyíká"
+" ìgbọ́ran: O lè yàtọ̀ sí ìtọ́kasí numerology gẹ́gẹ́ bí eré ìdárayá sí ìdílé "
+"tó gùdọ̀tàbí ìtàn ẹ̀sìn."
+
+msgid "Historians and Linguists"
+msgstr "Akọ́we Àtòjọ́ àti Èdè"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Àwọn àkúnya: Alákọ̀ọ́kọ́, tó ń ṣọ̀rọ̀, àti tó nífẹ̀ẹ́ sí àkọsílẹ̀ àtijọ́ "
+"tàbí àṣà tí ó wúlò fún àwọn eto nọ́mbà bí Abjad. Iṣẹ́: Akẹ́kọ̀ọ́, olùṣàkóso,"
+" tàbí ọmọwé tó ń kẹ́kọ̀ọ́ èdè àrà Yúróòpù, ìtàn, tàbí ìwé ìjọsìn. Àyíká "
+"ìgbọ́ran: O lè ṣíṣe sí àyíká àìlera, àkópọ̀ ìtàn, àti ìtumọ̀ èdè."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Alákòóso Ẹ̀sìn tàbí Ẹ̀tọ́"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Àwọn àkúnya: Olùkúnrẹ́, tó ń ròyìn, àti tó ń wá ìbáṣepọ̀ tó jinlẹ̀ sí ẹ̀sìn "
+"wọn. Wọ́n lè lo awọn irinṣẹ́ láti ṣàwárí ìwé ìjọsìn tàbí ìtàn ọ̀run. Iṣẹ́: "
+"Olùkọ́ ẹ̀sìn, ìmámẹ́sìn, alájọsọ, tàbí àfọ̀rọ̀ọ̀rọ̀ tó ní ìfẹ́ tó lágbára sí"
+" àṣà àìlera. Àyíká ìgbọ́ran: O lè ní ìyípadà ìmọ̀ àkúnya tàbí ìfẹ́ sí ìkànsí"
+" àjọyọ̀."
+
+msgid "Writers and Artists"
+msgstr "Onkọwe àti Oníṣé"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Àwọn àkúnya: Alágbára, títóhùn, àti tó ń tọ́ sí àfihàn àyíká àyíká. Wọ́n lè "
+"lo awọn irinṣẹ́ fún ìmúlòrúkọ tàbí láti ṣàfikún àkọsílẹ̀ sí iṣẹ́ wọn. Iṣẹ́: "
+"Alágbáyé, oǹkọwe, oníṣé àwòrán, tàbí oní orin. Àyíká ìgbọ́ran: O lè yàtọ̀ sí"
+" àṣà àìlera sí àṣà àìlera."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Onífẹ́fẹ́ Àyọ̀ àkọ́rọ̀"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Àwọn àkúnya: Alábòfin, tó ń kó àkọ́kọ́, àti tó ń rí ìbáṣepọ̀ tó wúlò sí "
+"ìṣòro àtọkànwá tàbí ìtẹ́sí àpẹẹrẹ. Iṣẹ́: Alákòsọ àyọ̀, oníṣé puzzle, tàbí "
+"olùkọ́. Àyíká ìgbọ́ran: O lè rò pé awọn irinṣẹ́ jẹ́ ọ̀nà ìtẹ́lẹ̀ àti "
+"ìdárayá, àìlera tó yá."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Oníṣàkóso àfihàn àti Ọ̀rọ̀ àyíká"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Àwọn àkúnya: Aláyọ̀ tó ń ṣàyẹwo àkọ́kọ́ àgbáyé, tó ń tọ́ sí ìtàn tó yàtọ̀ "
+"tàbí àpẹẹrẹ nínú àpẹẹrẹ. Iṣẹ́: Olùṣàkóso tó yá, olùkàtàbí, tàbí olùdámọ̀. "
+"Àyíká ìgbọ́ran: O lè ní ìmọ̀ àtọ́ka tó yá, àjọyọ̀ sí àtọka àìlera tàbí "
+"àkànṣe."
+
+msgid "☕ Support the Project"
+msgstr "☕ Ṣe atilẹyin iṣẹ́"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Tí o bá fẹ́ iṣẹ́ mi, o lè ra kọfi fún mi!"
+
+msgid "Buy Me A Coffee"
+msgstr "Ra mi kọfi"
+
+msgid "Thank you! 🙏"
+msgstr "O ṣeun! 🙏"

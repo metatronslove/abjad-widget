@@ -1,0 +1,804 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Wolof <wo_SN>\n"
+"Language: wo-SN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Bëgg Abjad"
+
+msgid "Abjad Value"
+msgstr "Bépp Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Dashboard Widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Résultat Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad àllé"
+
+msgid "Abjad not calculated"
+msgstr "Abjad àllé"
+
+msgid "Abjad order"
+msgstr "Sari Abjad"
+
+msgid "Add elements"
+msgstr "Maaññëkk jox"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Sikke"
+
+msgid "All"
+msgstr "Kuuy"
+
+msgid "Arabic"
+msgstr "Arap"
+
+msgid "Arabic letters"
+msgstr "Mawut Arap"
+
+msgid "Arabic numbers"
+msgstr "Numbaru Arap"
+
+msgid "As data for operation"
+msgstr "Ci data ci daccu"
+
+msgid "Bast loop results"
+msgstr "Résultat Bast loop"
+
+msgid "Bast not calculated"
+msgstr "Bast àllé"
+
+msgid "Bast repetition count"
+msgstr "Njàng Bast"
+
+msgid "Bast results hidden"
+msgstr "Bast àllé"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Sari Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Table Bastet"
+
+msgid "Big"
+msgstr "Jëmm"
+
+msgid "Bigger"
+msgstr "Jëmm ci"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Baax na ma ci kaw"
+
+msgid "Calculate"
+msgstr "Sey"
+
+msgid "Calculate Abjad"
+msgstr "Sey Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Sëggëlu Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Sëggëlu Huddam"
+
+msgid "Calculation details"
+msgstr "Jàmm yi ngir jàngal"
+
+msgid "Choose Keyboard Layout"
+msgstr "Topp xalaal keyboard"
+
+msgid "Clear text box"
+msgstr "Sapp tekki bi"
+
+msgid "Click row for details"
+msgstr "Mën ci jàmm yi"
+
+msgid "Close Keyboard"
+msgstr "Jëfandik keyboard"
+
+msgid "Closed"
+msgstr "Jëf"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Ñoom mooy defu ñu, def ci jëkk ci bëru!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Def ci xalaal yi:"
+
+msgid "Data type profile"
+msgstr "Profile bi ci jàmmu"
+
+msgid "Dead keys"
+msgstr "Tépp yu ci ànd"
+
+msgid "Decrease keyboard size"
+msgstr "Tëkk xalaal keyboard bi"
+
+msgid "Don't calculate"
+msgstr "Mañ naa bëgg jàngal"
+
+msgid "Duty entity name results"
+msgstr "Njàng ci yoon wi"
+
+msgid "Duty entity type"
+msgstr "Téere ci yoon wi"
+
+msgid "Earth"
+msgstr "Géé"
+
+msgid "Element classification"
+msgstr "Képpé gi"
+
+msgid "Element classification method"
+msgstr "Métod bi ci képpé gi"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Tëdd tekki... Tekki Arabe, Ibrani, Turki, lëkk"
+
+msgid "Entered data"
+msgstr "Data bi ci dégg"
+
+msgid "Entry"
+msgstr "Tëgg"
+
+msgid "Entry letter count"
+msgstr "Jàmmu tekki yi"
+
+msgid "Evil"
+msgstr "Tóor"
+
+msgid "Fire"
+msgstr "Njày"
+
+msgid "For entered data"
+msgstr "Ngam data bi ci dégg"
+
+msgid "Frequency in Quran"
+msgstr "Sooñ wi ci Qur’an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibrani"
+
+msgid "Hebrew alphabet elements"
+msgstr "Niyam yu alphabet Béerù"
+
+msgid "Hebrew letters"
+msgstr "Niyam yi Béerù"
+
+msgid "High"
+msgstr "Senge"
+
+msgid "Hija order"
+msgstr "Sira Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Niyam yi Huddam tegu"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ma am solo"
+
+msgid "Iklil's order"
+msgstr "Sira Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Doxal mbir Keyboard"
+
+msgid "Indian numbers"
+msgstr "Rakam yi yu Hind"
+
+msgid "Interface language"
+msgstr "Suñu taalul"
+
+msgid "Let character quantity decide"
+msgstr "Sénam ci ni mel ni tax"
+
+msgid "Letter count"
+msgstr "Sira ni mel"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Mën a xam ci ay projek? Nangu nanga kaw"
+
+msgid "Low"
+msgstr "Màmpu"
+
+msgid "Maghribian abjad"
+msgstr "Abjad Maghribian"
+
+msgid "Maghribian hija order"
+msgstr "Sira Hija Maghribian"
+
+msgid "Minimum"
+msgstr "Minim"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Suñu taalul ci number"
+
+msgid "Numerical values"
+msgstr "Dëkkër yu number"
+
+msgid "Open"
+msgstr "Cépp"
+
+msgid "Order"
+msgstr "Sira"
+
+msgid "Possible phrases"
+msgstr "Nopp ci suñu"
+
+msgid "Program settings"
+msgstr "Mëmbël program"
+
+msgid "Pronunciation"
+msgstr "Taalul"
+
+msgid "Regular expression"
+msgstr "Expression xëgg"
+
+msgid "Regularly preferred classification"
+msgstr "Naka ci nit ñaari"
+
+msgid "Reset"
+msgstr "Jox ci mbir"
+
+msgid "Separators"
+msgstr "Bëggal"
+
+msgid "Settings"
+msgstr "Soséé"
+
+msgid "Shamsee abjad order"
+msgstr "Topp Shamsee abjad"
+
+msgid "Show numpad"
+msgstr "Jox numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Jox klawi virtual"
+
+msgid "Small"
+msgstr "Ñëw"
+
+msgid "Small + letter count"
+msgstr "Ñëw + sàkk bu lëkk"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Yëgg"
+
+msgid "Taken (letter)"
+msgstr "Keen (lëkk)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Keen (lëkk; abjad)"
+
+msgid "Taken Letters"
+msgstr "Keen lëkk"
+
+msgid "Text or number cell"
+msgstr "Cell bi ñépp lëkk walla benn lëkk"
+
+msgid "Thank you for your support!"
+msgstr "Jëfandikoo ci yëgg!"
+
+msgid "Total"
+msgstr "Jàng"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Alfabè Turki abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Elements alfabetè Turki"
+
+msgid "Turkish letters"
+msgstr "Lëkk Turki"
+
+msgid "Undefined characters"
+msgstr "Karakter yuñuyul"
+
+msgid "Value"
+msgstr "Dégg"
+
+msgid "Value & Detail"
+msgstr "Dégg & Njàng"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Water"
+msgstr "Wàgg"
+
+msgid "When data is entered"
+msgstr "Ci dafa def ci data"
+
+msgid "When reading large digits"
+msgstr "Ci dafa yëkk ci nàkk yu bopp"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad ci xamle bi ak defar xewal bi"
+
+msgid "abjad() functions settings"
+msgstr "sukkoon yi ci abjad()"
+
+msgid "add to initial value"
+msgstr "jox ci xewal bu awal"
+
+msgid "and"
+msgstr "am"
+
+msgid "auto calculate immediately"
+msgstr "xibaar am ci wépp"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "sukkoon yi ci bastet() ak nutket()"
+
+msgid "count once"
+msgstr "def ci benn def"
+
+msgid "count twice"
+msgstr "def ci doxal def"
+
+msgid "display with Arabic numbers"
+msgstr "moxu ci numere arab"
+
+msgid "display with Indian numbers"
+msgstr "moxu ci numere indo"
+
+msgid "do not add to initial value"
+msgstr "du fi jox ci xewal bu awal"
+
+msgid "do not force to other functions"
+msgstr "du fi yéene ci functions yu gëna"
+
+msgid "do not purify"
+msgstr "du fi xal"
+
+msgid "force to other functions"
+msgstr "yéene ci functions yu gëna"
+
+msgid "group multiplier letters"
+msgstr "xewal bi ci jëf yaram"
+
+msgid "hide"
+msgstr "tuñu"
+
+msgid "hide abjad values"
+msgstr "tuñu abjad values"
+
+msgid "hide bast results"
+msgstr "ñëmbal resultaat bu bast"
+
+msgid "hide huddam names"
+msgstr "ñëmbal nam bu huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() defar gi"
+
+msgid "no bast applied."
+msgstr "bast bu amuloon."
+
+msgid "no data entered"
+msgstr "bëggal data bu joxul"
+
+msgid "other suffix"
+msgstr "këtam bu am solo"
+
+msgid "purify data"
+msgstr "sàmm data"
+
+msgid "repeat multiplier for each digit"
+msgstr "jox multiplier ci ndigal bi"
+
+msgid "show"
+msgstr "bëgg"
+
+msgid "show abjad values"
+msgstr "bëgg abjad values"
+
+msgid "show bast results"
+msgstr "bëgg resultaat bu bast"
+
+msgid "show huddam names"
+msgstr "bëgg nam bu huddam"
+
+msgid "suffix"
+msgstr "këtam"
+
+msgid "times bast applied."
+msgstr "bast bi amul ci"
+
+msgid "use calculated abjad results"
+msgstr "bëgg abjad resultaat bu xeexoon"
+
+msgid "use calculated abjad total"
+msgstr "bëgg abjad total bu xeexoon"
+
+msgid "use calculated bast results"
+msgstr "bëgg bast resultaat bu xeexoon"
+
+msgid "use entered data directly"
+msgstr "bëgg data bu joxul ci mbir"
+
+msgid "use entered data total"
+msgstr "bëgg data total bu joxul"
+
+msgid "use in all bast repetitions"
+msgstr "bëgg ci liggéey bu nangu"
+
+msgid "use only at beginning if possible"
+msgstr "bëgg ci buum yu xarnu"
+
+msgid "wait for settings and data entry"
+msgstr "jàpp ci defar gi ak data joxul"
+
+msgid "Abjad Table"
+msgstr "Tabel Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Detay"
+
+msgid "Element Classification"
+msgstr "Klassifikasyon element"
+
+msgid "Abjad Order"
+msgstr "Abjad Order"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Add custom CSS to customize the widget appearance."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Xalaat wax ci jàng dëb."
+
+msgid "Button"
+msgstr "Button"
+
+msgid "Button Color"
+msgstr "Coloru Button"
+
+msgid "Button Emoji"
+msgstr "Emoji Button"
+
+msgid "Button Message"
+msgstr "Message Button"
+
+msgid "Button Settings"
+msgstr "Settings Button"
+
+msgid "Button Type"
+msgstr "Type Button"
+
+msgid "CSS saved successfully."
+msgstr "CSS benn ci jàmm."
+
+msgid "Check this box to activate the widget."
+msgstr "Sàkk box bi ngir def widget."
+
+msgid "Code Editor"
+msgstr "Code Editor"
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+msgid "Description"
+msgstr "Tëgg"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Jëkk URL bi"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Yàgg: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Damm"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript benn ci jàmm."
+
+msgid "Left"
+msgstr "Bëgg"
+
+msgid "Live Preview"
+msgstr "Live Preview"
+
+msgid "Loading..."
+msgstr "Jàng..."
+
+msgid "PNG Image URL"
+msgstr "URL bi PNG"
+
+msgid "Paste SVG code"
+msgstr "Sàkk SVG code"
+
+msgid "Please enter a valid URL."
+msgstr "Jëkk URL jëfandikoo."
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Reset to Default"
+msgstr "Sàmm ci def"
+
+msgid "Right"
+msgstr "Pén"
+
+msgid "SVG Code"
+msgstr "SVG Code"
+
+msgid "Save CSS"
+msgstr "Save CSS"
+
+msgid "Save JavaScript"
+msgstr "Save JavaScript"
+
+msgid "Save Settings"
+msgstr "Sàkk Tékkal"
+
+msgid "Settings saved successfully."
+msgstr "Tékkal yi am na ci amul."
+
+msgid "Style Editor"
+msgstr "Editor ci mbir"
+
+msgid "WARNING"
+msgstr "WATTAR"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Jàmm! Ndax àppé wéy widget wi ci panel bi."
+
+msgid "Widget Settings"
+msgstr "Njàng widget"
+
+msgid "Widget Status"
+msgstr "Sutul widget"
+
+msgid "Widget active"
+msgstr "Widget am na"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "JavaScript ci xëdd mi def ci widget. Backup ci xëmm bi."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Maa Buy Me a Coffee xarnu"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Xëmm yu jox ci widget. Ndax du def CSS, dafa jëf ci wérë ngir jëfandikoo "
+"njàngal yi."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard ci mbind"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Mubaarri ak xool"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Kàllat Dafa xel ku jàmm: Gëll, dégg, déggal, ak yëfi ci xoolu yépp. Dañ "
+"defara suuf yu yëfi yu ñeel ak mbooloo yi ci wàll. Ndàll: Moom jàmm, xoolu "
+"tarot, xoolu astrologi, walla ndox li ñu def ci mën yépp wàll bi. Sàkàti "
+"ideolojik: Dañ la ci jàmm ak xool yépp. Dañ defara xët yi ci jëfandikoo ngir"
+" xépp wàll ak xëmm yi."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologists ak Gematria Enthusiasts"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Kàllat: Kuñu, xëmm ci yépp, ak yépp yëfi ci xëmm yi. Dañ jàmm ci xëmm yi. "
+"Ndàll: Numerologists, xëmm ci yépp, ak jàmm yi. Sàkàti ideolojik: Dañ la ci "
+"wàll yi."
+
+msgid "Historians and Linguists"
+msgstr "Historians ak Linguists"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Kàllat: Dëkk, ñaxt, ak amul ci wàll yépp ndax Abjad. Ndàll: Academics, "
+"researchers, ak students ci wàll yu wàll ci yëngu ci wàll yi. Sàkàti "
+"ideolojik: Dañ la ci wérë ngir jëfandikoo ci wàll yi."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religious ak Faith-Based Individuals"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Kàllat: Devout, reflective, ak amul ci wàll yi. Dañ defara xët yi ci "
+"jëfandikoo ngir xépp wàll ak xëmm yi. Ndàll: Religious scholars, imams, "
+"priests, ak laypeople. Sàkàti ideolojik: Dañ la ci wérë ngir jëfandikoo ci "
+"wàll yi."
+
+msgid "Writers and Artists"
+msgstr "Writers ak Artists"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Kàllat: Creative, imaginative, ak amul ci wàll yi. Dañ defara xët yi ci "
+"jëfandikoo ngir xépp wàll ak xëmm yi. Ndàll: Authors, poets, visual artists,"
+" ak musicians. Sàkàti ideolojik: Dañ la ci wérë ngir jëfandikoo ci wàll yi."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle ak Riddle Enthusiasts"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Kàllat: Playful, intellectually curious, ak amul ci wàll yi. Ndàll: "
+"Hobbyists, puzzle designers, ak educators. Sàkàti ideolojik: Dañ la ci wérë "
+"ngir jëfandikoo ci wàll yi."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy Theorists ak Alternative Thinkers"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Kàllat: Skeptical of mainstream narratives, ak amul ci wàll yi. Ndàll: "
+"Independent researchers, bloggers, ak activists. Sàkàti ideolojik: Dañ la ci"
+" wérë ngir jëfandikoo ci wàll yi."
+
+msgid "☕ Support the Project"
+msgstr "☕ Yàll Project"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ndax àppé wàllu bi, a buy me a coffee!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Jàmm! 🙏"

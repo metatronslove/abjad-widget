@@ -1,0 +1,784 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Chinese (Hong Kong) <zh_HK>\n"
+"Language: zh-HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad 設定"
+
+msgid "Abjad Value"
+msgstr "Abjad 值"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Abjad 計算結果"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad 計算隱藏"
+
+msgid "Abjad not calculated"
+msgstr "Abjad 未計算"
+
+msgid "Abjad order"
+msgstr "Abjad 序列"
+
+msgid "Add elements"
+msgstr "添加元素"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "空氣"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Arabic"
+msgstr "阿拉伯文"
+
+msgid "Arabic letters"
+msgstr "阿拉伯字母"
+
+msgid "Arabic numbers"
+msgstr "阿拉伯數字"
+
+msgid "As data for operation"
+msgstr "作為操作資料"
+
+msgid "Bast loop results"
+msgstr "Bast 循環結果"
+
+msgid "Bast not calculated"
+msgstr "Bast 未計算"
+
+msgid "Bast repetition count"
+msgstr "Bast 重複次數"
+
+msgid "Bast results hidden"
+msgstr "Bast 結果隱藏"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet 序列"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet 表格"
+
+msgid "Big"
+msgstr "大"
+
+msgid "Bigger"
+msgstr "更大"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "給我買杯咖啡"
+
+msgid "Calculate"
+msgstr "計算"
+
+msgid "Calculate Abjad"
+msgstr "計算 Abjad"
+
+msgid "Calculate Bastet"
+msgstr "計算 Bastet"
+
+msgid "Calculate Huddam"
+msgstr "計算 Huddam"
+
+msgid "Calculation details"
+msgstr "計算細節"
+
+msgid "Choose Keyboard Layout"
+msgstr "選擇鍵盤佈局"
+
+msgid "Clear text box"
+msgstr "清除文字框"
+
+msgid "Click row for details"
+msgstr "點擊行查看詳細信息"
+
+msgid "Close Keyboard"
+msgstr "關閉鍵盤"
+
+msgid "Closed"
+msgstr "已關閉"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "逗號是預設分隔符，必須保持勾選！"
+
+msgid "Dashboard"
+msgstr "儀表板"
+
+msgid "Data entry separators:"
+msgstr "資料輸入分隔符："
+
+msgid "Data type profile"
+msgstr "資料類型概況"
+
+msgid "Dead keys"
+msgstr "死鍵"
+
+msgid "Decrease keyboard size"
+msgstr "縮小鍵盤大小"
+
+msgid "Don't calculate"
+msgstr "不進行計算"
+
+msgid "Duty entity name results"
+msgstr "負責實體名稱結果"
+
+msgid "Duty entity type"
+msgstr "負責實體類型"
+
+msgid "Earth"
+msgstr "地球"
+
+msgid "Element classification"
+msgstr "元素分類"
+
+msgid "Element classification method"
+msgstr "元素分類方法"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "輸入文字... 阿拉伯語、希伯來語、土耳其語字母、數字"
+
+msgid "Entered data"
+msgstr "已輸入資料"
+
+msgid "Entry"
+msgstr "輸入"
+
+msgid "Entry letter count"
+msgstr "輸入字母數量"
+
+msgid "Evil"
+msgstr "邪惡"
+
+msgid "Fire"
+msgstr "火"
+
+msgid "For entered data"
+msgstr "針對已輸入資料"
+
+msgid "Frequency in Quran"
+msgstr "《古蘭經》頻率"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "希伯來語"
+
+msgid "Hebrew alphabet elements"
+msgstr "希伯來字母元素"
+
+msgid "Hebrew letters"
+msgstr "希伯來字母"
+
+msgid "High"
+msgstr "高"
+
+msgid "Hija order"
+msgstr "Hija順序"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam 名稱隱藏"
+
+msgid "Huddam not calculated"
+msgstr "Huddam 未計算"
+
+msgid "Iklil's order"
+msgstr "Iklil順序"
+
+msgid "Increase keyboard size"
+msgstr "放大鍵盤大小"
+
+msgid "Indian numbers"
+msgstr "印度數字"
+
+msgid "Interface language"
+msgstr "介面語言"
+
+msgid "Let character quantity decide"
+msgstr "允許字符數量決定"
+
+msgid "Letter count"
+msgstr "字母數量"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "你喜歡我的專案嗎？請買杯咖啡給我！"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija順序"
+
+msgid "Minimum"
+msgstr "最小"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "數字閱讀語言"
+
+msgid "Numerical values"
+msgstr "數值"
+
+msgid "Open"
+msgstr "開"
+
+msgid "Order"
+msgstr "順序"
+
+msgid "Possible phrases"
+msgstr "可能的短語"
+
+msgid "Program settings"
+msgstr "程式設定"
+
+msgid "Pronunciation"
+msgstr "發音"
+
+msgid "Regular expression"
+msgstr "正則表達式"
+
+msgid "Regularly preferred classification"
+msgstr "常用的分類"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Separators"
+msgstr "分隔符"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad 排列"
+
+msgid "Show numpad"
+msgstr "顯示數字鍵盤"
+
+msgid "Show virtual keyboard"
+msgstr "顯示虛擬鍵盤"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small + letter count"
+msgstr "小 + 字母數量"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "支援"
+
+msgid "Taken (letter)"
+msgstr "已取 (字母)"
+
+msgid "Taken (letter; abjad)"
+msgstr "已取 (字母; abjad)"
+
+msgid "Taken Letters"
+msgstr "已取字母"
+
+msgid "Text or number cell"
+msgstr "文字或數字儲存格"
+
+msgid "Thank you for your support!"
+msgstr "感謝您的支持！"
+
+msgid "Total"
+msgstr "總計"
+
+msgid "Turkish"
+msgstr "土耳其語"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "土耳其語字母表 Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "土耳其語字母元素"
+
+msgid "Turkish letters"
+msgstr "土耳其語字母"
+
+msgid "Undefined characters"
+msgstr "未定義字符"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Value & Detail"
+msgstr "值 & 詳情"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Water"
+msgstr "水"
+
+msgid "When data is entered"
+msgstr "當輸入資料時"
+
+msgid "When reading large digits"
+msgstr "閱讀大數字時"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad 已計算並加上字母計數"
+
+msgid "abjad() functions settings"
+msgstr "abjad() 函數設定"
+
+msgid "add to initial value"
+msgstr "加入初始值"
+
+msgid "and"
+msgstr "與"
+
+msgid "auto calculate immediately"
+msgstr "自動立即計算"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() 與 nutket() 函數設定"
+
+msgid "count once"
+msgstr "計數一次"
+
+msgid "count twice"
+msgstr "計數兩次"
+
+msgid "display with Arabic numbers"
+msgstr "以阿拉伯數字顯示"
+
+msgid "display with Indian numbers"
+msgstr "以印度數字顯示"
+
+msgid "do not add to initial value"
+msgstr "不要加入初始值"
+
+msgid "do not force to other functions"
+msgstr "不要強制轉到其他函數"
+
+msgid "do not purify"
+msgstr "不要淨化"
+
+msgid "force to other functions"
+msgstr "強制轉到其他函數"
+
+msgid "group multiplier letters"
+msgstr "分組乘數字母"
+
+msgid "hide"
+msgstr "隱藏"
+
+msgid "hide abjad values"
+msgstr "隱藏 abjad 值"
+
+msgid "hide bast results"
+msgstr "隱藏 bast 結果"
+
+msgid "hide huddam names"
+msgstr "隱藏 huddam 名稱"
+
+msgid "huddam() function settings"
+msgstr "huddam() 函數設定"
+
+msgid "no bast applied."
+msgstr "未套用 bast。"
+
+msgid "no data entered"
+msgstr "未輸入資料"
+
+msgid "other suffix"
+msgstr "其他後綴"
+
+msgid "purify data"
+msgstr "淨化資料"
+
+msgid "repeat multiplier for each digit"
+msgstr "對每個數字重複乘數"
+
+msgid "show"
+msgstr "顯示"
+
+msgid "show abjad values"
+msgstr "顯示 abjad 值"
+
+msgid "show bast results"
+msgstr "顯示 bast 結果"
+
+msgid "show huddam names"
+msgstr "顯示 huddam 名稱"
+
+msgid "suffix"
+msgstr "後綴"
+
+msgid "times bast applied."
+msgstr "套用 bast 次數。"
+
+msgid "use calculated abjad results"
+msgstr "使用計算出的 abjad 結果"
+
+msgid "use calculated abjad total"
+msgstr "使用計算出的 abjad 總值"
+
+msgid "use calculated bast results"
+msgstr "使用計算出的 bast 結果"
+
+msgid "use entered data directly"
+msgstr "直接使用輸入資料"
+
+msgid "use entered data total"
+msgstr "使用輸入資料總值"
+
+msgid "use in all bast repetitions"
+msgstr "在所有 bast 重複中使用"
+
+msgid "use only at beginning if possible"
+msgstr "如可能僅在開頭使用"
+
+msgid "wait for settings and data entry"
+msgstr "等待設定與資料輸入"
+
+msgid "Abjad Table"
+msgstr "Abjad 表格"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "詳細資料"
+
+msgid "Element Classification"
+msgstr "元素分類"
+
+msgid "Abjad Order"
+msgstr "Abjad 序列"
+
+msgid "Abjad Widget"
+msgstr "Abjad 小工具"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "新增自訂 CSS 以調整小工具外觀。"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr "新增自訂 JavaScript 以修改小工具行為。錯誤程式碼可能會破壞小工具！"
+
+msgid "An error occurred while loading content."
+msgstr "載入內容時發生錯誤。"
+
+msgid "Button"
+msgstr "按鈕"
+
+msgid "Button Color"
+msgstr "按鈕顏色"
+
+msgid "Button Emoji"
+msgstr "按鈕表情符號"
+
+msgid "Button Message"
+msgstr "按鈕訊息"
+
+msgid "Button Settings"
+msgstr "按鈕設定"
+
+msgid "Button Type"
+msgstr "按鈕類型"
+
+msgid "CSS saved successfully."
+msgstr "CSS 已成功儲存。"
+
+msgid "Check this box to activate the widget."
+msgstr "勾選此框以啟用小工具。"
+
+msgid "Code Editor"
+msgstr "程式碼編輯器"
+
+msgid "Custom CSS"
+msgstr "自訂 CSS"
+
+msgid "Custom JavaScript"
+msgstr "自訂 JavaScript"
+
+msgid "Description"
+msgstr "說明"
+
+msgid "Emoji"
+msgstr "表情符號"
+
+msgid "Enter image URL"
+msgstr "輸入圖片網址"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "範例：🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "一般"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript 已成功儲存。"
+
+msgid "Left"
+msgstr "左邊"
+
+msgid "Live Preview"
+msgstr "即時預覽"
+
+msgid "Loading..."
+msgstr "載入中..."
+
+msgid "PNG Image URL"
+msgstr "PNG 圖片網址"
+
+msgid "Paste SVG code"
+msgstr "貼上 SVG 程式碼"
+
+msgid "Please enter a valid URL."
+msgstr "請輸入有效的網址。"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Reset to Default"
+msgstr "重設為預設值"
+
+msgid "Right"
+msgstr "右邊"
+
+msgid "SVG Code"
+msgstr "SVG 程式碼"
+
+msgid "Save CSS"
+msgstr "儲存 CSS"
+
+msgid "Save JavaScript"
+msgstr "儲存 JavaScript"
+
+msgid "Save Settings"
+msgstr "儲存設定"
+
+msgid "Settings saved successfully."
+msgstr "設定已成功儲存。"
+
+msgid "Style Editor"
+msgstr "樣式編輯器"
+
+msgid "WARNING"
+msgstr "警告"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "歡迎！您可以在此面板中追蹤小工具的新聞和公告。"
+
+msgid "Widget Settings"
+msgstr "小工具設定"
+
+msgid "Widget Status"
+msgstr "小工具狀態"
+
+msgid "Widget active"
+msgstr "小工具已啟用"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "錯誤的 JavaScript 代碼可能會破壞小工具。更改前請備份。"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "您的 Buy Me a Coffee 帳號"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr "您的更改將直接影響小工具外觀。若您不熟悉 CSS，建議使用預設設定。"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad 小工具 - 本地儀表板"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "精神探索者與神秘學者"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"個性特徵：好奇、內省、開放思維，並對隱秘知識產生興趣。他們可能對揭示生活中的隱藏含義或模式抱有濃厚興趣。職業：精神導師、塔羅牌閱讀者、占星師或參與新時代實踐的人。意識形態範圍：可能傾向於精神或形而上學信仰。他們可能將工具視為連接更深層真理或宇宙能量的方式。"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "數字學家與 Gematria 熱衷者"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"個性特徵：分析型、注重細節，並對數字與語言之關係著迷。他們可能喜歡解碼象徵意義。職業：自由數字學家、研究隱秘主題的作家或探索數字學的業餘者。意識形態範圍：可能從將數字學視為有趣的知識遊戲到認為其具有深刻精神意義。"
+
+msgid "Historians and Linguists"
+msgstr "歷史學家與語言學者"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"個性特徵：學術型、方法論，並對像 Abjad "
+"這類數字系統的歷史或文化背景感興趣。職業：學者、研究員或研究中東語言、歷史或宗教文本的學生。意識形態範圍：可能從世俗、學術角度看待工具，著重其歷史或語言意義。"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "宗教或信仰人士"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"個性特徵：虔誠、反思，並尋求與信仰更深層連結。他們可能使用工具探索宗教文本或神聖訊息。職業：宗教學者、伊瑪目、牧師或對其信仰神秘傳統有濃厚興趣的信徒。意識形態範圍：可能持有傳統或保守觀點，使用工具以加強其精神信仰。"
+
+msgid "Writers and Artists"
+msgstr "作家與藝術家"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"個性特徵：創意、富有想像力，並傾向於象徵或抽象概念。他們可能使用工具作為靈感來源，或為作品增添多層意義。職業：作家、詩人、視覺藝術家或音樂家。意識形態範圍：可能從世俗創作者到具有精神或神秘傾向者。"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "謎題與益智遊戲愛好者"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"個性特徵：愛玩、知識好奇，並喜歡解決複雜問題或解碼模式。職業：業餘愛好者、謎題設計師或教育者。意識形態範圍：可能將工具視為娛樂或心理訓練，並不太有意識形態依附。"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "陰謀論者與替代思考者"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"個性特徵：對主流敘事持懷疑態度，並傾向於揭示系統中的隱秘真相或模式。職業：獨立研究者、部落格作者或社會運動者。意識形態範圍：可能擁有更激進或非傳統觀點，利用工具支持替代理論或敘事。"
+
+msgid "☕ Support the Project"
+msgstr "☕ 支援此專案"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "如果您喜歡我的專案，您可以買我一杯咖啡！"
+
+msgid "Buy Me A Coffee"
+msgstr "買我一杯咖啡"
+
+msgid "Thank you! 🙏"
+msgstr "謝謝！🙏"

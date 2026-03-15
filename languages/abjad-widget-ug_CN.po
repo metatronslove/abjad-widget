@@ -1,0 +1,822 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Uyghur <ug_CN>\n"
+"Language: ug-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad تەڭشىكى"
+
+msgid "Abjad Value"
+msgstr "Abjad قىممىتى"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad ۋىجېت داشبورد"
+
+msgid "Abjad calculation results"
+msgstr "Abjad ھېسابات نەتىجىلىرى"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad ھېساباتلىرى يوشۇرۇن"
+
+msgid "Abjad not calculated"
+msgstr "Abjad ھېسابلانمىدى"
+
+msgid "Abjad order"
+msgstr "Abjad تەرتىپى"
+
+msgid "Add elements"
+msgstr "بۆلەك قوش"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "ھوا"
+
+msgid "All"
+msgstr "ھەممىسى"
+
+msgid "Arabic"
+msgstr "ئارابچە"
+
+msgid "Arabic letters"
+msgstr "ئارابىچە ھەرپلەر"
+
+msgid "Arabic numbers"
+msgstr "ئارابىچە رەقم"
+
+msgid "As data for operation"
+msgstr "ئېلىپ چىقىش ئۈچۈن سانلىق مەلۇمات"
+
+msgid "Bast loop results"
+msgstr "Bast ئېكرار نەتىجىلىرى"
+
+msgid "Bast not calculated"
+msgstr "Bast ھېسابلانمىدى"
+
+msgid "Bast repetition count"
+msgstr "Bast تەكرار سانى"
+
+msgid "Bast results hidden"
+msgstr "Bast نەتىجىلىرى يوشۇرۇن"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet تەرتىپى"
+
+msgid "Bastet shadda"
+msgstr "Bastet شاددى"
+
+msgid "Bastet table"
+msgstr "Bastet جەدۋالى"
+
+msgid "Big"
+msgstr "چوڭ"
+
+msgid "Bigger"
+msgstr "ئۆزىگە چوڭ"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "بانا بىر قەھۋە سېتىۋېلى"
+
+msgid "Calculate"
+msgstr "ھېسابلا"
+
+msgid "Calculate Abjad"
+msgstr "Abjad ھېسابلا"
+
+msgid "Calculate Bastet"
+msgstr "Bastet نى ھېساپلا"
+
+msgid "Calculate Huddam"
+msgstr "Huddam نى ھېساپلا"
+
+msgid "Calculation details"
+msgstr "ھېساپلاش تەپسىلاتى"
+
+msgid "Choose Keyboard Layout"
+msgstr "كлавىس بورىسى لايىھەلەڭ"
+
+msgid "Clear text box"
+msgstr "نەسج خانا تازىلاش"
+
+msgid "Click row for details"
+msgstr "تىپىغا نىشان قىلغاندىن كېيىن تەپسىلات"
+
+msgid "Close Keyboard"
+msgstr "كлавىس بورىسىنى يېپەڭ"
+
+msgid "Closed"
+msgstr "يېپىلدى"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "پانچاق ئۆزلۈكىدىن بۆلگۈچ ۋە چۈشۈرىلمەسلىك كېرەك!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "ماۋزۇ كىرگۈزۈش بۆلگۈچلىرى:"
+
+msgid "Data type profile"
+msgstr "ماۋزۇ تىپ پروفىلى"
+
+msgid "Dead keys"
+msgstr "ئۆلۈم تۇرۇشلۇق چۈمۈك"
+
+msgid "Decrease keyboard size"
+msgstr "كлавىس بورىسى چوڭلۇقىنى كىچىككە كۆچۈر"
+
+msgid "Don't calculate"
+msgstr "ھېساپلاش قىلماڭ"
+
+msgid "Duty entity name results"
+msgstr "مەسئۇلىيەت نۇسخىسى ئىسمى نەتىجەلىرى"
+
+msgid "Duty entity type"
+msgstr "مەسئۇلىيەت نۇسخىسى تىپى"
+
+msgid "Earth"
+msgstr "يېر"
+
+msgid "Element classification"
+msgstr "ئېلېمېنت سىنىقى"
+
+msgid "Element classification method"
+msgstr "ئېلېمېنت سىنىق ئۇسۇلى"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "مەزمۇن كىرگۈزۈڭ... ئاراپچە، ئېبرانچە، تۈركچە ھەرپلەر، سانلار"
+
+msgid "Entered data"
+msgstr "كىرگۈزۈلگەن سان"
+
+msgid "Entry"
+msgstr "كىرىش"
+
+msgid "Entry letter count"
+msgstr "كىرىش ھەرپ سانى"
+
+msgid "Evil"
+msgstr "خەتىرلىك"
+
+msgid "Fire"
+msgstr "ئاغماق"
+
+msgid "For entered data"
+msgstr "كىرگۈزۈلگەن سان ئۈچۈن"
+
+msgid "Frequency in Quran"
+msgstr "كۇرىئاندا توغراسى"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "ئېبرانچە"
+
+msgid "Hebrew alphabet elements"
+msgstr "ئېزبەرى يۇۋالى ئامىللىرى"
+
+msgid "Hebrew letters"
+msgstr "ئېزبەرى ھەرپلەر"
+
+msgid "High"
+msgstr "يۇقىرى"
+
+msgid "Hija order"
+msgstr "Hija تەرتىپى"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam ناملىرى يوشۇرۇن"
+
+msgid "Huddam not calculated"
+msgstr "Huddam ھېساپلانمىدى"
+
+msgid "Iklil's order"
+msgstr "Iklil تەرتىپى"
+
+msgid "Increase keyboard size"
+msgstr "كۇنۇپكا ساندى چوڭايت"
+
+msgid "Indian numbers"
+msgstr "ھىندى رەقەملىرى"
+
+msgid "Interface language"
+msgstr "قۇرۇلۇش تىلى"
+
+msgid "Let character quantity decide"
+msgstr "بەلگىلەر سانى قارار قىلىشىغا رۇخسەت"
+
+msgid "Letter count"
+msgstr "ھەرپ سانى"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "پروگراممىمنى سۆيۈيدىگىزمۇ؟ مەننى قەھۋە بىلەن سەندەشتۈر!"
+
+msgid "Low"
+msgstr "ئاز"
+
+msgid "Maghribian abjad"
+msgstr "ماگىرىبىيە ئابجاد"
+
+msgid "Maghribian hija order"
+msgstr "ماگىرىبىيە Hija تەرتىپى"
+
+msgid "Minimum"
+msgstr "ئەڭ ئاز"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "رەقام ئوقۇش تىلى"
+
+msgid "Numerical values"
+msgstr "سانلىق قىممەتلەر"
+
+msgid "Open"
+msgstr "ئېچىش"
+
+msgid "Order"
+msgstr "تەرتىپ"
+
+msgid "Possible phrases"
+msgstr "ئاماللىق جۈملىلەر"
+
+msgid "Program settings"
+msgstr "پروگرامما تەڭشەكلەر"
+
+msgid "Pronunciation"
+msgstr "تېلفۇز"
+
+msgid "Regular expression"
+msgstr "رېجېكسى"
+
+msgid "Regularly preferred classification"
+msgstr "ئادەتتىكى ياقتۇرۇلغان تۈر"
+
+msgid "Reset"
+msgstr "ئەسلىگە قايتۇر"
+
+msgid "Separators"
+msgstr "ئايرىغۇچىلار"
+
+msgid "Settings"
+msgstr "تەڭشىكلىرى"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad رەتى"
+
+msgid "Show numpad"
+msgstr "نومپادنى كۆرسەت"
+
+msgid "Show virtual keyboard"
+msgstr "مەۋھۇم كۇنۇپكا كۆرسەت"
+
+msgid "Small"
+msgstr "كىچىك"
+
+msgid "Small + letter count"
+msgstr "كىچىك + ھەرپ سانى"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "قۇۋۋەتلەش"
+
+msgid "Taken (letter)"
+msgstr "ئالغان (ھەرپ)"
+
+msgid "Taken (letter; abjad)"
+msgstr "ئالغان (ھەرپ; abjad)"
+
+msgid "Taken Letters"
+msgstr "ئالغان ھەرپلەر"
+
+msgid "Text or number cell"
+msgstr "تېكىست ياكى سان خۇجۇ"
+
+msgid "Thank you for your support!"
+msgstr "دەپرىڭىزغا رەھمەت!"
+
+msgid "Total"
+msgstr "ئومۇمىي"
+
+msgid "Turkish"
+msgstr "تىركىچە"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "تىركى ئاكپابېسى Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "تىركى ئاكپابېسى بۆلۈكلەر"
+
+msgid "Turkish letters"
+msgstr "تىركىچە ھەرپ"
+
+msgid "Undefined characters"
+msgstr "تېڭىلاشماس كىرىشتەر"
+
+msgid "Value"
+msgstr "قىمەت"
+
+msgid "Value & Detail"
+msgstr "قىمەت & تەپسىلات"
+
+msgid "Version"
+msgstr "نەشر"
+
+msgid "Water"
+msgstr "سۇ"
+
+msgid "When data is entered"
+msgstr "داتا كىرگۈزۈلگەندە"
+
+msgid "When reading large digits"
+msgstr "بۈيۈك سانلارنى ئوقۇۋاتقاندا"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "ئابجد ھېسابلانغان ۋە ھەرپ سانى قوشۇلدى"
+
+msgid "abjad() functions settings"
+msgstr "abjad() فۇنكسىيە سەتىنلىرى"
+
+msgid "add to initial value"
+msgstr "ئەسلى قىممىتىگە قوش"
+
+msgid "and"
+msgstr "ۋا"
+
+msgid "auto calculate immediately"
+msgstr "ئاپتوماتىك ھېسابلاپ بېرىش"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ۋە nutket() فۇنكسىيە سەتىنلىرى"
+
+msgid "count once"
+msgstr "بىر قېتىم ساناپ چىق"
+
+msgid "count twice"
+msgstr "ئىككى قېتىم ساناپ چىق"
+
+msgid "display with Arabic numbers"
+msgstr "ئەرەبچە سانلار بىلەن كۆرسىتىش"
+
+msgid "display with Indian numbers"
+msgstr "ھېنتىيەچە سانلار بىلەن كۆرسىتىش"
+
+msgid "do not add to initial value"
+msgstr "ئەسلى قىممىتىگە قوشما"
+
+msgid "do not force to other functions"
+msgstr "باشقا فۇنكسىيەلەرگە مەجبۇر قىلما"
+
+msgid "do not purify"
+msgstr "تازىلاشما"
+
+msgid "force to other functions"
+msgstr "باشقا فۇنكسىيەلەرگە مەجبۇر قىل"
+
+msgid "group multiplier letters"
+msgstr "كۆپەيتىش ھەرپلەرنى بىرلەشتۈر"
+
+msgid "hide"
+msgstr "پوشۇش"
+
+msgid "hide abjad values"
+msgstr "ئابجد قىممەتلىرىنى پەيدا قىلما"
+
+msgid "hide bast results"
+msgstr "بست ناتجىلارنى يوشۇر"
+
+msgid "hide huddam names"
+msgstr "huddam ناملىرىنى يوشۇر"
+
+msgid "huddam() function settings"
+msgstr "huddam() فۇنكسىيىسىنىڭ سەپلەشلىرى"
+
+msgid "no bast applied."
+msgstr "بست ئىشلىتىلمىدى."
+
+msgid "no data entered"
+msgstr "ئېيتىلغان سانلىق مەلۇمات يوق"
+
+msgid "other suffix"
+msgstr "باشقا ئاستى"
+
+msgid "purify data"
+msgstr "مالۇماتنى تازىلا"
+
+msgid "repeat multiplier for each digit"
+msgstr "ھەر بىر رەقەم ئۈچۈن كۆپەيتىش"
+
+msgid "show"
+msgstr "كۆرسەت"
+
+msgid "show abjad values"
+msgstr "Abjad قىممىتىنى كۆرسەت"
+
+msgid "show bast results"
+msgstr "بست ناتجىلارنى كۆرسەت"
+
+msgid "show huddam names"
+msgstr "huddam ناملىرىنى كۆرسەت"
+
+msgid "suffix"
+msgstr "ئاستى"
+
+msgid "times bast applied."
+msgstr "بست قېتىم ئىشلىتىلدى."
+
+msgid "use calculated abjad results"
+msgstr "ھېسابلانغان Abjad ناتجىلارنى قوللا"
+
+msgid "use calculated abjad total"
+msgstr "ھېسابلانغان Abjad جەمئىيىتىنى قوللا"
+
+msgid "use calculated bast results"
+msgstr "ھېسابلانغان Bast ناتجىلارنى قوللا"
+
+msgid "use entered data directly"
+msgstr "كىرگۈزۈلگەن مالۇماتنى بىۋاستە قوللا"
+
+msgid "use entered data total"
+msgstr "كىرگۈزۈلگەن مالۇماتنىڭ جەمئىيىتىنى قوللا"
+
+msgid "use in all bast repetitions"
+msgstr "ھەممە Bast قېتىمدا قوللا"
+
+msgid "use only at beginning if possible"
+msgstr "ئەگەر مۇمكىن بولسا پەقەت باشدا قوللا"
+
+msgid "wait for settings and data entry"
+msgstr "سەپلەش ۋە مالۇمات كىرگۈزۈشنى كۈتىڭ"
+
+msgid "Abjad Table"
+msgstr "Abjad جەدۋىلى"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "جەلدە"
+
+msgid "Element Classification"
+msgstr "ئۇرۇش تۈرلەشتۈرۈش"
+
+msgid "Abjad Order"
+msgstr "Abjad تەرتىپى"
+
+msgid "Abjad Widget"
+msgstr "Abjad ۋىجېت"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "ۋىجېتنىڭ كۆرۈنۈشىنى ئۆزگەرتىش ئۈچۈن ئۆزلۈكىدىن CSS قوشۇڭ"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"ۋىجېتنىڭ سەپلەشلىرىنى ئۆزگەرتىش ئۈچۈن ئۆزلۈكىدىن JavaScript قوشۇڭ. خاتالىق "
+"كودى ۋىجېتنى بۇزۇشى مۇمكىن!"
+
+msgid "An error occurred while loading content."
+msgstr "مەزمۇننى يۈكلەۋاتقاندا خاتالىق كۆرۈلدى."
+
+msgid "Button"
+msgstr "كۇنۇپكا"
+
+msgid "Button Color"
+msgstr "كۇنۇپكا رەڭگى"
+
+msgid "Button Emoji"
+msgstr "كۇنۇپكا Emoji"
+
+msgid "Button Message"
+msgstr "كۇنۇپكا ئۇچۇرى"
+
+msgid "Button Settings"
+msgstr "كۇنۇپكا سەپلىمەسى"
+
+msgid "Button Type"
+msgstr "كۇنۇپكا تىپى"
+
+msgid "CSS saved successfully."
+msgstr "CSS مۇۋەپپەقىيەتلىك ساقلاندى."
+
+msgid "Check this box to activate the widget."
+msgstr "ۋىجېتنى ئاكتىپلاشتۇرۇش ئۈچۈن بۇ رامكەنى تەگىش."
+
+msgid "Code Editor"
+msgstr "كود تەھرىرلىگۈچ"
+
+msgid "Custom CSS"
+msgstr "ئۆزلەشتۈرۈلگەن CSS"
+
+msgid "Custom JavaScript"
+msgstr "ئۆزلەشتۈرۈلگەن JavaScript"
+
+msgid "Description"
+msgstr "ئېنىقلىما"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "رەسىم URL نى كىرگۈزۈڭ"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "مەسىلەن: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "ئومۇمىي"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript مۇۋەپپەقىيەتلىك ساقلاندى."
+
+msgid "Left"
+msgstr "سول"
+
+msgid "Live Preview"
+msgstr "ئالدىن كۆرىش"
+
+msgid "Loading..."
+msgstr "يۈكلەۋاتىدۇ..."
+
+msgid "PNG Image URL"
+msgstr "PNG رەسىم URL"
+
+msgid "Paste SVG code"
+msgstr "SVG كودىنى چاپلاڭ"
+
+msgid "Please enter a valid URL."
+msgstr "ئىناۋەتلىك URL نى كىرگۈزۈڭ."
+
+msgid "Position"
+msgstr "ئورۇن"
+
+msgid "Reset to Default"
+msgstr "دەسلەپكى سەپلىمىگە قايتۇر"
+
+msgid "Right"
+msgstr "ئوڭ"
+
+msgid "SVG Code"
+msgstr "SVG كودى"
+
+msgid "Save CSS"
+msgstr "CSS نى ساقلا"
+
+msgid "Save JavaScript"
+msgstr "JavaScript نى ساقلا"
+
+msgid "Save Settings"
+msgstr "ساقلاش تەڭشىكلىرى"
+
+msgid "Settings saved successfully."
+msgstr "تەڭشىكلىرى مۇۋاپىق سەپلىدى."
+
+msgid "Style Editor"
+msgstr "ئۇسلۇپ تەھرىرلىگى"
+
+msgid "WARNING"
+msgstr "ئاگاھلاندۇرۇش"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"خۇش كەلدىڭىز! بۇ پەنەلدىن ۋېجېت خەۋەرلىرى ۋە ئەلاناتلىرىنى ئەيىنلەپ "
+"تۇرالايسىز."
+
+msgid "Widget Settings"
+msgstr "ۋېجېت تەڭشىكلىرى"
+
+msgid "Widget Status"
+msgstr "ۋېجېت ھالىتى"
+
+msgid "Widget active"
+msgstr "ۋېجېت ئاكتىپ"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"خەتالىق JavaScript كودى ۋېجېتنى بوزۇشى مۇمكىن. ئۆزگەرتىشتىن بۇرۇن زاپاس "
+"ئېلىڭ."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Buy Me a Coffee ئىشلەتكۈچى ئىسمى"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"ئۆزگەرتىشلىرىڭىز ۋېجېت كۆرۈنۈشىگە بىۋاستە تەسىر قىلىدۇ. CSS نى بىلەلمىسەڭىز،"
+" سۈندۈرۈلگەن تەڭشىكلەرنى ئىشلىتىش تەۋسىيە قىلىنىدۇ."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad ۋېجېت - يەرلىك كونترول يۈزى"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "روھىي ئىزدەشچىلەر ۋە مىستىكچىلەر"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"شەخسىيەت خاسلىقلىرى: قىزىق، ئۆز-ئارا قاراپ چىقىدىغان، ئاچۇق-قەلبلىك، ۋە "
+"ئىسىرىن خادىمغا جىددىي بەلگىلەنگەن. ئۇلار تۇرمۇشتىكى پەقەت بوشلۇق مەنىلەر "
+"ياكى قۇرۇلماپاتانلارنى بىلىش بىلەن قىزىقسا مۇقۇم. مەشغۇل بولۇشلار: روھىي "
+"كۆرسەتمىلەر، تاروت ئوقۇغۇچىلار، يىلتىزىشچىلار ياكى يېڭى ياش سىياسەتلەرگە "
+"قاتناشقان ئادەملەر. فېلسەفىلىك پەلت: روھىي ياكى مەسئىيەتلىك ئىنايەتلەرگە "
+"يۆنىلگەن بولىشى مۇمكىن. ئۇلار قۇرۇلمىلارنى چۈشتۈرۈشچىلىك، چۈشتۈرۈشچىلىك، "
+"چۈشتۈرۈشچىلىك، چۈشتۈرۈشچىلىك بويىچە بەلگىلىك بىر بەلگە بولالايدۇ."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "نومېرولوگلار ۋە جېمەترىيە سەغىنىلەر"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"شەخسىيەت خاسلىقلىرى: ئەھمىيەتلىك، سىرتقى مۇناسىۋەتلەر، ۋە سانلار ۋە تىل "
+"ئارىسىدىكى ئالاقىگە قىزىقىدۇ. ئۇلار بەلگىلىك مەنىلەرنى كودلاشنى بەك "
+"ياقتۇرىدۇ. مەشغۇل بولۇشلار: ئوخشىمىغان نومېرولوگلار، ئىسىرىن مەھسۇلاتى ۋە "
+"ياكى نومېرولوگنى كۆرسىتىدىغان سەغىنىلەر. فېلسەفىلىك پەلت: نومېرولوگنى پەقەت "
+"بوشلۇق، چۈشەنچە سىناق قىلىشچىلىق قىلىشچان قۇتقۇچتىن چۈشەندۈرۈشچان، ياكى "
+"ئۇنىڭ چۈشەنچە ئەتراپىدىكى روھىي بەلگىلىرىگە ئىشەنگەنلەرگە نۇرغۇن."
+
+msgid "Historians and Linguists"
+msgstr "تارىخچىلار ۋە تىلپەرەشلار"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"شەخسىيەت خاسلىقلىرى: ئوقۇرمەنلىك، قۇرۇلماپاتانلىق، ۋە سانلىق سىستېمىلارنىڭ "
+"تارىختىكى ياكى مەدەنىيەتلىك پەيتىگە قىزىقىدۇ. مەشغۇل بولۇشلار: ئەكادېم، "
+"تەتقىقاتچى ياكى ئوتتۇرى ئوسۇلدى بۇرۇنقى تىل، تارىخ ياكى دىن كىتابلىرىنى "
+"ئۆگەنگەن ئوقۇغۇچىلار. فېلسەفىلىك پەلت: قۇرۇلمىلارنى سېكولار، ئەكادېملىق "
+"پەيىقىتىن يۆنىلگەن، تارىختىكى ياكى لۇغەت بەلگىلىك بەلگىلىك بەلگىلىك بەلگىلىك"
+" بەلگىلىك بەلگىلىك."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "دىنىي ياكى ئىمان بىنالانغان ئادەملەر"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"شەخسىيەت خاسلىقلىرى: دىنىي، ئويلاپ قېتىش، ۋە دىنىي ۋەتىن قىزىقىدۇ. ئۇلار "
+"قۇرۇلمىلارنى دىن كىتابلىرى ياكى ئەلەتمىچىلىك مىللىنى تەكشۈرۈش ئۈچۈن "
+"ئىشلىتىشى مۇمكىن. مەشغۇل بولۇشلار: دىنىي مەشغۇلات، ئيمام، كابىدە ياكى دىننىڭ"
+" مىستىك بۇرۇنقى تەلەپلىرىنى بەك ياقتۇرغان ئادەملەر. فېلسەفىلىك پەلت: روھىي "
+"ئىشەنچىلىك، مەسئىيەتلىك ياكى روھىي ئىشەنچلىكىنى كۈچەيتىش ئۈچۈن قۇرۇلمىلارنى "
+"ئىشلىتىش."
+
+msgid "Writers and Artists"
+msgstr "يازغۇچىلار ۋە سەنئەتكارلار"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"شەخسىيەت خاسلىقلىرى: خلاق، خىيالداش، ۋە بەلگىلىك ياكى ئامالىق مەنىگە جىددىي "
+"بەلگىلەنگەن. ئۇلار قۇرۇلمىلارنى ھەيرانلىق ياكى يازما بىلەن ياسالغان "
+"مەنىلەرنى قوشۇش ئۈچۈن ئىشلىتىدۇ. مەشغۇل بولۇشلار: ئاپتور، شېئىر، بىنائالىق "
+"سەنئەتكار، ياكى مۇزىكاسى. فېلسەفىلىك پەلت: سەكولار خەيالى، روھىي ياكى مىستىك"
+" بەلگىلىرى بىلەن مەقسىتىگە يېتىش."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "بوغما ۋە سوئال سېغىمى"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"شەخسىيەت خاسلىقلىرى: ئويناش، ئىنتىلىق قىزىقىش، ۋە پېچەتلىك مەسىلىلەرنى ياكى "
+"يىغىماپاتانلارنى قۇتقۇچ قىلغان. مەشغۇل بولۇشلار: سەغىنىلەر، بوغما "
+"ئۇچۇرلۇغۇچىلار، ياكى ئوقۇتقۇچىلار. فېلسەفىلىك پەلت: قۇرۇلمىلارنى مەسئىيەتچان"
+" ياكى روھىي تەتقىق قىلىش ئارقىلىق ئىشلىتىش."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "كېسەۋرلىك خىيالىي ۋە بەلگىلىك تەكشۈرۈشچىلەر"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"شەخسىيەت خاسلىقلىرى: سىياسىي ئەڭ چوڭ خەۋەرلەرگە قېتىش، سىستېمالارنىڭ پەقەت "
+"بوشلۇق مەنىسىنى بىلىش ياكى بەلگىلىك بۇرۇنقى بەلگىلىرىگە قىزىقىدۇ. مەشغۇل "
+"بولۇشلار: مۇستەقىل تەتقىقاتچى، بلاگر ياكى تەرەققىياتچى. فېلسەفىلىك پەلت: "
+"قۇرۇلمىلارنى بەلگىلىك تەكشۈرۈش ياكى سەقلىق سەھنىگە قوللاش ئارقىلىق ئىشلىتىش."
+
+msgid "☕ Support the Project"
+msgstr "☕ پىروژەنى قوللا"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "پروژەمنى بەكتىسىز، مەننى قەھۋە سېتىۋېلىشىڭىز مۇمكىن!"
+
+msgid "Buy Me A Coffee"
+msgstr "مەننى قەھۋە سېتىۋېلى"
+
+msgid "Thank you! 🙏"
+msgstr "رەھمەت! 🙏"

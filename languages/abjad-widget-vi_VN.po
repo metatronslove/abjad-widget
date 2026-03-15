@@ -1,0 +1,823 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Vietnamese <vi_VN>\n"
+"Language: vi-VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Cài đặt Abjad"
+
+msgid "Abjad Value"
+msgstr "Giá trị Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Bảng điều khiển Widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Kết quả tính toán Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Tính toán Abjad ẩn"
+
+msgid "Abjad not calculated"
+msgstr "Abjad chưa được tính"
+
+msgid "Abjad order"
+msgstr "Thứ tự Abjad"
+
+msgid "Add elements"
+msgstr "Thêm phần tử"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Không khí"
+
+msgid "All"
+msgstr "Tất cả"
+
+msgid "Arabic"
+msgstr "Tiếng Ả Rập"
+
+msgid "Arabic letters"
+msgstr "Chữ cái Ả Rập"
+
+msgid "Arabic numbers"
+msgstr "Số Ả Rập"
+
+msgid "As data for operation"
+msgstr "Dữ liệu cho phép"
+
+msgid "Bast loop results"
+msgstr "Kết quả vòng lặp Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast chưa được tính"
+
+msgid "Bast repetition count"
+msgstr "Số lần lặp Bast"
+
+msgid "Bast results hidden"
+msgstr "Kết quả Bast ẩn"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Thứ tự Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bảng Bastet"
+
+msgid "Big"
+msgstr "Lớn"
+
+msgid "Bigger"
+msgstr "Lớn hơn"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Đặt một cốc cà phê cho tôi"
+
+msgid "Calculate"
+msgstr "Tính"
+
+msgid "Calculate Abjad"
+msgstr "Tính Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Tính Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Tính Huddam"
+
+msgid "Calculation details"
+msgstr "Chi tiết tính toán"
+
+msgid "Choose Keyboard Layout"
+msgstr "Chọn bố cục bàn phím"
+
+msgid "Clear text box"
+msgstr "Xóa ô văn bản"
+
+msgid "Click row for details"
+msgstr "Nhấp vào dòng để xem chi tiết"
+
+msgid "Close Keyboard"
+msgstr "Đóng bàn phím"
+
+msgid "Closed"
+msgstr "Đóng"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Độ phẩy là dấu phân cách mặc định và phải được đánh dấu!"
+
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+msgid "Data entry separators:"
+msgstr "Dấu phân cách nhập dữ liệu:"
+
+msgid "Data type profile"
+msgstr "Hồ sơ kiểu dữ liệu"
+
+msgid "Dead keys"
+msgstr "Phím chết"
+
+msgid "Decrease keyboard size"
+msgstr "Giảm kích thước bàn phím"
+
+msgid "Don't calculate"
+msgstr "Không tính"
+
+msgid "Duty entity name results"
+msgstr "Kết quả tên thực thể nhiệm vụ"
+
+msgid "Duty entity type"
+msgstr "Loại thực thể nhiệm vụ"
+
+msgid "Earth"
+msgstr "Trái đất"
+
+msgid "Element classification"
+msgstr "Phân loại yếu tố"
+
+msgid "Element classification method"
+msgstr "Phương pháp phân loại yếu tố"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Nhập văn bản... chữ cái Ả Rập, Do Thái, Thổ Nhĩ Kỳ, số"
+
+msgid "Entered data"
+msgstr "Dữ liệu đã nhập"
+
+msgid "Entry"
+msgstr "Nhập"
+
+msgid "Entry letter count"
+msgstr "Số chữ cái nhập"
+
+msgid "Evil"
+msgstr "Độc ác"
+
+msgid "Fire"
+msgstr "Lửa"
+
+msgid "For entered data"
+msgstr "Đối với dữ liệu đã nhập"
+
+msgid "Frequency in Quran"
+msgstr "Tần suất trong Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Do Thái"
+
+msgid "Hebrew alphabet elements"
+msgstr "Các yếu tố bảng chữ cái Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Chữ cái Hebrew"
+
+msgid "High"
+msgstr "Cao"
+
+msgid "Hija order"
+msgstr "Thứ tự Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Tên Huddam ẩn"
+
+msgid "Huddam not calculated"
+msgstr "Huddam chưa tính"
+
+msgid "Iklil's order"
+msgstr "Thứ tự Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Tăng kích thước bàn phím"
+
+msgid "Indian numbers"
+msgstr "Số Indian"
+
+msgid "Interface language"
+msgstr "Ngôn ngữ giao diện"
+
+msgid "Let character quantity decide"
+msgstr "Để số lượng ký tự quyết định"
+
+msgid "Letter count"
+msgstr "Số lượng chữ"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Bạn thích dự án của tôi? Hãy mua cho tôi một cốc cà phê!"
+
+msgid "Low"
+msgstr "Thấp"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Thứ tự Maghribian hija"
+
+msgid "Minimum"
+msgstr "Tối thiểu"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Ngôn ngữ đọc số"
+
+msgid "Numerical values"
+msgstr "Giá trị số"
+
+msgid "Open"
+msgstr "Mở"
+
+msgid "Order"
+msgstr "Thứ tự"
+
+msgid "Possible phrases"
+msgstr "Cụm từ có thể"
+
+msgid "Program settings"
+msgstr "Cài đặt chương trình"
+
+msgid "Pronunciation"
+msgstr "Phát âm"
+
+msgid "Regular expression"
+msgstr "Biểu thức chính quy"
+
+msgid "Regularly preferred classification"
+msgstr "Phân loại thường được ưu tiên"
+
+msgid "Reset"
+msgstr "Đặt lại"
+
+msgid "Separators"
+msgstr "Các dấu phân cách"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Shamsee abjad order"
+msgstr "Thứ tự abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Hiển thị bàn phím số"
+
+msgid "Show virtual keyboard"
+msgstr "Hiển thị bàn phím ảo"
+
+msgid "Small"
+msgstr "Nhỏ"
+
+msgid "Small + letter count"
+msgstr "Nhỏ + số lượng chữ cái"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Taken (letter)"
+msgstr "Đã lấy (chữ)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Đã lấy (chữ; abjad)"
+
+msgid "Taken Letters"
+msgstr "Chữ đã lấy"
+
+msgid "Text or number cell"
+msgstr "Ô văn bản hoặc số"
+
+msgid "Thank you for your support!"
+msgstr "Cảm ơn sự hỗ trợ của bạn!"
+
+msgid "Total"
+msgstr "Tổng"
+
+msgid "Turkish"
+msgstr "Thổ Nhĩ Kỳ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad bảng chữ cái Thổ Nhĩ Kỳ"
+
+msgid "Turkish alphabet elements"
+msgstr "Các yếu tố bảng chữ cái Thổ Nhĩ Kỳ"
+
+msgid "Turkish letters"
+msgstr "Chữ cái Thổ Nhĩ Kỳ"
+
+msgid "Undefined characters"
+msgstr "Ký tự chưa được xác định"
+
+msgid "Value"
+msgstr "Giá trị"
+
+msgid "Value & Detail"
+msgstr "Giá trị & Chi tiết"
+
+msgid "Version"
+msgstr "Phiên bản"
+
+msgid "Water"
+msgstr "Nước"
+
+msgid "When data is entered"
+msgstr "Khi dữ liệu được nhập"
+
+msgid "When reading large digits"
+msgstr "Khi đọc các chữ số lớn"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad được tính và số lượng chữ được cộng thêm"
+
+msgid "abjad() functions settings"
+msgstr "cài đặt hàm abjad()"
+
+msgid "add to initial value"
+msgstr "thêm vào giá trị ban đầu"
+
+msgid "and"
+msgstr "và"
+
+msgid "auto calculate immediately"
+msgstr "tính tự động ngay lập tức"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "cài đặt hàm bastet() và nutket()"
+
+msgid "count once"
+msgstr "đếm một lần"
+
+msgid "count twice"
+msgstr "đếm hai lần"
+
+msgid "display with Arabic numbers"
+msgstr "hiển thị với số Arab"
+
+msgid "display with Indian numbers"
+msgstr "hiển thị với số Ấn"
+
+msgid "do not add to initial value"
+msgstr "không thêm vào giá trị ban đầu"
+
+msgid "do not force to other functions"
+msgstr "không buộc vào các hàm khác"
+
+msgid "do not purify"
+msgstr "không thuần hóa"
+
+msgid "force to other functions"
+msgstr "buộc vào các hàm khác"
+
+msgid "group multiplier letters"
+msgstr "nhóm chữ nhân"
+
+msgid "hide"
+msgstr "ẩn"
+
+msgid "hide abjad values"
+msgstr "ẩn giá trị abjad"
+
+msgid "hide bast results"
+msgstr "ẩn kết quả bast"
+
+msgid "hide huddam names"
+msgstr "ẩn tên huddam"
+
+msgid "huddam() function settings"
+msgstr "cài đặt hàm huddam()"
+
+msgid "no bast applied."
+msgstr "không có bast được áp dụng."
+
+msgid "no data entered"
+msgstr "không có dữ liệu được nhập"
+
+msgid "other suffix"
+msgstr "hậu tố khác"
+
+msgid "purify data"
+msgstr "tinh khiết dữ liệu"
+
+msgid "repeat multiplier for each digit"
+msgstr "đặt số nhân lặp cho mỗi chữ số"
+
+msgid "show"
+msgstr "hiển thị"
+
+msgid "show abjad values"
+msgstr "hiển thị giá trị Abjad"
+
+msgid "show bast results"
+msgstr "hiển thị kết quả bast"
+
+msgid "show huddam names"
+msgstr "hiển thị tên huddam"
+
+msgid "suffix"
+msgstr "hậu tố"
+
+msgid "times bast applied."
+msgstr "lần bast được áp dụng."
+
+msgid "use calculated abjad results"
+msgstr "sử dụng kết quả Abjad tính toán"
+
+msgid "use calculated abjad total"
+msgstr "sử dụng tổng Abjad tính toán"
+
+msgid "use calculated bast results"
+msgstr "sử dụng kết quả bast tính toán"
+
+msgid "use entered data directly"
+msgstr "sử dụng dữ liệu nhập trực tiếp"
+
+msgid "use entered data total"
+msgstr "sử dụng tổng dữ liệu nhập"
+
+msgid "use in all bast repetitions"
+msgstr "sử dụng trong tất cả các lần lặp bast"
+
+msgid "use only at beginning if possible"
+msgstr "chỉ sử dụng ở đầu nếu có thể"
+
+msgid "wait for settings and data entry"
+msgstr "chờ cài đặt và nhập dữ liệu"
+
+msgid "Abjad Table"
+msgstr "Bảng Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Chi tiết"
+
+msgid "Element Classification"
+msgstr "Phân loại yếu tố"
+
+msgid "Abjad Order"
+msgstr "Thứ tự Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Thêm CSS tùy chỉnh để tùy chỉnh giao diện widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Thêm JavaScript tùy chỉnh để thay đổi hành vi widget. Mã sai có thể làm hỏng"
+" widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Đã xảy ra lỗi khi tải nội dung."
+
+msgid "Button"
+msgstr "Nút"
+
+msgid "Button Color"
+msgstr "Màu nút"
+
+msgid "Button Emoji"
+msgstr "Emoji nút"
+
+msgid "Button Message"
+msgstr "Tin nhắn nút"
+
+msgid "Button Settings"
+msgstr "Cài đặt nút"
+
+msgid "Button Type"
+msgstr "Loại nút"
+
+msgid "CSS saved successfully."
+msgstr "CSS đã được lưu thành công."
+
+msgid "Check this box to activate the widget."
+msgstr "Đánh dấu ô này để kích hoạt tiện ích."
+
+msgid "Code Editor"
+msgstr "Trình chỉnh sửa mã"
+
+msgid "Custom CSS"
+msgstr "CSS tùy chỉnh"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript tùy chỉnh"
+
+msgid "Description"
+msgstr "Mô tả"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Nhập URL hình ảnh"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Ví dụ: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Chung"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript đã được lưu thành công."
+
+msgid "Left"
+msgstr "Trái"
+
+msgid "Live Preview"
+msgstr "Xem trước trực tiếp"
+
+msgid "Loading..."
+msgstr "Đang tải..."
+
+msgid "PNG Image URL"
+msgstr "URL hình ảnh PNG"
+
+msgid "Paste SVG code"
+msgstr "Dán mã SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Vui lòng nhập URL hợp lệ."
+
+msgid "Position"
+msgstr "Vị trí"
+
+msgid "Reset to Default"
+msgstr "Đặt lại về mặc định"
+
+msgid "Right"
+msgstr "Phải"
+
+msgid "SVG Code"
+msgstr "Mã SVG"
+
+msgid "Save CSS"
+msgstr "Lưu CSS"
+
+msgid "Save JavaScript"
+msgstr "Lưu JavaScript"
+
+msgid "Save Settings"
+msgstr "Lưu cài đặt"
+
+msgid "Settings saved successfully."
+msgstr "Cài đặt đã được lưu thành công."
+
+msgid "Style Editor"
+msgstr "Trình chỉnh sửa phong cách"
+
+msgid "WARNING"
+msgstr "CẢNH BÁO"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Chào mừng! Bạn có thể theo dõi tin tức và thông báo của widget từ bảng điều "
+"khiển này."
+
+msgid "Widget Settings"
+msgstr "Cài đặt widget"
+
+msgid "Widget Status"
+msgstr "Trạng thái widget"
+
+msgid "Widget active"
+msgstr "Widget đang hoạt động"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Mã JavaScript sai có thể làm hỏng widget. Hãy sao lưu trước khi thực hiện "
+"thay đổi."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Tên người dùng Buy Me a Coffee của bạn"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Thay đổi của bạn sẽ trực tiếp ảnh hưởng đến giao diện widget. Nếu bạn không "
+"biết CSS, nên sử dụng cài đặt mặc định."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Bảng điều khiển địa phương"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Những người tìm kiếm tâm linh và những người huyền bí"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Đặc điểm tính cách: Học hỏi, suy ngẫm, tư duy cởi mở, và thu hút bởi kiến "
+"thức huyền bí. Họ có thể có sự quan tâm mạnh mẽ đến việc khám phá những ý "
+"nghĩa hoặc mẫu mã ẩn trong cuộc sống. Nghề nghiệp: Huấn luyện viên tâm linh,"
+" người đọc tarot, nhà chiêm tinh, hoặc những người tham gia vào các thực "
+"hành New Age. Phạm vi lý luận: Có khả năng nghiêng về niềm tin tâm linh hoặc"
+" siêu hình. Họ có thể coi công cụ là một cách để kết nối với những sự thật "
+"sâu sắc hơn hoặc năng lượng vũ trụ."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Những người học số học và người đam mê Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Đặc điểm tính cách: Phân tích, chú trọng chi tiết, và bị cuốn hút bởi mối "
+"quan hệ giữa số và ngôn ngữ. Họ có thể thích giải mã ý nghĩa biểu tượng. "
+"Nghề nghiệp: Số học viên tự do, nhà viết về chủ đề huyền bí, hoặc những "
+"người yêu thích khám phá số học. Phạm vi lý luận: Có thể dao động từ những "
+"người coi số học là một bài tập trí tuệ vui nhộn đến những người tin vào ý "
+"nghĩa tâm linh sâu sắc của nó."
+
+msgid "Historians and Linguists"
+msgstr "Nhà sử học và ngôn ngữ học"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Đặc điểm tính cách: Học thuật, có phương pháp, và quan tâm đến bối cảnh lịch"
+" sử hoặc văn hóa của các hệ thống số như Abjad. Nghề nghiệp: Giáo sư, nhà "
+"nghiên cứu, hoặc sinh viên nghiên cứu ngôn ngữ Trung Đông, lịch sử, hoặc văn"
+" bản tôn giáo. Phạm vi lý luận: Có khả năng tiếp cận công cụ với quan điểm "
+"vô thần, học thuật, tập trung vào ý nghĩa lịch sử hoặc ngôn ngữ của chúng."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Những người theo đạo hoặc dựa trên niềm tin"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Đặc điểm tính cách: Tận tâm, suy tư, và tìm kiếm mối liên hệ sâu sắc hơn với"
+" niềm tin của họ. Họ có thể sử dụng công cụ để khám phá văn bản tôn giáo "
+"hoặc thông điệp thiêng liêng. Nghề nghiệp: Nhà học thuật tôn giáo, imams, "
+"linh mục, hoặc người bình thường có quan tâm sâu sắc đến truyền thống huyền "
+"bí của đức tin của họ. Phạm vi lý luận: Có khả năng có một thế giới quan "
+"truyền thống hoặc bảo thủ, sử dụng công cụ để củng cố niềm tin tâm linh của "
+"mình."
+
+msgid "Writers and Artists"
+msgstr "Nhà văn và nghệ sĩ"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Đặc điểm tính cách: Sáng tạo, tưởng tượng, và thu hút bởi các khái niệm biểu"
+" tượng hoặc trừu tượng. Họ có thể sử dụng công cụ để tìm cảm hứng hoặc để "
+"thêm các lớp ý nghĩa vào công việc của mình. Nghề nghiệp: Tác giả, nhà thơ, "
+"nghệ sĩ thị giác, hoặc nhạc sĩ. Phạm vi lý luận: Có thể dao động từ những "
+"người sáng tạo vô thần đến những người có xu hướng tâm linh hoặc huyền bí."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Những người yêu thích câu đố và riddle"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Đặc điểm tính cách: Hòa chơi, tò mò trí tuệ, và thích giải quyết vấn đề phức"
+" tạp hoặc giải mã các mẫu. Nghề nghiệp: Người hứng thú, nhà thiết kế câu đố,"
+" hoặc giáo viên. Phạm vi lý luận: Có khả năng tiếp cận công cụ như một hình "
+"thức giải trí hoặc bài tập trí tuệ, ít có liên kết lý luận."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Những nhà thuyết âm mưu và những người tư duy thay thế"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Đặc điểm tính cách: Hoài nghi về những câu chuyện chính thống, thu hút bởi "
+"việc khám phá sự thật ẩn hoặc các mẫu trong hệ thống. Nghề nghiệp: Nhà "
+"nghiên cứu độc lập, blogger, hoặc người hoạt động xã hội. Phạm vi lý luận: "
+"Có thể có một thế giới quan radikal hoặc phi truyền thống, sử dụng công cụ "
+"để hỗ trợ các lý thuyết hoặc câu chuyện thay thế."
+
+msgid "☕ Support the Project"
+msgstr "☕ Hỗ trợ dự án"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Nếu bạn thích dự án của tôi, bạn có thể mua cho tôi một tách cà phê!"
+
+msgid "Buy Me A Coffee"
+msgstr "Mua cho tôi một tách cà phê"
+
+msgid "Thank you! 🙏"
+msgstr "Cảm ơn! 🙏"

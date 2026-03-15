@@ -1,0 +1,811 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tsonga <ts_ZA>\n"
+"Language: ts-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad mintirho"
+
+msgid "Abjad Value"
+msgstr "Abjad thipfu"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Vumbirhi bya kuhlakisa ka Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Vutiviti bya kuhlakisa ka Abjad"
+
+msgid "Abjad not calculated"
+msgstr "Abjad a hi kuhlakisa"
+
+msgid "Abjad order"
+msgstr "Tshamalaho ya Abjad"
+
+msgid "Add elements"
+msgstr "Fukila mafambeni"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Mufumo"
+
+msgid "All"
+msgstr "Tivhisi"
+
+msgid "Arabic"
+msgstr "Arap"
+
+msgid "Arabic letters"
+msgstr "Nkhombelo ya Arap"
+
+msgid "Arabic numbers"
+msgstr "Nambala ya Arap"
+
+msgid "As data for operation"
+msgstr "Ndemu ya ntirho"
+
+msgid "Bast loop results"
+msgstr "Vumbirhi bya vuyelo bya Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast a hi kuhlakisa"
+
+msgid "Bast repetition count"
+msgstr "Kuzika ka Bast"
+
+msgid "Bast results hidden"
+msgstr "Vutiviti bya vumbirhi ka Bast"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Tshamalaho ya Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tabelo ya Bastet"
+
+msgid "Big"
+msgstr "Mavoko"
+
+msgid "Bigger"
+msgstr "Mavoko wo ku hlanganisa"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Ndinzeni kahve"
+
+msgid "Calculate"
+msgstr "Hlela"
+
+msgid "Calculate Abjad"
+msgstr "Hlela Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Hlawula Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Hlawula Huddam"
+
+msgid "Calculation details"
+msgstr "Mivumbelo ya kuhlawula"
+
+msgid "Choose Keyboard Layout"
+msgstr "Khetha layout ya keyboard"
+
+msgid "Clear text box"
+msgstr "Sima xitlala box"
+
+msgid "Click row for details"
+msgstr "Kikila fila ya tirhanyani"
+
+msgid "Close Keyboard"
+msgstr "Sava keyboard"
+
+msgid "Closed"
+msgstr "Sava"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Virgule yi vumbedziwa ka vumbedza, yi fanele hi ku tiyisa!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Vhuvukanyana bya xitlayo xa data:"
+
+msgid "Data type profile"
+msgstr "Mphunzi wa type ya data"
+
+msgid "Dead keys"
+msgstr "Tukani ta mati"
+
+msgid "Decrease keyboard size"
+msgstr "Sokela khulumo ya keyboard"
+
+msgid "Don't calculate"
+msgstr "Swi kuhlawula"
+
+msgid "Duty entity name results"
+msgstr "Miriki ya muhumiso wa muhumiso"
+
+msgid "Duty entity type"
+msgstr "Type ya muhumiso"
+
+msgid "Earth"
+msgstr "Mhlaba"
+
+msgid "Element classification"
+msgstr "Kuvula xa element"
+
+msgid "Element classification method"
+msgstr "Method ya kuvula xa element"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Hlayisa xitlala... Xipfuya, Ibranice, Xipfuma, mirimu"
+
+msgid "Entered data"
+msgstr "Data leyi hlayisiweke"
+
+msgid "Entry"
+msgstr "Xitlayo"
+
+msgid "Entry letter count"
+msgstr "Vhuvhiliwa bya xivumbeko xa xitlayo"
+
+msgid "Evil"
+msgstr "Tihani"
+
+msgid "Fire"
+msgstr "Xitanda"
+
+msgid "For entered data"
+msgstr "Ku xitlayo lexi hlayisiweke"
+
+msgid "Frequency in Quran"
+msgstr "Tirhanyani eka Quran"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ibranice"
+
+msgid "Hebrew alphabet elements"
+msgstr "Swiying'wala swa Alphabeti ya Hebrew"
+
+msgid "Hebrew letters"
+msgstr "Haru ya Hebrew"
+
+msgid "High"
+msgstr "Vukulu"
+
+msgid "Hija order"
+msgstr "Hija order"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam names hidden"
+
+msgid "Huddam not calculated"
+msgstr "Huddam not calculated"
+
+msgid "Iklil's order"
+msgstr "Iklil's order"
+
+msgid "Increase keyboard size"
+msgstr "Nkhatsisa Xikhombiso xa Khibhodi"
+
+msgid "Indian numbers"
+msgstr "Hankanya ya India"
+
+msgid "Interface language"
+msgstr "Xivandla xa Hlaya"
+
+msgid "Let character quantity decide"
+msgstr "Xibalo xa xikombo xi thome"
+
+msgid "Letter count"
+msgstr "Xibalo xa hurhu"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Hi hi nkarhi wa mina? Vuyisa mina kofi!"
+
+msgid "Low"
+msgstr "Vukulu"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Vhinya"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Xivandla xa ku verenga namba"
+
+msgid "Numerical values"
+msgstr "Vhuva bya vhinya"
+
+msgid "Open"
+msgstr "Vula"
+
+msgid "Order"
+msgstr "Nkhatshelo"
+
+msgid "Possible phrases"
+msgstr "Swiyongo swa ku phika"
+
+msgid "Program settings"
+msgstr "Mandla wa program"
+
+msgid "Pronunciation"
+msgstr "Xivandla"
+
+msgid "Regular expression"
+msgstr "Mphanyelo wa vhuvi"
+
+msgid "Regularly preferred classification"
+msgstr "Sukulu swa ku swikarisa"
+
+msgid "Reset"
+msgstr "Phuthela"
+
+msgid "Separators"
+msgstr "Vutlwako"
+
+msgid "Settings"
+msgstr "Xitondzo"
+
+msgid "Shamsee abjad order"
+msgstr "Vhutelo bya Shamsee abjad"
+
+msgid "Show numpad"
+msgstr "Tirhela numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Tirhela keyboard ya virtual"
+
+msgid "Small"
+msgstr "Vulovula"
+
+msgid "Small + letter count"
+msgstr "Vulovula + Vuyingo bya malawu"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Tirhula"
+
+msgid "Taken (letter)"
+msgstr "Tirhula (letter)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Tirhula (letter; abjad)"
+
+msgid "Taken Letters"
+msgstr "Malawu ya Tirhula"
+
+msgid "Text or number cell"
+msgstr "Celli ya text a u ku na ndhawu"
+
+msgid "Thank you for your support!"
+msgstr "Tiyondziwa hi ku tsundzuwisisa!"
+
+msgid "Total"
+msgstr "Mphako"
+
+msgid "Turkish"
+msgstr "Tukisi"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Tukisi Alfabeti Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Vutlako bya Tukisi Alfabeti"
+
+msgid "Turkish letters"
+msgstr "Malawu ya Tukisi"
+
+msgid "Undefined characters"
+msgstr "Vutlako bya Vuhawu"
+
+msgid "Value"
+msgstr "Vulavule"
+
+msgid "Value & Detail"
+msgstr "Vulavule & Vuyongo"
+
+msgid "Version"
+msgstr "Vhumbeko"
+
+msgid "Water"
+msgstr "Ndeke"
+
+msgid "When data is entered"
+msgstr "Loko data ri hi"
+
+msgid "When reading large digits"
+msgstr "Loko hi ri ndhawu zwa ndhawu"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad yi hlayisiwa ni ku hlaya ka tindhawu"
+
+msgid "abjad() functions settings"
+msgstr "Vuhlanganisi bya abjad()"
+
+msgid "add to initial value"
+msgstr "tshamisa ku vumbiwa ka nkoka wa ku tirhisa"
+
+msgid "and"
+msgstr "ni"
+
+msgid "auto calculate immediately"
+msgstr "kula ku hlaya hi ku thoma"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "Vuhlanganisi bya bastet() na nutket()"
+
+msgid "count once"
+msgstr "tumbuluxa loko"
+
+msgid "count twice"
+msgstr "tumbuluxa ka va"
+
+msgid "display with Arabic numbers"
+msgstr "humbula na manambala a Arabic"
+
+msgid "display with Indian numbers"
+msgstr "humbula na manambala a India"
+
+msgid "do not add to initial value"
+msgstr "khoma tshamisa ku vumbiwa ka nkoka wa ku sungula"
+
+msgid "do not force to other functions"
+msgstr "khoma ku landza ku hlengelevana"
+
+msgid "do not purify"
+msgstr "khoma ku hlaya"
+
+msgid "force to other functions"
+msgstr "landza ku hlengelevana"
+
+msgid "group multiplier letters"
+msgstr "tindhawu ta ku landza va"
+
+msgid "hide"
+msgstr "xima"
+
+msgid "hide abjad values"
+msgstr "xima swilo swa abjad"
+
+msgid "hide bast results"
+msgstr "xikomba bast xikombiso"
+
+msgid "hide huddam names"
+msgstr "xikomba huddam mintirho"
+
+msgid "huddam() function settings"
+msgstr "huddam() switisiwa swa mufunzo"
+
+msgid "no bast applied."
+msgstr "A hi ku xinkhatsa bast"
+
+msgid "no data entered"
+msgstr "A hi tshamisiwa data"
+
+msgid "other suffix"
+msgstr "suffix yoenda"
+
+msgid "purify data"
+msgstr "xima data"
+
+msgid "repeat multiplier for each digit"
+msgstr "kudumbiwa ka multiplier eka digit"
+
+msgid "show"
+msgstr "bonkanya"
+
+msgid "show abjad values"
+msgstr "bonkanya swilalaka zwa abjad"
+
+msgid "show bast results"
+msgstr "bonkanya bast xikombiso"
+
+msgid "show huddam names"
+msgstr "bonkanya huddam mintirho"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "times bast yi tirhisiwa"
+
+msgid "use calculated abjad results"
+msgstr "tihlayisa abjad xikombiso lexi hume"
+
+msgid "use calculated abjad total"
+msgstr "tihlayisa abjad xikombo lexi hume"
+
+msgid "use calculated bast results"
+msgstr "tihlayisa bast xikombiso lexi hume"
+
+msgid "use entered data directly"
+msgstr "tihlayisa data leyi yileseka ndlela"
+
+msgid "use entered data total"
+msgstr "tihlayisa xikombo xa data leyi yileseka"
+
+msgid "use in all bast repetitions"
+msgstr "tihlayisa eka mintirho ya xitsundzulisi ya bast"
+
+msgid "use only at beginning if possible"
+msgstr "tihlayisa nkarhi wa ku sungula loko swi kotekaka"
+
+msgid "wait for settings and data entry"
+msgstr "tivhisa ku tirhisa switisiwa ni ku hoxa data"
+
+msgid "Abjad Table"
+msgstr "Tebele ya Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Vutiso"
+
+msgid "Element Classification"
+msgstr "Classification ya Xiphiqhila"
+
+msgid "Abjad Order"
+msgstr "Order ya Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget ya Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Hlela CSS yo endlela widget ku kombisa."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Hlela JavaScript yo endlela widget hi ku hlanganisa. Xihlangeni lexi "
+"tshikosha swi tumbela widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Tswala tatirhisiwa ku hlayisa mintirho."
+
+msgid "Button"
+msgstr "Phawu"
+
+msgid "Button Color"
+msgstr "Mvelo wa Phawu"
+
+msgid "Button Emoji"
+msgstr "Emoji wa Phawu"
+
+msgid "Button Message"
+msgstr "Mutswalo wa Phawu"
+
+msgid "Button Settings"
+msgstr "Mikhosi ya Phawu"
+
+msgid "Button Type"
+msgstr "Mhando wa Phawu"
+
+msgid "CSS saved successfully."
+msgstr "CSS yi hlayiwa hi ndlela leyi fambisa."
+
+msgid "Check this box to activate the widget."
+msgstr "Veta xitili lexi ku hlawulela widget."
+
+msgid "Code Editor"
+msgstr "Mupimisi wa Vumbirhi"
+
+msgid "Custom CSS"
+msgstr "CSS ya wena"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ya wena"
+
+msgid "Description"
+msgstr "Kutsundzuka"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Tima URL ya mufologo"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Humbuluxo: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Xikarhi"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript yi hlayiwa hi ndlela leyi fambisa."
+
+msgid "Left"
+msgstr "Nhlangula"
+
+msgid "Live Preview"
+msgstr "Xivutiso xa Xibuligimi"
+
+msgid "Loading..."
+msgstr "Vuhlayisela..."
+
+msgid "PNG Image URL"
+msgstr "URL ya PNG ya mufologo"
+
+msgid "Paste SVG code"
+msgstr "Veka kodhi ya SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Tima URL leyi ngheneki"
+
+msgid "Position"
+msgstr "Nkhavani"
+
+msgid "Reset to Default"
+msgstr "Sungule hi mhaka ya nkoka"
+
+msgid "Right"
+msgstr "Nhlanguto"
+
+msgid "SVG Code"
+msgstr "Kodni ya SVG"
+
+msgid "Save CSS"
+msgstr "Hlayisa CSS"
+
+msgid "Save JavaScript"
+msgstr "Hlayisa JavaScript"
+
+msgid "Save Settings"
+msgstr "Hifadhi Zikombiso"
+
+msgid "Settings saved successfully."
+msgstr "Zikombiso dzi vuyile kahle."
+
+msgid "Style Editor"
+msgstr "Mupfunzi wa Xikombiso"
+
+msgid "WARNING"
+msgstr "Xivumbeko"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Xewani! U kota ku hlayisa xihloko xa widget ni xikombelo xa xivumbeko eka "
+"panel leyi."
+
+msgid "Widget Settings"
+msgstr "Zikombiso xa Widget"
+
+msgid "Widget Status"
+msgstr "Xikombiso xa Widget"
+
+msgid "Widget active"
+msgstr "Widget yi humelela"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kodzo ya JavaScript leyi vuriwaka yi nga ti nyikisa widget. Faka ndzula wa "
+"ku hlayisa hi nkarhi wa ku humesa."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Sukuna swa Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Vutiko bya wena va ta humelela xikombiso xa widget. Loko u nga swi twala "
+"CSS, a khensa leswaku u tirhisa tikombo ta xikombiso."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Xiphawulo xa Xikombelo"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Vahumuri va Xivangelo ni Vuyelo"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Tukwana ta Vuhlanganyi: Tumbela, u sungula, ku rhandza ku twisisa, ni u "
+"xhumana na vutiko. Vana va nga twisisa ku pfuxela swiringa swa ndhawu. "
+"Vuhlanganyi: Vavhi va xivangelo, vatali va tarot, vatari va ku hlawula, "
+"kumbe vanhu va ku pfuxela vuyelo. Vuhlanganyi: Vamanyeriwa ku xhumana na "
+"vutiko ka xivangelo hi ku pfuxela. Vana va vona miphethu hi ku pfuxela "
+"ndhawu ya mavinyani ni mavinyani a mavumbulu."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Vahumuri bya Nomboro ni Vuhlamiselo bya Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Tukwana ta Vuhlanganyi: Ku khensa, ku twisisa, ni u tsundzuka na vutiko bya "
+"nomboro. Vana va twisisa ku pfuxela swiringa. Vuhlanganyi: Vahumuri va ku "
+"pfuxela, vatari va vutiko, kumbe vanhu va ku pfuxela. Vuhlanganyi: "
+"Vamanyeriwa ku xhumana na vutiko ka xivangelo. Vana va vona leswaku vutiko a"
+" va na vukolisi."
+
+msgid "Historians and Linguists"
+msgstr "Vahumuri bya Historia ni Vuyelo bya Mitirho"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Tukwana ta Vuhlanganyi: Vuhlayo, u twisisa, ni u tsundzuka na vuhlanganyi "
+"bya historia. Vuhlanganyi: Vuyelo bya Mitirho, vatsundzulisi, kumbe "
+"vatsundzulisi bya xivangelo. Vuhlanganyi: Vamanyeriwa ku xhumana na vutiko "
+"ka xivangelo."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Vanyikolo ni Vanyikolo bya Vuyelo"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Tukwana ta Vuhlanganyi: Ku twisisa, u twisisa, ni u katsa ku pfuxela. Vana "
+"va hi hi ku pfuxela vukolisi. Vuhlanganyi: Vuyelo, imams, vatiri, kumbe "
+"vanhu va ku pfuxela. Vuhlanganyi: Vamanyeriwa ku xhumana na vutiko."
+
+msgid "Writers and Artists"
+msgstr "Vatari ni Vuyelo"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Tukwana ta Vuhlanganyi: Ku twisisa, u twisisa, ni u xhumana na vutiko. Vana "
+"va hi hi ku pfuxela. Vuhlanganyi: Vatari, vatiri, vatsundzulisi, kumbe "
+"vatsundzulisi. Vuhlanganyi: Vamanyeriwa ku xhumana na vutiko."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Vahumuri bya Xivandla ni Vuhlamiselo bya Vuyelo"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Tukwana ta Vuhlanganyi: Vuyelo, ku twisisa, ni u twisisa. Vana va hi hi ku "
+"pfuxela. Vuhlanganyi: Vuyelo, vatsundzulisi, kumbe vatsundzulisi. "
+"Vuhlanganyi: Vamanyeriwa ku xhumana na vutiko."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Vanyikolo bya Vuyelo ni Vanyikolo bya Vuyelo"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Tukwana ta Vuhlanganyi: Ku twisisa, u twisisa, ni u xhumana na vutiko. Vana "
+"va hi hi ku pfuxela. Vuhlanganyi: Vuyelo, imams, vatiri, kumbe vanhu va ku "
+"pfuxela. Vuhlanganyi: Vamanyeriwa ku xhumana na vutiko."
+
+msgid "☕ Support the Project"
+msgstr "☕ Vuyelo bya Project"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Loko u twisisa project ya mina, u kota ku endla coffee!"
+
+msgid "Buy Me A Coffee"
+msgstr "Buy Me A Coffee"
+
+msgid "Thank you! 🙏"
+msgstr "Tinankanyelo! 🙏"

@@ -1,0 +1,785 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tigrinya <ti_ET>\n"
+"Language: ti-ET\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad ቅንጠት"
+
+msgid "Abjad Value"
+msgstr "Abjad ወይድ"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Abjad ምርጫ ውጤቶች"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad ምርጫዎች ተደብድበ"
+
+msgid "Abjad not calculated"
+msgstr "Abjad አልተሳሰበም"
+
+msgid "Abjad order"
+msgstr "Abjad ተደርድ"
+
+msgid "Add elements"
+msgstr "ንዝር ተይዝ"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "አየር"
+
+msgid "All"
+msgstr "እቶና"
+
+msgid "Arabic"
+msgstr "አረብ"
+
+msgid "Arabic letters"
+msgstr "አረብ ፊደሎች"
+
+msgid "Arabic numbers"
+msgstr "አረብ ቁጥሮች"
+
+msgid "As data for operation"
+msgstr "ለውስጥ ዝርዝር ስለ ይህ"
+
+msgid "Bast loop results"
+msgstr "Bast ልዩ ውጤቶች"
+
+msgid "Bast not calculated"
+msgstr "Bast አልተሳሰበም"
+
+msgid "Bast repetition count"
+msgstr "Bast ምርት ቁጥር"
+
+msgid "Bast results hidden"
+msgstr "Bast ውጤቶች ተደብድበ"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet ተደርድ"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet ታብስ"
+
+msgid "Big"
+msgstr "ትልቅ"
+
+msgid "Bigger"
+msgstr "ይህ ከላይ"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "ኣንተ እትም ተርእስ"
+
+msgid "Calculate"
+msgstr "ተጠቀም"
+
+msgid "Calculate Abjad"
+msgstr "Abjad ተጠቀም"
+
+msgid "Calculate Bastet"
+msgstr "ተርብተር ባስተት"
+
+msgid "Calculate Huddam"
+msgstr "ተርብተር ሆድማ"
+
+msgid "Calculation details"
+msgstr "ዝርዝር ተርብተር"
+
+msgid "Choose Keyboard Layout"
+msgstr "ድሕነት ተናብት ምርጫ"
+
+msgid "Clear text box"
+msgstr "ትምርት ሳር አስተካክል"
+
+msgid "Click row for details"
+msgstr "ዝገምም ተጠቓሚ ለዘው"
+
+msgid "Close Keyboard"
+msgstr "ድሕነት ምጠፍቅ"
+
+msgid "Closed"
+msgstr "ተበይተ"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "ኮምስ ብተደርን ኣበል ብትታይት ይተተከል ኣለ"
+
+msgid "Dashboard"
+msgstr "ድሽብ ዶር"
+
+msgid "Data entry separators:"
+msgstr "ዝገምም ደብደባ ወሰነ"
+
+msgid "Data type profile"
+msgstr "ናይ ዓይነት ዝርዝር"
+
+msgid "Dead keys"
+msgstr "ምትምን ቁልፎች"
+
+msgid "Decrease keyboard size"
+msgstr "ድሕነት ዝተንከሳ"
+
+msgid "Don't calculate"
+msgstr "ተርብተር ኣብ ተስፋ ኣይተበይ"
+
+msgid "Duty entity name results"
+msgstr "ናይ ዝርዝር ስም ድርሰት"
+
+msgid "Duty entity type"
+msgstr "ናይ ዝርዝር ዓይነት"
+
+msgid "Earth"
+msgstr "ተስር"
+
+msgid "Element classification"
+msgstr "ናበስ ምንቅስቓስ"
+
+msgid "Element classification method"
+msgstr "ናበስ ምንቅስቓስ ዘለይ"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "ተርሓ ትምርት... አርባ, ሕብረዋዊ, ቱርክ ሕለት, ቁጥር"
+
+msgid "Entered data"
+msgstr "ዝተደርሰ ደብደባ"
+
+msgid "Entry"
+msgstr "ግቢ"
+
+msgid "Entry letter count"
+msgstr "ግቢ ስም ተግባር"
+
+msgid "Evil"
+msgstr "ሽትት"
+
+msgid "Fire"
+msgstr "ሃይል"
+
+msgid "For entered data"
+msgstr "ለ ዝተደርሰ ደብደባ"
+
+msgid "Frequency in Quran"
+msgstr "በነውስ እናት ትችንት"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "ሕብረዋዊ"
+
+msgid "Hebrew alphabet elements"
+msgstr "ይቤር አለፋቤት ኣብዛ"
+
+msgid "Hebrew letters"
+msgstr "ይቤር ሕትም"
+
+msgid "High"
+msgstr "ከፍተኛ"
+
+msgid "Hija order"
+msgstr "ሃጂያ ኣብዛ"
+
+msgid "Hisab al jumal"
+msgstr "ሂሳብ አል ጁማል"
+
+msgid "Huddam"
+msgstr "ሁድማ"
+
+msgid "Huddam names hidden"
+msgstr "ሁድማ ስም ተደረገ"
+
+msgid "Huddam not calculated"
+msgstr "ሁድማ ይተከል"
+
+msgid "Iklil's order"
+msgstr "ኢክሊል ኣብዛ"
+
+msgid "Increase keyboard size"
+msgstr "ተልዕክል ትብስት ይበል"
+
+msgid "Indian numbers"
+msgstr "ደምስ ቁጥር"
+
+msgid "Interface language"
+msgstr "አስተዳደር ቋንቋ"
+
+msgid "Let character quantity decide"
+msgstr "ዓብደት ዝተቀበለ"
+
+msgid "Letter count"
+msgstr "ሕትም ቁጥር"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "ዝኾነ ስራሕ ኣሎ? ኣብ ኪብነት ይጽዕበኩ"
+
+msgid "Low"
+msgstr "ታች"
+
+msgid "Maghribian abjad"
+msgstr "ማግሪብ አለፋቤት"
+
+msgid "Maghribian hija order"
+msgstr "ማግሪብ ሃጂያ ኣብዛ"
+
+msgid "Minimum"
+msgstr "ናይ ሓደሽት"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "ሙሂይድድን ኢብና አርባ"
+
+msgid "Number reading language"
+msgstr "ቁጥር የትተና ቋንቋ"
+
+msgid "Numerical values"
+msgstr "ቁጥር ዝዓማም"
+
+msgid "Open"
+msgstr "ክፈት"
+
+msgid "Order"
+msgstr "ኣብዛ"
+
+msgid "Possible phrases"
+msgstr "ዝተናገረ ሓሳብ"
+
+msgid "Program settings"
+msgstr "ስርአት አብዛ"
+
+msgid "Pronunciation"
+msgstr "ትምህርት"
+
+msgid "Regular expression"
+msgstr "ተንትና ተጠቃሚ"
+
+msgid "Regularly preferred classification"
+msgstr "ደግሞ የተባበረ ኣብዛ"
+
+msgid "Reset"
+msgstr "ተሰብስብ"
+
+msgid "Separators"
+msgstr "ተለዋዋጮች"
+
+msgid "Settings"
+msgstr "ቅንብሮች"
+
+msgid "Shamsee abjad order"
+msgstr "የShamsee አባጅ ተከታታይ"
+
+msgid "Show numpad"
+msgstr "ቁጥር ፎርሜ ይለቅስ"
+
+msgid "Show virtual keyboard"
+msgstr "ተለዋዋጭ ቁልፍ ማሳያ"
+
+msgid "Small"
+msgstr "ትንሽ"
+
+msgid "Small + letter count"
+msgstr "ትንሽ + ፊደል ቁጥር"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "ድጋፍ"
+
+msgid "Taken (letter)"
+msgstr "የተወሰነ (ፊደል)"
+
+msgid "Taken (letter; abjad)"
+msgstr "የተወሰነ (ፊደል; አባጅ)"
+
+msgid "Taken Letters"
+msgstr "የተወሰኑ ፊደሎች"
+
+msgid "Text or number cell"
+msgstr "ጽሑፍ ወይም ቁጥር ደርስ"
+
+msgid "Thank you for your support!"
+msgstr "ድጋፍዎት በሚያደርጉ ስለሆነ እናመሰግናለን!"
+
+msgid "Total"
+msgstr "አጠቃላይ"
+
+msgid "Turkish"
+msgstr "ቱርክኛ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "ቱርክ አልፋቢስ አባጅ"
+
+msgid "Turkish alphabet elements"
+msgstr "ቱርክ አልፋቢስ ንጥረ ነገሮች"
+
+msgid "Turkish letters"
+msgstr "ቱርክ ፊደሎች"
+
+msgid "Undefined characters"
+msgstr "ያልተወሰነ ባህሪዎች"
+
+msgid "Value"
+msgstr "ዋስትና"
+
+msgid "Value & Detail"
+msgstr "ዋስትና & ዝርዝር"
+
+msgid "Version"
+msgstr "ስርዓት"
+
+msgid "Water"
+msgstr "ውሃ"
+
+msgid "When data is entered"
+msgstr "ውሂብ ተረፈው እንደሆነ"
+
+msgid "When reading large digits"
+msgstr "ትልቅ ቁጥሮች እንደሚነጻበት"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "አብጃድ ተቀርቦ እና ቁም ቁጥር ተጨምሯል"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ተግባር ተነባሪ"
+
+msgid "add to initial value"
+msgstr "ወደ መጀመሪያው እቃ አስገባ"
+
+msgid "and"
+msgstr "እና"
+
+msgid "auto calculate immediately"
+msgstr "በራስ ተነጽር በቅድሚያ"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() እና nutket() ተግባር ተነባሪ"
+
+msgid "count once"
+msgstr "አንድ ጊዜ ቁጥር"
+
+msgid "count twice"
+msgstr "ሁለት ጊዜ ቁጥር"
+
+msgid "display with Arabic numbers"
+msgstr "በአረብ ቁጥር ይታይ"
+
+msgid "display with Indian numbers"
+msgstr "በህንድ ቁጥር ይታይ"
+
+msgid "do not add to initial value"
+msgstr "ወደ መጀመሪያው እቃ አትጨምር"
+
+msgid "do not force to other functions"
+msgstr "ለሌሎች ተግባር አትግልግ"
+
+msgid "do not purify"
+msgstr "ማጣለስ አትደርስ"
+
+msgid "force to other functions"
+msgstr "ለሌሎች ተግባር ያግምግ"
+
+msgid "group multiplier letters"
+msgstr "ቡድን የተለዋዋጭ ፊደሎች"
+
+msgid "hide"
+msgstr "ደብቅ"
+
+msgid "hide abjad values"
+msgstr "አብጃድ እሴቶች ደብቅ"
+
+msgid "hide bast results"
+msgstr "ባስ ውጤቶች ደቕድና"
+
+msgid "hide huddam names"
+msgstr "ሆድማ ስም ደቕድና"
+
+msgid "huddam() function settings"
+msgstr "huddam() ስራ ቅንብሮች"
+
+msgid "no bast applied."
+msgstr "ባስ አይተደለም።"
+
+msgid "no data entered"
+msgstr "ውስጥ ዝርዝር የለም"
+
+msgid "other suffix"
+msgstr "ሌላ አትርፋ"
+
+msgid "purify data"
+msgstr "ውስጥ ዝርዝር አቀምተ"
+
+msgid "repeat multiplier for each digit"
+msgstr "የእያንዳንድ ቁጥር ተደጋጋሚ አበል"
+
+msgid "show"
+msgstr "አስተርከት"
+
+msgid "show abjad values"
+msgstr "አብጃድ አማካይ አስተርከት"
+
+msgid "show bast results"
+msgstr "ባስ ውጤቶች አስተርከት"
+
+msgid "show huddam names"
+msgstr "ሆድማ ስሞች አስተርከት"
+
+msgid "suffix"
+msgstr "አትርፋ"
+
+msgid "times bast applied."
+msgstr "ባስ በተጠቀም ስኬት"
+
+msgid "use calculated abjad results"
+msgstr "ተሰርከተ አብጃድ ውጤቶች ይጠቀሙ"
+
+msgid "use calculated abjad total"
+msgstr "ተሰርከተ አብጃድ ጠቅላላ ይጠቀሙ"
+
+msgid "use calculated bast results"
+msgstr "ተሰርከተ ባስ ውጤቶች ይጠቀሙ"
+
+msgid "use entered data directly"
+msgstr "በተጠቀም ውስጥ ዝርዝር በቀጥታ ይጠቀሙ"
+
+msgid "use entered data total"
+msgstr "በተጠቀም ዝርዝር ጠቅላላ ይጠቀሙ"
+
+msgid "use in all bast repetitions"
+msgstr "በሁሉም ባስ ዕርዳት ውስጥ ይጠቀሙ"
+
+msgid "use only at beginning if possible"
+msgstr "ከሚችል ግን በመጀመሪያ ብቻ ይጠቀሙ"
+
+msgid "wait for settings and data entry"
+msgstr "አቀማመጫውና ውስጥ ዝርዝር ስለማይተምር ይጠበቁ"
+
+msgid "Abjad Table"
+msgstr "አብጃድ ሰንጠረዥ"
+
+msgid "Shadda"
+msgstr "ሻዳድ"
+
+msgid "Details"
+msgstr "ዝርዝር"
+
+msgid "Element Classification"
+msgstr "አብጃድ አካል ምድብ"
+
+msgid "Abjad Order"
+msgstr "አብጃድ ትርእስ"
+
+msgid "Abjad Widget"
+msgstr "አብጃድ አተገበር"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "ተገቢ CSS ይጨምሩ ለማይተቃወም ይችላል"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr "ተገቢ JavaScript ይጨምሩ እና ይለውጡ ማንበብ ይችላል። አደጋ አለ!"
+
+msgid "An error occurred while loading content."
+msgstr "ስህተት ኣሎ ድሕረት ምርት ምድብ ተግባር ዝተረፈ"
+
+msgid "Button"
+msgstr "ነጠል"
+
+msgid "Button Color"
+msgstr "ነጠል ብልቅ"
+
+msgid "Button Emoji"
+msgstr "ነጠል አርባ"
+
+msgid "Button Message"
+msgstr "ነጠል መልዕክት"
+
+msgid "Button Settings"
+msgstr "ነጠል ማስተናገድ"
+
+msgid "Button Type"
+msgstr "ነጠል ዓይነት"
+
+msgid "CSS saved successfully."
+msgstr "CSS ተቀበለ ተስማሚ ተገበረ"
+
+msgid "Check this box to activate the widget."
+msgstr "እቲ ቦክስ ይምልጥ ድሕረት ይኾነ ይግብሩ"
+
+msgid "Code Editor"
+msgstr "ኮድ አርትወሰና"
+
+msgid "Custom CSS"
+msgstr "ሰራህ CSS"
+
+msgid "Custom JavaScript"
+msgstr "ሰራህ JavaScript"
+
+msgid "Description"
+msgstr "መግለጫ"
+
+msgid "Emoji"
+msgstr "አርባ"
+
+msgid "Enter image URL"
+msgstr "ምስል ኤድን ይክልና"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "ምሳሌ፡ 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "አጠቃላይ"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ተቀበለ ተስማሚ ተገበረ"
+
+msgid "Left"
+msgstr "ግራ"
+
+msgid "Live Preview"
+msgstr "ብምብረት ትረት"
+
+msgid "Loading..."
+msgstr "ተተባህለ"
+
+msgid "PNG Image URL"
+msgstr "PNG ምስል ኤድን"
+
+msgid "Paste SVG code"
+msgstr "SVG ኮድ ተቀበል"
+
+msgid "Please enter a valid URL."
+msgstr "እባክህ ደግሞ ተወዳጅ ኤድን ይግበር"
+
+msgid "Position"
+msgstr "አቅጣጫ"
+
+msgid "Reset to Default"
+msgstr "ከም ሕዝብ ማስተካከል"
+
+msgid "Right"
+msgstr "ቀኝ"
+
+msgid "SVG Code"
+msgstr "SVG ኮድ"
+
+msgid "Save CSS"
+msgstr "CSS ተቀበለ"
+
+msgid "Save JavaScript"
+msgstr "JavaScript ተቀበለ"
+
+msgid "Save Settings"
+msgstr "ተቐብል ናትቲ አብትዕቶት"
+
+msgid "Settings saved successfully."
+msgstr "ናትቲ አብትዕቶት ተቐብል ብትርጉም ይብል።"
+
+msgid "Style Editor"
+msgstr "ናይ ስርዓት አርታዊ"
+
+msgid "WARNING"
+msgstr "ማስጠንቀቂያ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "ሰላም! ብዚ ፓኔል እትብይት ዝተሰናዳ ወይ ጽሁፍ ክትትርዝ ይችላል።"
+
+msgid "Widget Settings"
+msgstr "ዝተሰናዳ አብትዕቶት"
+
+msgid "Widget Status"
+msgstr "ዝተሰናዳ ዓይነት"
+
+msgid "Widget active"
+msgstr "ዝተሰናዳ ተግባር"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"ብልህ JavaScript ኮድ ዝንገብስ ዝተሰናዳ ክትንደይ ይተኽል። ስለ ምንታይ ማዕበል ትምትኽ ዝተተክረ ይብል።"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "ናይ ብዝሒ ይምር የሚ ውስክድ ስም"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"ስምኒ ሓይል ዝኽእል ዝተሰናዳ አብትዕቶት እንተኾይኑ ክስምት ዝተተክረ ይብል። ካብ CSS ዘሎ ይብል ክኸውን ንቀተን "
+"አብትዕቶት ንተረከብ ይብል።"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "አቤድ ዝተሰናዳ - ወንግዳዊ ድራሽት"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "ናይ እንተ በለበ አምራችትን ተማርካት"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"ተጽዕነት ተርሰፕ: ተጠናክረ, አካባቢዕ, እተገቢ እና ንዛዕተ ምስጋና አትርግፈ። ዝኾነ ተምብሪ ንክሳን ዝኽእል ስለለትን "
+"ሰላም የታምራዊ አበባደ ክትምትኽ። ሕጻው ከሰበር የርከት በናይ ምስር እና ዕድልን በርማት እና ትርክት።"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "ናይ ተምተኛ ንናይ ዘነስነስ ተደምት ተሰናዳ"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"ተጽዕነት ተርሰፕ: ምርጫ የሰነዕ ወደ ቁም፡ ደርሆ የተማርከት ዓበት ስለት። ሕጻው ይበለጠ እና ድርሰን የተረክበ "
+"ስለንይማሪ ደብደብ ሰርጣ። ሕጻው ስለት ስለልቦት ነይ አንድ ዓበት ይበለጠ።"
+
+msgid "Historians and Linguists"
+msgstr "ይኸውን ስብስ አንደኛ በሰው ከንዝም ሕጻው"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"ተጽዕነት ተርሰፕ: ተምባብ የማስተናበብ ዝኾነ ምስ ትምባባት ከተዓላማት። ሕጻው የንባብ ስምም የተማረከተን እና "
+"የተምችተናደ ይበለጠ። ሕጻው በዝርዝር ወይ ዝርዝር አንደኛ ሰብ ሰርለት።"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "አለም የሚ አብ ርዝም በይዛል"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr "ተጽዕነት ተርሰፕ: ደምብ የተቃወሚ ምስ ተግባር አንደኛ ሰርለት። ሕጻው ወንግዳዊ እና በነዳ ይበለጠ።"
+
+msgid "Writers and Artists"
+msgstr "ተምችተናደ እና ተምባብ ነይትካ"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr "ተጽዕነት ተርሰፕ: ንብረት የሚ አውደስ ስለስርዓት። ሕጻው አረኝ የተማርከት ስለት።"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "የተደርበ ማስተዋይ ድምብ"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr "ተጽዕነት ተርሰፕ: አብትዕቶት ሰርተን ስለት። ሕጻው ድምብ ማዕበል እና ዝኾነ አትረያ።"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "ምስተይ በርካብ የተስተኛት ደናት"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr "ተጽዕነት ተርሰፕ: ወረቀት ስለሰርለት ያለበት ማስተናበብ። ሕጻው ሰብ እና አሰማሪ ሕጻው።"
+
+msgid "☕ Support the Project"
+msgstr "☕ ይስምረኛ ማብራሪያ"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "ከም ወይ ተከለክል የሚ አስተናገዱ አስተንደይ ይተኽል።"
+
+msgid "Buy Me A Coffee"
+msgstr "ብዝሒ ይምር የሚ"
+
+msgid "Thank you! 🙏"
+msgstr "ደስታ አስተባበር።"
