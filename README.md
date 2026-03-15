@@ -65,6 +65,16 @@ msgmerge -U languages/tr_TR.po languages/abjad-widget.pot
 msgfmt languages/tr_TR.po -o languages/tr_TR.mo
 ```
 
+## Deployment
+
+This plugin uses GitHub Actions for automatic deployment to WordPress.org SVN. 
+To release a new version:
+
+```bash
+git tag v1.0.1
+git push origin v1.0.1
+```
+
 ## License
 
 GPL-2.0+ - See [LICENSE](LICENSE) file.
@@ -74,10 +84,6 @@ GPL-2.0+ - See [LICENSE](LICENSE) file.
 - [WordPress.org Forum](https://wordpress.org/support/plugin/abjad-widget)
 - [GitHub Issues](https://github.com/metatronslove/abjad-widget/issues)
 
-## ☕ Buy Me a Coffee
+## Buy Me a Coffee
 
-If you like my project, you can support me by buying me a coffee!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/metatronslove)
-
-Thank you! 🙏
+If you find this plugin useful, consider [buying me a coffee](https://www.buymeacoffee.com/metatronslove)!
