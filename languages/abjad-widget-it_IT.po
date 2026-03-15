@@ -1,0 +1,826 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Italian <it_IT>\n"
+"Language: it-IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Impostazioni Abjad"
+
+msgid "Abjad Value"
+msgstr "Valore Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Cruscotto Widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Risultati del calcolo Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Calcoli Abjad nascosti"
+
+msgid "Abjad not calculated"
+msgstr "Abjad non calcolato"
+
+msgid "Abjad order"
+msgstr "Ordine Abjad"
+
+msgid "Add elements"
+msgstr "Aggiungi elementi"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Aria"
+
+msgid "All"
+msgstr "Tutti"
+
+msgid "Arabic"
+msgstr "Arabo"
+
+msgid "Arabic letters"
+msgstr "Lettere arabe"
+
+msgid "Arabic numbers"
+msgstr "Numeri arabi"
+
+msgid "As data for operation"
+msgstr "Come dati per l'operazione"
+
+msgid "Bast loop results"
+msgstr "Risultati del ciclo Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast non calcolato"
+
+msgid "Bast repetition count"
+msgstr "Conteggio ripetizioni Bast"
+
+msgid "Bast results hidden"
+msgstr "Risultati Bast nascosti"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Ordine Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tabella Bastet"
+
+msgid "Big"
+msgstr "Grande"
+
+msgid "Bigger"
+msgstr "Più grande"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Acquista un caffè"
+
+msgid "Calculate"
+msgstr "Calcola"
+
+msgid "Calculate Abjad"
+msgstr "Calcola Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Calcola Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Calcola Huddam"
+
+msgid "Calculation details"
+msgstr "Dettagli di calcolo"
+
+msgid "Choose Keyboard Layout"
+msgstr "Scegli layout della tastiera"
+
+msgid "Clear text box"
+msgstr "Cancella casella di testo"
+
+msgid "Click row for details"
+msgstr "Fai clic sulla riga per i dettagli"
+
+msgid "Close Keyboard"
+msgstr "Chiudi tastiera"
+
+msgid "Closed"
+msgstr "Chiuso"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "La virgola è il separatore predefinito e deve rimanere selezionata!"
+
+msgid "Dashboard"
+msgstr "Cruscotto"
+
+msgid "Data entry separators:"
+msgstr "Separatori di inserimento dati:"
+
+msgid "Data type profile"
+msgstr "Profilo tipo di dato"
+
+msgid "Dead keys"
+msgstr "Tasti morti"
+
+msgid "Decrease keyboard size"
+msgstr "Riduci dimensione della tastiera"
+
+msgid "Don't calculate"
+msgstr "Non calcolare"
+
+msgid "Duty entity name results"
+msgstr "Risultati nome entità di servizio"
+
+msgid "Duty entity type"
+msgstr "Tipo di entità di servizio"
+
+msgid "Earth"
+msgstr "Terra"
+
+msgid "Element classification"
+msgstr "Classificazione degli elementi"
+
+msgid "Element classification method"
+msgstr "Metodo di classificazione degli elementi"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Inserisci testo... lettere arabo, ebraico, turco, numeri"
+
+msgid "Entered data"
+msgstr "Dati inseriti"
+
+msgid "Entry"
+msgstr "Inserimento"
+
+msgid "Entry letter count"
+msgstr "Conteggio lettere di inserimento"
+
+msgid "Evil"
+msgstr "Male"
+
+msgid "Fire"
+msgstr "Fuoco"
+
+msgid "For entered data"
+msgstr "Per i dati inseriti"
+
+msgid "Frequency in Quran"
+msgstr "Frequenza nel Corano"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ebraico"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elementi dell'alfabeto ebraico"
+
+msgid "Hebrew letters"
+msgstr "Lettere ebraiche"
+
+msgid "High"
+msgstr "Alto"
+
+msgid "Hija order"
+msgstr "Ordine di Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Nomi Huddam nascosti"
+
+msgid "Huddam not calculated"
+msgstr "Huddam non calcolato"
+
+msgid "Iklil's order"
+msgstr "Ordine di Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Aumenta la dimensione della tastiera"
+
+msgid "Indian numbers"
+msgstr "Numeri indiani"
+
+msgid "Interface language"
+msgstr "Lingua dell'interfaccia"
+
+msgid "Let character quantity decide"
+msgstr "Lascia che la quantità di caratteri decida"
+
+msgid "Letter count"
+msgstr "Conteggio delle lettere"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Ti piacciono i miei progetti? Fammene un caffè!"
+
+msgid "Low"
+msgstr "Basso"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "Minimo"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Lingua per la lettura dei numeri"
+
+msgid "Numerical values"
+msgstr "Valori numerici"
+
+msgid "Open"
+msgstr "Apri"
+
+msgid "Order"
+msgstr "Ordine"
+
+msgid "Possible phrases"
+msgstr "Frasi possibili"
+
+msgid "Program settings"
+msgstr "Impostazioni del programma"
+
+msgid "Pronunciation"
+msgstr "Pronuncia"
+
+msgid "Regular expression"
+msgstr "Espressione regolare"
+
+msgid "Regularly preferred classification"
+msgstr "Classificazione preferita regolarmente"
+
+msgid "Reset"
+msgstr "Reimposta"
+
+msgid "Separators"
+msgstr "Separatori"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Shamsee abjad order"
+msgstr "Ordine abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Mostra tastiera numerica"
+
+msgid "Show virtual keyboard"
+msgstr "Mostra tastiera virtuale"
+
+msgid "Small"
+msgstr "Piccolo"
+
+msgid "Small + letter count"
+msgstr "Piccolo + conteggio lettere"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Supporto"
+
+msgid "Taken (letter)"
+msgstr "Prelevato (lettera)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Prelevato (lettera; abjad)"
+
+msgid "Taken Letters"
+msgstr "Lettere Prelevate"
+
+msgid "Text or number cell"
+msgstr "Cella di testo o numero"
+
+msgid "Thank you for your support!"
+msgstr "Grazie per il tuo supporto!"
+
+msgid "Total"
+msgstr "Totale"
+
+msgid "Turkish"
+msgstr "Turco"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad dell'Alfabeto Turco"
+
+msgid "Turkish alphabet elements"
+msgstr "Elementi dell'alfabeto turco"
+
+msgid "Turkish letters"
+msgstr "Lettere turche"
+
+msgid "Undefined characters"
+msgstr "Caratteri non definiti"
+
+msgid "Value"
+msgstr "Valore"
+
+msgid "Value & Detail"
+msgstr "Valore & Dettaglio"
+
+msgid "Version"
+msgstr "Versione"
+
+msgid "Water"
+msgstr "Acqua"
+
+msgid "When data is entered"
+msgstr "Quando i dati vengono inseriti"
+
+msgid "When reading large digits"
+msgstr "Quando si leggono cifre grandi"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad calcolato e conteggio delle lettere aggiunto"
+
+msgid "abjad() functions settings"
+msgstr "impostazioni funzioni abjad()"
+
+msgid "add to initial value"
+msgstr "aggiungi al valore iniziale"
+
+msgid "and"
+msgstr "e"
+
+msgid "auto calculate immediately"
+msgstr "calcola automaticamente immediatamente"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "impostazioni funzioni bastet() e nutket()"
+
+msgid "count once"
+msgstr "conta una volta"
+
+msgid "count twice"
+msgstr "conta due volte"
+
+msgid "display with Arabic numbers"
+msgstr "visualizza con numeri arabi"
+
+msgid "display with Indian numbers"
+msgstr "visualizza con numeri indiani"
+
+msgid "do not add to initial value"
+msgstr "non aggiungere al valore iniziale"
+
+msgid "do not force to other functions"
+msgstr "non forzare su altre funzioni"
+
+msgid "do not purify"
+msgstr "non purificare"
+
+msgid "force to other functions"
+msgstr "forza su altre funzioni"
+
+msgid "group multiplier letters"
+msgstr "lettere moltiplicatore di gruppo"
+
+msgid "hide"
+msgstr "nascondi"
+
+msgid "hide abjad values"
+msgstr "nascondi valori abjad"
+
+msgid "hide bast results"
+msgstr "nascondi i risultati bast"
+
+msgid "hide huddam names"
+msgstr "nascondi i nomi huddam"
+
+msgid "huddam() function settings"
+msgstr "impostazioni funzione huddam()"
+
+msgid "no bast applied."
+msgstr "nessun bast applicato."
+
+msgid "no data entered"
+msgstr "nessun dato inserito"
+
+msgid "other suffix"
+msgstr "altro suffisso"
+
+msgid "purify data"
+msgstr "purifica i dati"
+
+msgid "repeat multiplier for each digit"
+msgstr "moltiplicatore di ripetizione per ogni cifra"
+
+msgid "show"
+msgstr "mostra"
+
+msgid "show abjad values"
+msgstr "mostra i valori abjad"
+
+msgid "show bast results"
+msgstr "mostra i risultati bast"
+
+msgid "show huddam names"
+msgstr "mostra i nomi huddam"
+
+msgid "suffix"
+msgstr "suffisso"
+
+msgid "times bast applied."
+msgstr "volte bast applicato."
+
+msgid "use calculated abjad results"
+msgstr "usa risultati abjad calcolati"
+
+msgid "use calculated abjad total"
+msgstr "usa totale abjad calcolato"
+
+msgid "use calculated bast results"
+msgstr "usa risultati bast calcolati"
+
+msgid "use entered data directly"
+msgstr "usa i dati inseriti direttamente"
+
+msgid "use entered data total"
+msgstr "usa totale dati inseriti"
+
+msgid "use in all bast repetitions"
+msgstr "usa in tutte le ripetizioni bast"
+
+msgid "use only at beginning if possible"
+msgstr "usa solo all'inizio se possibile"
+
+msgid "wait for settings and data entry"
+msgstr "attendi impostazioni e inserimento dati"
+
+msgid "Abjad Table"
+msgstr "Tabella Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Dettagli"
+
+msgid "Element Classification"
+msgstr "Classificazione degli elementi"
+
+msgid "Abjad Order"
+msgstr "Ordine Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Aggiungi CSS personalizzato per personalizzare l'aspetto del widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Aggiungi JavaScript personalizzato per modificare il comportamento del "
+"widget. Un codice errato può danneggiare il widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Si è verificato un errore durante il caricamento del contenuto."
+
+msgid "Button"
+msgstr "Pulsante"
+
+msgid "Button Color"
+msgstr "Colore del pulsante"
+
+msgid "Button Emoji"
+msgstr "Emoji del pulsante"
+
+msgid "Button Message"
+msgstr "Messaggio del pulsante"
+
+msgid "Button Settings"
+msgstr "Impostazioni del pulsante"
+
+msgid "Button Type"
+msgstr "Tipo di pulsante"
+
+msgid "CSS saved successfully."
+msgstr "CSS salvato con successo."
+
+msgid "Check this box to activate the widget."
+msgstr "Seleziona questa casella per attivare il widget."
+
+msgid "Code Editor"
+msgstr "Editor di codice"
+
+msgid "Custom CSS"
+msgstr "CSS personalizzato"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript personalizzato"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Inserisci l'URL dell'immagine"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Esempio: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Generale"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript salvato con successo."
+
+msgid "Left"
+msgstr "Sinistra"
+
+msgid "Live Preview"
+msgstr "Anteprima live"
+
+msgid "Loading..."
+msgstr "Caricamento..."
+
+msgid "PNG Image URL"
+msgstr "URL immagine PNG"
+
+msgid "Paste SVG code"
+msgstr "Incolla il codice SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Inserisci un URL valido."
+
+msgid "Position"
+msgstr "Posizione"
+
+msgid "Reset to Default"
+msgstr "Ripristina alle impostazioni predefinite"
+
+msgid "Right"
+msgstr "Destra"
+
+msgid "SVG Code"
+msgstr "Codice SVG"
+
+msgid "Save CSS"
+msgstr "Salva CSS"
+
+msgid "Save JavaScript"
+msgstr "Salva JavaScript"
+
+msgid "Save Settings"
+msgstr "Salva impostazioni"
+
+msgid "Settings saved successfully."
+msgstr "Impostazioni salvate con successo."
+
+msgid "Style Editor"
+msgstr "Editor dello stile"
+
+msgid "WARNING"
+msgstr "ATTENZIONE"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Benvenuto! Puoi seguire le notizie e gli annunci del widget da questo "
+"pannello."
+
+msgid "Widget Settings"
+msgstr "Impostazioni widget"
+
+msgid "Widget Status"
+msgstr "Stato widget"
+
+msgid "Widget active"
+msgstr "Widget attivo"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Un codice JavaScript errato può danneggiare il widget. Esegui un backup "
+"prima di apportare modifiche."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Il tuo nome utente per Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Le tue modifiche influenzeranno direttamente l’aspetto del widget. Se non "
+"conosci CSS, si consiglia di usare le impostazioni predefinite."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Cruscotto locale"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Cercatori spirituali e mistici"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Tratti della personalità: Curiosi, introspettivi, aperti di mente, attratti "
+"dalla conoscenza esoterica. Possono avere un forte interesse nell’illuminare"
+" significati nascosti o schemi nella vita. Occupazioni: Coach spirituali, "
+"lettori di tarocchi, astrologo, o individui coinvolti nelle pratiche New "
+"Age. Spettro ideologico: Probabilmente inclinati verso credenze spirituali o"
+" metafisiche. Possono vedere gli strumenti come un modo per connettersi con "
+"verità più profonde o energie universali."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologi e appassionati di Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Tratti della personalità: Analitici, orientati al dettaglio e affascinati "
+"dalla relazione tra numeri e linguaggio. Possono divertirsi a decifrare "
+"significati simbolici. Occupazioni: Numerologi freelance, scrittori su "
+"argomenti esoterici, o hobbisti che esplorano la numerologia. Spettro "
+"ideologico: Può variare da coloro che vedono la numerologia come un "
+"divertente esercizio intellettuale a coloro che credono nella sua profonda "
+"rilevanza spirituale."
+
+msgid "Historians and Linguists"
+msgstr "Storici e linguisti"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Tratti della personalità: Accademici, metodi, interessati ai contesti "
+"storici o culturali dei sistemi numerici come l'Abjad. Occupazioni: "
+"Accademici, ricercatori o studenti che studiano lingue del Medio Oriente, "
+"storia o testi religiosi. Spettro ideologico: Probabilmente approcciano gli "
+"strumenti da una prospettiva secolare, accademica, concentrandosi sulla loro"
+" rilevanza storica o linguistica."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Individui religiosi o basati sulla fede"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Tratti della personalità: Devoti, riflessivi, e alla ricerca di connessioni "
+"più profonde con la propria fede. Possono usare gli strumenti per esplorare "
+"testi religiosi o messaggi divini. Occupazioni: Studiosi religiosi, imam, "
+"sacerdoti o laici con un forte interesse nelle tradizioni mistiche della "
+"loro fede. Spettro ideologico: Probabilmente hanno una visione tradizionale "
+"o conservatrice, usando gli strumenti per rafforzare le loro credenze "
+"spirituali."
+
+msgid "Writers and Artists"
+msgstr "Scrittori e artisti"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Tratti della personalità: Creativi, immaginativi e attratti da concetti "
+"simbolici o astratti. Possono usare gli strumenti per ispirazione o per "
+"aggiungere strati di significato al loro lavoro. Occupazioni: Autori, poeti,"
+" artisti visivi o musicisti. Spettro ideologico: Può variare da creativi "
+"secolari a coloro con inclinazione spirituale o mistica."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Appassionati di puzzle e indovinelli"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Tratti della personalità: Spensierati, curiosi intellettualmente e amano "
+"risolvere problemi complessi o decodificare schemi. Occupazioni: Hobbisti, "
+"designer di puzzle o educatori. Spettro ideologico: Probabilmente vedono gli"
+" strumenti come forma di intrattenimento o esercizio mentale, con poca "
+"adesione ideologica."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Teorici della cospirazione e pensatori alternativi"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Tratti della personalità: Scettici nei confronti delle narrazioni "
+"mainstream, attratti dalla scoperta di verità nascoste o schemi nei sistemi."
+" Occupazioni: Ricercatori indipendenti, blogger o attivisti. Spettro "
+"ideologico: Possono avere una visione più radicale o non convenzionale, "
+"usando gli strumenti per sostenere teorie o narrazioni alternative."
+
+msgid "☕ Support the Project"
+msgstr "☕ Supporta il progetto"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Se ti piace il mio progetto, puoi comprarmi un caffè!"
+
+msgid "Buy Me A Coffee"
+msgstr "Compra un caffè per me"
+
+msgid "Thank you! 🙏"
+msgstr "Grazie! 🙏"

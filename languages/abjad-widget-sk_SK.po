@@ -1,0 +1,823 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Slovak <sk_SK>\n"
+"Language: sk-SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Nastavenia Abjad"
+
+msgid "Abjad Value"
+msgstr "Hodnota Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Výsledky výpočtu Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Skryté výpočty Abjad"
+
+msgid "Abjad not calculated"
+msgstr "Abjad nebol vypočítaný"
+
+msgid "Abjad order"
+msgstr "Poradie Abjad"
+
+msgid "Add elements"
+msgstr "Pridať prvky"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Vzduch"
+
+msgid "All"
+msgstr "Všetko"
+
+msgid "Arabic"
+msgstr "Arabčina"
+
+msgid "Arabic letters"
+msgstr "Arabské písmená"
+
+msgid "Arabic numbers"
+msgstr "Arabské čísla"
+
+msgid "As data for operation"
+msgstr "Ako dáta pre operáciu"
+
+msgid "Bast loop results"
+msgstr "Výsledky cyklu Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast nebol vypočítaný"
+
+msgid "Bast repetition count"
+msgstr "Počet opakovaní Bast"
+
+msgid "Bast results hidden"
+msgstr "Skryté výsledky Bast"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Poradie Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Tabuľka Bastet"
+
+msgid "Big"
+msgstr "Veľký"
+
+msgid "Bigger"
+msgstr "Väčší"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Kúp mi kávu"
+
+msgid "Calculate"
+msgstr "Vypočítať"
+
+msgid "Calculate Abjad"
+msgstr "Vypočítať Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Vypočítať Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Vypočítať Huddam"
+
+msgid "Calculation details"
+msgstr "Podrobnosti výpočtu"
+
+msgid "Choose Keyboard Layout"
+msgstr "Vyberte rozloženie klávesnice"
+
+msgid "Clear text box"
+msgstr "Vyčistiť textové pole"
+
+msgid "Click row for details"
+msgstr "Kliknite na riadok pre podrobnosti"
+
+msgid "Close Keyboard"
+msgstr "Zatvoriť klávesnicu"
+
+msgid "Closed"
+msgstr "Zatvorené"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Čiarka je predvoleným oddeľovačom a musí zostávať označená!"
+
+msgid "Dashboard"
+msgstr "Ovládací panel"
+
+msgid "Data entry separators:"
+msgstr "Oddeľovače vstupu dát:"
+
+msgid "Data type profile"
+msgstr "Profil typu dát"
+
+msgid "Dead keys"
+msgstr "Mŕtve klávesy"
+
+msgid "Decrease keyboard size"
+msgstr "Zmenšiť veľkosť klávesnice"
+
+msgid "Don't calculate"
+msgstr "Nečítať"
+
+msgid "Duty entity name results"
+msgstr "Výsledky názvu povinného subjektu"
+
+msgid "Duty entity type"
+msgstr "Typ povinného subjektu"
+
+msgid "Earth"
+msgstr "Zem"
+
+msgid "Element classification"
+msgstr "Klasifikácia prvku"
+
+msgid "Element classification method"
+msgstr "Metóda klasifikácie prvku"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Zadajte text... Arabské, hebrejské, turecké písmená, čísla"
+
+msgid "Entered data"
+msgstr "Zadané dáta"
+
+msgid "Entry"
+msgstr "Vstup"
+
+msgid "Entry letter count"
+msgstr "Počet písmen vstupu"
+
+msgid "Evil"
+msgstr "Zlo"
+
+msgid "Fire"
+msgstr "Oheň"
+
+msgid "For entered data"
+msgstr "Pre zadané dáta"
+
+msgid "Frequency in Quran"
+msgstr "Frekvencia v Koráne"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebrejčina"
+
+msgid "Hebrew alphabet elements"
+msgstr "Prvky hebrejského abecedy"
+
+msgid "Hebrew letters"
+msgstr "Hebrejské písmená"
+
+msgid "High"
+msgstr "Vysoké"
+
+msgid "Hija order"
+msgstr "Poradie Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam mená sú skryté"
+
+msgid "Huddam not calculated"
+msgstr "Huddam nebol vypočítaný"
+
+msgid "Iklil's order"
+msgstr "Poradie Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Zväčšiť veľkosť klávesnice"
+
+msgid "Indian numbers"
+msgstr "Indické čísla"
+
+msgid "Interface language"
+msgstr "Jazyk rozhrania"
+
+msgid "Let character quantity decide"
+msgstr "Povoliť rozhodnutie na základe počtu znakov"
+
+msgid "Letter count"
+msgstr "Počet písmen"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Zostali vám moje projekty zaujímavé? Kúpte mi kávu!"
+
+msgid "Low"
+msgstr "Nízke"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Poradie Maghribian hija"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Jazyk čítania čísiel"
+
+msgid "Numerical values"
+msgstr "Číselné hodnoty"
+
+msgid "Open"
+msgstr "Otvoriť"
+
+msgid "Order"
+msgstr "Poradie"
+
+msgid "Possible phrases"
+msgstr "Možné frázy"
+
+msgid "Program settings"
+msgstr "Nastavenia programu"
+
+msgid "Pronunciation"
+msgstr "Výslovnosť"
+
+msgid "Regular expression"
+msgstr "Regulárny výraz"
+
+msgid "Regularly preferred classification"
+msgstr "Často preferovaná klasifikácia"
+
+msgid "Reset"
+msgstr "Vynulovať"
+
+msgid "Separators"
+msgstr "Oddeľovače"
+
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgid "Shamsee abjad order"
+msgstr "Poradie abjad Shamsee"
+
+msgid "Show numpad"
+msgstr "Zobraziť numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Zobraziť virtuálnu klávesnicu"
+
+msgid "Small"
+msgstr "Malý"
+
+msgid "Small + letter count"
+msgstr "Malý + počet písmen"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Taken (letter)"
+msgstr "Využité (písmeno)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Využité (písmeno; abjad)"
+
+msgid "Taken Letters"
+msgstr "Využité písmená"
+
+msgid "Text or number cell"
+msgstr "Textové alebo číselné pole"
+
+msgid "Thank you for your support!"
+msgstr "Ďakujeme za vašu podporu!"
+
+msgid "Total"
+msgstr "Celkom"
+
+msgid "Turkish"
+msgstr "Turečtina"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Turecké abjadové abecedy"
+
+msgid "Turkish alphabet elements"
+msgstr "Turecké prvky abecedy"
+
+msgid "Turkish letters"
+msgstr "Turecké písmená"
+
+msgid "Undefined characters"
+msgstr "Nedefinované znaky"
+
+msgid "Value"
+msgstr "Hodnota"
+
+msgid "Value & Detail"
+msgstr "Hodnota & Detail"
+
+msgid "Version"
+msgstr "Verzia"
+
+msgid "Water"
+msgstr "Voda"
+
+msgid "When data is entered"
+msgstr "Keď sa zadujú údaje"
+
+msgid "When reading large digits"
+msgstr "Pri čítaní veľkých číslic"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad vypočítaný a počet písmen pridaný"
+
+msgid "abjad() functions settings"
+msgstr "nastavenia funkcie abjad()"
+
+msgid "add to initial value"
+msgstr "pridať k počiatočnej hodnote"
+
+msgid "and"
+msgstr "a"
+
+msgid "auto calculate immediately"
+msgstr "automaticky vypočítať okamžite"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "nastavenia funkcií bastet() a nutket()"
+
+msgid "count once"
+msgstr "počítaj raz"
+
+msgid "count twice"
+msgstr "počítaj dvakrát"
+
+msgid "display with Arabic numbers"
+msgstr "zobraziť arabské číslice"
+
+msgid "display with Indian numbers"
+msgstr "zobraziť indické číslice"
+
+msgid "do not add to initial value"
+msgstr "nepridať k počiatočnej hodnote"
+
+msgid "do not force to other functions"
+msgstr "nevyvíjať do iných funkcií"
+
+msgid "do not purify"
+msgstr "nečistiť"
+
+msgid "force to other functions"
+msgstr "vyvíjať do iných funkcií"
+
+msgid "group multiplier letters"
+msgstr "skupinové násobné písmená"
+
+msgid "hide"
+msgstr "skryť"
+
+msgid "hide abjad values"
+msgstr "skryť hodnoty abjad"
+
+msgid "hide bast results"
+msgstr "skryť bast výsledky"
+
+msgid "hide huddam names"
+msgstr "skryť huddam mená"
+
+msgid "huddam() function settings"
+msgstr "huddam() nastavenia funkcie"
+
+msgid "no bast applied."
+msgstr "žiadne bast aplikované."
+
+msgid "no data entered"
+msgstr "žiadne údaje zadané"
+
+msgid "other suffix"
+msgstr "ďalšia prípona"
+
+msgid "purify data"
+msgstr "očistiť údaje"
+
+msgid "repeat multiplier for each digit"
+msgstr "opakovať násobok pre každú číslicu"
+
+msgid "show"
+msgstr "zobraziť"
+
+msgid "show abjad values"
+msgstr "zobraziť hodnoty abjad"
+
+msgid "show bast results"
+msgstr "zobraziť bast výsledky"
+
+msgid "show huddam names"
+msgstr "zobraziť huddam mená"
+
+msgid "suffix"
+msgstr "prípona"
+
+msgid "times bast applied."
+msgstr "bast aplikovaný krát."
+
+msgid "use calculated abjad results"
+msgstr "použiť vypočítané abjad výsledky"
+
+msgid "use calculated abjad total"
+msgstr "použiť vypočítaný abjad súčet"
+
+msgid "use calculated bast results"
+msgstr "použiť vypočítané bast výsledky"
+
+msgid "use entered data directly"
+msgstr "použiť zadané údaje priamo"
+
+msgid "use entered data total"
+msgstr "použiť zadané údaje celkom"
+
+msgid "use in all bast repetitions"
+msgstr "použiť vo všetkých bast opakovaniach"
+
+msgid "use only at beginning if possible"
+msgstr "použiť iba na začiatku, ak je to možné"
+
+msgid "wait for settings and data entry"
+msgstr "čakajte na nastavenia a zadávanie údajov"
+
+msgid "Abjad Table"
+msgstr "Abjad Tabuľka"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgid "Element Classification"
+msgstr "Klasifikácia prvkov"
+
+msgid "Abjad Order"
+msgstr "Poradie abjad"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Pridajte vlastné CSS na prispôsobenie vzhľadu widgetu."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Pridajte vlastné JavaScript pre úpravu správania widgetu. Nesprávny kód môže"
+" widget zničiť!"
+
+msgid "An error occurred while loading content."
+msgstr "Počas načítavania obsahu sa vyskytla chyba."
+
+msgid "Button"
+msgstr "Tlačidlo"
+
+msgid "Button Color"
+msgstr "Farba tlačidla"
+
+msgid "Button Emoji"
+msgstr "Emoji tlačidla"
+
+msgid "Button Message"
+msgstr "Správa tlačidla"
+
+msgid "Button Settings"
+msgstr "Nastavenia tlačidla"
+
+msgid "Button Type"
+msgstr "Typ tlačidla"
+
+msgid "CSS saved successfully."
+msgstr "CSS úspešne uložený."
+
+msgid "Check this box to activate the widget."
+msgstr "Označte toto políčko na aktiváciu widgetu."
+
+msgid "Code Editor"
+msgstr "Editor kódu"
+
+msgid "Custom CSS"
+msgstr "Vlastný CSS"
+
+msgid "Custom JavaScript"
+msgstr "Vlastný JavaScript"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Zadajte URL obrázka"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Example: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Všeobecné"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript úspešne uložený."
+
+msgid "Left"
+msgstr "Vľavo"
+
+msgid "Live Preview"
+msgstr "Živý náhľad"
+
+msgid "Loading..."
+msgstr "Načítava sa..."
+
+msgid "PNG Image URL"
+msgstr "URL PNG obrázku"
+
+msgid "Paste SVG code"
+msgstr "Vložte SVG kód"
+
+msgid "Please enter a valid URL."
+msgstr "Zadajte prosím platnú URL."
+
+msgid "Position"
+msgstr "Pozícia"
+
+msgid "Reset to Default"
+msgstr "Obnoviť na predvolené"
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "SVG Code"
+msgstr "SVG kód"
+
+msgid "Save CSS"
+msgstr "Uložiť CSS"
+
+msgid "Save JavaScript"
+msgstr "Uložiť JavaScript"
+
+msgid "Save Settings"
+msgstr "Uložiť nastavenia"
+
+msgid "Settings saved successfully."
+msgstr "Nastavenia boli úspešne uložené."
+
+msgid "Style Editor"
+msgstr "Editor štýlu"
+
+msgid "WARNING"
+msgstr "VAROVANIE"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "Vitajte! Môžete sledovať správy a oznámenia widgetu z tohto panela."
+
+msgid "Widget Settings"
+msgstr "Nastavenia widgetu"
+
+msgid "Widget Status"
+msgstr "Stav widgetu"
+
+msgid "Widget active"
+msgstr "Widget aktívny"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Nesprávny JavaScriptový kód môže widget zničiť. Pred zmenami si vytvorte "
+"zálohu."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Vaše používateľské meno na Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Vaše zmeny budú priamo ovplyvňovať vzhľad widgetu. Ak nepoznáte CSS, "
+"odporúča sa použiť predvolené nastavenia."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Lokálne ovládanie"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Duchovní hľadači a mystici"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Charakteristiky osobnosti: Zvedaví, introspektívni, otvorení a zaujímajú sa "
+"o esoterické poznanie. Môžu mať silný záujem o odhaľovanie skrytých významov"
+" alebo vzorcov v živote. Zamestnania: Duchovní kouči, tarotoví čitateľia, "
+"astrologovia alebo jednotlivci zapojení do praktík New Age. Ideologický "
+"spektrum: Pravdepodobne sa orientujú na duchovné alebo metafyzické "
+"vierovyznanie. Môžu vnímať nástroje ako spôsob, ako sa spojiť s hlbšími "
+"pravdami alebo univerzálnymi energiami."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerológovia a Gematria nadšenci"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Charakteristiky osobnosti: Analytickí, orientovaní na detaily a fascinovaní "
+"vzťahom medzi číslami a jazykom. Môžu mať radosť z dešifrovania symbolických"
+" významov. Zamestnania: Samostatní numerológovia, spisovatelia o "
+"esoterických témach alebo nadšenci skúmajúci numerológiu. Ideologický "
+"spektrum: Môže sa pohybovať od tých, ktorí považujú numerológiu za zábavný "
+"intelektuálny tréning, až po tých, ktorí veria v jej hlboký duchovný význam."
+
+msgid "Historians and Linguists"
+msgstr "Historici a lingvisti"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Charakteristiky osobnosti: Akademickí, metodickí a zaujímajú sa o historické"
+" alebo kultúrne kontexty číselných systémov ako Abjad. Zamestnania: "
+"Akademici, výskumníci alebo študenti študujúci východoeurópske jazyky, "
+"históriu alebo náboženské texty. Ideologický spektrum: Pravdepodobne "
+"pristupujú k nástrojom z sekulárneho, akademického hľadiska, sústreďujúc sa "
+"na ich historickú alebo lingvistickú významnosť."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Religiónne alebo vierou založení jednotlivci"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Charakteristiky osobnosti: Oddaní, reflexívni a hľadajúci hlbšie spojenia so"
+" svojou vierou. Môžu používať nástroje na preskúmanie náboženských textov "
+"alebo božských správ. Zamestnania: Náboženskí učenliví, imámovia, knížat "
+"alebo laici s veľkým záujmom o mystické tradície svojej viery. Ideologický "
+"spektrum: Pravdepodobne majú tradičný alebo konzervatívny svetový názor, "
+"používajú nástroje na posilnenie svojich duchovných vier."
+
+msgid "Writers and Artists"
+msgstr "Spisovatelia a umelci"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Charakteristiky osobnosti: Kreatívni, imaginatívni a zaujímajú sa o "
+"symbolické alebo abstraktné koncepty. Môžu používať nástroje na inšpiráciu "
+"alebo na pridanie vrstiev významu do svojich diel. Zamestnania: Autorzy, "
+"básnici, vizuálni umelci alebo hudobníci. Ideologický spektrum: Môže sa "
+"pohybovať od sekulárnych tvorcov až po tých, ktorí majú duchovné alebo "
+"mystické sklony."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Nadšenci do hádaniek a rébil"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Charakteristiky osobnosti: Hrátky, intelektuálne zvedaví a radi riešia "
+"zložité problémy alebo dešifrujú vzory. Zamestnania: Hobbyisti, dizajnéri "
+"hádaniek alebo pedagógovia. Ideologický spektrum: Pravdepodobne pristupujú k"
+" nástrojom ako forma zábavy alebo mentálneho cvičenia, bez veľkého "
+"ideologického prilievania."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Konšpirační teoretici a alternatívni myslitelia"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Charakteristiky osobnosti: Skeptickí k hlavným naratívom, zaujímajú sa o "
+"odhaľovanie skrytých pravd alebo vzorcov v systémoch. Zamestnania: "
+"Samostatní výskumníci, blogeri alebo aktivisti. Ideologický spektrum: Môže "
+"mať radikálnejší alebo nekonvenčný svetový názor, využíva nástroje na "
+"podporu alternatívnych teórií alebo naratívov."
+
+msgid "☕ Support the Project"
+msgstr "☕ Podporiť projekt"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ak sa vám páči môj projekt, môžete mi kúpiť kávu!"
+
+msgid "Buy Me A Coffee"
+msgstr "Kúpiť mi kávu"
+
+msgid "Thank you! 🙏"
+msgstr "Ďakujem! 🙏"

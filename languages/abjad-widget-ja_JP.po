@@ -1,0 +1,783 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Japanese <ja_JP>\n"
+"Language: ja-JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad設定"
+
+msgid "Abjad Value"
+msgstr "Abjad値"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjadウィジェットダッシュボード"
+
+msgid "Abjad calculation results"
+msgstr "Abjad計算結果"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad計算結果は非表示"
+
+msgid "Abjad not calculated"
+msgstr "Abjad未計算"
+
+msgid "Abjad order"
+msgstr "Abjad順序"
+
+msgid "Add elements"
+msgstr "要素を追加"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "空気"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Arabic"
+msgstr "アラビア語"
+
+msgid "Arabic letters"
+msgstr "アラビア文字"
+
+msgid "Arabic numbers"
+msgstr "アラビア数字"
+
+msgid "As data for operation"
+msgstr "操作のためのデータとして"
+
+msgid "Bast loop results"
+msgstr "Bastループ結果"
+
+msgid "Bast not calculated"
+msgstr "Bast未計算"
+
+msgid "Bast repetition count"
+msgstr "Bast繰り返し回数"
+
+msgid "Bast results hidden"
+msgstr "Bast結果は非表示"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet順序"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Bastet表"
+
+msgid "Big"
+msgstr "大きい"
+
+msgid "Bigger"
+msgstr "さらに大きい"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "コーヒーを買ってください"
+
+msgid "Calculate"
+msgstr "計算"
+
+msgid "Calculate Abjad"
+msgstr "Abjadを計算"
+
+msgid "Calculate Bastet"
+msgstr "バステを計算"
+
+msgid "Calculate Huddam"
+msgstr "Huddamを計算"
+
+msgid "Calculation details"
+msgstr "計算詳細"
+
+msgid "Choose Keyboard Layout"
+msgstr "キーボードレイアウトを選択"
+
+msgid "Clear text box"
+msgstr "テキストボックスをクリア"
+
+msgid "Click row for details"
+msgstr "詳細を表示するには行をクリック"
+
+msgid "Close Keyboard"
+msgstr "キーボードを閉じる"
+
+msgid "Closed"
+msgstr "閉じました"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "カンマはデフォルトの区切り文字で、チェックされたままにする必要があります！"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Data entry separators:"
+msgstr "データ入力区切り記号:"
+
+msgid "Data type profile"
+msgstr "データ型プロファイル"
+
+msgid "Dead keys"
+msgstr "デッドキー"
+
+msgid "Decrease keyboard size"
+msgstr "キーボードサイズを縮小"
+
+msgid "Don't calculate"
+msgstr "計算しない"
+
+msgid "Duty entity name results"
+msgstr "職務エンティティ名の結果"
+
+msgid "Duty entity type"
+msgstr "職務エンティティタイプ"
+
+msgid "Earth"
+msgstr "地球"
+
+msgid "Element classification"
+msgstr "要素分類"
+
+msgid "Element classification method"
+msgstr "要素分類方法"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "テキストを入力... アラビア語、ヘブライ語、トルコ語の文字、数字"
+
+msgid "Entered data"
+msgstr "入力されたデータ"
+
+msgid "Entry"
+msgstr "入力"
+
+msgid "Entry letter count"
+msgstr "入力文字数"
+
+msgid "Evil"
+msgstr "悪"
+
+msgid "Fire"
+msgstr "火"
+
+msgid "For entered data"
+msgstr "入力されたデータに対して"
+
+msgid "Frequency in Quran"
+msgstr "クルアーンでの頻度"
+
+msgid "Gematria"
+msgstr "ゲマトリア"
+
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+msgid "Hebrew alphabet elements"
+msgstr "ヘブライ語のアルファベット要素"
+
+msgid "Hebrew letters"
+msgstr "ヘブライ語の文字"
+
+msgid "High"
+msgstr "高い"
+
+msgid "Hija order"
+msgstr "Hija順序"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam名は隠れています"
+
+msgid "Huddam not calculated"
+msgstr "Huddamは計算されていません"
+
+msgid "Iklil's order"
+msgstr "Iklilの順序"
+
+msgid "Increase keyboard size"
+msgstr "キーボードサイズを拡大"
+
+msgid "Indian numbers"
+msgstr "インド数字"
+
+msgid "Interface language"
+msgstr "インターフェース言語"
+
+msgid "Let character quantity decide"
+msgstr "文字数で決定させる"
+
+msgid "Letter count"
+msgstr "文字数"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "プロジェクトがお気に召しましたか？コーヒーを買ってください！"
+
+msgid "Low"
+msgstr "低い"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija順序"
+
+msgid "Minimum"
+msgstr "最小"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "数値読み言語"
+
+msgid "Numerical values"
+msgstr "数値"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "Order"
+msgstr "順序"
+
+msgid "Possible phrases"
+msgstr "可能なフレーズ"
+
+msgid "Program settings"
+msgstr "プログラム設定"
+
+msgid "Pronunciation"
+msgstr "発音"
+
+msgid "Regular expression"
+msgstr "正規表現"
+
+msgid "Regularly preferred classification"
+msgstr "頻繁に選ばれる分類"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Separators"
+msgstr "区切り記号"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee アビジャド順序"
+
+msgid "Show numpad"
+msgstr "Numpad を表示"
+
+msgid "Show virtual keyboard"
+msgstr "仮想キーボードを表示"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small + letter count"
+msgstr "小 + 文字数"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Taken (letter)"
+msgstr "取得（文字）"
+
+msgid "Taken (letter; abjad)"
+msgstr "取得（文字; アビジャド）"
+
+msgid "Taken Letters"
+msgstr "取得文字"
+
+msgid "Text or number cell"
+msgstr "テキストまたは数値セル"
+
+msgid "Thank you for your support!"
+msgstr "サポートありがとうございます！"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Turkish"
+msgstr "トルコ語"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "トルコ語アルファベット アビジャド"
+
+msgid "Turkish alphabet elements"
+msgstr "トルコ語アルファベットの要素"
+
+msgid "Turkish letters"
+msgstr "トルコ語の文字"
+
+msgid "Undefined characters"
+msgstr "未定義文字"
+
+msgid "Value"
+msgstr "値"
+
+msgid "Value & Detail"
+msgstr "値 & 詳細"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Water"
+msgstr "水"
+
+msgid "When data is entered"
+msgstr "データが入力されたとき"
+
+msgid "When reading large digits"
+msgstr "大きな数字を読むとき"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjadが計算され、文字数が追加されました"
+
+msgid "abjad() functions settings"
+msgstr "abjad()関数設定"
+
+msgid "add to initial value"
+msgstr "初期値に追加"
+
+msgid "and"
+msgstr "と"
+
+msgid "auto calculate immediately"
+msgstr "即時自動計算"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() と nutket() 関数設定"
+
+msgid "count once"
+msgstr "1回数える"
+
+msgid "count twice"
+msgstr "2回数える"
+
+msgid "display with Arabic numbers"
+msgstr "アラビア数字で表示"
+
+msgid "display with Indian numbers"
+msgstr "インド数字で表示"
+
+msgid "do not add to initial value"
+msgstr "初期値に追加しない"
+
+msgid "do not force to other functions"
+msgstr "他の関数に強制しない"
+
+msgid "do not purify"
+msgstr "浄化しない"
+
+msgid "force to other functions"
+msgstr "他の関数に強制する"
+
+msgid "group multiplier letters"
+msgstr "グループ乗数文字"
+
+msgid "hide"
+msgstr "非表示"
+
+msgid "hide abjad values"
+msgstr "abjad値を非表示"
+
+msgid "hide bast results"
+msgstr "bast結果を非表示にする"
+
+msgid "hide huddam names"
+msgstr "huddam名を非表示にする"
+
+msgid "huddam() function settings"
+msgstr "huddam() 関数設定"
+
+msgid "no bast applied."
+msgstr "bastが適用されていません。"
+
+msgid "no data entered"
+msgstr "データが入力されていません"
+
+msgid "other suffix"
+msgstr "その他の接尾辞"
+
+msgid "purify data"
+msgstr "データを浄化する"
+
+msgid "repeat multiplier for each digit"
+msgstr "各桁の繰り返し乗数"
+
+msgid "show"
+msgstr "表示"
+
+msgid "show abjad values"
+msgstr "アブジャド値を表示"
+
+msgid "show bast results"
+msgstr "bast結果を表示"
+
+msgid "show huddam names"
+msgstr "huddam名を表示"
+
+msgid "suffix"
+msgstr "接尾辞"
+
+msgid "times bast applied."
+msgstr "bastが適用された回数。"
+
+msgid "use calculated abjad results"
+msgstr "計算されたアブジャド結果を使用"
+
+msgid "use calculated abjad total"
+msgstr "計算されたアブジャド合計を使用"
+
+msgid "use calculated bast results"
+msgstr "計算されたbast結果を使用"
+
+msgid "use entered data directly"
+msgstr "入力されたデータを直接使用"
+
+msgid "use entered data total"
+msgstr "入力されたデータ合計を使用"
+
+msgid "use in all bast repetitions"
+msgstr "すべてのbast繰り返しで使用"
+
+msgid "use only at beginning if possible"
+msgstr "可能なら開始時のみ使用"
+
+msgid "wait for settings and data entry"
+msgstr "設定とデータ入力を待つ"
+
+msgid "Abjad Table"
+msgstr "アブジャド表"
+
+msgid "Shadda"
+msgstr "シダ"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Element Classification"
+msgstr "要素分類"
+
+msgid "Abjad Order"
+msgstr "アブジャド順序"
+
+msgid "Abjad Widget"
+msgstr "アブジャドウィジェット"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "ウィジェットの外観をカスタマイズするためにカスタムCSSを追加してください。"
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr "ウィジェットの動作を変更するためにカスタムJavaScriptを追加してください。間違ったコードはウィジェットを破壊する可能性があります！"
+
+msgid "An error occurred while loading content."
+msgstr "コンテンツの読み込み中にエラーが発生しました。"
+
+msgid "Button"
+msgstr "ボタン"
+
+msgid "Button Color"
+msgstr "ボタンの色"
+
+msgid "Button Emoji"
+msgstr "ボタンの絵文字"
+
+msgid "Button Message"
+msgstr "ボタンのメッセージ"
+
+msgid "Button Settings"
+msgstr "ボタン設定"
+
+msgid "Button Type"
+msgstr "ボタンの種類"
+
+msgid "CSS saved successfully."
+msgstr "CSSを正常に保存しました。"
+
+msgid "Check this box to activate the widget."
+msgstr "このボックスをチェックしてウィジェットを有効にしてください。"
+
+msgid "Code Editor"
+msgstr "コードエディター"
+
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+msgid "Custom JavaScript"
+msgstr "カスタムJavaScript"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Emoji"
+msgstr "絵文字"
+
+msgid "Enter image URL"
+msgstr "画像URLを入力してください"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "例：🔮、☯️、✨"
+
+msgid "General"
+msgstr "一般"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScriptを正常に保存しました。"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+msgid "Loading..."
+msgstr "読み込み中…"
+
+msgid "PNG Image URL"
+msgstr "PNG画像URL"
+
+msgid "Paste SVG code"
+msgstr "SVGコードを貼り付けてください"
+
+msgid "Please enter a valid URL."
+msgstr "有効なURLを入力してください。"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Reset to Default"
+msgstr "デフォルトにリセット"
+
+msgid "Right"
+msgstr "右"
+
+msgid "SVG Code"
+msgstr "SVGコード"
+
+msgid "Save CSS"
+msgstr "CSSを保存"
+
+msgid "Save JavaScript"
+msgstr "JavaScriptを保存"
+
+msgid "Save Settings"
+msgstr "設定を保存"
+
+msgid "Settings saved successfully."
+msgstr "設定が正常に保存されました。"
+
+msgid "Style Editor"
+msgstr "スタイルエディタ"
+
+msgid "WARNING"
+msgstr "警告"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "ようこそ！このパネルからウィジェットのニュースやお知らせをフォローできます。"
+
+msgid "Widget Settings"
+msgstr "ウィジェット設定"
+
+msgid "Widget Status"
+msgstr "ウィジェットの状態"
+
+msgid "Widget active"
+msgstr "ウィジェットが有効"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "不正なJavaScriptコードはウィジェットを壊す可能性があります。変更前にバックアップしてください。"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "あなたのBuy Me a Coffeeユーザー名"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr "あなたの変更はウィジェットの外観に直接影響します。CSSが分からない場合は、デフォルト設定を使用することを推奨します。"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "アブジャドウィジェット - ローカルダッシュボード"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "精神探求者とミスティック"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"性格傾向：好奇心旺盛、内省的、心が開かれた、そして隠れた知識に惹かれる。人生の隠された意味やパターンを解き明かすことに強い興味を持つかもしれません。職業：スピリチュアルコーチ、タロットリーダー、占星術師、またはニューエイジの実践に関わる人々。イデオロギーの範囲：スピリチュアルまたは形而上学的信念に傾く傾向があります。彼らはツールをより深い真実や普遍的なエネルギーに接続する手段として見るかもしれません。"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "数秘術家とゲマトリア愛好家"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"性格傾向：分析的、細部志向、数と言語の関係に魅了される。象徴的な意味を解読するのを楽しむかもしれません。職業：フリーランス数秘術家、エソテリックトピックの作家、または数秘術を探求する趣味人。イデオロギーの範囲：数秘術を楽しい知的演習とみなす人から、その深い精神的重要性を信じる人まで幅広い。"
+
+msgid "Historians and Linguists"
+msgstr "歴史家と言語学者"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"性格傾向：学術的、体系的、アブジャドのような数値システムの歴史的または文化的文脈に関心がある。職業：アカデミック、研究者、または中東言語、歴史、宗教テキストを研究する学生。イデオロギーの範囲：ツールを世俗的、学術的視点からアプローチし、その歴史的または言語的意義に焦点を当てる傾向があります。"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "宗教的または信仰ベースの個人"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"性格傾向：献身的、内省的、信仰へのより深い結びつきを求める。彼らはツールを使って宗教テキストや神のメッセージを探求するかもしれません。職業：宗教学者、イマーム、司祭、または信仰の神秘的伝統に強い関心を持つ一般人。イデオロギーの範囲：伝統的または保守的な世界観を持ち、ツールを使って精神的信念を強化する傾向があります。"
+
+msgid "Writers and Artists"
+msgstr "作家とアーティスト"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"性格傾向：創造的、想像力豊か、象徴的または抽象的概念に惹かれる。彼らはツールをインスピレーション源として、または作品に意味の層を加えるために使うかもしれません。職業：作家、詩人、視覚芸術家、またはミュージシャン。イデオロギーの範囲：世俗的なクリエイターから精神的または神秘的傾向のある人まで幅広い。"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "パズルと謎解き愛好家"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"性格傾向：遊び心があり、知的好奇心が強く、複雑な問題を解いたりパターンを解読したりするのを楽しむ。職業：趣味人、パズルデザイナー、または教育者。イデオロギーの範囲：ツールを娯楽や精神的な運動の形として捉え、ほとんどイデオロギー的な結びつきはない。"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "陰謀論者と代替思想家"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"性格傾向：主流の物語に懐疑的で、システムの隠された真実やパターンを明らかにすることに惹かれる。職業：独立研究者、ブロガー、または活動家。イデオロギーの範囲：より過激または非従来型の世界観を持ち、ツールを使って代替理論や物語を支持するかもしれません。"
+
+msgid "☕ Support the Project"
+msgstr "☕ プロジェクトをサポート"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "私のプロジェクトが好きなら、コーヒーを買ってください！"
+
+msgid "Buy Me A Coffee"
+msgstr "コーヒーを買ってくれ"
+
+msgid "Thank you! 🙏"
+msgstr "ありがとうございます！🙏"

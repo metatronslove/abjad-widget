@@ -1,0 +1,822 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Turkish <tr_TR>\n"
+"Language: tr-TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad Ayarları"
+
+msgid "Abjad Value"
+msgstr "Abjad Değeri"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad Widget Dashboard"
+
+msgid "Abjad calculation results"
+msgstr "Abjad hesaplama sonuçları"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad hesaplamaları gizli"
+
+msgid "Abjad not calculated"
+msgstr "Abjad hesaplanmadı"
+
+msgid "Abjad order"
+msgstr "Abjad sırası"
+
+msgid "Add elements"
+msgstr "Eleman ekle"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Hava"
+
+msgid "All"
+msgstr "Tüm"
+
+msgid "Arabic"
+msgstr "Arapça"
+
+msgid "Arabic letters"
+msgstr "Arap harfleri"
+
+msgid "Arabic numbers"
+msgstr "Arap rakamları"
+
+msgid "As data for operation"
+msgstr "İşlem için veri olarak"
+
+msgid "Bast loop results"
+msgstr "Bast döngüsü sonuçları"
+
+msgid "Bast not calculated"
+msgstr "Bast hesaplanmadı"
+
+msgid "Bast repetition count"
+msgstr "Bast tekrar sayısı"
+
+msgid "Bast results hidden"
+msgstr "Bast sonuçları gizli"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet sırası"
+
+msgid "Bastet shadda"
+msgstr "Bastet şadda"
+
+msgid "Bastet table"
+msgstr "Bastet tablosu"
+
+msgid "Big"
+msgstr "Büyük"
+
+msgid "Bigger"
+msgstr "Daha büyük"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Bana bir kahve al"
+
+msgid "Calculate"
+msgstr "Hesapla"
+
+msgid "Calculate Abjad"
+msgstr "Abjad Hesapla"
+
+msgid "Calculate Bastet"
+msgstr "Bastet Hesapla"
+
+msgid "Calculate Huddam"
+msgstr "Huddam Hesapla"
+
+msgid "Calculation details"
+msgstr "Hesaplama detayları"
+
+msgid "Choose Keyboard Layout"
+msgstr "Klavye Düzeni Seç"
+
+msgid "Clear text box"
+msgstr "Metin kutusunu temizle"
+
+msgid "Click row for details"
+msgstr "Detaylar için satıra tıklayın"
+
+msgid "Close Keyboard"
+msgstr "Klavye Kapat"
+
+msgid "Closed"
+msgstr "Kapatıldı"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Virgül varsayılan ayırıcıdır ve işaretli kalmalıdır!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Veri girişi ayırıcıları:"
+
+msgid "Data type profile"
+msgstr "Veri tipi profili"
+
+msgid "Dead keys"
+msgstr "Ölü tuşlar"
+
+msgid "Decrease keyboard size"
+msgstr "Klavye boyutunu küçült"
+
+msgid "Don't calculate"
+msgstr "Hesaplama yapma"
+
+msgid "Duty entity name results"
+msgstr "Görevli varlık adı sonuçları"
+
+msgid "Duty entity type"
+msgstr "Görevli varlık türü"
+
+msgid "Earth"
+msgstr "Yer"
+
+msgid "Element classification"
+msgstr "Element sınıflandırması"
+
+msgid "Element classification method"
+msgstr "Element sınıflandırma yöntemi"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Metin girin... Arapça, İbranice, Türkçe harfler, sayılar"
+
+msgid "Entered data"
+msgstr "Girilen veri"
+
+msgid "Entry"
+msgstr "Giriş"
+
+msgid "Entry letter count"
+msgstr "Giriş harf sayısı"
+
+msgid "Evil"
+msgstr "Kötü"
+
+msgid "Fire"
+msgstr "Ateş"
+
+msgid "For entered data"
+msgstr "Girilen veri için"
+
+msgid "Frequency in Quran"
+msgstr "Kuran'da sıklık"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "İbranice"
+
+msgid "Hebrew alphabet elements"
+msgstr "İbranice alfabe elemanları"
+
+msgid "Hebrew letters"
+msgstr "İbranice harfler"
+
+msgid "High"
+msgstr "Yüksek"
+
+msgid "Hija order"
+msgstr "Hija sırası"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam adları gizli"
+
+msgid "Huddam not calculated"
+msgstr "Huddam hesaplanmadı"
+
+msgid "Iklil's order"
+msgstr "Iklil'in sırası"
+
+msgid "Increase keyboard size"
+msgstr "Klavye boyutunu büyüt"
+
+msgid "Indian numbers"
+msgstr "Hint rakamları"
+
+msgid "Interface language"
+msgstr "Arayüz dili"
+
+msgid "Let character quantity decide"
+msgstr "Karakter miktarının karar vermesine izin ver"
+
+msgid "Letter count"
+msgstr "Harf sayısı"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Projelerimi beğendiniz mi? Bana bir kahve al!"
+
+msgid "Low"
+msgstr "Düşük"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija sırası"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Sayı okuma dili"
+
+msgid "Numerical values"
+msgstr "Sayısal değerler"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Order"
+msgstr "Sıra"
+
+msgid "Possible phrases"
+msgstr "Olası ifadeler"
+
+msgid "Program settings"
+msgstr "Program ayarları"
+
+msgid "Pronunciation"
+msgstr "Telaffuz"
+
+msgid "Regular expression"
+msgstr "Düzenli ifade"
+
+msgid "Regularly preferred classification"
+msgstr "Sıklıkla tercih edilen sınıflandırma"
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+msgid "Separators"
+msgstr "Ayırıcılar"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee abjad sırası"
+
+msgid "Show numpad"
+msgstr "Numpad göster"
+
+msgid "Show virtual keyboard"
+msgstr "Sanal klavye göster"
+
+msgid "Small"
+msgstr "Küçük"
+
+msgid "Small + letter count"
+msgstr "Küçük + harf sayısı"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Destek"
+
+msgid "Taken (letter)"
+msgstr "Alınan (harf)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Alınan (harf; abjad)"
+
+msgid "Taken Letters"
+msgstr "Alınan Harfler"
+
+msgid "Text or number cell"
+msgstr "Metin veya sayı hücresi"
+
+msgid "Thank you for your support!"
+msgstr "Destekleriniz için teşekkür ederiz!"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Turkish"
+msgstr "Türkçe"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Türk Alfabesi Abjad"
+
+msgid "Turkish alphabet elements"
+msgstr "Türk alfabesi elemanları"
+
+msgid "Turkish letters"
+msgstr "Türkçe harfler"
+
+msgid "Undefined characters"
+msgstr "Tanımlanmamış karakterler"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "Value & Detail"
+msgstr "Değer & Detay"
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Water"
+msgstr "Su"
+
+msgid "When data is entered"
+msgstr "Veri girildiğinde"
+
+msgid "When reading large digits"
+msgstr "Büyük rakamları okurken"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad hesaplandı ve harf sayısı eklendi"
+
+msgid "abjad() functions settings"
+msgstr "abjad() fonksiyon ayarları"
+
+msgid "add to initial value"
+msgstr "başlangıç değerine ekle"
+
+msgid "and"
+msgstr "ve"
+
+msgid "auto calculate immediately"
+msgstr "otomatik olarak hemen hesapla"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() ve nutket() fonksiyon ayarları"
+
+msgid "count once"
+msgstr "bir kez say"
+
+msgid "count twice"
+msgstr "iki kez say"
+
+msgid "display with Arabic numbers"
+msgstr "Arap rakamlarıyla göster"
+
+msgid "display with Indian numbers"
+msgstr "Hint rakamlarıyla göster"
+
+msgid "do not add to initial value"
+msgstr "başlangıç değerine ekleme"
+
+msgid "do not force to other functions"
+msgstr "diğer fonksiyonlara zorlamama"
+
+msgid "do not purify"
+msgstr "temizleme yapma"
+
+msgid "force to other functions"
+msgstr "diğer fonksiyonlara zorla"
+
+msgid "group multiplier letters"
+msgstr "çarpan harfleri gruplandır"
+
+msgid "hide"
+msgstr "gizle"
+
+msgid "hide abjad values"
+msgstr "abjad değerlerini gizle"
+
+msgid "hide bast results"
+msgstr "bast sonuçlarını gizle"
+
+msgid "hide huddam names"
+msgstr "huddam adlarını gizle"
+
+msgid "huddam() function settings"
+msgstr "huddam() işlev ayarları"
+
+msgid "no bast applied."
+msgstr "bast uygulanmadı."
+
+msgid "no data entered"
+msgstr "veri girilmedi"
+
+msgid "other suffix"
+msgstr "diğer ek"
+
+msgid "purify data"
+msgstr "veriyi temizle"
+
+msgid "repeat multiplier for each digit"
+msgstr "her rakam için çarpan tekrarı"
+
+msgid "show"
+msgstr "göster"
+
+msgid "show abjad values"
+msgstr "abjad değerlerini göster"
+
+msgid "show bast results"
+msgstr "bast sonuçlarını göster"
+
+msgid "show huddam names"
+msgstr "huddam adlarını göster"
+
+msgid "suffix"
+msgstr "ek"
+
+msgid "times bast applied."
+msgstr "bast uygulanma sayısı."
+
+msgid "use calculated abjad results"
+msgstr "hesaplanmış abjad sonuçlarını kullan"
+
+msgid "use calculated abjad total"
+msgstr "hesaplanmış abjad toplamını kullan"
+
+msgid "use calculated bast results"
+msgstr "hesaplanmış bast sonuçlarını kullan"
+
+msgid "use entered data directly"
+msgstr "girilen veriyi doğrudan kullan"
+
+msgid "use entered data total"
+msgstr "girilen verinin toplamını kullan"
+
+msgid "use in all bast repetitions"
+msgstr "tüm bast tekrarlarda kullan"
+
+msgid "use only at beginning if possible"
+msgstr "mümkünse sadece başta kullan"
+
+msgid "wait for settings and data entry"
+msgstr "ayarlar ve veri girişini bekle"
+
+msgid "Abjad Table"
+msgstr "Abjad Tablosu"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Ayrıntılar"
+
+msgid "Element Classification"
+msgstr "Öğe Sınıflandırması"
+
+msgid "Abjad Order"
+msgstr "Abjad Sırası"
+
+msgid "Abjad Widget"
+msgstr "Abjad Bileşeni"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Bileşen görünümünü özelleştirmek için özel CSS ekleyin."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Bileşen davranışını değiştirmek için özel JavaScript ekleyin. Hatalı kod "
+"bileşeni bozar!"
+
+msgid "An error occurred while loading content."
+msgstr "İçerik yüklenirken bir hata oluştu."
+
+msgid "Button"
+msgstr "Düğme"
+
+msgid "Button Color"
+msgstr "Düğme Rengi"
+
+msgid "Button Emoji"
+msgstr "Düğme Emoji"
+
+msgid "Button Message"
+msgstr "Düğme Mesajı"
+
+msgid "Button Settings"
+msgstr "Düğme Ayarları"
+
+msgid "Button Type"
+msgstr "Düğme Türü"
+
+msgid "CSS saved successfully."
+msgstr "CSS başarıyla kaydedildi."
+
+msgid "Check this box to activate the widget."
+msgstr "Bileşeni etkinleştirmek için bu kutuyu işaretleyin."
+
+msgid "Code Editor"
+msgstr "Kod Düzenleyici"
+
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+msgid "Custom JavaScript"
+msgstr "Özel JavaScript"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Görsel URL'sini girin"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Örnek: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript başarıyla kaydedildi."
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Live Preview"
+msgstr "Canlı Önizleme"
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "PNG Image URL"
+msgstr "PNG Görsel URL'si"
+
+msgid "Paste SVG code"
+msgstr "SVG kodunu yapıştırın"
+
+msgid "Please enter a valid URL."
+msgstr "Geçerli bir URL girin."
+
+msgid "Position"
+msgstr "Pozisyon"
+
+msgid "Reset to Default"
+msgstr "Varsayılana sıfırla"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "SVG Code"
+msgstr "SVG Kodu"
+
+msgid "Save CSS"
+msgstr "CSS'yi Kaydet"
+
+msgid "Save JavaScript"
+msgstr "JavaScript'i Kaydet"
+
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+msgid "Settings saved successfully."
+msgstr "Ayarlar başarıyla kaydedildi."
+
+msgid "Style Editor"
+msgstr "Stil Düzenleyicisi"
+
+msgid "WARNING"
+msgstr "UYARI"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Hoşgeldiniz! Bu panel üzerinden widget haberlerini ve duyuruları takip "
+"edebilirsiniz."
+
+msgid "Widget Settings"
+msgstr "Widget Ayarları"
+
+msgid "Widget Status"
+msgstr "Widget Durumu"
+
+msgid "Widget active"
+msgstr "Widget aktif"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Yanlış JavaScript kodu widget'ı bozabilir. Değişiklik yapmadan önce yedek "
+"alın."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Buy Me a Coffee kullanıcı adınız"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Değişiklikleriniz widget görünümünü doğrudan etkiler. CSS bilmiyorsanız "
+"varsayılan ayarları kullanmanız önerilir."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Yerel Gösterge Paneli"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Spiritüel Arayanlar ve Gizemciler"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Kişilik Özellikleri: Meraklı, içe dönük, açık fikirli ve esoterik bilgiye "
+"ilgi duyan. Hayattaki gizli anlamları veya desenleri keşfetmekle ilgili "
+"güçlü bir ilgiye sahip olabilirler. Meslekler: Spiritüel koçlar, tarot "
+"okuyucuları, astroloji uzmanları veya New Age uygulamalarına katılan "
+"kişiler. İdeolojik Spektrum: Muhtemelen spiritüel veya metafizik inançlara "
+"yatkındır. Araçları, derin gerçeklerle veya evrensel enerjilerle bağlantı "
+"kurmanın bir yolu olarak görebilirler."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Nümerologlar ve Gematria Tutkunları"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Kişilik Özellikleri: Analitik, ayrıntı odaklı ve sayıların ve dilin "
+"ilişkisiyle büyülenmiş. Sembolik anlamları çözmeyi keyif alabilirler. "
+"Meslekler: Serbest çalışkan nümerologlar, esoterik konularda yazarlar veya "
+"nümerolojiyle ilgilenen hobiistler. İdeolojik Spektrum: Nümerolojiyi "
+"eğlenceli bir entelektüel egzersiz olarak görenlerden, derin bir spiritüel "
+"öneme inananlara kadar değişebilir."
+
+msgid "Historians and Linguists"
+msgstr "Tarihçiler ve Dilbilimciler"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Kişilik Özellikleri: Bilimsel, metodik ve Abjad gibi sayısal sistemlerin "
+"tarihsel veya kültürel bağlamlarına ilgi duyan. Meslekler: Orta Doğu "
+"dilleri, tarih veya dini metinleri inceleyen akademisyenler, araştırmacılar "
+"veya öğrenciler. İdeolojik Spektrum: Araçları laik, akademik bir bakış "
+"açısıyla, tarihsel veya dilbilimsel önemi üzerinde yoğunlaşarak ele alırlar."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Dini veya İnanç Bazlı Kişiler"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Kişilik Özellikleri: Dini, düşünceli ve inançlarına daha derin bağlar "
+"arayan. Araçları dini metinleri veya ilahi mesajları keşfetmek için "
+"kullanabilirler. Meslekler: Dini bilginler, imamlar, rahipler veya "
+"inançlarının mistik geleneklerine güçlü ilgi duyan laik kişiler. İdeolojik "
+"Spektrum: Muhtemelen geleneksel veya muhafazakar bir dünya görüşüne sahip "
+"olup, araçları spiritüel inançlarını pekiştirmek için kullanırlar."
+
+msgid "Writers and Artists"
+msgstr "Yazarlar ve Sanatçılar"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Kişilik Özellikleri: Yaratıcı, hayalperest ve sembolik veya soyut kavramlara"
+" çekilen. İlham için veya eserlerine anlam katmak için araçları "
+"kullanabilirler. Meslekler: Yazarlar, şairler, görsel sanatçılar veya "
+"müzisyenler. İdeolojik Spektrum: Laik yaratıcılardan, spiritüel veya mistik "
+"yönleri olanlara kadar değişebilir."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Bulmaca ve Bilmece Tutkunları"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Kişilik Özellikleri: Oyunbaz, entelektüel meraklı ve karmaşık problemleri "
+"çözmek veya desenleri çözmekten keyif alan. Meslekler: Hobistler, bulmaca "
+"tasarımcıları veya eğitmenler. İdeolojik Spektrum: Araçları eğlence veya "
+"zihinsel egzersiz olarak görürler, ideolojik bağları azdır."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "İnfilak Teorisyenleri ve Alternatif Düşünürler"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Kişilik Özellikleri: Ana akım anlatılarına şüpheci, sistemlerde gizli "
+"gerçekleri veya desenleri keşfetmeye yönelmiş. Meslekler: Bağımsız "
+"araştırmacılar, blog yazarları veya aktivistler. İdeolojik Spektrum: Daha "
+"radikal veya alışılmadık bir dünya görüşüne sahip olabilir, araçları "
+"alternatif teorileri veya anlatıları desteklemek için kullanırlar."
+
+msgid "☕ Support the Project"
+msgstr "☕ Projeyi Destekle"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Projemi beğendiyseniz, bana bir kahve alabilirsiniz!"
+
+msgid "Buy Me A Coffee"
+msgstr "Bana Kahve Al"
+
+msgid "Thank you! 🙏"
+msgstr "Teşekkürler! 🙏"

@@ -1,0 +1,825 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Albanian <sq_AL>\n"
+"Language: sq-AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Rregullimet e Abjad"
+
+msgid "Abjad Value"
+msgstr "Vlera e Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Paneli i Widget-it Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Rezultatet e llogaritjes së Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Llogaritjet e Abjad janë fshehur"
+
+msgid "Abjad not calculated"
+msgstr "Abjad nuk është llogaritur"
+
+msgid "Abjad order"
+msgstr "Rrjedha e Abjad"
+
+msgid "Add elements"
+msgstr "Shto elementë"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Aer"
+
+msgid "All"
+msgstr "Të gjithë"
+
+msgid "Arabic"
+msgstr "Arabisht"
+
+msgid "Arabic letters"
+msgstr "Gjatë e shkrimit arabik"
+
+msgid "Arabic numbers"
+msgstr "Numrat arabi"
+
+msgid "As data for operation"
+msgstr "Si të dhëna për operacion"
+
+msgid "Bast loop results"
+msgstr "Rezultatet e ciklit Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast nuk është llogaritur"
+
+msgid "Bast repetition count"
+msgstr "Numri i përsëritjeve Bast"
+
+msgid "Bast results hidden"
+msgstr "Rezultatet e Bast janë fshehur"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Rrjedha e Bastet"
+
+msgid "Bastet shadda"
+msgstr "Shadda Bastet"
+
+msgid "Bastet table"
+msgstr "Tabela Bastet"
+
+msgid "Big"
+msgstr "E madhe"
+
+msgid "Bigger"
+msgstr "Më e madhe"
+
+msgid "Buy Me a Coffee ID"
+msgstr "ID e Buy Me a Coffee"
+
+msgid "Buy me a coffee"
+msgstr "Blini mua një kafe"
+
+msgid "Calculate"
+msgstr "Llogarit"
+
+msgid "Calculate Abjad"
+msgstr "Llogarit Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Llogarit Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Llogarit Huddam"
+
+msgid "Calculation details"
+msgstr "Detajet e llogaritjes"
+
+msgid "Choose Keyboard Layout"
+msgstr "Zgjidhni layout-in e tastierës"
+
+msgid "Clear text box"
+msgstr "Pastro kutinë e tekstit"
+
+msgid "Click row for details"
+msgstr "Klikoni rreshtin për detaje"
+
+msgid "Close Keyboard"
+msgstr "Mbyll tastierën"
+
+msgid "Closed"
+msgstr "Mbyllur"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Koma është ndarësi i parazgjedhur dhe duhet të mbetet kontrolluar!"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Data entry separators:"
+msgstr "Ndarësit e hyrjes së të dhënave:"
+
+msgid "Data type profile"
+msgstr "Profili i tipit të të dhënave"
+
+msgid "Dead keys"
+msgstr "Tastat e vdekur"
+
+msgid "Decrease keyboard size"
+msgstr "Zvogëlo madhësinë e tastierës"
+
+msgid "Don't calculate"
+msgstr "Mos llogaris"
+
+msgid "Duty entity name results"
+msgstr "Rezultatet e emrit të entitetit të detyrës"
+
+msgid "Duty entity type"
+msgstr "Tipi i entitetit të detyrës"
+
+msgid "Earth"
+msgstr "Toka"
+
+msgid "Element classification"
+msgstr "Klasifikimi i elementit"
+
+msgid "Element classification method"
+msgstr "Metoda e klasifikimit të elementit"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Shkruani tekst... shkronja arabe, hebraike, turke, numra"
+
+msgid "Entered data"
+msgstr "Të dhënat e futur"
+
+msgid "Entry"
+msgstr "Hyrje"
+
+msgid "Entry letter count"
+msgstr "Numri i shkronjave të hyrjes"
+
+msgid "Evil"
+msgstr "kukur"
+
+msgid "Fire"
+msgstr "Zjarri"
+
+msgid "For entered data"
+msgstr "Për të dhënat e futur"
+
+msgid "Frequency in Quran"
+msgstr "Shkalla në Kur’an"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Hebraike"
+
+msgid "Hebrew alphabet elements"
+msgstr "Elementët e alfabetit hebra"
+
+msgid "Hebrew letters"
+msgstr "Shkronjat hebra"
+
+msgid "High"
+msgstr "I lartë"
+
+msgid "Hija order"
+msgstr "Renditja e Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Emrat e Huddam të fshehtë"
+
+msgid "Huddam not calculated"
+msgstr "Huddam nuk është llogaritur"
+
+msgid "Iklil's order"
+msgstr "Renditja e Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Zmadho madhësinë e tastierës"
+
+msgid "Indian numbers"
+msgstr "Numrat indij"
+
+msgid "Interface language"
+msgstr "Gjuha e ndërfaqes"
+
+msgid "Let character quantity decide"
+msgstr "Lejo që sasia e karaktereve të vendosë"
+
+msgid "Letter count"
+msgstr "Numërimi i shkronjave"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Pëlqen projektet e mia? Mua një kafe!"
+
+msgid "Low"
+msgstr "I ulët"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Renditja e Maghribian hija"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Gjuha e leximit të numrave"
+
+msgid "Numerical values"
+msgstr "Vlerat numerike"
+
+msgid "Open"
+msgstr "Hap"
+
+msgid "Order"
+msgstr "Rend"
+
+msgid "Possible phrases"
+msgstr "Frazat e mundshme"
+
+msgid "Program settings"
+msgstr "Rregullimet e programit"
+
+msgid "Pronunciation"
+msgstr "Prononimi"
+
+msgid "Regular expression"
+msgstr "Ekspresion i rregullt"
+
+msgid "Regularly preferred classification"
+msgstr "Klasifikimi i preferuar shpesh"
+
+msgid "Reset"
+msgstr "Rivendos"
+
+msgid "Separators"
+msgstr "ndarës"
+
+msgid "Settings"
+msgstr "Parametrat"
+
+msgid "Shamsee abjad order"
+msgstr "Renditja e abjadit të Shamsee"
+
+msgid "Show numpad"
+msgstr "Shfaq numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Shfaq tastierën virtuale"
+
+msgid "Small"
+msgstr "I vogël"
+
+msgid "Small + letter count"
+msgstr "I vogël + numër shkronjash"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Mbështetje"
+
+msgid "Taken (letter)"
+msgstr "Shkronja e marrë"
+
+msgid "Taken (letter; abjad)"
+msgstr "Shkronja e marrë; abjad"
+
+msgid "Taken Letters"
+msgstr "Shkronjat e marrë"
+
+msgid "Text or number cell"
+msgstr "Qelë teksti ose numër"
+
+msgid "Thank you for your support!"
+msgstr "Faleminderit për mbështetjen tuaj!"
+
+msgid "Total"
+msgstr "Totali"
+
+msgid "Turkish"
+msgstr "Turqisht"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad i alfabetit turqisht"
+
+msgid "Turkish alphabet elements"
+msgstr "Elementët e alfabetit turqisht"
+
+msgid "Turkish letters"
+msgstr "Shkronjat turqisht"
+
+msgid "Undefined characters"
+msgstr "Karakteret e pa përcaktuar"
+
+msgid "Value"
+msgstr "Vlera"
+
+msgid "Value & Detail"
+msgstr "Vlera & Detaj"
+
+msgid "Version"
+msgstr "Versioni"
+
+msgid "Water"
+msgstr "Uji"
+
+msgid "When data is entered"
+msgstr "Kur futen të dhëna"
+
+msgid "When reading large digits"
+msgstr "Kur lexoni shifra të mëdha"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad i llogaritur dhe numri i shkronjave shtuar"
+
+msgid "abjad() functions settings"
+msgstr "parametrat e funksionit abjad()"
+
+msgid "add to initial value"
+msgstr "shto në vlerën fillestare"
+
+msgid "and"
+msgstr "dhe"
+
+msgid "auto calculate immediately"
+msgstr "llogarim automatik menjëherë"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "parametrat e funksionit bastet() dhe nutket()"
+
+msgid "count once"
+msgstr "numëro një herë"
+
+msgid "count twice"
+msgstr "numëro dy herë"
+
+msgid "display with Arabic numbers"
+msgstr "shfaq me numra arabi"
+
+msgid "display with Indian numbers"
+msgstr "shfaq me numra indi"
+
+msgid "do not add to initial value"
+msgstr "mos shtesë në vlerën fillestare"
+
+msgid "do not force to other functions"
+msgstr "mos forcues në funksione të tjera"
+
+msgid "do not purify"
+msgstr "mos pastruar"
+
+msgid "force to other functions"
+msgstr "forcues në funksione të tjera"
+
+msgid "group multiplier letters"
+msgstr "grupi i shkronjave shumëfishues"
+
+msgid "hide"
+msgstr "fshih"
+
+msgid "hide abjad values"
+msgstr "fshih vlerat abjad"
+
+msgid "hide bast results"
+msgstr "fshih rezultatët e bast"
+
+msgid "hide huddam names"
+msgstr "fshih emrat e huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() rregullimet e funksionit"
+
+msgid "no bast applied."
+msgstr "asnjë bast i aplikuar."
+
+msgid "no data entered"
+msgstr "asnjë dhënë e futur"
+
+msgid "other suffix"
+msgstr "përposmë tjetër"
+
+msgid "purify data"
+msgstr "purifiko të dhënat"
+
+msgid "repeat multiplier for each digit"
+msgstr "përsërit shumëzuesin për çdo shifër"
+
+msgid "show"
+msgstr "trego"
+
+msgid "show abjad values"
+msgstr "trego vlerat e abjad"
+
+msgid "show bast results"
+msgstr "trego rezultatët e bast"
+
+msgid "show huddam names"
+msgstr "trego emrat e huddam"
+
+msgid "suffix"
+msgstr "përposmë"
+
+msgid "times bast applied."
+msgstr "herë bast i aplikuar."
+
+msgid "use calculated abjad results"
+msgstr "përdor rezultatet e llogaritura të abjad"
+
+msgid "use calculated abjad total"
+msgstr "përdor totalin e llogaritur të abjad"
+
+msgid "use calculated bast results"
+msgstr "përdor rezultatet e llogaritura të bast"
+
+msgid "use entered data directly"
+msgstr "përdor të dhënat e futur drejtpërdrejt"
+
+msgid "use entered data total"
+msgstr "përdor totalin e të dhënave të futur"
+
+msgid "use in all bast repetitions"
+msgstr "përdor në të gjitha përsëritjet e bast"
+
+msgid "use only at beginning if possible"
+msgstr "përdor vetëm në fillim nëse është e mundur"
+
+msgid "wait for settings and data entry"
+msgstr "ndaj për rregullimet dhe futur të dhënat"
+
+msgid "Abjad Table"
+msgstr "Tabela Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Detajet"
+
+msgid "Element Classification"
+msgstr "Klasifikimi i Elementit"
+
+msgid "Abjad Order"
+msgstr "Renditja e Abjad"
+
+msgid "Abjad Widget"
+msgstr "Widget i Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Shtoni CSS të personalizuar për të personalizuar pamjen e widgetit."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Shtoni JavaScript të personalizuar për të modifikuar sjelljen e widgetit. "
+"Kod i gabuar mund të shkatërrojë widgetin!"
+
+msgid "An error occurred while loading content."
+msgstr "Pati një gabim gjatë ngarkimit të përmbajtjes."
+
+msgid "Button"
+msgstr "Buton"
+
+msgid "Button Color"
+msgstr "Ngjyra e butonit"
+
+msgid "Button Emoji"
+msgstr "Emoji i butonit"
+
+msgid "Button Message"
+msgstr "Mesazhi i butonit"
+
+msgid "Button Settings"
+msgstr "Rregullimet e butonit"
+
+msgid "Button Type"
+msgstr "Tipi i butonit"
+
+msgid "CSS saved successfully."
+msgstr "CSS u ruajt me sukses."
+
+msgid "Check this box to activate the widget."
+msgstr "Kontrolloni këtë kutë për të aktivizuar widget-in."
+
+msgid "Code Editor"
+msgstr "Editor i Kodit"
+
+msgid "Custom CSS"
+msgstr "CSS të personalizuar"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript të personalizuar"
+
+msgid "Description"
+msgstr "Përshkrimi"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Shkruani URL-në e imazhit"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Shembull: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Të përgjithshme"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript u ruajt me sukses."
+
+msgid "Left"
+msgstr "Majtas"
+
+msgid "Live Preview"
+msgstr "Parashikimi në kohë reale"
+
+msgid "Loading..."
+msgstr "Ngarkimi..."
+
+msgid "PNG Image URL"
+msgstr "URL e imazhit PNG"
+
+msgid "Paste SVG code"
+msgstr "Ngjite kodin SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Ju lutemi, shkruani një URL të vlefshme."
+
+msgid "Position"
+msgstr "Pozicioni"
+
+msgid "Reset to Default"
+msgstr "Rivendos në të parazgjedhur"
+
+msgid "Right"
+msgstr "Djathtas"
+
+msgid "SVG Code"
+msgstr "Kodi SVG"
+
+msgid "Save CSS"
+msgstr "Ruaj CSS"
+
+msgid "Save JavaScript"
+msgstr "Ruaj JavaScript"
+
+msgid "Save Settings"
+msgstr "Ruaj Cilësimet"
+
+msgid "Settings saved successfully."
+msgstr "Cilësimet u ruajtën me sukses."
+
+msgid "Style Editor"
+msgstr "Redaktuesi i Stilit"
+
+msgid "WARNING"
+msgstr "KUJDES"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Mirësevini! Mund të ndiqni lajmet dhe njoftimet e widget-it nga ky panel."
+
+msgid "Widget Settings"
+msgstr "Cilësimet e Widget-it"
+
+msgid "Widget Status"
+msgstr "Statusi i Widget-it"
+
+msgid "Widget active"
+msgstr "Widget aktiv"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Kod JavaScript i gabuar mund të prishë widget-in. Krijoni kopjeruajtje para "
+"se të bëni ndryshime."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Emri juaj i përdoruesit për Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Ndryshimet tuaja do të ndikojnë drejtpërdrejt në pamjen e widget-it. Nëse "
+"nuk e dini CSS, rekomandohet të përdorni cilësimet standarde."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Paneli Lokal"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Kërkues Spiritualë dhe Mistikë"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Karakteristikat e Personalitetit: I/e çuditshëm, introspektiv, me mendje të "
+"hapur, dhe i/erkuar për dijen esoterike. Mund të kenë një interes të fortë "
+"për zbukurimin e kuptimeve ose modeleve të fshehta në jetën. Profesionet: "
+"Instruatorë spiritualë, lexues tarot, astrologë, ose individë që përfshijnë "
+"praktikën e Re Dajë. Spektri Ideologjik: Shpreson të shkojë drejt besimeve "
+"spirituale ose metafizike. Mund të shohin mjetet si një mënyrë për të lidhur"
+" me të vërtetët më të thella ose energjitë universale."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologë dhe Entuziastë Gematria"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Karakteristikat e Personalitetit: Analitik, i orientuar në detaje, dhe i/e "
+"rrethuar për marrëdhënien midis numrave dhe gjuhës. Mund të gëzojnë "
+"dekodimin e kuptimeve simbolike. Profesionet: Numerologë freelancer, "
+"shkrimtarë në tema esoterike, ose hobiiste që eksplorojnë numerologjinë. "
+"Spektri Ideologjik: Mund të shkojë nga ata që shohin numerologjinë si një "
+"ushtrim argëtues intellektual nëse ata besojnë në rëndësinë e saj "
+"shpirtërore."
+
+msgid "Historians and Linguists"
+msgstr "Historikë dhe Gjuhësistë"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Karakteristikat e Personalitetit: Akademik, metodologjik, dhe i/e interesuar"
+" për kontekstet historike ose kulturore të sistemave numerike si Abjad. "
+"Profesionet: Akademikë, kërkues, ose studentë që studojnë gjuhët e Mesjetës,"
+" historinë, ose tekstet fetare. Spektri Ideologjik: Shpreson të qasë mjetet "
+"nga një perspektivë sekulare, akademike, duke u fokusuar në rëndësinë e tyre"
+" historike ose gjuhësore."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Individualë Fteshëm ose I/fjetë"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Karakteristikat e Personalitetit: I/fjetë, reflektues, dhe duke kërkuar "
+"lidhje më të thella me besimin e tyre. Mund të përdorin mjetet për të "
+"eksploruar tekstet fetare ose mesazhet divinë. Profesionet: Shkencat e fesë,"
+" imamat, prete, ose qytetarë me një interes të fortë për traditat mistike të"
+" besimit të tyre. Spektri Ideologjik: Shpreson të ketë një pasqyrë "
+"tradicionale ose konservative, duke përdorur mjetet për të forcuar besimet e"
+" tyre shpirtërore."
+
+msgid "Writers and Artists"
+msgstr "Shkrimtarë dhe Artiste"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Karakteristikat e Personalitetit: Krijues, imagjinativ, dhe i/e rrethuar për"
+" koncepte simbolike ose abstrakte. Mund të përdorin mjetet për frymëzim ose "
+"për të shtuar shtresa kuptime në punën e tyre. Profesionet: Autori, poetë, "
+"artiste vizuale, ose muzikë. Spektri Ideologjik: Mund të shkojë nga "
+"krijuesit sekulare në ata me një orientim shpirtëror ose mistik."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Entuziastë Puzle dhe Indh"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Karakteristikat e Personalitetit: I/e lojërë, i/e çuditshëm intelektualisht,"
+" dhe i/e kënaqur me zgjidhjen e problemeve komplekse ose dekodimin e "
+"modeleve. Profesionet: Hobbyistë, projektues puzle, ose edukatorë. Spektri "
+"Ideologjik: Shpreson të qasë mjetet si një formë entertainment ose ushtrim "
+"mental, pa lidhje ideologjike."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Teoristë Konspirash dhe Mendimtarë Alternativë"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Karakteristikat e Personalitetit: Skeptik ndaj narrativave kryesore, i/e "
+"rrethuar për zbulimin e së vërtetës së fshehtë ose modeleve në sisteme. "
+"Profesionet: Kërkues të pavarur, bloggerë, ose aktivistë. Spektri "
+"Ideologjik: Mund të ketë një pasqyrë më radikale ose të pasigurt, duke "
+"përdorur mjetet për të mbështetur teoritë ose narrativat alternatike."
+
+msgid "☕ Support the Project"
+msgstr "☕ Mbështes Projektin"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Nëse të pëlqen projekti im, mund të më blish një kafe!"
+
+msgid "Buy Me A Coffee"
+msgstr "Blije Më Një Kafe"
+
+msgid "Thank you! 🙏"
+msgstr "Faleminderit! 🙏"

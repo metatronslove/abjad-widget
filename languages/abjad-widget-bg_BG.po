@@ -1,0 +1,827 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Bulgarian <bg_BG>\n"
+"Language: bg-BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Настройки на Абджад"
+
+msgid "Abjad Value"
+msgstr "Стойност на Абджад"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Дашборд на виджета Абджад"
+
+msgid "Abjad calculation results"
+msgstr "Резултати от изчисленията на Абджад"
+
+msgid "Abjad calculations hidden"
+msgstr "Изчисленията на Абджад са скрити"
+
+msgid "Abjad not calculated"
+msgstr "Абджад не е изчислен"
+
+msgid "Abjad order"
+msgstr "Подредба на Абджад"
+
+msgid "Add elements"
+msgstr "Добави елементи"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Въздух"
+
+msgid "All"
+msgstr "Всички"
+
+msgid "Arabic"
+msgstr "Арабски"
+
+msgid "Arabic letters"
+msgstr "Арабски букви"
+
+msgid "Arabic numbers"
+msgstr "Арабски цифри"
+
+msgid "As data for operation"
+msgstr "Като данни за операция"
+
+msgid "Bast loop results"
+msgstr "Резултати от цикъла Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast не е изчислен"
+
+msgid "Bast repetition count"
+msgstr "Брой повтаряния на Bast"
+
+msgid "Bast results hidden"
+msgstr "Резултати от Bast скрити"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Ред на Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet şadda"
+
+msgid "Bastet table"
+msgstr "Таблица на Bastet"
+
+msgid "Big"
+msgstr "Голям"
+
+msgid "Bigger"
+msgstr "По-голям"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Купи ми кафе"
+
+msgid "Calculate"
+msgstr "Изчисли"
+
+msgid "Calculate Abjad"
+msgstr "Изчисли Абджад"
+
+msgid "Calculate Bastet"
+msgstr "Изчисли Бастет"
+
+msgid "Calculate Huddam"
+msgstr "Изчисли Худдам"
+
+msgid "Calculation details"
+msgstr "Детайли за изчисляването"
+
+msgid "Choose Keyboard Layout"
+msgstr "Избери клавиатурна подредба"
+
+msgid "Clear text box"
+msgstr "Изчисти полето за текст"
+
+msgid "Click row for details"
+msgstr "Натиснете реда за подробности"
+
+msgid "Close Keyboard"
+msgstr "Затвори клавиатурата"
+
+msgid "Closed"
+msgstr "Затворено"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Запетайката е стандартен разделител и трябва да остане отметната!"
+
+msgid "Dashboard"
+msgstr "Табло"
+
+msgid "Data entry separators:"
+msgstr "Разделители за въвеждане на данни:"
+
+msgid "Data type profile"
+msgstr "Профил на тип данни"
+
+msgid "Dead keys"
+msgstr "Мъртви клавиши"
+
+msgid "Decrease keyboard size"
+msgstr "Намали размера на клавиатурата"
+
+msgid "Don't calculate"
+msgstr "Не изчислявай"
+
+msgid "Duty entity name results"
+msgstr "Резултати за името на задължената единица"
+
+msgid "Duty entity type"
+msgstr "Вид задължен елемент"
+
+msgid "Earth"
+msgstr "Земя"
+
+msgid "Element classification"
+msgstr "Класификация на елемента"
+
+msgid "Element classification method"
+msgstr "Метод за класификация на елемента"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Въведете текст... Арабски, Ивритски, Турски букви, числа"
+
+msgid "Entered data"
+msgstr "Въведени данни"
+
+msgid "Entry"
+msgstr "Вход"
+
+msgid "Entry letter count"
+msgstr "Брой букви във входа"
+
+msgid "Evil"
+msgstr "Зло"
+
+msgid "Fire"
+msgstr "Огън"
+
+msgid "For entered data"
+msgstr "За въведените данни"
+
+msgid "Frequency in Quran"
+msgstr "Честота в Коран"
+
+msgid "Gematria"
+msgstr "Гематрия"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hebrew alphabet elements"
+msgstr "Елементи от ивритската азбука"
+
+msgid "Hebrew letters"
+msgstr "Ивритски букви"
+
+msgid "High"
+msgstr "Висок"
+
+msgid "Hija order"
+msgstr "Подредба по Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Скритите имена Huddam"
+
+msgid "Huddam not calculated"
+msgstr "Huddam не е изчислен"
+
+msgid "Iklil's order"
+msgstr "Подредба по Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Увеличи размера на клавиатурата"
+
+msgid "Indian numbers"
+msgstr "Индийски числа"
+
+msgid "Interface language"
+msgstr "Език на интерфейса"
+
+msgid "Let character quantity decide"
+msgstr "Позволи на количеството знаци да реши"
+
+msgid "Letter count"
+msgstr "Брой букви"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Харесвате ли проектите ми? Купете ми кафе!"
+
+msgid "Low"
+msgstr "Нисък"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Подредба по Maghribian hija"
+
+msgid "Minimum"
+msgstr "Минимум"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Език за четене на числа"
+
+msgid "Numerical values"
+msgstr "Числови стойности"
+
+msgid "Open"
+msgstr "Отвори"
+
+msgid "Order"
+msgstr "Подредба"
+
+msgid "Possible phrases"
+msgstr "Възможни фрази"
+
+msgid "Program settings"
+msgstr "Настройки на програмата"
+
+msgid "Pronunciation"
+msgstr "Произношение"
+
+msgid "Regular expression"
+msgstr "Регулярен израз"
+
+msgid "Regularly preferred classification"
+msgstr "Често предпочитана класификация"
+
+msgid "Reset"
+msgstr "Нулирай"
+
+msgid "Separators"
+msgstr "Разделители"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shamsee abjad order"
+msgstr "Шамсе абджад ред"
+
+msgid "Show numpad"
+msgstr "Показване на нумеричния панел"
+
+msgid "Show virtual keyboard"
+msgstr "Показване на виртуалната клавиатура"
+
+msgid "Small"
+msgstr "Малък"
+
+msgid "Small + letter count"
+msgstr "Малък + брой букви"
+
+msgid "Sulayman al Huseyni"
+msgstr "Сулейман ал Хусейни"
+
+msgid "Support"
+msgstr "Поддръжка"
+
+msgid "Taken (letter)"
+msgstr "Взета (буква)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Взета (буква; абджад)"
+
+msgid "Taken Letters"
+msgstr "Взети букви"
+
+msgid "Text or number cell"
+msgstr "Клетка за текст или номер"
+
+msgid "Thank you for your support!"
+msgstr "Благодарим Ви за подкрепата!"
+
+msgid "Total"
+msgstr "Общо"
+
+msgid "Turkish"
+msgstr "Турски"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Турски алфавит абджад"
+
+msgid "Turkish alphabet elements"
+msgstr "Елементи на турския алфавит"
+
+msgid "Turkish letters"
+msgstr "Турски букви"
+
+msgid "Undefined characters"
+msgstr "Неопределени знаци"
+
+msgid "Value"
+msgstr "Стойност"
+
+msgid "Value & Detail"
+msgstr "Стойност & Детайл"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Water"
+msgstr "Вода"
+
+msgid "When data is entered"
+msgstr "Когато данните бъдат въведени"
+
+msgid "When reading large digits"
+msgstr "При четене на големи цифри"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "абжад изчислен и броят на буквите добавен"
+
+msgid "abjad() functions settings"
+msgstr "настройки на функциите abjad()"
+
+msgid "add to initial value"
+msgstr "добави към начална стойност"
+
+msgid "and"
+msgstr "и"
+
+msgid "auto calculate immediately"
+msgstr "автоматично изчислявай незабавно"
+
+msgid "bast"
+msgstr "баст"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "настройки на функциите bastet() и nutket()"
+
+msgid "count once"
+msgstr "брои веднъж"
+
+msgid "count twice"
+msgstr "брои два пъти"
+
+msgid "display with Arabic numbers"
+msgstr "показвай с арабски цифри"
+
+msgid "display with Indian numbers"
+msgstr "показвай с индийски цифри"
+
+msgid "do not add to initial value"
+msgstr "не добавяй към начална стойност"
+
+msgid "do not force to other functions"
+msgstr "не принудвай към други функции"
+
+msgid "do not purify"
+msgstr "не очиствай"
+
+msgid "force to other functions"
+msgstr "принудвай към други функции"
+
+msgid "group multiplier letters"
+msgstr "групирай множителни букви"
+
+msgid "hide"
+msgstr "скрий"
+
+msgid "hide abjad values"
+msgstr "скрий стойностите на абжад"
+
+msgid "hide bast results"
+msgstr "скрий резултатите от bast"
+
+msgid "hide huddam names"
+msgstr "скрий имената на huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() настройки на функцията"
+
+msgid "no bast applied."
+msgstr "няма приложен bast."
+
+msgid "no data entered"
+msgstr "няма въведени данни"
+
+msgid "other suffix"
+msgstr "друг суфикс"
+
+msgid "purify data"
+msgstr "почисти данните"
+
+msgid "repeat multiplier for each digit"
+msgstr "повтори множител за всяка цифра"
+
+msgid "show"
+msgstr "покажи"
+
+msgid "show abjad values"
+msgstr "покажи стойностите на абджад"
+
+msgid "show bast results"
+msgstr "покажи резултатите от bast"
+
+msgid "show huddam names"
+msgstr "покажи имената на huddam"
+
+msgid "suffix"
+msgstr "суфикс"
+
+msgid "times bast applied."
+msgstr "пъти е приложен bast."
+
+msgid "use calculated abjad results"
+msgstr "използвай изчислените резултати на абджад"
+
+msgid "use calculated abjad total"
+msgstr "използвай изчислената обща стойност на абджад"
+
+msgid "use calculated bast results"
+msgstr "използвай изчислените резултати от bast"
+
+msgid "use entered data directly"
+msgstr "използвай въведените данни директно"
+
+msgid "use entered data total"
+msgstr "използвай общата стойност на въведените данни"
+
+msgid "use in all bast repetitions"
+msgstr "използвай във всички повторения на bast"
+
+msgid "use only at beginning if possible"
+msgstr "използвай само в началото, ако е възможно"
+
+msgid "wait for settings and data entry"
+msgstr "чакай за настройките и въвеждането на данни"
+
+msgid "Abjad Table"
+msgstr "Таблица Абджад"
+
+msgid "Shadda"
+msgstr "Шадда"
+
+msgid "Details"
+msgstr "Детайли"
+
+msgid "Element Classification"
+msgstr "Класификация на елементите"
+
+msgid "Abjad Order"
+msgstr "Ред на Абджад"
+
+msgid "Abjad Widget"
+msgstr "Уиджет Абджад"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr ""
+"Добавете персонализиран CSS, за да персонализирате външния вид на уиджета."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Добавете персонализиран JavaScript, за да промените поведението на уиджета. "
+"Грешният код може да повреди уиджета!"
+
+msgid "An error occurred while loading content."
+msgstr "Възникна грешка при зареждането на съдържанието."
+
+msgid "Button"
+msgstr "Бутон"
+
+msgid "Button Color"
+msgstr "Цвят на бутона"
+
+msgid "Button Emoji"
+msgstr "Emoji на бутона"
+
+msgid "Button Message"
+msgstr "Съобщение на бутона"
+
+msgid "Button Settings"
+msgstr "Настройки на бутона"
+
+msgid "Button Type"
+msgstr "Тип бутон"
+
+msgid "CSS saved successfully."
+msgstr "CSS е запазен успешно."
+
+msgid "Check this box to activate the widget."
+msgstr "Отметнете това поле, за да активирате виджета."
+
+msgid "Code Editor"
+msgstr "Редактор на код"
+
+msgid "Custom CSS"
+msgstr "Персонализиран CSS"
+
+msgid "Custom JavaScript"
+msgstr "Персонализиран JavaScript"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Въведете URL на изображението"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Example: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Общи"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript е запазен успешно."
+
+msgid "Left"
+msgstr "Ляво"
+
+msgid "Live Preview"
+msgstr "Жив преглед"
+
+msgid "Loading..."
+msgstr "Зареждане..."
+
+msgid "PNG Image URL"
+msgstr "URL на PNG изображение"
+
+msgid "Paste SVG code"
+msgstr "Поставете SVG код"
+
+msgid "Please enter a valid URL."
+msgstr "Моля, въведете валиден URL."
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "Reset to Default"
+msgstr "Нулирай до по подразбиране"
+
+msgid "Right"
+msgstr "Дясно"
+
+msgid "SVG Code"
+msgstr "SVG Код"
+
+msgid "Save CSS"
+msgstr "Запази CSS"
+
+msgid "Save JavaScript"
+msgstr "Запази JavaScript"
+
+msgid "Save Settings"
+msgstr "Запазване на настройки"
+
+msgid "Settings saved successfully."
+msgstr "Настройките са запазени успешно."
+
+msgid "Style Editor"
+msgstr "Редактор на стилове"
+
+msgid "WARNING"
+msgstr "ПРЕДУПРЕЖДЕНИЕ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Добре дошли! Можете да следите новините и обявленията на виджета от този "
+"панел."
+
+msgid "Widget Settings"
+msgstr "Настройки на виджета"
+
+msgid "Widget Status"
+msgstr "Статус на виджета"
+
+msgid "Widget active"
+msgstr "Виджет активен"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Грешен JavaScript код може да се разруши виджета. Направете резервно копие "
+"преди да правите промени."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Вашето потребителско име в Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Вашите промени ще повлияят директно на външния вид на виджета. Ако не "
+"познавате CSS, препоръчително е да използвате подразбиращите се настройки."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Локален контролен панел"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Духовни търсачи и мистици"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Характеристики на личността: Любопитен, интроспективен, отворен към нови "
+"идеи и привлечен към езотерични знания. Те може да имат силен интерес към "
+"откриване на скрити значения или модели в живота. Занимания: Духовни "
+"треньори, таро четци, астролози или хора, ангажирани с практики на New Age. "
+"Идеологичен спектър: Вероятно се насочват към духовни или метафизични "
+"вярвания. Те могат да виждат инструментите като начин да се свържат с по-"
+"дълбоки истини или универсални енергии."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Нумеролози и ентусиасти на гематрия"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Характеристики на личността: Аналитични, внимателни към детайли и възхитени "
+"от връзката между числа и език. Те могат да се радват на декодиране на "
+"символични значения. Занимания: Независими нумеролози, писатели по "
+"езотерични теми или хобисти, изучаващи нумерологията. Идеологичен спектър: "
+"Може да варира от тези, които виждат нумерологията като забавно "
+"интелектуално упражнение до тези, които вярват в нейното дълбоко духовно "
+"значение."
+
+msgid "Historians and Linguists"
+msgstr "Историците и лингвистите"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Характеристики на личността: Учтиви, методични и заинтересовани от "
+"исторически или културни контексти на числови системи като Abjad. Занимания:"
+" Академици, изследователи или студенти, изучаващи езиците на Близкия изток, "
+"историята или религиозните текстове. Идеологичен спектър: Вероятно ще "
+"подходят към инструментите от светски, академичен подход, съсредоточавайки "
+"се върху тяхната историческа или езикова значимост."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Религиозни или вярващи индивиди"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Характеристики на личността: Вярващи, размишляващи и търсещи по-дълбоки "
+"връзки с вярата си. Те може да използват инструментите, за да проучат "
+"религиозни текстове или божествени послания. Занимания: Религиозни учени, "
+"имамни, свещеници или мирни хора с интерес към мистичните традиции на вярата"
+" си. Идеологичен спектър: Вероятно ще имат традиционен или консервативен "
+"светоглед, използвайки инструментите за укрепване на духовните им убеждения."
+
+msgid "Writers and Artists"
+msgstr "Писатели и артисти"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Характеристики на личността: Творчески, въображаеми и привлечени към "
+"символични или абстрактни концепции. Те може да използват инструментите за "
+"вдъхновение или за добавяне на слоеве смисъл към своето творчество. "
+"Занимания: Автори, поети, визуални артисти или музиканти. Идеологичен "
+"спектър: Може да варира от светски творци до тези с духовен или мистичен "
+"наклон."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Ентусиасти на пъзели и загадки"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Характеристики на личността: Игриви, интелектуално любопитни и се радват да "
+"решават сложни проблеми или декодират модели. Занимания: Хобисти, "
+"дизайнерски на пъзели или преподаватели. Идеологичен спектър: Вероятно ще "
+"разглеждат инструментите като форма на забавление или умствено упражнение, с"
+" малко идеологическа привързаност."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Конспиративни теоретици и алтернативни мислители"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Характеристики на личността: Скептични към основните нарративи, привлечени "
+"към откриването на скрити истини или модели в системите. Занимания: "
+"Независими изследователи, блогъри или активисти. Идеологичен спектър: Може "
+"да имат по-радикален или неконвенционален светоглед, използвайки "
+"инструментите за подкрепа на алтернативни теории или нарративи."
+
+msgid "☕ Support the Project"
+msgstr "☕ Подкрепете проекта"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Ако ви харесва проекта ми, можете да ми купите кафе!"
+
+msgid "Buy Me A Coffee"
+msgstr "Купете ми кафе"
+
+msgid "Thank you! 🙏"
+msgstr "Благодаря! 🙏"

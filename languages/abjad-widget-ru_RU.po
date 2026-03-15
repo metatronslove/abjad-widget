@@ -1,0 +1,757 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Russian <ru_RU>\n"
+"Language: ru-RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Панель инструментов Абджад"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "Купи мне кофе"
+
+msgid "Calculate Bastet"
+msgstr "Вычислить Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Вычислить Huddam"
+
+msgid "Calculation details"
+msgstr "Детали расчёта"
+
+msgid "Choose Keyboard Layout"
+msgstr "Выберите раскладку клавиатуры"
+
+msgid "Clear text box"
+msgstr "Очистить поле текста"
+
+msgid "Click row for details"
+msgstr "Нажмите строку для деталей"
+
+msgid "Close Keyboard"
+msgstr "Закрыть клавиатуру"
+
+msgid "Closed"
+msgstr "Закрыто"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "Запятая — разделитель по умолчанию и должна оставаться отмеченной!"
+
+msgid "Dashboard"
+msgstr "Панель управления"
+
+msgid "Data entry separators:"
+msgstr "Разделители ввода данных:"
+
+msgid "Data type profile"
+msgstr "Профиль типа данных"
+
+msgid "Dead keys"
+msgstr "Мертвые клавиши"
+
+msgid "Decrease keyboard size"
+msgstr "Уменьшить размер клавиатуры"
+
+msgid "Don't calculate"
+msgstr "Не рассчитывать"
+
+msgid "Duty entity name results"
+msgstr "Результаты имени субъектов обязанности"
+
+msgid "Duty entity type"
+msgstr "Тип субъектов обязанности"
+
+msgid "Earth"
+msgstr "Земля"
+
+msgid "Element classification"
+msgstr "Классификация элементов"
+
+msgid "Element classification method"
+msgstr "Метод классификации элементов"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Введите текст... арабские, ивритские, турецкие буквы, цифры"
+
+msgid "Entered data"
+msgstr "Введённые данные"
+
+msgid "Entry"
+msgstr "Ввод"
+
+msgid "Entry letter count"
+msgstr "Количество букв во вводе"
+
+msgid "Evil"
+msgstr "Зло"
+
+msgid "Fire"
+msgstr "Огонь"
+
+msgid "For entered data"
+msgstr "Для введённых данных"
+
+msgid "Frequency in Quran"
+msgstr "Частота в Коране"
+
+msgid "Gematria"
+msgstr "Гематриа"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hebrew alphabet elements"
+msgstr "Элементы ивритского алфавита"
+
+msgid "Hebrew letters"
+msgstr "Ивритские буквы"
+
+msgid "High"
+msgstr "Высокий"
+
+msgid "Hija order"
+msgstr "Порядок хиа"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Скрытые имена Худдам"
+
+msgid "Huddam not calculated"
+msgstr "Huddam не рассчитан"
+
+msgid "Iklil's order"
+msgstr "Порядок Иклила"
+
+msgid "Increase keyboard size"
+msgstr "Увеличить размер клавиатуры"
+
+msgid "Indian numbers"
+msgstr "Индийские числа"
+
+msgid "Interface language"
+msgstr "Язык интерфейса"
+
+msgid "Let character quantity decide"
+msgstr "Позволь количеству символов решать"
+
+msgid "Letter count"
+msgstr "Количество букв"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Понравились ли вам мои проекты? Купите мне кофе!"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Порядок хиа Магриб"
+
+msgid "Minimum"
+msgstr "Минимум"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Язык чтения чисел"
+
+msgid "Numerical values"
+msgstr "Числовые значения"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Possible phrases"
+msgstr "Возможные фразы"
+
+msgid "Program settings"
+msgstr "Настройки программы"
+
+msgid "Pronunciation"
+msgstr "Произношение"
+
+msgid "Regular expression"
+msgstr "Регулярное выражение"
+
+msgid "Regularly preferred classification"
+msgstr "Часто предпочитаемая классификация"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Separators"
+msgstr "Разделители"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shamsee abjad order"
+msgstr "Порядок абджад Шамси"
+
+msgid "Show numpad"
+msgstr "Показать цифровую клавиатуру"
+
+msgid "Show virtual keyboard"
+msgstr "Показать виртуальную клавиатуру"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Small + letter count"
+msgstr "Маленький + количество букв"
+
+msgid "Sulayman al Huseyni"
+msgstr "Сулейман аль Хусейни"
+
+msgid "Support"
+msgstr "Поддержка"
+
+msgid "Taken (letter)"
+msgstr "Принятая (буква)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Принятая (буква; абджад)"
+
+msgid "Taken Letters"
+msgstr "Принятые буквы"
+
+msgid "Text or number cell"
+msgstr "Ячейка текста или числа"
+
+msgid "Thank you for your support!"
+msgstr "Спасибо за вашу поддержку!"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Turkish"
+msgstr "Турецкий"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Турецкий абджад алфавита"
+
+msgid "Turkish alphabet elements"
+msgstr "Элементы турецкого алфавита"
+
+msgid "Turkish letters"
+msgstr "Турецкие буквы"
+
+msgid "Undefined characters"
+msgstr "Неопределённые символы"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Value & Detail"
+msgstr "Значение & Деталь"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Water"
+msgstr "Вода"
+
+msgid "When data is entered"
+msgstr "Когда вводятся данные"
+
+msgid "When reading large digits"
+msgstr "При чтении больших цифр"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "абджад рассчитан и добавлен подсчёт букв"
+
+msgid "abjad() functions settings"
+msgstr "настройки функций abjad()"
+
+msgid "add to initial value"
+msgstr "добавить к начальному значению"
+
+msgid "and"
+msgstr "и"
+
+msgid "auto calculate immediately"
+msgstr "автоматически вычислять сразу"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "настройки функций bastet() и nutket()"
+
+msgid "count once"
+msgstr "считать один раз"
+
+msgid "count twice"
+msgstr "считать дважды"
+
+msgid "display with Arabic numbers"
+msgstr "отображать арабскими цифрами"
+
+msgid "display with Indian numbers"
+msgstr "отображать индийскими цифрами"
+
+msgid "do not add to initial value"
+msgstr "не добавлять к начальному значению"
+
+msgid "do not force to other functions"
+msgstr "не принуждать к другим функциям"
+
+msgid "do not purify"
+msgstr "не очищать"
+
+msgid "force to other functions"
+msgstr "принудительно перенаправлять в другие функции"
+
+msgid "group multiplier letters"
+msgstr "группировать буквы-умножители"
+
+msgid "hide"
+msgstr "скрыть"
+
+msgid "hide abjad values"
+msgstr "скрыть значения абджад"
+
+msgid "hide bast results"
+msgstr "скрыть результаты bast"
+
+msgid "hide huddam names"
+msgstr "скрыть названия huddam"
+
+msgid "huddam() function settings"
+msgstr "huddam() настройки функции"
+
+msgid "no bast applied."
+msgstr "не применен ни один bast."
+
+msgid "no data entered"
+msgstr "данные не введены"
+
+msgid "other suffix"
+msgstr "другой суффикс"
+
+msgid "purify data"
+msgstr "очистить данные"
+
+msgid "repeat multiplier for each digit"
+msgstr "повторить множитель для каждой цифры"
+
+msgid "show"
+msgstr "показать"
+
+msgid "show abjad values"
+msgstr "показать значения abjad"
+
+msgid "show bast results"
+msgstr "показать результаты bast"
+
+msgid "show huddam names"
+msgstr "показать названия huddam"
+
+msgid "suffix"
+msgstr "суффикс"
+
+msgid "times bast applied."
+msgstr "раз применен bast."
+
+msgid "use calculated abjad results"
+msgstr "использовать рассчитанные результаты abjad"
+
+msgid "use calculated abjad total"
+msgstr "использовать рассчитанную сумму abjad"
+
+msgid "use calculated bast results"
+msgstr "использовать рассчитанные результаты bast"
+
+msgid "use entered data directly"
+msgstr "использовать введенные данные напрямую"
+
+msgid "use entered data total"
+msgstr "использовать общую сумму введенных данных"
+
+msgid "use in all bast repetitions"
+msgstr "использовать во всех повторениях bast"
+
+msgid "use only at beginning if possible"
+msgstr "использовать только в начале, если возможно"
+
+msgid "wait for settings and data entry"
+msgstr "ждать настройки и ввод данных"
+
+msgid "Abjad Table"
+msgstr "Таблица Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Element Classification"
+msgstr "Классификация элементов"
+
+msgid "Abjad Order"
+msgstr "Порядок Abjad"
+
+msgid "Abjad Widget"
+msgstr "Виджет Abjad"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Добавьте пользовательский CSS для настройки внешнего вида виджета."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Добавьте пользовательский JavaScript для изменения поведения виджета. "
+"Неправильный код может сломать виджет!"
+
+msgid "An error occurred while loading content."
+msgstr "При загрузке контента произошла ошибка."
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+msgid "Button Emoji"
+msgstr "Эмодзи кнопки"
+
+msgid "Button Message"
+msgstr "Сообщение кнопки"
+
+msgid "Button Settings"
+msgstr "Настройки кнопки"
+
+msgid "Button Type"
+msgstr "Тип кнопки"
+
+msgid "CSS saved successfully."
+msgstr "CSS успешно сохранен."
+
+msgid "Check this box to activate the widget."
+msgstr "Отметьте этот пункт, чтобы активировать виджет."
+
+msgid "Code Editor"
+msgstr "Редактор кода"
+
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+msgid "Custom JavaScript"
+msgstr "Пользовательский JavaScript"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Emoji"
+msgstr "Эмодзи"
+
+msgid "Enter image URL"
+msgstr "Введите URL изображения"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Пример: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Общее"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript успешно сохранен."
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "Live Preview"
+msgstr "Live Preview"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "PNG Image URL"
+msgstr "URL PNG-изображения"
+
+msgid "Paste SVG code"
+msgstr "Вставить SVG код"
+
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста, введите правильный URL."
+
+msgid "Position"
+msgstr "Положение"
+
+msgid "Reset to Default"
+msgstr "Сбросить к по умолчанию"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "SVG Code"
+msgstr "SVG Код"
+
+msgid "Save CSS"
+msgstr "Сохранить CSS"
+
+msgid "Save JavaScript"
+msgstr "Сохранить JavaScript"
+
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+msgid "Settings saved successfully."
+msgstr "Настройки успешно сохранены."
+
+msgid "Style Editor"
+msgstr "Редактор стилей"
+
+msgid "WARNING"
+msgstr "ПРЕДУПРЕЖДЕНИЕ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Добро пожаловать! Вы можете отслеживать новости и объявления виджета с этой "
+"панели."
+
+msgid "Widget Settings"
+msgstr "Настройки виджета"
+
+msgid "Widget Status"
+msgstr "Статус виджета"
+
+msgid "Widget active"
+msgstr "Виджет активен"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Неверный JavaScript‑код может повредить виджет. Сделайте резервную копию "
+"перед изменениями."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Ваше имя пользователя на Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Ваши изменения напрямую повлияют на внешний вид виджета. Если вы не знаете "
+"CSS, рекомендуется использовать настройки по умолчанию."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Виджет Абджад – Локальная панель управления"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Духовные искатели и мистики"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Черты характера: любознательность, интроспекция, открытость и стремление к "
+"эзотерическим знаниям. У них может быть сильный интерес к раскрытию скрытых "
+"смыслов или закономерностей в жизни. Профессии: духовные наставники, "
+"тарологические читатели, астрологи или люди, занимающиеся практиками нового "
+"века. Идеологический спектр: скорее склонность к духовным или метафизическим"
+" убеждениям. Они могут видеть инструменты как способ установить связь с "
+"более глубокими истинами или универсальными энергиями."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Нумерологи и энтузиасты гематрии"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Черты характера: аналитичность, внимание к деталям и увлечение взаимосвязью "
+"чисел и языка. Они могут наслаждаться расшифровкой символических смыслов. "
+"Профессии: фриланс‑нумерологи, писатели об эзотерических темах или любители,"
+" изучающие нумерологию. Идеологический спектр: может варьироваться от тех, "
+"кто рассматривает нумерологию как забавное интеллектуальное упражнение, до "
+"тех, кто верит в её глубокое духовное значение."
+
+msgid "Historians and Linguists"
+msgstr "Историки и лингвисты"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Черты характера: ученый, методичный и заинтересованный историческими или "
+"культурными контекстами числовых систем, таких как Абджад. Профессии: "
+"академики, исследователи или студенты, изучающие языки Ближнего Востока, "
+"историю или религиозные тексты. Идеологический спектр: скорее подход к "
+"инструментам с секулярной академической точки зрения, сосредоточенный на их "
+"историческом или лингвистическом значении."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Религиозные или вероисповедательные люди"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Черты характера: религиозно преданные, рефлексивные и стремящиеся к более "
+"глубоким связям со своей верой. Они могут использовать инструменты для "
+"исследования религиозных текстов или божественных сообщений. Профессии: "
+"религиозные ученые, имамы, священники или миряне с сильным интересом к "
+"мистическим традициям своей веры. Идеологический спектр: скорее традиционный"
+" или консервативный взгляд на мир, использующий инструменты для укрепления "
+"своих духовных убеждений."
+
+msgid "Writers and Artists"
+msgstr "Писатели и художники"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Черты характера: креативность, воображение и склонность к символическим или "
+"абстрактным концепциям. Они могут использовать инструменты как источник "
+"вдохновения или для добавления слоёв смысла в свою работу. Профессии: "
+"авторы, поэты, визуальные художники или музыканты. Идеологический спектр: "
+"может варьироваться от секулярных творцов до тех, кто имеет духовный или "
+"мистический уклон."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Любители головоломок и загадок"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Черты характера: игривость, интеллектуальное любопытство и удовольствие от "
+"решения сложных задач или расшифровки шаблонов. Профессии: хобби‑энтузиасты,"
+" создатели головоломок или преподаватели. Идеологический спектр: скорее "
+"подход к инструментам как форма развлечения или умственного упражнения, с "
+"минимальной идеологической привязанностью."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Теоретики заговоров и альтернативные мыслители"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Черты характера: скептицизм по отношению к основным нарративам, стремление "
+"раскрывать скрытые истины или закономерности в системах. Профессии: "
+"независимые исследователи, блогеры или активисты. Идеологический спектр: "
+"может иметь более радикальный или нестандартный взгляд на мир, используя "
+"инструменты для поддержки альтернативных теорий или нарративов."
+
+msgid "☕ Support the Project"
+msgstr "☕ Поддержать проект"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Если вам нравится мой проект, вы можете купить мне кофе!"
+
+msgid "Buy Me A Coffee"
+msgstr "Купите мне кофе"
+
+msgid "Thank you! 🙏"
+msgstr "Спасибо! 🙏"

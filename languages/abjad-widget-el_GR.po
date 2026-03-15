@@ -1,0 +1,831 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Greek <el_GR>\n"
+"Language: el-GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Ρυθμίσεις Abjad"
+
+msgid "Abjad Value"
+msgstr "Τιμή Abjad"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Πίνακας ελέγχου Widget Abjad"
+
+msgid "Abjad calculation results"
+msgstr "Αποτελέσματα υπολογισμού Abjad"
+
+msgid "Abjad calculations hidden"
+msgstr "Οι υπολογισμοί Abjad είναι κρυφοί"
+
+msgid "Abjad not calculated"
+msgstr "Το Abjad δεν υπολογίστηκε"
+
+msgid "Abjad order"
+msgstr "Σειρά Abjad"
+
+msgid "Add elements"
+msgstr "Προσθήκη στοιχείων"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "Αέρας"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Arabic"
+msgstr "Αραβικά"
+
+msgid "Arabic letters"
+msgstr "Αραβικά γράμματα"
+
+msgid "Arabic numbers"
+msgstr "Αραβικοί αριθμοί"
+
+msgid "As data for operation"
+msgstr "Ως δεδομένα για λειτουργία"
+
+msgid "Bast loop results"
+msgstr "Αποτελέσματα βρόχου Bast"
+
+msgid "Bast not calculated"
+msgstr "Το Bast δεν υπολογίστηκε"
+
+msgid "Bast repetition count"
+msgstr "Πλήθος επαναλήψεων Bast"
+
+msgid "Bast results hidden"
+msgstr "Τα αποτελέσματα Bast είναι κρυφά"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Σειρά Bastet"
+
+msgid "Bastet shadda"
+msgstr "Bastet shadda"
+
+msgid "Bastet table"
+msgstr "Πίνακας Bastet"
+
+msgid "Big"
+msgstr "Μεγάλος"
+
+msgid "Bigger"
+msgstr "Μεγαλύτερος"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Αναγνωριστικό Buy Me a Coffee"
+
+msgid "Buy me a coffee"
+msgstr "Αγοράστε μου έναν καφέ"
+
+msgid "Calculate"
+msgstr "Υπολογίστε"
+
+msgid "Calculate Abjad"
+msgstr "Υπολογίστε Abjad"
+
+msgid "Calculate Bastet"
+msgstr "Υπολογίστε Bastet"
+
+msgid "Calculate Huddam"
+msgstr "Υπολογίστε Huddam"
+
+msgid "Calculation details"
+msgstr "Λεπτομέρειες υπολογισμού"
+
+msgid "Choose Keyboard Layout"
+msgstr "Επιλέξτε διάταξη πληκτρολογίου"
+
+msgid "Clear text box"
+msgstr "Εκκαθαρίστε το πλαίσιο κειμένου"
+
+msgid "Click row for details"
+msgstr "Κάντε κλικ στην γραμμή για λεπτομέρειες"
+
+msgid "Close Keyboard"
+msgstr "Κλείστε το πληκτρολόγιο"
+
+msgid "Closed"
+msgstr "Κλεισμένο"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr ""
+"Το κόμμα είναι ο προεπιλεγμένος διαχωριστής και πρέπει να παραμείνει "
+"επιλεγμένο!"
+
+msgid "Dashboard"
+msgstr "Πίνακας Ελέγχου"
+
+msgid "Data entry separators:"
+msgstr "Διαχωριστές εισόδου δεδομένων:"
+
+msgid "Data type profile"
+msgstr "Προφίλ τύπου δεδομένων"
+
+msgid "Dead keys"
+msgstr "Πίεσες με θόλο"
+
+msgid "Decrease keyboard size"
+msgstr "Μειώστε το μέγεθος πληκτρολογίου"
+
+msgid "Don't calculate"
+msgstr "Μην υπολογίζετε"
+
+msgid "Duty entity name results"
+msgstr "Αποτελέσματα ονόματος οντότητας ευθύνης"
+
+msgid "Duty entity type"
+msgstr "Τύπος οντότητας ευθύνης"
+
+msgid "Earth"
+msgstr "Γη"
+
+msgid "Element classification"
+msgstr "Ταξινόμηση στοιχείων"
+
+msgid "Element classification method"
+msgstr "Μέθοδος ταξινόμησης στοιχείων"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr ""
+"Πληκτρολογήστε κείμενο... Αραβικά, Ιβραϊκά, Τουρκικά γράμματα, αριθμοί"
+
+msgid "Entered data"
+msgstr "Εισαχθέντα δεδομένα"
+
+msgid "Entry"
+msgstr "Είσοδος"
+
+msgid "Entry letter count"
+msgstr "Πλήθος γραμμάτων εισόδου"
+
+msgid "Evil"
+msgstr "Κακό"
+
+msgid "Fire"
+msgstr "Φωτιά"
+
+msgid "For entered data"
+msgstr "Για τα εισαχθέντα δεδομένα"
+
+msgid "Frequency in Quran"
+msgstr "Συχνότητα στο Κοράνι"
+
+msgid "Gematria"
+msgstr "Gematria"
+
+msgid "Hebrew"
+msgstr "Ιβραϊκά"
+
+msgid "Hebrew alphabet elements"
+msgstr "Στοιχεία αλφαβήτου Ιβραϊκού"
+
+msgid "Hebrew letters"
+msgstr "Γράμματα Ιβραϊκού"
+
+msgid "High"
+msgstr "Υψηλό"
+
+msgid "Hija order"
+msgstr "Σειρά Hija"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Τα ονόματα Huddam κρυμμένα"
+
+msgid "Huddam not calculated"
+msgstr "Η Huddam δεν υπολογίστηκε"
+
+msgid "Iklil's order"
+msgstr "Η σειρά του Iklil"
+
+msgid "Increase keyboard size"
+msgstr "Μεγέθυνση μεγέθους πληκτρολογίου"
+
+msgid "Indian numbers"
+msgstr "Αριθμοί Ινδίας"
+
+msgid "Interface language"
+msgstr "Γλώσσα διεπαφής"
+
+msgid "Let character quantity decide"
+msgstr "Να επιτρέπεται η απόφαση βάσει του αριθμού χαρακτήρων"
+
+msgid "Letter count"
+msgstr "Αριθμός γραμμάτων"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "Σας άρεσαν τα έργα μου; Αγοράστε μου έναν καφέ!"
+
+msgid "Low"
+msgstr "Χαμηλό"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Σειρά Maghribian hija"
+
+msgid "Minimum"
+msgstr "Ελάχιστο"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "Γλώσσα ανάγνωσης αριθμών"
+
+msgid "Numerical values"
+msgstr "Αριθμητικές τιμές"
+
+msgid "Open"
+msgstr "Άνοιγμα"
+
+msgid "Order"
+msgstr "Σειρά"
+
+msgid "Possible phrases"
+msgstr "Πιθανές φράσεις"
+
+msgid "Program settings"
+msgstr "Ρυθμίσεις προγράμματος"
+
+msgid "Pronunciation"
+msgstr "Προφορά"
+
+msgid "Regular expression"
+msgstr "Κανονική έκφραση"
+
+msgid "Regularly preferred classification"
+msgstr "Συχνά προτιμητέα ταξινόμηση"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Separators"
+msgstr "Διαχωριστές"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Shamsee abjad order"
+msgstr "Σειρά abjad του Shamsee"
+
+msgid "Show numpad"
+msgstr "Εμφάνιση numpad"
+
+msgid "Show virtual keyboard"
+msgstr "Εμφάνιση εικονικού πληκτρολογίου"
+
+msgid "Small"
+msgstr "Μικρό"
+
+msgid "Small + letter count"
+msgstr "Μικρό + αριθμός γραμμάτων"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Taken (letter)"
+msgstr "Πάρε (γράμμα)"
+
+msgid "Taken (letter; abjad)"
+msgstr "Πάρε (γράμμα; abjad)"
+
+msgid "Taken Letters"
+msgstr "Πάρε γράμματα"
+
+msgid "Text or number cell"
+msgstr "Κελί κειμένου ή αριθμού"
+
+msgid "Thank you for your support!"
+msgstr "Ευχαριστούμε για τη στήριξή σας!"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Turkish"
+msgstr "Τουρκικά"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "Abjad του Τουρκικού αλφαβήτου"
+
+msgid "Turkish alphabet elements"
+msgstr "Στοιχεία του Τουρκικού αλφαβήτου"
+
+msgid "Turkish letters"
+msgstr "Τουρκικά γράμματα"
+
+msgid "Undefined characters"
+msgstr "Απροσδιόριστα χαρακτήρες"
+
+msgid "Value"
+msgstr "Τιμή"
+
+msgid "Value & Detail"
+msgstr "Τιμή & Λεπτομέρεια"
+
+msgid "Version"
+msgstr "Έκδοση"
+
+msgid "Water"
+msgstr "Νερό"
+
+msgid "When data is entered"
+msgstr "Όταν εισάγονται δεδομένα"
+
+msgid "When reading large digits"
+msgstr "Κατά την ανάγνωση μεγάλων ψηφίων"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "υπολογισμένο abjad και προστέθηκε ο αριθμός γραμμάτων"
+
+msgid "abjad() functions settings"
+msgstr "ρυθμίσεις των συναρτήσεων abjad()"
+
+msgid "add to initial value"
+msgstr "προσθήκη στην αρχική τιμή"
+
+msgid "and"
+msgstr "και"
+
+msgid "auto calculate immediately"
+msgstr "αυτόματος υπολογισμός αμέσως"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "ρυθμίσεις των συναρτήσεων bastet() και nutket()"
+
+msgid "count once"
+msgstr "μετρήστε μία φορά"
+
+msgid "count twice"
+msgstr "μετρήστε δύο φορές"
+
+msgid "display with Arabic numbers"
+msgstr "προβολή με Αραβικούς αριθμούς"
+
+msgid "display with Indian numbers"
+msgstr "προβολή με Ινδικούς αριθμούς"
+
+msgid "do not add to initial value"
+msgstr "μην προσθέσετε στην αρχική τιμή"
+
+msgid "do not force to other functions"
+msgstr "μην αναγκάζετε σε άλλες συναρτήσεις"
+
+msgid "do not purify"
+msgstr "μην καθαρίζετε"
+
+msgid "force to other functions"
+msgstr "αναγκάστε σε άλλες συναρτήσεις"
+
+msgid "group multiplier letters"
+msgstr "ομάδα πολλαπλασιαστών γραμμάτων"
+
+msgid "hide"
+msgstr "απόκρυψη"
+
+msgid "hide abjad values"
+msgstr "απόκρυψη των τιμών abjad"
+
+msgid "hide bast results"
+msgstr "απόκρυψη αποτελεσμάτων bast"
+
+msgid "hide huddam names"
+msgstr "απόκρυψη ονομάτων huddam"
+
+msgid "huddam() function settings"
+msgstr "ρυθμίσεις της συνάρτησης huddam()"
+
+msgid "no bast applied."
+msgstr "κανένα bast εφαρμόστηκε."
+
+msgid "no data entered"
+msgstr "δεν έχουν εισαχθεί δεδομένα"
+
+msgid "other suffix"
+msgstr "άλλο κατάληξη"
+
+msgid "purify data"
+msgstr "καθαρισμός δεδομένων"
+
+msgid "repeat multiplier for each digit"
+msgstr "Επαναλάβετε τον πολλαπλασιαστή για κάθε ψηφίο"
+
+msgid "show"
+msgstr "εμφάνιση"
+
+msgid "show abjad values"
+msgstr "εμφάνιση τιμών Abjad"
+
+msgid "show bast results"
+msgstr "εμφάνιση αποτελεσμάτων bast"
+
+msgid "show huddam names"
+msgstr "εμφάνιση ονομάτων huddam"
+
+msgid "suffix"
+msgstr "κατάληξη"
+
+msgid "times bast applied."
+msgstr "φορές bast εφαρμόστηκαν."
+
+msgid "use calculated abjad results"
+msgstr "χρήση υπολογισμένων αποτελεσμάτων Abjad"
+
+msgid "use calculated abjad total"
+msgstr "χρήση υπολογισμένου συνολικού Abjad"
+
+msgid "use calculated bast results"
+msgstr "χρήση υπολογισμένων αποτελεσμάτων bast"
+
+msgid "use entered data directly"
+msgstr "χρήση εισαχθέντων δεδομένων απευθείας"
+
+msgid "use entered data total"
+msgstr "χρήση συνολικού εισαχθέντων δεδομένων"
+
+msgid "use in all bast repetitions"
+msgstr "χρήση σε όλες τις επαναλήψεις bast"
+
+msgid "use only at beginning if possible"
+msgstr "χρήση μόνο στην αρχή αν είναι δυνατόν"
+
+msgid "wait for settings and data entry"
+msgstr "αναμονή για ρυθμίσεις και εισαγωγή δεδομένων"
+
+msgid "Abjad Table"
+msgstr "Πίνακας Abjad"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+msgid "Element Classification"
+msgstr "Κατηγοριοποίηση Στοιχείου"
+
+msgid "Abjad Order"
+msgstr "Σειρά Abjad"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr ""
+"Προσθέστε προσαρμοσμένο CSS για να προσαρμόσετε την εμφάνιση του widget."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Προσθέστε προσαρμοσμένο JavaScript για να τροποποιήσετε τη συμπεριφορά του "
+"widget. Ψέλος κώδικας μπορεί να σπάσει το widget!"
+
+msgid "An error occurred while loading content."
+msgstr "Παρουσιάστηκε σφάλμα κατά τη φόρτωση περιεχομένου."
+
+msgid "Button"
+msgstr "Κουμπί"
+
+msgid "Button Color"
+msgstr "Χρώμα κουμπιού"
+
+msgid "Button Emoji"
+msgstr "Emoji του κουμπιού"
+
+msgid "Button Message"
+msgstr "Μήνυμα κουμπιού"
+
+msgid "Button Settings"
+msgstr "Ρυθμίσεις κουμπιού"
+
+msgid "Button Type"
+msgstr "Τύπος κουμπιού"
+
+msgid "CSS saved successfully."
+msgstr "Η CSS αποθηκεύτηκε με επιτυχία."
+
+msgid "Check this box to activate the widget."
+msgstr "Επιλέξτε αυτό το πλαίσιο για να ενεργοποιήσετε το widget."
+
+msgid "Code Editor"
+msgstr "Επεξεργαστής κώδικα"
+
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένη CSS"
+
+msgid "Custom JavaScript"
+msgstr "Προσαρμοσμένο JavaScript"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "Εισάγετε το URL εικόνας"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Παράδειγμα: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "JavaScript saved successfully."
+msgstr "Το JavaScript αποθηκεύτηκε με επιτυχία."
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Live Preview"
+msgstr "Ζωντανή προεπισκόπηση"
+
+msgid "Loading..."
+msgstr "Φόρτωση..."
+
+msgid "PNG Image URL"
+msgstr "URL εικόνας PNG"
+
+msgid "Paste SVG code"
+msgstr "Επικολλήστε κώδικα SVG"
+
+msgid "Please enter a valid URL."
+msgstr "Παρακαλώ εισάγετε έγκυρο URL."
+
+msgid "Position"
+msgstr "Θέση"
+
+msgid "Reset to Default"
+msgstr "Επαναφορά στις προεπιλογές"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "SVG Code"
+msgstr "Κώδικας SVG"
+
+msgid "Save CSS"
+msgstr "Αποθήκευση CSS"
+
+msgid "Save JavaScript"
+msgstr "Αποθήκευση JavaScript"
+
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+msgid "Settings saved successfully."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία."
+
+msgid "Style Editor"
+msgstr "Επεξεργαστής Στυλ"
+
+msgid "WARNING"
+msgstr "ΠΡΟΣΟΧΗ"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"Καλώς ήρθατε! Μπορείτε να ακολουθήσετε νέα και ανακοινώσεις widget από αυτό "
+"το πάνελ."
+
+msgid "Widget Settings"
+msgstr "Ρυθμίσεις Widget"
+
+msgid "Widget Status"
+msgstr "Κατάσταση Widget"
+
+msgid "Widget active"
+msgstr "Widget ενεργό"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"Λάθος κώδικας JavaScript μπορεί να σπάσει το widget. Δημιουργήστε αντίγραφο "
+"ασφαλείας πριν κάνετε αλλαγές."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Το όνομα χρήστη σας στο Buy Me a Coffee"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"Οι αλλαγές σας θα επηρεάσουν άμεσα την εμφάνιση του widget. Εάν δεν "
+"γνωρίζετε CSS, συνιστάται να χρησιμοποιήσετε τις προεπιλεγμένες ρυθμίσεις."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Τοπικό Ταμπλό"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "Πνευματικοί Αναζητητές και Μυστικοί"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"Χαρακτηριστικά προσωπικότητας: Περιέργεια, ενδοσκοπία, ανοιχτό μυαλό, και "
+"έλξη προς μυστικιστικές γνώσεις. Μπορεί να έχουν έντονο ενδιαφέρον για την "
+"ανακάλυψη κρυφών νοήματος ή μοτίβων στη ζωή. Επαγγέλματα: Πνευματικοί "
+"προπονητές, αναγνώστες τράτου, αστρολόγοι ή άτομα που εμπλέκονται σε "
+"πρακτικές New Age. Ιδεολογικό φάσμα: Πιθανόν να κλίνουν προς πνευματικές ή "
+"μεταφυσικές πεποιθήσεις. Μπορεί να βλέπουν τα εργαλεία ως τρόπο σύνδεσης με "
+"βαθύτερες αλήθειες ή παγκόσμιες ενέργειες."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "Αριθμηλόγοι και Ενθουσιαστές Γεματρία"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"Χαρακτηριστικά προσωπικότητας: Αναλυτικά, προσανατολισμένοι στη λεπτομέρεια,"
+" και γοητευμένοι από τη σχέση μεταξύ αριθμών και γλώσσας. Μπορεί να "
+"απολαμβάνουν την αποκωδικοποίηση συμβολικών νοήματος. Επαγγέλματα: "
+"Ανεξάρτητοι αριθμηλόγοι, συγγραφείς σε μυστικιστικά θέματα ή ερασιτέχνες που"
+" διερευνούν την αριθμολογία. Ιδεολογικό φάσμα: Μπορεί να κυμαίνεται από "
+"όσους βλέπουν την αριθμολογία ως διασκεδαστική πνευματική άσκηση μέχρι "
+"εκείνους που πιστεύουν στην βαθιά πνευματική της σημασία."
+
+msgid "Historians and Linguists"
+msgstr "Ιστορικοί και Γλωσσολόγοι"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"Χαρακτηριστικά προσωπικότητας: Επιστημονικοί, μεθοδικοί, και ενδιαφερόμενοι "
+"για ιστορικά ή πολιτισμικά συμφραζόμενα αριθμητικών συστημάτων όπως το "
+"Abjad. Επαγγέλματα: Ακαδημαϊκοί, ερευνητές ή φοιτητές που μελετούν γλώσσες "
+"Μέσης Ανατολής, ιστορία ή θρησκευτικά κείμενα. Ιδεολογικό φάσμα: Πιθανό να "
+"προσεγγίσουν τα εργαλεία από μια λογική, ακαδημαϊκή προοπτική, εστιάζοντας "
+"στην ιστορική ή γλωσσική τους σημασία."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "Θρησκευτικοί ή Πιστο-Βασικοί Άνθρωποι"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"Χαρακτηριστικά προσωπικότητας: Ιδίοπιστος, σκέπτικος, και αναζητώντας "
+"βαθύτερες συνδέσεις με την πίστη τους. Μπορεί να χρησιμοποιήσουν τα εργαλεία"
+" για να διερευνήσουν θρησκευτικά κείμενα ή θεϊκές μηνύματα. Επαγγέλματα: "
+"Θρησκευτικοί φοιτητές, ιμαμ, ιερείς ή απλοί άνθρωποι με έντονο ενδιαφέρον "
+"για τις μυστηριώδεις παραδόσεις της πίστης τους. Ιδεολογικό φάσμα: Πιθανόν "
+"να έχουν παραδοσιακή ή συντηρητική προοπτική, χρησιμοποιώντας τα εργαλεία "
+"για να ενισχύσουν τις πνευματικές τους πεποιθήσεις."
+
+msgid "Writers and Artists"
+msgstr "Συγγραφείς και Καλλιτέχνες"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"Χαρακτηριστικά προσωπικότητας: Δημιουργικοί, φανταστικοί, και έλπιμεσοι προς"
+" συμβολικά ή αφηρημένα έννοιες. Μπορεί να χρησιμοποιούν τα εργαλεία για "
+"έμπνευση ή για να προσθέσουν στρώματα νοήματος στην εργασία τους. "
+"Επαγγέλματα: Συγγραφείς, ποιητές, οπτικοί καλλιτέχνες ή μουσικοί. Ιδεολογικό"
+" φάσμα: Μπορεί να κυμαίνεται από λογικές δημιουργίες μέχρι εκείνους με "
+"πνευματική ή μυστηριώδη προσανατολισμό."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "Ενθουσιαστές Παζλ και Αινιγμάτων"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"Χαρακτηριστικά προσωπικότητας: Παιχνίδι, πνευματικά περίεργοι, και "
+"απολαμβάνουν την επίλυση σύνθετων προβλημάτων ή την αποκωδικοποίηση μοτίβων."
+" Επαγγέλματα: Ερασιτέχνες, σχεδιαστές παζλ ή εκπαιδευτικοί. Ιδεολογικό "
+"φάσμα: Πιθανόν να αντιμετωπίζουν τα εργαλεία ως μορφή ψυχαγωγίας ή νοητικής "
+"άσκησης, με ελάχιστη ιδεολογική προσκόμιση."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Θεωρητικοί Συμφορητές και Εναλλακτικοί Σκεπτικοί"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"Χαρακτηριστικά προσωπικότητας: Αμφιβολικοί για τις κυριότερες αφηγηματικές, "
+"έλπιοντες να ανακαλύψουν κρυφές αλήθειες ή μοτίβα σε συστήματα. Επαγγέλματα:"
+" Ανεξάρτητοι ερευνητές, bloggers ή ακτιβιστές. Ιδεολογικό φάσμα: Μπορεί να "
+"έχουν πιο ριζικό ή μη συμβατικό κόσμο όραμα, χρησιμοποιώντας τα εργαλεία για"
+" να υποστηρίξουν εναλλακτικές θεωρίες ή αφηγηματικές."
+
+msgid "☕ Support the Project"
+msgstr "☕ Υποστηρίξτε το Έργο"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "Αν σας αρέσει το έργο μου, μπορείτε να μου αγοράσετε έναν καφέ!"
+
+msgid "Buy Me A Coffee"
+msgstr "Αγοράστε Μου έναν Καφέ"
+
+msgid "Thank you! 🙏"
+msgstr "Ευχαριστώ! 🙏"

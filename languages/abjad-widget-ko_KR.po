@@ -1,0 +1,792 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Korean <ko_KR>\n"
+"Language: ko-KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "Abjad 설정"
+
+msgid "Abjad Value"
+msgstr "Abjad 값"
+
+msgid "Abjad Widget Dashboard"
+msgstr "Abjad 위젯 대시보드"
+
+msgid "Abjad calculation results"
+msgstr "Abjad 계산 결과"
+
+msgid "Abjad calculations hidden"
+msgstr "Abjad 계산이 숨김"
+
+msgid "Abjad not calculated"
+msgstr "Abjad 계산되지 않음"
+
+msgid "Abjad order"
+msgstr "Abjad 순서"
+
+msgid "Add elements"
+msgstr "요소 추가"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "공기"
+
+msgid "All"
+msgstr "모두"
+
+msgid "Arabic"
+msgstr "아랍어"
+
+msgid "Arabic letters"
+msgstr "아랍 문자"
+
+msgid "Arabic numbers"
+msgstr "아랍 숫자"
+
+msgid "As data for operation"
+msgstr "작업용 데이터로"
+
+msgid "Bast loop results"
+msgstr "Bast 루프 결과"
+
+msgid "Bast not calculated"
+msgstr "Bast 계산되지 않음"
+
+msgid "Bast repetition count"
+msgstr "Bast 반복 횟수"
+
+msgid "Bast results hidden"
+msgstr "Bast 결과가 숨김"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "Bastet 순서"
+
+msgid "Bastet shadda"
+msgstr "Bastet 셰다"
+
+msgid "Bastet table"
+msgstr "Bastet 표"
+
+msgid "Big"
+msgstr "큰"
+
+msgid "Bigger"
+msgstr "더 큰"
+
+msgid "Buy Me a Coffee ID"
+msgstr "Buy Me a Coffee ID"
+
+msgid "Buy me a coffee"
+msgstr "나에게 커피를 사 주세요"
+
+msgid "Calculate"
+msgstr "계산"
+
+msgid "Calculate Abjad"
+msgstr "Abjad 계산"
+
+msgid "Calculate Bastet"
+msgstr "바스테트 계산"
+
+msgid "Calculate Huddam"
+msgstr "후담 계산"
+
+msgid "Calculation details"
+msgstr "계산 세부사항"
+
+msgid "Choose Keyboard Layout"
+msgstr "키보드 레이아웃 선택"
+
+msgid "Clear text box"
+msgstr "텍스트 상자 지우기"
+
+msgid "Click row for details"
+msgstr "세부사항을 보려면 행을 클릭하세요"
+
+msgid "Close Keyboard"
+msgstr "키보드 닫기"
+
+msgid "Closed"
+msgstr "닫힘"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "쉼표가 기본 구분 기호이며 반드시 체크된 상태를 유지해야 합니다!"
+
+msgid "Dashboard"
+msgstr "대시보드"
+
+msgid "Data entry separators:"
+msgstr "데이터 입력 구분 기호:"
+
+msgid "Data type profile"
+msgstr "데이터 유형 프로필"
+
+msgid "Dead keys"
+msgstr "죽은 키"
+
+msgid "Decrease keyboard size"
+msgstr "키보드 크기 줄이기"
+
+msgid "Don't calculate"
+msgstr "계산 안 함"
+
+msgid "Duty entity name results"
+msgstr "책임 엔티티 이름 결과"
+
+msgid "Duty entity type"
+msgstr "책임 엔티티 유형"
+
+msgid "Earth"
+msgstr "지구"
+
+msgid "Element classification"
+msgstr "요소 분류"
+
+msgid "Element classification method"
+msgstr "요소 분류 방법"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "텍스트 입력... 아랍어, 히브리어, 터키어 문자, 숫자"
+
+msgid "Entered data"
+msgstr "입력된 데이터"
+
+msgid "Entry"
+msgstr "입력"
+
+msgid "Entry letter count"
+msgstr "입력 문자 수"
+
+msgid "Evil"
+msgstr "악"
+
+msgid "Fire"
+msgstr "불"
+
+msgid "For entered data"
+msgstr "입력된 데이터에 대해"
+
+msgid "Frequency in Quran"
+msgstr "코란에서의 빈도"
+
+msgid "Gematria"
+msgstr "게마트리아"
+
+msgid "Hebrew"
+msgstr "히브리어"
+
+msgid "Hebrew alphabet elements"
+msgstr "히브리어 알파벳 요소"
+
+msgid "Hebrew letters"
+msgstr "히브리어 글자"
+
+msgid "High"
+msgstr "높음"
+
+msgid "Hija order"
+msgstr "히자 순서"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam names hidden"
+msgstr "Huddam 이름이 숨겨짐"
+
+msgid "Huddam not calculated"
+msgstr "Huddam이 계산되지 않음"
+
+msgid "Iklil's order"
+msgstr "Iklil의 순서"
+
+msgid "Increase keyboard size"
+msgstr "키보드 크기 늘리기"
+
+msgid "Indian numbers"
+msgstr "인도 숫자"
+
+msgid "Interface language"
+msgstr "인터페이스 언어"
+
+msgid "Let character quantity decide"
+msgstr "문자 수에 따라 결정하도록 허용"
+
+msgid "Letter count"
+msgstr "글자 수"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "프로젝트를 좋아하셨나요? 커피를 사 주세요!"
+
+msgid "Low"
+msgstr "낮음"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija 순서"
+
+msgid "Minimum"
+msgstr "최소"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "숫자 읽기 언어"
+
+msgid "Numerical values"
+msgstr "숫자 값"
+
+msgid "Open"
+msgstr "열기"
+
+msgid "Order"
+msgstr "순서"
+
+msgid "Possible phrases"
+msgstr "가능한 문구"
+
+msgid "Program settings"
+msgstr "프로그램 설정"
+
+msgid "Pronunciation"
+msgstr "발음"
+
+msgid "Regular expression"
+msgstr "정규 표현식"
+
+msgid "Regularly preferred classification"
+msgstr "자주 선호되는 분류"
+
+msgid "Reset"
+msgstr "초기화"
+
+msgid "Separators"
+msgstr "구분자"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Shamsee abjad order"
+msgstr "Shamsee 아바즈 순서"
+
+msgid "Show numpad"
+msgstr "숫자 키패드 표시"
+
+msgid "Show virtual keyboard"
+msgstr "가상 키보드 표시"
+
+msgid "Small"
+msgstr "작은"
+
+msgid "Small + letter count"
+msgstr "작은 + 글자 수"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "지원"
+
+msgid "Taken (letter)"
+msgstr "획득 (문자)"
+
+msgid "Taken (letter; abjad)"
+msgstr "획득 (문자; 아바즈)"
+
+msgid "Taken Letters"
+msgstr "획득된 문자"
+
+msgid "Text or number cell"
+msgstr "텍스트 또는 숫자 셀"
+
+msgid "Thank you for your support!"
+msgstr "지원을 해 주셔서 감사합니다!"
+
+msgid "Total"
+msgstr "합계"
+
+msgid "Turkish"
+msgstr "터키어"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "터키 알파벳 아바즈"
+
+msgid "Turkish alphabet elements"
+msgstr "터키 알파벳 요소"
+
+msgid "Turkish letters"
+msgstr "터키어 글자"
+
+msgid "Undefined characters"
+msgstr "정의되지 않은 문자"
+
+msgid "Value"
+msgstr "값"
+
+msgid "Value & Detail"
+msgstr "값 & 상세"
+
+msgid "Version"
+msgstr "버전"
+
+msgid "Water"
+msgstr "물"
+
+msgid "When data is entered"
+msgstr "데이터가 입력될 때"
+
+msgid "When reading large digits"
+msgstr "큰 숫자를 읽을 때"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "Abjad 계산 및 글자 수 추가"
+
+msgid "abjad() functions settings"
+msgstr "abjad() 함수 설정"
+
+msgid "add to initial value"
+msgstr "초기값에 추가"
+
+msgid "and"
+msgstr "및"
+
+msgid "auto calculate immediately"
+msgstr "즉시 자동 계산"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() 및 nutket() 함수 설정"
+
+msgid "count once"
+msgstr "한 번 세기"
+
+msgid "count twice"
+msgstr "두 번 세기"
+
+msgid "display with Arabic numbers"
+msgstr "아라비아 숫자 표시"
+
+msgid "display with Indian numbers"
+msgstr "인도 숫자 표시"
+
+msgid "do not add to initial value"
+msgstr "초기값에 추가하지 않음"
+
+msgid "do not force to other functions"
+msgstr "다른 함수에 강제하지 않음"
+
+msgid "do not purify"
+msgstr "정화하지 않음"
+
+msgid "force to other functions"
+msgstr "다른 함수에 강제"
+
+msgid "group multiplier letters"
+msgstr "그룹 배수 문자"
+
+msgid "hide"
+msgstr "숨기기"
+
+msgid "hide abjad values"
+msgstr "아브자드 값 숨기기"
+
+msgid "hide bast results"
+msgstr "bast 결과 숨기기"
+
+msgid "hide huddam names"
+msgstr "huddam 이름 숨기기"
+
+msgid "huddam() function settings"
+msgstr "huddam() 함수 설정"
+
+msgid "no bast applied."
+msgstr "bast가 적용되지 않음."
+
+msgid "no data entered"
+msgstr "데이터가 입력되지 않음"
+
+msgid "other suffix"
+msgstr "다른 접미사"
+
+msgid "purify data"
+msgstr "데이터 정제"
+
+msgid "repeat multiplier for each digit"
+msgstr "각 자리수에 대한 반복 배수"
+
+msgid "show"
+msgstr "표시"
+
+msgid "show abjad values"
+msgstr "abjad 값 표시"
+
+msgid "show bast results"
+msgstr "bast 결과 표시"
+
+msgid "show huddam names"
+msgstr "huddam 이름 표시"
+
+msgid "suffix"
+msgstr "접미사"
+
+msgid "times bast applied."
+msgstr "bast 적용 횟수."
+
+msgid "use calculated abjad results"
+msgstr "계산된 abjad 결과 사용"
+
+msgid "use calculated abjad total"
+msgstr "계산된 abjad 총합 사용"
+
+msgid "use calculated bast results"
+msgstr "계산된 bast 결과 사용"
+
+msgid "use entered data directly"
+msgstr "입력된 데이터 직접 사용"
+
+msgid "use entered data total"
+msgstr "입력된 데이터 총합 사용"
+
+msgid "use in all bast repetitions"
+msgstr "모든 bast 반복에 사용"
+
+msgid "use only at beginning if possible"
+msgstr "가능하면 처음에만 사용"
+
+msgid "wait for settings and data entry"
+msgstr "설정 및 데이터 입력을 기다립니다"
+
+msgid "Abjad Table"
+msgstr "Abjad 표"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "세부사항"
+
+msgid "Element Classification"
+msgstr "요소 분류"
+
+msgid "Abjad Order"
+msgstr "Abjad 순서"
+
+msgid "Abjad Widget"
+msgstr "Abjad 위젯"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "위젯 모양을 사용자 정의하려면 사용자 정의 CSS를 추가하세요."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr "위젯 동작을 수정하려면 사용자 정의 JavaScript를 추가하세요. 잘못된 코드는 위젯을 망가뜨릴 수 있습니다!"
+
+msgid "An error occurred while loading content."
+msgstr "콘텐츠를 로드하는 동안 오류가 발생했습니다."
+
+msgid "Button"
+msgstr "버튼"
+
+msgid "Button Color"
+msgstr "버튼 색상"
+
+msgid "Button Emoji"
+msgstr "버튼 이모지"
+
+msgid "Button Message"
+msgstr "버튼 메시지"
+
+msgid "Button Settings"
+msgstr "버튼 설정"
+
+msgid "Button Type"
+msgstr "버튼 유형"
+
+msgid "CSS saved successfully."
+msgstr "CSS가 성공적으로 저장되었습니다."
+
+msgid "Check this box to activate the widget."
+msgstr "위젯을 활성화하려면 이 상자를 선택하세요."
+
+msgid "Code Editor"
+msgstr "코드 편집기"
+
+msgid "Custom CSS"
+msgstr "사용자 정의 CSS"
+
+msgid "Custom JavaScript"
+msgstr "사용자 정의 JavaScript"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Emoji"
+msgstr "이모지"
+
+msgid "Enter image URL"
+msgstr "이미지 URL을 입력하세요"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "예시: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "일반"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript가 성공적으로 저장되었습니다."
+
+msgid "Left"
+msgstr "왼쪽"
+
+msgid "Live Preview"
+msgstr "라이브 미리보기"
+
+msgid "Loading..."
+msgstr "로딩 중..."
+
+msgid "PNG Image URL"
+msgstr "PNG 이미지 URL"
+
+msgid "Paste SVG code"
+msgstr "SVG 코드를 붙여넣으세요"
+
+msgid "Please enter a valid URL."
+msgstr "유효한 URL을 입력하세요."
+
+msgid "Position"
+msgstr "위치"
+
+msgid "Reset to Default"
+msgstr "기본값으로 재설정"
+
+msgid "Right"
+msgstr "오른쪽"
+
+msgid "SVG Code"
+msgstr "SVG 코드"
+
+msgid "Save CSS"
+msgstr "CSS 저장"
+
+msgid "Save JavaScript"
+msgstr "JavaScript 저장"
+
+msgid "Save Settings"
+msgstr "설정 저장"
+
+msgid "Settings saved successfully."
+msgstr "설정이 성공적으로 저장되었습니다."
+
+msgid "Style Editor"
+msgstr "스타일 편집기"
+
+msgid "WARNING"
+msgstr "경고"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "환영합니다! 이 패널에서 위젯 뉴스와 공지 사항을 확인할 수 있습니다."
+
+msgid "Widget Settings"
+msgstr "위젯 설정"
+
+msgid "Widget Status"
+msgstr "위젯 상태"
+
+msgid "Widget active"
+msgstr "위젯 활성화"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "잘못된 JavaScript 코드는 위젯을 끊길 수 있습니다. 변경하기 전에 백업하십시오."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "Buy Me a Coffee 사용자 이름"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr "변경 사항은 위젯 외관에 직접 영향을 미칩니다. CSS를 모른다면 기본 설정을 사용하는 것이 좋습니다."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "Abjad 위젯 - 로컬 대시보드"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "영적 탐구자와 신비주의자"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"성격 특성: 호기심이 많고, 성찰적이며, 열린 마음을 가지고 있으며, 비전통적 지식에 끌립니다. 그들은 삶의 숨겨진 의미나 패턴을 밝히는"
+" 데 강한 관심을 가질 수 있습니다. 직업: 영적 코치, 타로 독자, 점성가, 또는 뉴에이지 실천에 참여하는 개인. 이념적 스펙트럼: "
+"영적 또는 형이상학적 믿음에 기울어질 가능성이 큽니다. 그들은 도구를 더 깊은 진리나 보편적 에너지와 연결하는 방법으로 볼 수 있습니다."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "수비학자와 게마트리아 애호가"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"성격 특성: 분석적이며, 세부 사항에 주의가 가며, 숫자와 언어 사이의 관계에 매료됩니다. 그들은 상징적 의미를 해독하는 것을 즐길 수 "
+"있습니다. 직업: 프리랜스 수비학자, 비전통 주제에 관한 작가, 또는 수비학을 탐구하는 취미자. 이념적 스펙트럼: 수비학을 재미있는 지적"
+" 운동으로 보는 사람부터 그 깊은 영적 의미를 믿는 사람까지 다양합니다."
+
+msgid "Historians and Linguists"
+msgstr "역사학자 및 언어학자"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"성격 특성: 학문적이며, 체계적이며, 아브자드 같은 수치 시스템의 역사적 또는 문화적 맥락에 관심이 있습니다. 직업: 학계, 연구자, "
+"또는 중동 언어, 역사, 또는 종교 문서를 연구하는 학생. 이념적 스펙트럼: 도구를 세속적이고 학문적인 관점에서 접근하여 그 역사적 또는"
+" 언어적 중요성에 초점을 맞출 가능성이 큽니다."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "종교적 또는 신앙 기반 개인"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"성격 특성: 신실하고, 성찰적이며, 신앙에 더 깊은 연결을 추구합니다. 그들은 도구를 사용해 종교 문서나 신성한 메시지를 탐구할 수 "
+"있습니다. 직업: 종교 학자, 이맘, 사제, 또는 신앙의 신비적 전통에 강한 관심을 가진 평신도. 이념적 스펙트럼: 전통적이거나 보수적인"
+" 세계관을 갖고 있을 가능성이 높으며, 도구를 통해 영적 신념을 강화합니다."
+
+msgid "Writers and Artists"
+msgstr "작가 및 예술가"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"성격 특성: 창의적이며, 상상력이 풍부하고, 상징적이거나 추상적인 개념에 끌립니다. 그들은 도구를 영감의 원천으로 사용하거나 작품에 "
+"의미의 층을 추가할 수 있습니다. 직업: 작가, 시인, 시각 예술가, 또는 뮤지션. 이념적 스펙트럼: 세속적 창작자부터 영적이거나 "
+"신비주의적 성향을 가진 사람들까지 다양합니다."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "퍼즐 및 수수께끼 애호가"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr ""
+"성격 특성: 장난스럽고, 지적 호기심이 많으며, 복잡한 문제를 해결하거나 패턴을 해독하는 것을 즐깁니다. 직업: 취미가, 퍼즐 디자이너,"
+" 또는 교육자. 이념적 스펙트럼: 도구를 오락이나 정신 운동의 형태로 접근하며, 이념적 연결이 거의 없습니다."
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "음모 이론가 및 대안 사상가"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"성격 특성: 주류 서사에 회의적이며, 시스템 속 숨겨진 진리나 패턴을 밝히는 데 끌립니다. 직업: 독립 연구원, 블로거, 또는 활동가. "
+"이념적 스펙트럼: 더 급진적이거나 독특한 세계관을 가질 수 있으며, 도구를 사용해 대안 이론이나 서사를 지원합니다."
+
+msgid "☕ Support the Project"
+msgstr "☕ 프로젝트 지원"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "프로젝트가 마음에 드시면 커피 한 잔 사 주세요!"
+
+msgid "Buy Me A Coffee"
+msgstr "커피 한 잔 사 주세요"
+
+msgid "Thank you! 🙏"
+msgstr "감사합니다! 🙏"
