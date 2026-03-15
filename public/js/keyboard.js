@@ -1083,7 +1083,14 @@ var VKI_attach, VKI_close;
           keybut.elem = elem;
           keybut.onclick = function(e) {
             e = e || event;
-            if (e.stopPropagation) { e.stopPropagation(); } else e.cancelBubble = true;
+            const initiators = document.querySelectorAll('.keyboardInputInitiator');
+			initiators.forEach(el => {
+				el.addEventListener('click', () => {
+					const currentScroll = window.pageYOffset || document.documentElement.scrollTop;					
+					window.scrollTo(0, 0);
+				});
+			});
+            if (e.stopPropagation) { e.stopPropagation(); } else e.cancelBubble = true;            
             self.VKI_show(this.elem);
           };
       elem.parentNode.insertBefore(keybut, (elem.dir == "rtl") ? elem : elem.nextSibling);
@@ -1789,8 +1796,8 @@ var VKI_attach, VKI_close;
   }
 
 
-  VKI_addListener(window, 'resize', this.VKI_position, false);
-  VKI_addListener(window, 'scroll', this.VKI_position, false);
+  // VKI_addListener(window, 'resize', this.VKI_position, false);
+  // VKI_addListener(window, 'scroll', this.VKI_position, false);
   this.VKI_kbsize();
   VKI_addListener(window, 'load', VKI_buildKeyboardInputs, false);
   // VKI_addListener(window, 'load', function() {

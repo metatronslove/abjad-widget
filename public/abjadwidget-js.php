@@ -2927,19 +2927,6 @@ function calculations(identity) {
 		});
 	}
 	
-	const initiators = document.querySelectorAll('.keyboardInputInitiator');
-
-	initiators.forEach(el => {
-		el.addEventListener('click', () => {
-			// Get current scrollTop
-			const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
-			console.log('ScrollTop at click:', currentScroll);
-
-			// Or set scrollTop (e.g., scroll to top)
-			window.scrollTo(0, 0);
-		});
-	});
-
 	document.querySelectorAll('space').forEach(function(el) {
 		el.outerHTML = '&nbsp;';
 	});
