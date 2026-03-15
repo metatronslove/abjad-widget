@@ -1,0 +1,806 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Dari <fa_AF>\n"
+"Language: fa-AF\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "Abjad"
+
+msgid "Abjad Settings"
+msgstr "تنظیمات ابجد"
+
+msgid "Abjad Value"
+msgstr "مقدار ابجد"
+
+msgid "Abjad Widget Dashboard"
+msgstr "پیشخوان ابزارک ابجد"
+
+msgid "Abjad calculation results"
+msgstr "نتایج محاسبه ابجد"
+
+msgid "Abjad calculations hidden"
+msgstr "محاسبات ابجد مخفی"
+
+msgid "Abjad not calculated"
+msgstr "ابجد محاسبه نشد"
+
+msgid "Abjad order"
+msgstr "ترتیب ابجد"
+
+msgid "Add elements"
+msgstr "افزودن عناصر"
+
+msgid "Ahmad al Buni"
+msgstr "Ahmad al Buni"
+
+msgid "Air"
+msgstr "هوا"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Arabic"
+msgstr "عربی"
+
+msgid "Arabic letters"
+msgstr "حروف عربی"
+
+msgid "Arabic numbers"
+msgstr "اعداد عربی"
+
+msgid "As data for operation"
+msgstr "به عنوان داده برای عملیات"
+
+msgid "Bast loop results"
+msgstr "نتایج حلقه Bast"
+
+msgid "Bast not calculated"
+msgstr "Bast محاسبه نشد"
+
+msgid "Bast repetition count"
+msgstr "تعداد تکرار Bast"
+
+msgid "Bast results hidden"
+msgstr "نتایج Bast مخفی"
+
+msgid "Bastet"
+msgstr "Bastet"
+
+msgid "Bastet order"
+msgstr "ترتیب Bastet"
+
+msgid "Bastet shadda"
+msgstr "شده Bastet"
+
+msgid "Bastet table"
+msgstr "جدول Bastet"
+
+msgid "Big"
+msgstr "بزرگ"
+
+msgid "Bigger"
+msgstr "بزرگتر"
+
+msgid "Buy Me a Coffee ID"
+msgstr "شناسه Buy Me a Coffee"
+
+msgid "Buy me a coffee"
+msgstr "کافی برایم بخر"
+
+msgid "Calculate"
+msgstr "محاسبه کن"
+
+msgid "Calculate Abjad"
+msgstr "ابجد را محاسبه کن"
+
+msgid "Calculate Bastet"
+msgstr "محاسبه بستت"
+
+msgid "Calculate Huddam"
+msgstr "محاسبه هوددم"
+
+msgid "Calculation details"
+msgstr "جزئیات محاسبه"
+
+msgid "Choose Keyboard Layout"
+msgstr "انتخاب طرح صفحه‌کلید"
+
+msgid "Clear text box"
+msgstr "پاک کردن جعبه متن"
+
+msgid "Click row for details"
+msgstr "برای جزئیات بر سطر کلیک کنید"
+
+msgid "Close Keyboard"
+msgstr "بستن صفحه‌کلید"
+
+msgid "Closed"
+msgstr "بسته شد"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "ویرگول پیش‌فرض جداکننده است و باید علامت‌گذاری باقی بماند!"
+
+msgid "Dashboard"
+msgstr "داشبورد"
+
+msgid "Data entry separators:"
+msgstr "جداکننده‌های ورود داده:"
+
+msgid "Data type profile"
+msgstr "پروفایل نوع داده"
+
+msgid "Dead keys"
+msgstr "کلیدهای مرده"
+
+msgid "Decrease keyboard size"
+msgstr "کاهش اندازه صفحه‌کلید"
+
+msgid "Don't calculate"
+msgstr "محاسبه نکن"
+
+msgid "Duty entity name results"
+msgstr "نتایج نام موجودیت وظیفه"
+
+msgid "Duty entity type"
+msgstr "نوع موجودیت وظیفه"
+
+msgid "Earth"
+msgstr "زمین"
+
+msgid "Element classification"
+msgstr "طبقه‌بندی عنصر"
+
+msgid "Element classification method"
+msgstr "روش طبقه‌بندی عنصر"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "متن را وارد کنید... حروف عربی، عبری، ترکی و اعداد"
+
+msgid "Entered data"
+msgstr "داده وارد شده"
+
+msgid "Entry"
+msgstr "ورود"
+
+msgid "Entry letter count"
+msgstr "تعداد حروف ورود"
+
+msgid "Evil"
+msgstr "خبیث"
+
+msgid "Fire"
+msgstr "آتش"
+
+msgid "For entered data"
+msgstr "برای داده وارد شده"
+
+msgid "Frequency in Quran"
+msgstr "تکرار در قرآن"
+
+msgid "Gematria"
+msgstr "جماتریا"
+
+msgid "Hebrew"
+msgstr "عبری"
+
+msgid "Hebrew alphabet elements"
+msgstr "عناصر حروفی عبری"
+
+msgid "Hebrew letters"
+msgstr "حروف عبری"
+
+msgid "High"
+msgstr "بالا"
+
+msgid "Hija order"
+msgstr "ترتیب هِیجا"
+
+msgid "Hisab al jumal"
+msgstr "حساب الجمال"
+
+msgid "Huddam"
+msgstr "هوددم"
+
+msgid "Huddam names hidden"
+msgstr "نام‌های هوددم مخفی"
+
+msgid "Huddam not calculated"
+msgstr "هوددم محاسبه نشد"
+
+msgid "Iklil's order"
+msgstr "ترتیب ایکیل"
+
+msgid "Increase keyboard size"
+msgstr "اندازه صفحه‌کلید را بزرگ کنید"
+
+msgid "Indian numbers"
+msgstr "اعداد هندی"
+
+msgid "Interface language"
+msgstr "زبان رابط کاربری"
+
+msgid "Let character quantity decide"
+msgstr "اجازه دهید تعداد نویسه‌ها تصمیم بگیرد"
+
+msgid "Letter count"
+msgstr "تعداد حروف"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "آیا پروژه‌های من را دوست دارید؟ یک قهوه برایم بخرید!"
+
+msgid "Low"
+msgstr "پایین"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "حداقل"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "زبان خواندن عدد"
+
+msgid "Numerical values"
+msgstr "ارزش‌های عددی"
+
+msgid "Open"
+msgstr "باز"
+
+msgid "Order"
+msgstr "سفارش"
+
+msgid "Possible phrases"
+msgstr "عبارات ممکن"
+
+msgid "Program settings"
+msgstr "تنظیمات برنامه"
+
+msgid "Pronunciation"
+msgstr "تلفظ"
+
+msgid "Regular expression"
+msgstr "عبارت منظم"
+
+msgid "Regularly preferred classification"
+msgstr "طبقه‌بندی معمولاً ترجیحی"
+
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+msgid "Separators"
+msgstr "جداکننده‌ها"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Shamsee abjad order"
+msgstr "ترتیب ابجد شمسئ"
+
+msgid "Show numpad"
+msgstr "نمایش نُمپد"
+
+msgid "Show virtual keyboard"
+msgstr "نمایش کیبورد مجازی"
+
+msgid "Small"
+msgstr "کوچک"
+
+msgid "Small + letter count"
+msgstr "کوچک + تعداد حروف"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "پشتیبانی"
+
+msgid "Taken (letter)"
+msgstr "حرف گرفته‌شده"
+
+msgid "Taken (letter; abjad)"
+msgstr "حرف گرفته‌شده (ابجد)"
+
+msgid "Taken Letters"
+msgstr "حروف گرفته‌شده"
+
+msgid "Text or number cell"
+msgstr "سلول متن یا عدد"
+
+msgid "Thank you for your support!"
+msgstr "از حمایت شما سپاسگزاریم!"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Turkish"
+msgstr "ترکی"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "ابجد الفبا ترکی"
+
+msgid "Turkish alphabet elements"
+msgstr "عناصر الفبا ترکی"
+
+msgid "Turkish letters"
+msgstr "حروف ترکی"
+
+msgid "Undefined characters"
+msgstr "نویسه‌های نامشخص"
+
+msgid "Value"
+msgstr "مقدار"
+
+msgid "Value & Detail"
+msgstr "مقدار & جزئیات"
+
+msgid "Version"
+msgstr "نسخه"
+
+msgid "Water"
+msgstr "آب"
+
+msgid "When data is entered"
+msgstr "زمان ورود داده"
+
+msgid "When reading large digits"
+msgstr "هنگام خواندن اعداد بزرگ"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad محاسبه شد و تعداد حروف اضافه شد"
+
+msgid "abjad() functions settings"
+msgstr "abjad() تنظیمات توابع"
+
+msgid "add to initial value"
+msgstr "افزودن به مقدار اولیه"
+
+msgid "and"
+msgstr "و"
+
+msgid "auto calculate immediately"
+msgstr "محاسبه خودکار فوراً"
+
+msgid "bast"
+msgstr "بست"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() و nutket() تنظیمات توابع"
+
+msgid "count once"
+msgstr "یک بار شمارش"
+
+msgid "count twice"
+msgstr "دوبار شمارش"
+
+msgid "display with Arabic numbers"
+msgstr "نمایش با اعداد عربی"
+
+msgid "display with Indian numbers"
+msgstr "نمایش با اعداد هندی"
+
+msgid "do not add to initial value"
+msgstr "در مقدار اولیه اضافه نکن"
+
+msgid "do not force to other functions"
+msgstr "به توابع دیگر فشار نده"
+
+msgid "do not purify"
+msgstr "پاک نکن"
+
+msgid "force to other functions"
+msgstr "به توابع دیگر فشار بده"
+
+msgid "group multiplier letters"
+msgstr "حروف چندریختی گروهی"
+
+msgid "hide"
+msgstr "پنهان"
+
+msgid "hide abjad values"
+msgstr "مقدار abjad را مخفی کن"
+
+msgid "hide bast results"
+msgstr "پنهان کردن نتایج بست"
+
+msgid "hide huddam names"
+msgstr "پنهان کردن نام‌های هددم"
+
+msgid "huddam() function settings"
+msgstr "تنظیمات تابع huddam()"
+
+msgid "no bast applied."
+msgstr "بدون اعمال بست."
+
+msgid "no data entered"
+msgstr "داده‌ای وارد نشده"
+
+msgid "other suffix"
+msgstr "پسوند دیگر"
+
+msgid "purify data"
+msgstr "پاکسازی داده‌ها"
+
+msgid "repeat multiplier for each digit"
+msgstr "ضریب تکرار برای هر رقم"
+
+msgid "show"
+msgstr "نمایش"
+
+msgid "show abjad values"
+msgstr "نمایش مقادیر ابجد"
+
+msgid "show bast results"
+msgstr "نمایش نتایج بست"
+
+msgid "show huddam names"
+msgstr "نمایش نام‌های هددم"
+
+msgid "suffix"
+msgstr "پسوند"
+
+msgid "times bast applied."
+msgstr "بار بست اعمال شد."
+
+msgid "use calculated abjad results"
+msgstr "استفاده از نتایج محاسبه‌شده ابجد"
+
+msgid "use calculated abjad total"
+msgstr "استفاده از مجموع محاسبه‌شده ابجد"
+
+msgid "use calculated bast results"
+msgstr "استفاده از نتایج محاسبه‌شده بست"
+
+msgid "use entered data directly"
+msgstr "استفاده از داده‌های وارد شده به طور مستقیم"
+
+msgid "use entered data total"
+msgstr "استفاده از مجموع داده‌های وارد شده"
+
+msgid "use in all bast repetitions"
+msgstr "استفاده در تمام تکرارهای بست"
+
+msgid "use only at beginning if possible"
+msgstr "فقط در ابتدای امکان‌پذیر استفاده کنید"
+
+msgid "wait for settings and data entry"
+msgstr "منتظر تنظیمات و ورود داده‌ها"
+
+msgid "Abjad Table"
+msgstr "جدول ابجد"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "جزئیات"
+
+msgid "Element Classification"
+msgstr "طبقه‌بندی عنصر"
+
+msgid "Abjad Order"
+msgstr "ترتیب ابجد"
+
+msgid "Abjad Widget"
+msgstr "ویجت ابجد"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "افزودن CSS سفارشی برای سفارشی‌سازی ظاهر ویجت."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"افزودن JavaScript سفارشی برای تغییر رفتار ویجت. کد نادرست ممکن است ویجت را "
+"خراب کند!"
+
+msgid "An error occurred while loading content."
+msgstr "یک خطا هنگام بارگذاری محتوا رخ داد."
+
+msgid "Button"
+msgstr "دکمه"
+
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+msgid "Button Emoji"
+msgstr "اموجی دکمه"
+
+msgid "Button Message"
+msgstr "پیام دکمه"
+
+msgid "Button Settings"
+msgstr "تنظیمات دکمه"
+
+msgid "Button Type"
+msgstr "نوع دکمه"
+
+msgid "CSS saved successfully."
+msgstr "CSS با موفقیت ذخیره شد."
+
+msgid "Check this box to activate the widget."
+msgstr "این جعبه را علامت بزنید تا ویجت فعال شود."
+
+msgid "Code Editor"
+msgstr "ویرایشگر کد"
+
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript سفارشی"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Emoji"
+msgstr "اموجی"
+
+msgid "Enter image URL"
+msgstr "آدرس تصویر را وارد کنید"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "مثال: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript با موفقیت ذخیره شد."
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Live Preview"
+msgstr "پیش نمایش زنده"
+
+msgid "Loading..."
+msgstr "در حال بارگذاری..."
+
+msgid "PNG Image URL"
+msgstr "آدرس تصویر PNG"
+
+msgid "Paste SVG code"
+msgstr "کد SVG را بچسبانید"
+
+msgid "Please enter a valid URL."
+msgstr "لطفاً یک آدرس معتبر وارد کنید."
+
+msgid "Position"
+msgstr "موقعیت"
+
+msgid "Reset to Default"
+msgstr "بازنشانی به حالت پیش‌فرض"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "SVG Code"
+msgstr "کد SVG"
+
+msgid "Save CSS"
+msgstr "ذخیره CSS"
+
+msgid "Save JavaScript"
+msgstr "ذخیره JavaScript"
+
+msgid "Save Settings"
+msgstr "تنظیمات را ذخیره کنید"
+
+msgid "Settings saved successfully."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+msgid "Style Editor"
+msgstr "ویرایشگر سبک"
+
+msgid "WARNING"
+msgstr "هشدار"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr ""
+"خوش آمدید! شما می‌توانید اخبار و اعلامیه‌های ویجت را از این پنل دنبال کنید."
+
+msgid "Widget Settings"
+msgstr "تنظیمات ویجت"
+
+msgid "Widget Status"
+msgstr "وضعیت ویجت"
+
+msgid "Widget active"
+msgstr "ویجت فعال"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"کد جاوااسکریپت نادرست ممکن است ویجت را شکسته کند. قبل از تغییرات نسخه "
+"پشتیبان تهیه کنید."
+
+msgid "Your Buy Me a Coffee username"
+msgstr "نام کاربری Buy Me a Coffee شما"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"تغییرات شما مستقیماً ظاهر ویجت را تحت تأثیر قرار می‌دهد. اگر CSS را "
+"نمی‌شناسید، توصیه می‌شود از تنظیمات پیش‌فرض استفاده کنید."
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "ویجت ابجد - داشبورد محلی"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "جستجویان روحانی و عرفان"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr ""
+"ویژگی‌های شخصیتی: کنجکاو، تأمل‌گر، ذهنی باز و به دانش عرفانی علاقه‌مند. ممکن"
+" است علاقه‌مند به کشف معانی مخفی یا الگوهای زندگی باشند. شغل‌ها: مربیان "
+"روحانی، خواننده‌های تاروت، ستاره‌شناسان یا افرادی که در روش‌های نوآی (New "
+"Age) شرکت دارند. طیف ایدئولوژیک: احتمالاً به باورهای روحانی یا متافیزیکی "
+"تمایل دارند. ممکن است ابزارها را به‌عنوان وسیله‌ای برای ارتباط با حقایق "
+"عمیق‌تر یا انرژی‌های جهانی ببینند."
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "شماره‌شناسان و علاقه‌مندان به جِماتریا"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr ""
+"ویژگی‌های شخصیتی: تحلیلی، جزئی‌گر، و به رابطه بین اعداد و زبان علاقه‌مند. "
+"ممکن است لذت بردن از رمزگشایی معانی نمادین را داشته باشند. شغل‌ها: "
+"شماره‌شناسان آزاد، نویسندگان در موضوعات عرفانی، یا علاقه‌مندان آماتور به "
+"شماره‌شناسی. طیف ایدئولوژیک: ممکن است از افرادی که شماره‌شناسی را یک تمرین "
+"تفکری سرگرم‌کننده می‌دانند تا افرادی که به اهمیت روحانی عمیق آن معتقدند، "
+"متغیر باشد."
+
+msgid "Historians and Linguists"
+msgstr "تاریخ‌نگاران و زبان‌شناسان"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr ""
+"ویژگی‌های شخصیتی: علمی، روشنگر، و علاقه‌مند به زمینه‌های تاریخی یا فرهنگی "
+"سیستم‌های عددی مانند ابجد. شغل‌ها: پژوهشگران، دانشمندان، یا دانشجویان "
+"زبان‌های خاورمیانه، تاریخ یا متون دینی را مطالعه می‌کنند. طیف ایدئولوژیک: "
+"احتمالاً از دیدگاه سکولار و علمی به ابزارها نگاه می‌کنند و بر اهمیت تاریخی "
+"یا زبانی آنها تمرکز دارند."
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "افراد دینی یا مبتنی بر ایمان"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr ""
+"ویژگی‌های شخصیتی: پرستش‌گر، تأمل‌گر، و به دنبال ارتباط عمیق‌تری با ایمان "
+"خود. ممکن است از ابزارها برای کشف متون دینی یا پیام‌های الهی استفاده کنند. "
+"شغل‌ها: علمای دینی، امامان، کشیشان، یا افراد عادی با علاقه شدیدی به سنت‌های "
+"عرفانی ایمان خود. طیف ایدئولوژیک: احتمالاً دیدگاه سنتی یا محافظه‌کارانه‌ای "
+"دارند و از ابزارها برای تقویت باورهای روحانی خود استفاده می‌کنند."
+
+msgid "Writers and Artists"
+msgstr "نویسندگان و هنرمندان"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr ""
+"ویژگی‌های شخصیتی: خلاق، تخیلی، و به مفاهیم نمادین یا انتزاعی علاقه‌مند. ممکن"
+" است از ابزارها برای الهام گرفتن یا افزودن لایه‌های معنایی به کار خود "
+"استفاده کنند. شغل‌ها: نویسندگان، شاعران، هنرمندان بصری، یا موسیقیدانان. طیف "
+"ایدئولوژیک: ممکن است از خلاقان سکولار تا افرادی با تمایل روحانی یا عرفانی "
+"متفاوت باشد."
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "علاقه‌مندان به پازل و معما"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "شایعات‌گمانه‌ها و تفکرکنندگان جایگزین"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr ""
+"ویژگی‌های شخصیتی: شاکی نسبت به روایت‌های اصلی، به کشف حقایق مخفی یا الگوهای "
+"در سیستم‌ها علاقه‌مند. شغل‌ها: پژوهشگران مستقل، بلاگرها، یا فعالان. طیف "
+"ایدئولوژیک: ممکن است دیدگاه رادیکال یا غیرمتعارفی‌تری داشته باشند و از "
+"ابزارها برای حمایت از نظریه‌ها یا روایت‌های جایگزین استفاده کنند."
+
+msgid "☕ Support the Project"
+msgstr "☕ حمایت از پروژه"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "اگر پروژه‌ام را دوست دارید، می‌توانید برای من یک قهوه بخرید!"
+
+msgid "Buy Me A Coffee"
+msgstr "برای من قهوه بخرید"
+
+msgid "Thank you! 🙏"
+msgstr "متشکرم! 🙏"

@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Abjad Widget 1.0.0\n"
 "Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
-"Language-Team: English (US) <en_US>\n"
-"Language: en-US\n"
+"Language-Team: Faroese <fo_FO>\n"
+"Language: fo-FO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,193 +15,193 @@ msgid "Abjad"
 msgstr "Abjad"
 
 msgid "Abjad Settings"
-msgstr "Abjad Settings"
+msgstr "Abjad stillingar"
 
 msgid "Abjad Value"
-msgstr "Abjad Value"
+msgstr "Abjad virði"
 
 msgid "Abjad Widget Dashboard"
 msgstr "Abjad Widget Dashboard"
 
 msgid "Abjad calculation results"
-msgstr "Abjad Calculation Results"
+msgstr "Abjad útreikningar"
 
 msgid "Abjad calculations hidden"
-msgstr "Abjad Calculations Hidden"
+msgstr "Abjad útreikningar falin"
 
 msgid "Abjad not calculated"
-msgstr "Abjad Not Calculated"
+msgstr "Abjad ikki útreikt"
 
 msgid "Abjad order"
-msgstr "Abjad Order"
+msgstr "Abjad rækk"
 
 msgid "Add elements"
-msgstr "Add Elements"
+msgstr "Teyda element"
 
 msgid "Ahmad al Buni"
 msgstr "Ahmad al Buni"
 
 msgid "Air"
-msgstr "Air"
+msgstr "Luft"
 
 msgid "All"
-msgstr "All"
+msgstr "Allt"
 
 msgid "Arabic"
-msgstr "Arabic"
+msgstr "Arabisk"
 
 msgid "Arabic letters"
-msgstr "Arabic Letters"
+msgstr "Arabisk bókstavar"
 
 msgid "Arabic numbers"
-msgstr "Arabic Numbers"
+msgstr "Arabisk tölur"
 
 msgid "As data for operation"
-msgstr "As Data for Operation"
+msgstr "Sum gøða til atgerð"
 
 msgid "Bast loop results"
-msgstr "Bast Loop Results"
+msgstr "Bast løkke niðurstøðan"
 
 msgid "Bast not calculated"
-msgstr "Bast Not Calculated"
+msgstr "Bast ikki útreikt"
 
 msgid "Bast repetition count"
-msgstr "Bast Repetition Count"
+msgstr "Bast endurnýtingar tal"
 
 msgid "Bast results hidden"
-msgstr "Bast Results Hidden"
+msgstr "Bast niðurstaðan falin"
 
 msgid "Bastet"
 msgstr "Bastet"
 
 msgid "Bastet order"
-msgstr "Bastet Order"
+msgstr "Bastet rækk"
 
 msgid "Bastet shadda"
-msgstr "Bastet Shadda"
+msgstr "Bastet shadda"
 
 msgid "Bastet table"
-msgstr "Bastet Table"
+msgstr "Bastet tábl"
 
 msgid "Big"
-msgstr "Big"
+msgstr "Stór"
 
 msgid "Bigger"
-msgstr "Bigger"
+msgstr "Mest stór"
 
 msgid "Buy Me a Coffee ID"
 msgstr "Buy Me a Coffee ID"
 
 msgid "Buy me a coffee"
-msgstr "Buy Me a Coffee"
+msgstr "Køy meg kaffir"
 
 msgid "Calculate"
-msgstr "Calculate"
+msgstr "Útreikna"
 
 msgid "Calculate Abjad"
-msgstr "Calculate Abjad"
+msgstr "Útreikna Abjad"
 
 msgid "Calculate Bastet"
-msgstr "Calculate Bastet"
+msgstr "Telja Bastet"
 
 msgid "Calculate Huddam"
-msgstr "Calculate Huddam"
+msgstr "Telja Huddam"
 
 msgid "Calculation details"
-msgstr "Calculation details"
+msgstr "Túlningarlegar"
 
 msgid "Choose Keyboard Layout"
-msgstr "Choose Keyboard Layout"
+msgstr "Vel tastaturstilling"
 
 msgid "Clear text box"
-msgstr "Clear text box"
+msgstr "Tøm tekstboks"
 
 msgid "Click row for details"
-msgstr "Click row for details"
+msgstr "Klikka á rætta fyri leigar"
 
 msgid "Close Keyboard"
-msgstr "Close Keyboard"
+msgstr "Loysi tastatur"
 
 msgid "Closed"
-msgstr "Closed"
+msgstr "Loyst"
 
 msgid "Comma is default separator and must remain checked!"
-msgstr "Comma is the default separator and must remain checked!"
+msgstr "Koma er standard skilari og skal vera merkt!"
 
 msgid "Dashboard"
 msgstr "Dashboard"
 
 msgid "Data entry separators:"
-msgstr "Data entry separators:"
+msgstr "Inntaks skilarar:"
 
 msgid "Data type profile"
-msgstr "Data type profile"
+msgstr "Gáða‑typi profil"
 
 msgid "Dead keys"
-msgstr "Dead keys"
+msgstr "Dønn lyklar"
 
 msgid "Decrease keyboard size"
-msgstr "Decrease keyboard size"
+msgstr "Lækkja tastaturstørð"
 
 msgid "Don't calculate"
-msgstr "Don't calculate"
+msgstr "Geymilev at telja"
 
 msgid "Duty entity name results"
-msgstr "Duty entity name results"
+msgstr "Frøði‑virkna namn niðurkast"
 
 msgid "Duty entity type"
-msgstr "Duty entity type"
+msgstr "Frøði‑virkna type"
 
 msgid "Earth"
-msgstr "Earth"
+msgstr "Jørð"
 
 msgid "Element classification"
-msgstr "Element classification"
+msgstr "Element klassifisering"
 
 msgid "Element classification method"
-msgstr "Element classification method"
+msgstr "Element klassifisering metod"
 
 msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
-msgstr "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Skriva tekst... Arabisk, Hebreisk, Tyrkisk bókstaver, tal"
 
 msgid "Entered data"
-msgstr "Entered data"
+msgstr "Inngitað gám"
 
 msgid "Entry"
-msgstr "Entry"
+msgstr "Inngangur"
 
 msgid "Entry letter count"
-msgstr "Entry letter count"
+msgstr "Inngangur bókstaver tal"
 
 msgid "Evil"
-msgstr "Evil"
+msgstr "Døvska"
 
 msgid "Fire"
-msgstr "Fire"
+msgstr "Leigur"
 
 msgid "For entered data"
-msgstr "For entered data"
+msgstr "Fyri inngitað gám"
 
 msgid "Frequency in Quran"
-msgstr "Frequency in Quran"
+msgstr "Frekvens í Koran"
 
 msgid "Gematria"
 msgstr "Gematria"
 
 msgid "Hebrew"
-msgstr "Hebrew"
+msgstr "Hebreisk"
 
 msgid "Hebrew alphabet elements"
-msgstr "Hebrew alphabet elements"
+msgstr "Hebraisk alfabetur eymir"
 
 msgid "Hebrew letters"
-msgstr "Hebrew letters"
+msgstr "Hebraiskar bókstavar"
 
 msgid "High"
-msgstr "High"
+msgstr "Høgt"
 
 msgid "Hija order"
-msgstr "Hija order"
+msgstr "Hija-rekkja"
 
 msgid "Hisab al jumal"
 msgstr "Hisab al jumal"
@@ -210,40 +210,40 @@ msgid "Huddam"
 msgstr "Huddam"
 
 msgid "Huddam names hidden"
-msgstr "Huddam names hidden"
+msgstr "Huddam-nøvn skjult"
 
 msgid "Huddam not calculated"
-msgstr "Huddam not calculated"
+msgstr "Huddam ikki útreknin"
 
 msgid "Iklil's order"
-msgstr "Iklil's order"
+msgstr "Iklils rekkja"
 
 msgid "Increase keyboard size"
-msgstr "Increase keyboard size"
+msgstr "Útvíkka tastaturstødd"
 
 msgid "Indian numbers"
-msgstr "Indian numbers"
+msgstr "Indiskir tal"
 
 msgid "Interface language"
-msgstr "Interface language"
+msgstr "Nettgrímur sprog"
 
 msgid "Let character quantity decide"
-msgstr "Let character quantity decide"
+msgstr "Lat bókstavafólgi at skilja"
 
 msgid "Letter count"
-msgstr "Letter count"
+msgstr "Bókstavafólg"
 
 msgid "Like my projects? Buy me a coffee!"
-msgstr "Like my projects? Buy me a coffee!"
+msgstr "Líkar tú mínum verkum? Kjøp mær ein kaffir!"
 
 msgid "Low"
-msgstr "Low"
+msgstr "Lav"
 
 msgid "Maghribian abjad"
 msgstr "Maghribian abjad"
 
 msgid "Maghribian hija order"
-msgstr "Maghribian hija order"
+msgstr "Maghribian hija-rekkja"
 
 msgid "Minimum"
 msgstr "Minimum"
@@ -252,112 +252,112 @@ msgid "Muhiyyiddin Ibn Arabi"
 msgstr "Muhiyyiddin Ibn Arabi"
 
 msgid "Number reading language"
-msgstr "Number reading language"
+msgstr "Tallesning sprog"
 
 msgid "Numerical values"
-msgstr "Numerical values"
+msgstr "Tallegn gildi"
 
 msgid "Open"
-msgstr "Open"
+msgstr "Opna"
 
 msgid "Order"
-msgstr "Order"
+msgstr "Rekkja"
 
 msgid "Possible phrases"
-msgstr "Possible phrases"
+msgstr "Mögulegir sætningar"
 
 msgid "Program settings"
-msgstr "Program settings"
+msgstr "Programstillingar"
 
 msgid "Pronunciation"
-msgstr "Pronunciation"
+msgstr "Uttale"
 
 msgid "Regular expression"
-msgstr "Regular expression"
+msgstr "Regulær útløysing"
 
 msgid "Regularly preferred classification"
-msgstr "Regularly preferred classification"
+msgstr "Alvan prefererte klassifisering"
 
 msgid "Reset"
-msgstr "Reset"
+msgstr "Núllstilla"
 
 msgid "Separators"
-msgstr "Separators"
+msgstr "Skilgreiningar"
 
 msgid "Settings"
-msgstr "Settings"
+msgstr "Innstillingar"
 
 msgid "Shamsee abjad order"
-msgstr "Shamsee abjad order"
+msgstr "Shamsee abjad rækkum"
 
 msgid "Show numpad"
-msgstr "Show numpad"
+msgstr "Vís numpad"
 
 msgid "Show virtual keyboard"
-msgstr "Show virtual keyboard"
+msgstr "Vís virtuelt tastatur"
 
 msgid "Small"
-msgstr "Small"
+msgstr "Lítill"
 
 msgid "Small + letter count"
-msgstr "Small + letter count"
+msgstr "Lítill + stafi tal"
 
 msgid "Sulayman al Huseyni"
 msgstr "Sulayman al Huseyni"
 
 msgid "Support"
-msgstr "Support"
+msgstr "Støtte"
 
 msgid "Taken (letter)"
-msgstr "Taken (letter)"
+msgstr "Taka (stafur)"
 
 msgid "Taken (letter; abjad)"
-msgstr "Taken (letter; abjad)"
+msgstr "Taka (stafur; abjad)"
 
 msgid "Taken Letters"
-msgstr "Taken Letters"
+msgstr "Taka stafir"
 
 msgid "Text or number cell"
-msgstr "Text or number cell"
+msgstr "Text- eller tal-rúra"
 
 msgid "Thank you for your support!"
-msgstr "Thank you for your support!"
+msgstr "Takk fyri tín støtta!"
 
 msgid "Total"
-msgstr "Total"
+msgstr "Allt"
 
 msgid "Turkish"
-msgstr "Turkish"
+msgstr "Tyrkiskt"
 
 msgid "Turkish Alphabet Abjad"
-msgstr "Turkish Alphabet Abjad"
+msgstr "Tyrkisk alfabet Abjad"
 
 msgid "Turkish alphabet elements"
-msgstr "Turkish alphabet elements"
+msgstr "Tyrkisk alfabet element"
 
 msgid "Turkish letters"
-msgstr "Turkish letters"
+msgstr "Tyrkiskir stafir"
 
 msgid "Undefined characters"
-msgstr "Undefined characters"
+msgstr "Óskráðar teikn"
 
 msgid "Value"
-msgstr "Value"
+msgstr "Virði"
 
 msgid "Value & Detail"
-msgstr "Value & Detail"
+msgstr "Virði & Detalj"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Útgáva"
 
 msgid "Water"
-msgstr "Water"
+msgstr "Vøte"
 
 msgid "When data is entered"
-msgstr "When data is entered"
+msgstr "Hvør data er innsett"
 
 msgid "When reading large digits"
-msgstr "When reading large digits"
+msgstr "Hvør stórir tal lesin"
 
 msgid "[apostrophe]"
 msgstr "[apostrophe]"
@@ -408,288 +408,288 @@ msgid "[tab]"
 msgstr "[tab]"
 
 msgid "abjad calculated and letter count added"
-msgstr "abjad calculated and letter count added"
+msgstr "abjad reiknað og bókstavur teldu lagt í"
 
 msgid "abjad() functions settings"
-msgstr "abjad() functions settings"
+msgstr "abjad() funksjónar stillingar"
 
 msgid "add to initial value"
-msgstr "add to initial value"
+msgstr "leggja til grunnverð"
 
 msgid "and"
-msgstr "and"
+msgstr "og"
 
 msgid "auto calculate immediately"
-msgstr "auto calculate immediately"
+msgstr "auto reikna strax"
 
 msgid "bast"
 msgstr "bast"
 
 msgid "bastet() and nutket() functions settings"
-msgstr "bastet() and nutket() functions settings"
+msgstr "bastet() og nutket() funksjónar stillingar"
 
 msgid "count once"
-msgstr "count once"
+msgstr "telja einaferð"
 
 msgid "count twice"
-msgstr "count twice"
+msgstr "telja tværferð"
 
 msgid "display with Arabic numbers"
-msgstr "display with Arabic numbers"
+msgstr "sýna við arabiskum tal"
 
 msgid "display with Indian numbers"
-msgstr "display with Indian numbers"
+msgstr "sýna við indiskum tal"
 
 msgid "do not add to initial value"
-msgstr "do not add to initial value"
+msgstr "leggja ikki til grunnverð"
 
 msgid "do not force to other functions"
-msgstr "do not force to other functions"
+msgstr "pressar ikki til øðrum funksjónum"
 
 msgid "do not purify"
-msgstr "do not purify"
+msgstr "pressar ikki"
 
 msgid "force to other functions"
-msgstr "force to other functions"
+msgstr "pressa til øðrum funksjónum"
 
 msgid "group multiplier letters"
-msgstr "group multiplier letters"
+msgstr "gruppmargfaldarlag bókstøður"
 
 msgid "hide"
-msgstr "hide"
+msgstr "gløym"
 
 msgid "hide abjad values"
-msgstr "hide abjad values"
+msgstr "gløym abjad-verð"
 
 msgid "hide bast results"
-msgstr "bast sonuçlarını gizle"
+msgstr "goym bast niðurstöður"
 
 msgid "hide huddam names"
-msgstr "huddam adlarını gizle"
+msgstr "goym huddam-náma"
 
 msgid "huddam() function settings"
-msgstr "huddam() fonksiyon ayarları"
+msgstr "huddam() funksjón stillingar"
 
 msgid "no bast applied."
-msgstr "hiç bir bast uygulanmadı."
+msgstr "eyð hvønn bast."
 
 msgid "no data entered"
-msgstr "veri girilmedi"
+msgstr "eyð gildi inntætt"
 
 msgid "other suffix"
-msgstr "diğer ek"
+msgstr "annað suffiks"
 
 msgid "purify data"
-msgstr "veriyi temizle"
+msgstr "renna gildi"
 
 msgid "repeat multiplier for each digit"
-msgstr "her basamağa ait çarpanı tekrarla"
+msgstr "endurtaka marginalir fyri kvart siffra"
 
 msgid "show"
-msgstr "göster"
+msgstr "visa"
 
 msgid "show abjad values"
-msgstr "abjad değerlerini göster"
+msgstr "visa abjad gildi"
 
 msgid "show bast results"
-msgstr "bast sonuçlarını göster"
+msgstr "visa bast niðurstöður"
 
 msgid "show huddam names"
-msgstr "huddam adlarını göster"
+msgstr "visa huddam-náma"
 
 msgid "suffix"
-msgstr "ek"
+msgstr "suffiks"
 
 msgid "times bast applied."
-msgstr "kadar bast uygulandı."
+msgstr "tíðingar hvønn bast."
 
 msgid "use calculated abjad results"
-msgstr "hesaplanan abjad sonuçlarını kullan"
+msgstr "notað kalkulerað abjad niðurstöður"
 
 msgid "use calculated abjad total"
-msgstr "hesaplanan abjad toplamını kullan"
+msgstr "notað kalkulerað abjad total"
 
 msgid "use calculated bast results"
-msgstr "hesaplanan bast sonuçlarını kullan"
+msgstr "notað kalkulerað bast niðurstöður"
 
 msgid "use entered data directly"
-msgstr "girilen veriyi doğrudan kullan"
+msgstr "notað innsett gildi beint"
 
 msgid "use entered data total"
-msgstr "girilen verinin toplamını kullan"
+msgstr "notað innsett gildi total"
 
 msgid "use in all bast repetitions"
-msgstr "tüm bast tekrarlarda kullan"
+msgstr "notað í allar bast-endurtøk"
 
 msgid "use only at beginning if possible"
-msgstr "mümkünse sadece başta kullan"
+msgstr "notað bert í byrjun, um tað er møgulegt"
 
 msgid "wait for settings and data entry"
-msgstr "ayarların ve veri girişinin beklenmesi"
+msgstr "latur venti á stillingar og gildi"
 
 msgid "Abjad Table"
-msgstr "Abjad Tablosu"
+msgstr "Abjad töflu"
 
 msgid "Shadda"
-msgstr "Şedde"
+msgstr "Shadda"
 
 msgid "Details"
-msgstr "Detaylar"
+msgstr "Detaljar"
 
 msgid "Element Classification"
-msgstr "Element Sınıflandırması"
+msgstr "Element klasifisering"
 
 msgid "Abjad Order"
-msgstr "Abjad Sırası"
+msgstr "Abjad rekkja"
 
 msgid "Abjad Widget"
-msgstr "Abjad Widget'i"
+msgstr "Abjad widget"
 
 msgid "Add custom CSS to customize the widget appearance."
-msgstr "Özel CSS ekleyerek widget görünümünü özelleştir."
+msgstr "Legg til ein persónlig CSS til at tilpasse widget-utseende."
 
 msgid ""
 "Add custom JavaScript to modify widget behavior. Wrong code may break the "
 "widget!"
 msgstr ""
-"Özel JavaScript ekleyerek widget davranışını değiştir. Yanlış kod widget'ı "
-"kırabilir!"
+"Legg til ein persónlig JavaScript til at breyta widget-arbeiðslu. Røyndur "
+"kóði kan broyta widgeten!"
 
 msgid "An error occurred while loading content."
-msgstr "İçerik yüklenirken bir hata oluştu."
+msgstr "Ein villa kom upp meðan innhald var at henda."
 
 msgid "Button"
-msgstr "Düğme"
+msgstr "Takn"
 
 msgid "Button Color"
-msgstr "Düğme Rengi"
+msgstr "Takn fargur"
 
 msgid "Button Emoji"
-msgstr "Düğme Emoji"
+msgstr "Takn Emoji"
 
 msgid "Button Message"
-msgstr "Düğme Mesajı"
+msgstr "Takn boð"
 
 msgid "Button Settings"
-msgstr "Düğme Ayarları"
+msgstr "Takn stillingar"
 
 msgid "Button Type"
-msgstr "Düğme Türü"
+msgstr "Takn gerð"
 
 msgid "CSS saved successfully."
-msgstr "CSS başarıyla kaydedildi."
+msgstr "CSS varð goyngur."
 
 msgid "Check this box to activate the widget."
-msgstr "Bileşeni etkinleştirmek için bu kutuyu işaretleyin."
+msgstr "Sjekk henda boks til at virka widget."
 
 msgid "Code Editor"
-msgstr "Kod Düzenleyici"
+msgstr "Kóða redaktør"
 
 msgid "Custom CSS"
-msgstr "Özel CSS"
+msgstr "Sérsniðin CSS"
 
 msgid "Custom JavaScript"
-msgstr "Özel JavaScript"
+msgstr "Sérsniðin JavaScript"
 
 msgid "Description"
-msgstr "Açıklama"
+msgstr "Lýsing"
 
 msgid "Emoji"
 msgstr "Emoji"
 
 msgid "Enter image URL"
-msgstr "Resim URL'sini girin"
+msgstr "Slá inn mynd-URL"
 
 msgid "Example: 🔮, ☯️, ✨"
-msgstr "Örnek: 🔮, ☯️, ✨"
+msgstr "Dømi: 🔮, ☯️, ✨"
 
 msgid "General"
-msgstr "Genel"
+msgstr "Almenna"
 
 msgid "JavaScript saved successfully."
-msgstr "JavaScript başarıyla kaydedildi."
+msgstr "JavaScript varð goyngur."
 
 msgid "Left"
-msgstr "Sol"
+msgstr "Vinstra"
 
 msgid "Live Preview"
-msgstr "Canlı Önizleme"
+msgstr "Levningsforsýn"
 
 msgid "Loading..."
-msgstr "Yükleniyor..."
+msgstr "Henda..."
 
 msgid "PNG Image URL"
-msgstr "PNG Resim URL'si"
+msgstr "PNG mynd-URL"
 
 msgid "Paste SVG code"
-msgstr "SVG kodunu yapıştırın"
+msgstr "Lím SVG kóða"
 
 msgid "Please enter a valid URL."
-msgstr "Geçerli bir URL girin."
+msgstr "Vinarliga slá inn eina gilt URL."
 
 msgid "Position"
-msgstr "Konum"
+msgstr "Staðsetning"
 
 msgid "Reset to Default"
-msgstr "Varsayılana Sıfırla"
+msgstr "Endurseta til standard"
 
 msgid "Right"
-msgstr "Sağ"
+msgstr "Rýða"
 
 msgid "SVG Code"
-msgstr "SVG Kodu"
+msgstr "SVG kóða"
 
 msgid "Save CSS"
-msgstr "CSS Kaydet"
+msgstr "Goyn CSS"
 
 msgid "Save JavaScript"
-msgstr "JavaScript Kaydet"
+msgstr "Goyn JavaScript"
 
 msgid "Save Settings"
-msgstr "Save Settings"
+msgstr "Goym stillingar"
 
 msgid "Settings saved successfully."
-msgstr "Settings saved successfully."
+msgstr "Stillingar goymt væl."
 
 msgid "Style Editor"
-msgstr "Style Editor"
+msgstr "Stílurritari"
 
 msgid "WARNING"
-msgstr "WARNING"
+msgstr "ÓHVEITA"
 
 msgid "Welcome! You can follow widget news and announcements from this panel."
 msgstr ""
-"Welcome! You can follow widget news and announcements from this panel."
+"Velkomin! Tú kanst fylgja widget nýskæða og tilkynningar frá hesi panel."
 
 msgid "Widget Settings"
-msgstr "Widget Settings"
+msgstr "Widget-stillingar"
 
 msgid "Widget Status"
-msgstr "Widget Status"
+msgstr "Widget status"
 
 msgid "Widget active"
-msgstr "Widget active"
+msgstr "Widget virk"
 
 msgid ""
 "Wrong JavaScript code may break the widget. Backup before making changes."
 msgstr ""
-"Wrong JavaScript code may break the widget. Backup before making changes."
+"Umangur JavaScript-kóði kann broyta widgetið. Goym før tú gerð broytingar."
 
 msgid "Your Buy Me a Coffee username"
-msgstr "Your Buy Me a Coffee username"
+msgstr "Dín Buy Me a Coffee notendanafn"
 
 msgid ""
 "Your changes will directly affect the widget appearance. If you don't know "
 "CSS, it's recommended to use default settings."
 msgstr ""
-"Your changes will directly affect the widget appearance. If you don't know "
-"CSS, it's recommended to use default settings."
+"Dínar broytingar vil gerðir diríkt ávirkni á widget-úðgjaldin. Um tú ikki "
+"kent CSS, er møguligt at brúka standardstillingar."
 
 msgid "Abjad Widget - Local Dashboard"
-msgstr "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Lokalt dashboard"
 
 msgid "Spiritual Seekers and Mystics"
-msgstr "Spiritual Seekers and Mystics"
+msgstr "Andliga søkjendur og mystikarar"
 
 msgid ""
 "Personality Traits: Curious, introspective, open-minded, and drawn to "
@@ -699,15 +699,16 @@ msgid ""
 "Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
 "see the tools as a way to connect with deeper truths or universal energies."
 msgstr ""
-"Personality Traits: Curious, introspective, open-minded, and drawn to "
-"esoteric knowledge. They may have a strong interest in uncovering hidden "
-"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
-" astrologers, or individuals involved in New Age practices. Ideological "
-"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
-"see the tools as a way to connect with deeper truths or universal energies."
+"Persónuløg: Nýskøkt, introspektiv, opinn og tiltróðlig til esoteriskar "
+"kunning. Tú kann fáa sterkt áhuga á at uppkanna dolgir merkingar ella "
+"mønstrum í lívinum. Beruf: Andliga trænari, tarot-lesarar, stjørnur, ella "
+"einstaklingar, sum eru involverð í New Age-tryggingar. Ideologisk spektrum: "
+"Tað er sannlíkt at tú støður andliga ella metafysiskar trúar. Tú kann síggja"
+" verkføringarnar sum ein veg at koma í samband við dýpri sannleika ella "
+"universala energi."
 
 msgid "Numerologists and Gematria Enthusiasts"
-msgstr "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologar og Gematria entusiastar"
 
 msgid ""
 "Personality Traits: Analytical, detail-oriented, and fascinated by the "
@@ -717,15 +718,14 @@ msgid ""
 "those who view numerology as a fun intellectual exercise to those who "
 "believe in its profound spiritual significance."
 msgstr ""
-"Personality Traits: Analytical, detail-oriented, and fascinated by the "
-"relationship between numbers and language. They may enjoy decoding symbolic "
-"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
-"or hobbyists exploring numerology. Ideological Spectrum: May range from "
-"those who view numerology as a fun intellectual exercise to those who "
-"believe in its profound spiritual significance."
+"Persónuløg: Analyte, detaljorienter og fascinerður við sambandi millum tölur"
+" og mál. Tú kann njóta at afkoda symbolik. Beruf: Frilans-numerologar, "
+"skrivarar á esoteriskar tema, ella hólviklar sum kanna numerologi. "
+"Ideologisk spektrum: Tú kann spæra frá teimum, sum duga numerologi sum ein "
+"kvárintellettualiøv, til tey, sum trú sum djuprar andliga merkimiður."
 
 msgid "Historians and Linguists"
-msgstr "Historians and Linguists"
+msgstr "Historikarar og málfrøðingar"
 
 msgid ""
 "Personality Traits: Scholarly, methodical, and interested in historical or "
@@ -735,15 +735,15 @@ msgid ""
 "secular, academic perspective, focusing on their historical or linguistic "
 "significance."
 msgstr ""
-"Personality Traits: Scholarly, methodical, and interested in historical or "
-"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
-"researchers, or students studying Middle Eastern languages, history, or "
-"religious texts. Ideological Spectrum: Likely to approach the tools from a "
-"secular, academic perspective, focusing on their historical or linguistic "
-"significance."
+"Persónuløg: Skoala, metólogisk og áhuga á historiskum ella kulturala "
+"samanhangum av tölusamla eins og Abjad. Beruf: Akadéma, rannsakandi, ella "
+"studentar sum studera Mið-Østlenda mál, historia, ella trúargrønur. "
+"Ideologisk spektrum: Tú støður sannlíkt at hugsa verkføringarnar frá ein "
+"sekular, akademisk perspektiv, sum ein fokus på djuprar historiskar ella "
+"málverk."
 
 msgid "Religious or Faith-Based Individuals"
-msgstr "Religious or Faith-Based Individuals"
+msgstr "Trúbundar ella trúbundar einstaklingar"
 
 msgid ""
 "Personality Traits: Devout, reflective, and seeking deeper connections to "
@@ -753,15 +753,15 @@ msgid ""
 "Spectrum: Likely to have a traditional or conservative worldview, using the "
 "tools to reinforce their spiritual beliefs."
 msgstr ""
-"Personality Traits: Devout, reflective, and seeking deeper connections to "
-"their faith. They may use the tools to explore religious texts or divine "
-"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
-" a strong interest in their faith’s mystical traditions. Ideological "
-"Spectrum: Likely to have a traditional or conservative worldview, using the "
-"tools to reinforce their spiritual beliefs."
+"Persónuløg: Tjóðlig, royndlig og leitar eftir dýpri samband við teirra trú. "
+"Tú kann brúka verkføringarnar at kanna trúargrønur eller dýpri budskapar. "
+"Beruf: Trúbundar lærarar, imams, prestar, ella leitar at styrkja dýpri trú. "
+"Ideologisk spektrum: Tú støður sannlíkt at hava ein tradisjonell eller "
+"konservativur víssandi, sum bruker verkføringarnar at styrkja teirra andliga"
+" trú."
 
 msgid "Writers and Artists"
-msgstr "Writers and Artists"
+msgstr "Skrivarar og listamenn"
 
 msgid ""
 "Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
@@ -770,14 +770,14 @@ msgid ""
 "musicians. Ideological Spectrum: May range from secular creatives to those "
 "with a spiritual or mystical bent."
 msgstr ""
-"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
-" concepts. They may use the tools for inspiration or to add layers of "
-"meaning to their work. Occupations: Authors, poets, visual artists, or "
-"musicians. Ideological Spectrum: May range from secular creatives to those "
-"with a spiritual or mystical bent."
+"Persónuløg: Kreativ, fantasisk og tiltróðlig til symbolisk eller abstrakt. "
+"Tú kann brúka verkføringarnar at inspirera eller leggja álagur av merking "
+"til teirra verk. Beruf: Skrivarar, poetar, visual listamenn eller musikarar."
+" Ideologisk spektrum: Tú kann spæra frá sekular kreativar til tey, sum hava "
+"andliga eller mystisk skjóli."
 
 msgid "Puzzle and Riddle Enthusiasts"
-msgstr "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle- og gåtalentusiastar"
 
 msgid ""
 "Personality Traits: Playful, intellectually curious, and enjoy solving "
@@ -786,14 +786,13 @@ msgid ""
 "as a form of entertainment or mental exercise, with little ideological "
 "attachment."
 msgstr ""
-"Personality Traits: Playful, intellectually curious, and enjoy solving "
-"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
-"designers, or educators. Ideological Spectrum: Likely to approach the tools "
-"as a form of entertainment or mental exercise, with little ideological "
-"attachment."
+"Persónuløg: Spórnlig, intellektualnýskøkt og njóta at leysa flókið problem "
+"ella decodi mønstrum. Beruf: Hólviklar, puzzle-tilhendingar eller læir. "
+"Ideologisk spektrum: Tú støður sannlíkt at hugsa verkføringarnar sum ein "
+"form av underhaldning eller mental øvning, med lítil ideologisk tilknytning."
 
 msgid "Conspiracy Theorists and Alternative Thinkers"
-msgstr "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Vortøðulistar og alternative tenkerar"
 
 msgid ""
 "Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
@@ -802,20 +801,20 @@ msgid ""
 "unconventional worldview, using the tools to support alternative theories or"
 " narratives."
 msgstr ""
-"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
-"hidden truths or patterns in systems. Occupations: Independent researchers, "
-"bloggers, or activists. Ideological Spectrum: May have a more radical or "
-"unconventional worldview, using the tools to support alternative theories or"
-" narratives."
+"Persónuløg: Skeptisk av mainstream sagnir, tiltróðlig til at avkunda dolgir "
+"sannleikar ella mønstrum í systemum. Beruf: Óhengir rannsakandi, bloggari "
+"eller aktivist. Ideologisk spektrum: Tú kann hava ein meir radikal eller "
+"uvanlig víssandi, sum brúka verkføringarnar at styrkja alternative teyoriar "
+"eller saga."
 
 msgid "☕ Support the Project"
-msgstr "☕ Support the Project"
+msgstr "☕ Støtt projektet"
 
 msgid "If you like my project, you can buy me a coffee!"
-msgstr "If you like my project, you can buy me a coffee!"
+msgstr "Um tú líkir min projekt, kanst tú keypa mi ein kaffir!"
 
 msgid "Buy Me A Coffee"
-msgstr "Buy Me A Coffee"
+msgstr "Køpa Mi ein Kaffir"
 
 msgid "Thank you! 🙏"
-msgstr "Thank you! 🙏"
+msgstr "Takk! 🙏"

@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Abjad Widget 1.0.0\n"
 "Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
-"Language-Team: English (US) <en_US>\n"
-"Language: en-US\n"
+"Language-Team: Fulah <ff_NG>\n"
+"Language: ff-NG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,175 +15,175 @@ msgid "Abjad"
 msgstr "Abjad"
 
 msgid "Abjad Settings"
-msgstr "Abjad Settings"
+msgstr "Joggorde Abjad"
 
 msgid "Abjad Value"
-msgstr "Abjad Value"
+msgstr "Golleje Abjad"
 
 msgid "Abjad Widget Dashboard"
 msgstr "Abjad Widget Dashboard"
 
 msgid "Abjad calculation results"
-msgstr "Abjad Calculation Results"
+msgstr "Abjad Jaggirde resultji"
 
 msgid "Abjad calculations hidden"
-msgstr "Abjad Calculations Hidden"
+msgstr "Abjad Jaggirde fowru"
 
 msgid "Abjad not calculated"
-msgstr "Abjad Not Calculated"
+msgstr "Abjad faggitorde"
 
 msgid "Abjad order"
-msgstr "Abjad Order"
+msgstr "Abjad rewa"
 
 msgid "Add elements"
-msgstr "Add Elements"
+msgstr "Gite hañni"
 
 msgid "Ahmad al Buni"
 msgstr "Ahmad al Buni"
 
 msgid "Air"
-msgstr "Air"
+msgstr "Lel"
 
 msgid "All"
-msgstr "All"
+msgstr "Ko fowru"
 
 msgid "Arabic"
-msgstr "Arabic"
+msgstr "Arabi"
 
 msgid "Arabic letters"
-msgstr "Arabic Letters"
+msgstr "Arabi teddere"
 
 msgid "Arabic numbers"
-msgstr "Arabic Numbers"
+msgstr "Arabi numbere"
 
 msgid "As data for operation"
-msgstr "As Data for Operation"
+msgstr "Ko data nde wuro"
 
 msgid "Bast loop results"
-msgstr "Bast Loop Results"
+msgstr "Bast joggorde resultji"
 
 msgid "Bast not calculated"
-msgstr "Bast Not Calculated"
+msgstr "Bast faggitorde"
 
 msgid "Bast repetition count"
-msgstr "Bast Repetition Count"
+msgstr "Bast yeddu count"
 
 msgid "Bast results hidden"
-msgstr "Bast Results Hidden"
+msgstr "Bast resultji fowru"
 
 msgid "Bastet"
 msgstr "Bastet"
 
 msgid "Bastet order"
-msgstr "Bastet Order"
+msgstr "Bastet rewa"
 
 msgid "Bastet shadda"
-msgstr "Bastet Shadda"
+msgstr "Bastet shadda"
 
 msgid "Bastet table"
-msgstr "Bastet Table"
+msgstr "Bastet tablo"
 
 msgid "Big"
-msgstr "Big"
+msgstr "Golle"
 
 msgid "Bigger"
-msgstr "Bigger"
+msgstr "Golle maande"
 
 msgid "Buy Me a Coffee ID"
 msgstr "Buy Me a Coffee ID"
 
 msgid "Buy me a coffee"
-msgstr "Buy Me a Coffee"
+msgstr "Hañni ko fuu"
 
 msgid "Calculate"
-msgstr "Calculate"
+msgstr "Jaggirde"
 
 msgid "Calculate Abjad"
-msgstr "Calculate Abjad"
+msgstr "Jaggirde Abjad"
 
 msgid "Calculate Bastet"
-msgstr "Calculate Bastet"
+msgstr "Ɓastet ɗaara"
 
 msgid "Calculate Huddam"
-msgstr "Calculate Huddam"
+msgstr "Huddam ɗaara"
 
 msgid "Calculation details"
-msgstr "Calculation details"
+msgstr "Nder ɗaara jooɗii"
 
 msgid "Choose Keyboard Layout"
-msgstr "Choose Keyboard Layout"
+msgstr "Ngollu keewal keyboard"
 
 msgid "Clear text box"
-msgstr "Clear text box"
+msgstr "Tiiɗa koɗɗo"
 
 msgid "Click row for details"
-msgstr "Click row for details"
+msgstr "Tappu jooni jooɗii"
 
 msgid "Close Keyboard"
-msgstr "Close Keyboard"
+msgstr "Hawtude keyboard"
 
 msgid "Closed"
-msgstr "Closed"
+msgstr "Hawtude"
 
 msgid "Comma is default separator and must remain checked!"
-msgstr "Comma is the default separator and must remain checked!"
+msgstr "Koma ko wuro e yonti, ɗum ko ɓuri maɓɓe!"
 
 msgid "Dashboard"
 msgstr "Dashboard"
 
 msgid "Data entry separators:"
-msgstr "Data entry separators:"
+msgstr "Seprators ngol data entry:"
 
 msgid "Data type profile"
-msgstr "Data type profile"
+msgstr "Profile ngol data type"
 
 msgid "Dead keys"
-msgstr "Dead keys"
+msgstr "Tussere mawɗi"
 
 msgid "Decrease keyboard size"
-msgstr "Decrease keyboard size"
+msgstr "Sappude keyboard size"
 
 msgid "Don't calculate"
-msgstr "Don't calculate"
+msgstr "Ɓurɗo nder ɗaara"
 
 msgid "Duty entity name results"
-msgstr "Duty entity name results"
+msgstr "Resultaji ɗiɗi naamde jowɗe"
 
 msgid "Duty entity type"
-msgstr "Duty entity type"
+msgstr "Timmunde jowɗe"
 
 msgid "Earth"
-msgstr "Earth"
+msgstr "Duniya"
 
 msgid "Element classification"
-msgstr "Element classification"
+msgstr "Classification ngol element"
 
 msgid "Element classification method"
-msgstr "Element classification method"
+msgstr "Method ngol classification ngol element"
 
 msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
-msgstr "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Teeɗi tekst ... Arabic, Hebrew, Turkish letters, numbers"
 
 msgid "Entered data"
-msgstr "Entered data"
+msgstr "Data ngol ɓurti"
 
 msgid "Entry"
-msgstr "Entry"
+msgstr "Gooɗi"
 
 msgid "Entry letter count"
-msgstr "Entry letter count"
+msgstr "Kadi letter entry"
 
 msgid "Evil"
-msgstr "Evil"
+msgstr "Ɓeƴƴu"
 
 msgid "Fire"
-msgstr "Fire"
+msgstr "Fayi"
 
 msgid "For entered data"
-msgstr "For entered data"
+msgstr "Nde data ngol ɓurti"
 
 msgid "Frequency in Quran"
-msgstr "Frequency in Quran"
+msgstr "Nde Quran ngal"
 
 msgid "Gematria"
 msgstr "Gematria"
@@ -192,16 +192,16 @@ msgid "Hebrew"
 msgstr "Hebrew"
 
 msgid "Hebrew alphabet elements"
-msgstr "Hebrew alphabet elements"
+msgstr "Sariirɗe alfabaa Hibbra"
 
 msgid "Hebrew letters"
-msgstr "Hebrew letters"
+msgstr "Huruf Hibbra"
 
 msgid "High"
-msgstr "High"
+msgstr "Ɓuri"
 
 msgid "Hija order"
-msgstr "Hija order"
+msgstr "Seɗɗe Hija"
 
 msgid "Hisab al jumal"
 msgstr "Hisab al jumal"
@@ -210,154 +210,154 @@ msgid "Huddam"
 msgstr "Huddam"
 
 msgid "Huddam names hidden"
-msgstr "Huddam names hidden"
+msgstr "Huddam ɓurndi"
 
 msgid "Huddam not calculated"
-msgstr "Huddam not calculated"
+msgstr "Huddam walaa yi'ii"
 
 msgid "Iklil's order"
-msgstr "Iklil's order"
+msgstr "Seɗɗe Iklil"
 
 msgid "Increase keyboard size"
-msgstr "Increase keyboard size"
+msgstr "Ɓeydu dimi keyboard"
 
 msgid "Indian numbers"
-msgstr "Indian numbers"
+msgstr "Sambaaji Indiyaa"
 
 msgid "Interface language"
-msgstr "Interface language"
+msgstr "Taalal interface"
 
 msgid "Let character quantity decide"
-msgstr "Let character quantity decide"
+msgstr "Ɓeydu ɗiɗɓe gongaaji"
 
 msgid "Letter count"
-msgstr "Letter count"
+msgstr "Nyaamude huruf"
 
 msgid "Like my projects? Buy me a coffee!"
-msgstr "Like my projects? Buy me a coffee!"
+msgstr "Koo'i mo projekii? Yeeso mi ko coffee!"
 
 msgid "Low"
-msgstr "Low"
+msgstr "Kati"
 
 msgid "Maghribian abjad"
-msgstr "Maghribian abjad"
+msgstr "Abjad Maghribian"
 
 msgid "Maghribian hija order"
-msgstr "Maghribian hija order"
+msgstr "Seɗɗe Maghribian hija"
 
 msgid "Minimum"
-msgstr "Minimum"
+msgstr "Kafaa"
 
 msgid "Muhiyyiddin Ibn Arabi"
 msgstr "Muhiyyiddin Ibn Arabi"
 
 msgid "Number reading language"
-msgstr "Number reading language"
+msgstr "Taalal nderi numbere"
 
 msgid "Numerical values"
-msgstr "Numerical values"
+msgstr "Nambaaji numbere"
 
 msgid "Open"
-msgstr "Open"
+msgstr "Ɓaɗɗa"
 
 msgid "Order"
-msgstr "Order"
+msgstr "Seɗɗe"
 
 msgid "Possible phrases"
-msgstr "Possible phrases"
+msgstr "Sariyaaji mawɗi"
 
 msgid "Program settings"
-msgstr "Program settings"
+msgstr "Sariyaaji program"
 
 msgid "Pronunciation"
-msgstr "Pronunciation"
+msgstr "Taalugol"
 
 msgid "Regular expression"
-msgstr "Regular expression"
+msgstr "Ekspresyon reyal"
 
 msgid "Regularly preferred classification"
-msgstr "Regularly preferred classification"
+msgstr "Sariyaaji ngurndan nde njama"
 
 msgid "Reset"
-msgstr "Reset"
+msgstr "Ɓurɗe"
 
 msgid "Separators"
-msgstr "Separators"
+msgstr "Joɓɗi"
 
 msgid "Settings"
-msgstr "Settings"
+msgstr "Tawaaji"
 
 msgid "Shamsee abjad order"
 msgstr "Shamsee abjad order"
 
 msgid "Show numpad"
-msgstr "Show numpad"
+msgstr "Ɓeyɗi numpad"
 
 msgid "Show virtual keyboard"
-msgstr "Show virtual keyboard"
+msgstr "Ɓeyɗi keyboard virtual"
 
 msgid "Small"
-msgstr "Small"
+msgstr "Kulle"
 
 msgid "Small + letter count"
-msgstr "Small + letter count"
+msgstr "Kulle + jogorde harfaji"
 
 msgid "Sulayman al Huseyni"
 msgstr "Sulayman al Huseyni"
 
 msgid "Support"
-msgstr "Support"
+msgstr "Yiyde"
 
 msgid "Taken (letter)"
-msgstr "Taken (letter)"
+msgstr "Ɓeewde (letter)"
 
 msgid "Taken (letter; abjad)"
-msgstr "Taken (letter; abjad)"
+msgstr "Ɓeewde (letter; abjad)"
 
 msgid "Taken Letters"
-msgstr "Taken Letters"
+msgstr "Ɓeewde Harfaji"
 
 msgid "Text or number cell"
-msgstr "Text or number cell"
+msgstr "Cell ɗin teks walla numba"
 
 msgid "Thank you for your support!"
-msgstr "Thank you for your support!"
+msgstr "A jooɗii on njoɓdi!"
 
 msgid "Total"
-msgstr "Total"
+msgstr "Ɓiɗɗo"
 
 msgid "Turkish"
-msgstr "Turkish"
+msgstr "Turki"
 
 msgid "Turkish Alphabet Abjad"
-msgstr "Turkish Alphabet Abjad"
+msgstr "Turki Alphabet Abjad"
 
 msgid "Turkish alphabet elements"
-msgstr "Turkish alphabet elements"
+msgstr "Turki alphabet elements"
 
 msgid "Turkish letters"
-msgstr "Turkish letters"
+msgstr "Turki harfaji"
 
 msgid "Undefined characters"
-msgstr "Undefined characters"
+msgstr "Characters undefine"
 
 msgid "Value"
-msgstr "Value"
+msgstr "Warto"
 
 msgid "Value & Detail"
-msgstr "Value & Detail"
+msgstr "Warto & Jammirde"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Versi"
 
 msgid "Water"
-msgstr "Water"
+msgstr "Ndiyam"
 
 msgid "When data is entered"
-msgstr "When data is entered"
+msgstr "So data ɗum wondi"
 
 msgid "When reading large digits"
-msgstr "When reading large digits"
+msgstr "So ngolndii maɓɓe large digits"
 
 msgid "[apostrophe]"
 msgstr "[apostrophe]"
@@ -408,288 +408,284 @@ msgid "[tab]"
 msgstr "[tab]"
 
 msgid "abjad calculated and letter count added"
-msgstr "abjad calculated and letter count added"
+msgstr "abjad ndawru e ɓurndi gilaaji"
 
 msgid "abjad() functions settings"
-msgstr "abjad() functions settings"
+msgstr "abjad() ngoodi ngel"
 
 msgid "add to initial value"
-msgstr "add to initial value"
+msgstr "Ɗaɓɓude e ɓurndu ngal"
 
 msgid "and"
-msgstr "and"
+msgstr "e"
 
 msgid "auto calculate immediately"
-msgstr "auto calculate immediately"
+msgstr "jeyaa kono"
 
 msgid "bast"
 msgstr "bast"
 
 msgid "bastet() and nutket() functions settings"
-msgstr "bastet() and nutket() functions settings"
+msgstr "bastet() e nutket() ngoodi ngel"
 
 msgid "count once"
-msgstr "count once"
+msgstr "ɗaɓɓude ɓiɓɓe"
 
 msgid "count twice"
-msgstr "count twice"
+msgstr "ɗaɓɓude ɓiɓɓeɗe"
 
 msgid "display with Arabic numbers"
-msgstr "display with Arabic numbers"
+msgstr "ndiyam e nambaraji Araba"
 
 msgid "display with Indian numbers"
-msgstr "display with Indian numbers"
+msgstr "ndiyam e nambaraji Hinduuji"
 
 msgid "do not add to initial value"
-msgstr "do not add to initial value"
+msgstr "ma Ɗaɓɓude e ɓurndu ngal"
 
 msgid "do not force to other functions"
-msgstr "do not force to other functions"
+msgstr "ma njoɓdi e ngoodi ɗiɗi"
 
 msgid "do not purify"
-msgstr "do not purify"
+msgstr "ma purifaa"
 
 msgid "force to other functions"
-msgstr "force to other functions"
+msgstr "njoɓdi e ngoodi ɗiɗi"
 
 msgid "group multiplier letters"
-msgstr "group multiplier letters"
+msgstr "gilaaji fawri"
 
 msgid "hide"
-msgstr "hide"
+msgstr "ɓuri"
 
 msgid "hide abjad values"
-msgstr "hide abjad values"
+msgstr "ɓuri abjad"
 
 msgid "hide bast results"
-msgstr "bast sonuçlarını gizle"
+msgstr "ɓeydi bast njum"
 
 msgid "hide huddam names"
-msgstr "huddam adlarını gizle"
+msgstr "ɓeydi huddam ɓe"
 
 msgid "huddam() function settings"
-msgstr "huddam() fonksiyon ayarları"
+msgstr "huddam() jowii sada"
 
 msgid "no bast applied."
-msgstr "hiç bir bast uygulanmadı."
+msgstr "mbaɗo bast ɓe lappu."
 
 msgid "no data entered"
-msgstr "veri girilmedi"
+msgstr "mbaɗo data ɗaɗi"
 
 msgid "other suffix"
-msgstr "diğer ek"
+msgstr "fofi suffix"
 
 msgid "purify data"
-msgstr "veriyi temizle"
+msgstr "sari data"
 
 msgid "repeat multiplier for each digit"
-msgstr "her basamağa ait çarpanı tekrarla"
+msgstr "sifirde guddol kala digit"
 
 msgid "show"
-msgstr "göster"
+msgstr "hottu"
 
 msgid "show abjad values"
-msgstr "abjad değerlerini göster"
+msgstr "hottu abjad mawnde"
 
 msgid "show bast results"
-msgstr "bast sonuçlarını göster"
+msgstr "hottu bast njum"
 
 msgid "show huddam names"
-msgstr "huddam adlarını göster"
+msgstr "hottu huddam ɓe"
 
 msgid "suffix"
-msgstr "ek"
+msgstr "suffix"
 
 msgid "times bast applied."
-msgstr "kadar bast uygulandı."
+msgstr "caggal bast ɓe lappu."
 
 msgid "use calculated abjad results"
-msgstr "hesaplanan abjad sonuçlarını kullan"
+msgstr "ɓuri njaarol abjad njum"
 
 msgid "use calculated abjad total"
-msgstr "hesaplanan abjad toplamını kullan"
+msgstr "ɓuri njaarol abjad total"
 
 msgid "use calculated bast results"
-msgstr "hesaplanan bast sonuçlarını kullan"
+msgstr "ɓuri njaarol bast njum"
 
 msgid "use entered data directly"
-msgstr "girilen veriyi doğrudan kullan"
+msgstr "ɓuri data ɗaɗi ndiyam"
 
 msgid "use entered data total"
-msgstr "girilen verinin toplamını kullan"
+msgstr "ɓuri data total"
 
 msgid "use in all bast repetitions"
-msgstr "tüm bast tekrarlarda kullan"
+msgstr "ɓuri e ɓe bast sifirde"
 
 msgid "use only at beginning if possible"
-msgstr "mümkünse sadece başta kullan"
+msgstr "ɓuri e mbattoo no ɗum hokka"
 
 msgid "wait for settings and data entry"
-msgstr "ayarların ve veri girişinin beklenmesi"
+msgstr "soddu e sada e data ɗaɗi"
 
 msgid "Abjad Table"
-msgstr "Abjad Tablosu"
+msgstr "Abjad Table"
 
 msgid "Shadda"
-msgstr "Şedde"
+msgstr "Shadda"
 
 msgid "Details"
-msgstr "Detaylar"
+msgstr "Details"
 
 msgid "Element Classification"
-msgstr "Element Sınıflandırması"
+msgstr "Element Classification"
 
 msgid "Abjad Order"
-msgstr "Abjad Sırası"
+msgstr "Abjad Order"
 
 msgid "Abjad Widget"
-msgstr "Abjad Widget'i"
+msgstr "Abjad Widget"
 
 msgid "Add custom CSS to customize the widget appearance."
-msgstr "Özel CSS ekleyerek widget görünümünü özelleştir."
+msgstr "Add custom CSS to customize the widget appearance."
 
 msgid ""
 "Add custom JavaScript to modify widget behavior. Wrong code may break the "
 "widget!"
 msgstr ""
-"Özel JavaScript ekleyerek widget davranışını değiştir. Yanlış kod widget'ı "
-"kırabilir!"
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
 
 msgid "An error occurred while loading content."
-msgstr "İçerik yüklenirken bir hata oluştu."
+msgstr "Ko honndu nde e ɗaɓɓude content."
 
 msgid "Button"
-msgstr "Düğme"
+msgstr "Boti"
 
 msgid "Button Color"
-msgstr "Düğme Rengi"
+msgstr "Rengol Boti"
 
 msgid "Button Emoji"
-msgstr "Düğme Emoji"
+msgstr "Emoji Boti"
 
 msgid "Button Message"
-msgstr "Düğme Mesajı"
+msgstr "Ñaamude Boti"
 
 msgid "Button Settings"
-msgstr "Düğme Ayarları"
+msgstr "Ñiɗi Boti"
 
 msgid "Button Type"
-msgstr "Düğme Türü"
+msgstr "Sifa Boti"
 
 msgid "CSS saved successfully."
-msgstr "CSS başarıyla kaydedildi."
+msgstr "CSS ɗi ɓuri goɗɗo."
 
 msgid "Check this box to activate the widget."
-msgstr "Bileşeni etkinleştirmek için bu kutuyu işaretleyin."
+msgstr "Lappu ɗe nder ngam hollude widget."
 
 msgid "Code Editor"
-msgstr "Kod Düzenleyici"
+msgstr "Koodu Jeyɗe"
 
 msgid "Custom CSS"
-msgstr "Özel CSS"
+msgstr "CSS Ko Wonande"
 
 msgid "Custom JavaScript"
-msgstr "Özel JavaScript"
+msgstr "JavaScript Ko Wonande"
 
 msgid "Description"
-msgstr "Açıklama"
+msgstr "Hollu"
 
 msgid "Emoji"
 msgstr "Emoji"
 
 msgid "Enter image URL"
-msgstr "Resim URL'sini girin"
+msgstr "Jokkude URL dow foto"
 
 msgid "Example: 🔮, ☯️, ✨"
-msgstr "Örnek: 🔮, ☯️, ✨"
+msgstr "Tuma: 🔮, ☯️, ✨"
 
 msgid "General"
-msgstr "Genel"
+msgstr "Leñol"
 
 msgid "JavaScript saved successfully."
-msgstr "JavaScript başarıyla kaydedildi."
+msgstr "JavaScript ɗi ɓuri goɗɗo."
 
 msgid "Left"
-msgstr "Sol"
+msgstr "Lewru"
 
 msgid "Live Preview"
-msgstr "Canlı Önizleme"
+msgstr "Haɓɓude Jaŋngol"
 
 msgid "Loading..."
-msgstr "Yükleniyor..."
+msgstr "Njaareede..."
 
 msgid "PNG Image URL"
-msgstr "PNG Resim URL'si"
+msgstr "URL dow PNG"
 
 msgid "Paste SVG code"
-msgstr "SVG kodunu yapıştırın"
+msgstr "Yiytude SVG koodu"
 
 msgid "Please enter a valid URL."
-msgstr "Geçerli bir URL girin."
+msgstr "Miɗo yiɗi jokkude URL moƴƴi."
 
 msgid "Position"
-msgstr "Konum"
+msgstr "Ko wonde"
 
 msgid "Reset to Default"
-msgstr "Varsayılana Sıfırla"
+msgstr "Woppude ɓernde"
 
 msgid "Right"
-msgstr "Sağ"
+msgstr "Ndiyam"
 
 msgid "SVG Code"
-msgstr "SVG Kodu"
+msgstr "SVG Koodu"
 
 msgid "Save CSS"
-msgstr "CSS Kaydet"
+msgstr "Ɓeɗɗude CSS"
 
 msgid "Save JavaScript"
-msgstr "JavaScript Kaydet"
+msgstr "Ɓeɗɗude JavaScript"
 
 msgid "Save Settings"
-msgstr "Save Settings"
+msgstr "Sappu Njumirde"
 
 msgid "Settings saved successfully."
-msgstr "Settings saved successfully."
+msgstr "Njumirde sappaa e jamma."
 
 msgid "Style Editor"
-msgstr "Style Editor"
+msgstr "Wulnaade Sari"
 
 msgid "WARNING"
-msgstr "WARNING"
+msgstr "HAALA"
 
 msgid "Welcome! You can follow widget news and announcements from this panel."
-msgstr ""
-"Welcome! You can follow widget news and announcements from this panel."
+msgstr "Faalam! Awa a njoɓi newsi e announcments ɓe widget ɗee e panel ngal."
 
 msgid "Widget Settings"
-msgstr "Widget Settings"
+msgstr "Njumirde Widget"
 
 msgid "Widget Status"
-msgstr "Widget Status"
+msgstr "Ndaaru Widget"
 
 msgid "Widget active"
-msgstr "Widget active"
+msgstr "Widget ndaaru"
 
 msgid ""
 "Wrong JavaScript code may break the widget. Backup before making changes."
-msgstr ""
-"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr "Kod JavaScript ɗiɗi e jooɗi widget. Fawni backup ɓe waɗɗi ndiyam."
 
 msgid "Your Buy Me a Coffee username"
-msgstr "Your Buy Me a Coffee username"
+msgstr "Innde maa buy me a coffee"
 
 msgid ""
 "Your changes will directly affect the widget appearance. If you don't know "
 "CSS, it's recommended to use default settings."
-msgstr ""
-"Your changes will directly affect the widget appearance. If you don't know "
-"CSS, it's recommended to use default settings."
+msgstr "Golle maa ɓe heɓi widget ɓe. So wonaa CSS, yiddo fota ndeere."
 
 msgid "Abjad Widget - Local Dashboard"
-msgstr "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Dashboard Jokkondirde"
 
 msgid "Spiritual Seekers and Mystics"
-msgstr "Spiritual Seekers and Mystics"
+msgstr "Ngulɓe e Tawli"
 
 msgid ""
 "Personality Traits: Curious, introspective, open-minded, and drawn to "
@@ -699,15 +695,12 @@ msgid ""
 "Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
 "see the tools as a way to connect with deeper truths or universal energies."
 msgstr ""
-"Personality Traits: Curious, introspective, open-minded, and drawn to "
-"esoteric knowledge. They may have a strong interest in uncovering hidden "
-"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
-" astrologers, or individuals involved in New Age practices. Ideological "
-"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
-"see the tools as a way to connect with deeper truths or universal energies."
+"Fayde kadi: Hakkunde, fowru, jooɗa, e ngulɓe nguurndam. Wondi ko feere e "
+"hakke. Wulnde: Njaaji ngul, wotorde tarot, astrologi, ko wondi ɓe New Age. "
+"Pottal: Ɗaɗɗa e ngulɓe ko ɓe ɓuri. Wondi ɗum seeɗa e wulnde e nder leydi."
 
 msgid "Numerologists and Gematria Enthusiasts"
-msgstr "Numerologists and Gematria Enthusiasts"
+msgstr "Numerologu e Gematria Wullitaaji"
 
 msgid ""
 "Personality Traits: Analytical, detail-oriented, and fascinated by the "
@@ -717,15 +710,12 @@ msgid ""
 "those who view numerology as a fun intellectual exercise to those who "
 "believe in its profound spiritual significance."
 msgstr ""
-"Personality Traits: Analytical, detail-oriented, and fascinated by the "
-"relationship between numbers and language. They may enjoy decoding symbolic "
-"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
-"or hobbyists exploring numerology. Ideological Spectrum: May range from "
-"those who view numerology as a fun intellectual exercise to those who "
-"believe in its profound spiritual significance."
+"Fayde kadi: Analys, detail, e nguurndam nguurndam. Wondi ko njamfaako feere."
+" Wulnde: Numerologu freelancu, gandal e tumaaji, ko wondi ɓe newsi. Pottal: "
+"Ɗaɗɗa ko ɓe seeɗa e jamaa ngulɓe e hoto e ngulɓe."
 
 msgid "Historians and Linguists"
-msgstr "Historians and Linguists"
+msgstr "Historiɓe e Linguistɓe"
 
 msgid ""
 "Personality Traits: Scholarly, methodical, and interested in historical or "
@@ -735,15 +725,11 @@ msgid ""
 "secular, academic perspective, focusing on their historical or linguistic "
 "significance."
 msgstr ""
-"Personality Traits: Scholarly, methodical, and interested in historical or "
-"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
-"researchers, or students studying Middle Eastern languages, history, or "
-"religious texts. Ideological Spectrum: Likely to approach the tools from a "
-"secular, academic perspective, focusing on their historical or linguistic "
-"significance."
+"Fayde kadi: Jangu, method, e nguurndam. Wulnde: Akadèmi, jangu, ko wondi ɓe "
+"nder leydi. Pottal: Ɗaɗɗa e seŋkure."
 
 msgid "Religious or Faith-Based Individuals"
-msgstr "Religious or Faith-Based Individuals"
+msgstr "Jamɗi e Jamde Ndeere"
 
 msgid ""
 "Personality Traits: Devout, reflective, and seeking deeper connections to "
@@ -753,15 +739,11 @@ msgid ""
 "Spectrum: Likely to have a traditional or conservative worldview, using the "
 "tools to reinforce their spiritual beliefs."
 msgstr ""
-"Personality Traits: Devout, reflective, and seeking deeper connections to "
-"their faith. They may use the tools to explore religious texts or divine "
-"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
-" a strong interest in their faith’s mystical traditions. Ideological "
-"Spectrum: Likely to have a traditional or conservative worldview, using the "
-"tools to reinforce their spiritual beliefs."
+"Fayde kadi: Jamɗi, njannde, e ndiyam. Wulnde: Jamɗe, imama, woori. Pottal: "
+"Ɗaɗɗa e ndiyam."
 
 msgid "Writers and Artists"
-msgstr "Writers and Artists"
+msgstr "Gandal e Artii"
 
 msgid ""
 "Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
@@ -770,14 +752,11 @@ msgid ""
 "musicians. Ideological Spectrum: May range from secular creatives to those "
 "with a spiritual or mystical bent."
 msgstr ""
-"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
-" concepts. They may use the tools for inspiration or to add layers of "
-"meaning to their work. Occupations: Authors, poets, visual artists, or "
-"musicians. Ideological Spectrum: May range from secular creatives to those "
-"with a spiritual or mystical bent."
+"Fayde kadi: Jangde, nguurndam, e nguurndam. Wulnde: Koori, kadi, e musiki. "
+"Pottal: Ɗaɗɗa e seŋkure."
 
 msgid "Puzzle and Riddle Enthusiasts"
-msgstr "Puzzle and Riddle Enthusiasts"
+msgstr "Puzzle e Riddle Wullitaaji"
 
 msgid ""
 "Personality Traits: Playful, intellectually curious, and enjoy solving "
@@ -786,14 +765,11 @@ msgid ""
 "as a form of entertainment or mental exercise, with little ideological "
 "attachment."
 msgstr ""
-"Personality Traits: Playful, intellectually curious, and enjoy solving "
-"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
-"designers, or educators. Ideological Spectrum: Likely to approach the tools "
-"as a form of entertainment or mental exercise, with little ideological "
-"attachment."
+"Fayde kadi: Hoto, jangu, e fere. Wulnde: Puzzle, designer, e jangu. Pottal: "
+"Ɗaɗɗa."
 
 msgid "Conspiracy Theorists and Alternative Thinkers"
-msgstr "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy Theorists e Alternative Thinkers"
 
 msgid ""
 "Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
@@ -802,20 +778,17 @@ msgid ""
 "unconventional worldview, using the tools to support alternative theories or"
 " narratives."
 msgstr ""
-"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
-"hidden truths or patterns in systems. Occupations: Independent researchers, "
-"bloggers, or activists. Ideological Spectrum: May have a more radical or "
-"unconventional worldview, using the tools to support alternative theories or"
-" narratives."
+"Fayde kadi: Skeptical, e wondi. Wulnde: Researcher, blogger, e activist. "
+"Pottal: Ɗaɗɗa."
 
 msgid "☕ Support the Project"
-msgstr "☕ Support the Project"
+msgstr "☕ Seŋki Project"
 
 msgid "If you like my project, you can buy me a coffee!"
-msgstr "If you like my project, you can buy me a coffee!"
+msgstr "So wonaa project ɗe, a waawaa buy me a coffee!"
 
 msgid "Buy Me A Coffee"
 msgstr "Buy Me A Coffee"
 
 msgid "Thank you! 🙏"
-msgstr "Thank you! 🙏"
+msgstr "Aɗa waɗi! 🙏"

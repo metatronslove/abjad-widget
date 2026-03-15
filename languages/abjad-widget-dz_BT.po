@@ -1,0 +1,782 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Abjad Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Dzongkha <dz_BT>\n"
+"Language: dz-BT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Abjad"
+msgstr "ཨབཇཱད"
+
+msgid "Abjad Settings"
+msgstr "ཨབཇཱདའི ཚད་ལེགས"
+
+msgid "Abjad Value"
+msgstr "ཨབཇཱདའི གནད་འཛུགས"
+
+msgid "Abjad Widget Dashboard"
+msgstr "ཨབཇཱདའི ཝཌིཇེཊེར་དར་བའི་ནེཊི"
+
+msgid "Abjad calculation results"
+msgstr "ཨབཇཱདའི འདིག་འབད་གནད་འཛུགས"
+
+msgid "Abjad calculations hidden"
+msgstr "ཨབཇཱདའི འདིག་འབད་གནད་འཛུགས་སྦུག"
+
+msgid "Abjad not calculated"
+msgstr "ཨབཇཱདའི འདིག་འབད་མེད"
+
+msgid "Abjad order"
+msgstr "ཨབཇཱདའི ཚད་དོག"
+
+msgid "Add elements"
+msgstr "གཞུགས་རིགས་འཛོལ"
+
+msgid "Ahmad al Buni"
+msgstr "ཨེ་མཛོད་ ཨའིབུནི"
+
+msgid "Air"
+msgstr "འགུལ"
+
+msgid "All"
+msgstr "ཡངམ་"
+
+msgid "Arabic"
+msgstr "ཨརེནགི"
+
+msgid "Arabic letters"
+msgstr "ཨརེནགིགཏོགས"
+
+msgid "Arabic numbers"
+msgstr "ཨརེནགིགཏོགས་གནད"
+
+msgid "As data for operation"
+msgstr "ལུའི་གཞན་གྱི་གནད་ཁུངས་"
+
+msgid "Bast loop results"
+msgstr "བེཤཊི་ནང་འགྱུར་གནད་འཛུགས"
+
+msgid "Bast not calculated"
+msgstr "བེཤཊིའི་འདིག་འབད་མེད"
+
+msgid "Bast repetition count"
+msgstr "བེཤཊི་འདུལ་གྱི་གདུང་བསྡད"
+
+msgid "Bast results hidden"
+msgstr "བེཤཊིའི་གནད་འཛུགས་སྦུག"
+
+msgid "Bastet"
+msgstr "བེཤཊིཏ"
+
+msgid "Bastet order"
+msgstr "བེཤཊིཏའི་ཚད་དོག"
+
+msgid "Bastet shadda"
+msgstr "བེཤཊིཏའི་ཤཌད"
+
+msgid "Bastet table"
+msgstr "བེཤཊིཏའི དུར་ཤུལ"
+
+msgid "Big"
+msgstr "གཞན"
+
+msgid "Bigger"
+msgstr "གཞན་པོ"
+
+msgid "Buy Me a Coffee ID"
+msgstr "ངའི་ཁེན་དུ་འདུག ID"
+
+msgid "Buy me a coffee"
+msgstr "ངའི་ཁེན་གཏོག"
+
+msgid "Calculate"
+msgstr "འདིག་འབད"
+
+msgid "Calculate Abjad"
+msgstr "ཨབཇཱདའི་འདིག་འབད"
+
+msgid "Calculate Bastet"
+msgstr "གནད་གཞུགས་Bastet"
+
+msgid "Calculate Huddam"
+msgstr "གནད་གཞུགས་Huddam"
+
+msgid "Calculation details"
+msgstr "གནད་གཞུགསའི་རྒྱུན་དུན"
+
+msgid "Choose Keyboard Layout"
+msgstr "དེབ་ཚད་གདམ"
+
+msgid "Clear text box"
+msgstr "ཚོད་མཛོད་ དགོངས"
+
+msgid "Click row for details"
+msgstr "གནད་གཞུགསའི་རིགས་དེབ་གདན"
+
+msgid "Close Keyboard"
+msgstr "དེབ་ཁར་བསུབ"
+
+msgid "Closed"
+msgstr "ཁར་བརྒྱུར"
+
+msgid "Comma is default separator and must remain checked!"
+msgstr "གཏུབ་སྒུལ་ དོན་འཛུལ་ དང་མཐུན་ འདུག"
+
+msgid "Dashboard"
+msgstr "འཛིན་འགོད"
+
+msgid "Data entry separators:"
+msgstr "གནད་གཞུགསའི་བཞུགས་མཐའ"
+
+msgid "Data type profile"
+msgstr "གནད་གཞུགསའི་དབྱེད་ཁུལ"
+
+msgid "Dead keys"
+msgstr "ཁྱེད་མེད་ལྡག་ཁུལ"
+
+msgid "Decrease keyboard size"
+msgstr "དེབ་ཚད་ཆེན་མར"
+
+msgid "Don't calculate"
+msgstr "གནད་གཞུགས་མི་འབད"
+
+msgid "Duty entity name results"
+msgstr "གནད་གཞུགསའི་ནང་བརྟེན་ གནས་བདག་གནང"
+
+msgid "Duty entity type"
+msgstr "གནད་གཞུགསའི་ནང་བརྟེན་དབྱེ"
+
+msgid "Earth"
+msgstr "གནའབོད"
+
+msgid "Element classification"
+msgstr "རྟགས་གཏོད་བརྟེན"
+
+msgid "Element classification method"
+msgstr "རྟགས་གཏོད་བརྟེན་ སྤྱིར་འགེད"
+
+msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "ཚོད་མཛོད་བརྐྱེད་... རིགས་ཀྱི་གནད་གཞུགས་གནའ་བདག"
+
+msgid "Entered data"
+msgstr "གནད་གཞུགས་བརྟེན"
+
+msgid "Entry"
+msgstr "གནད་གཞུགས"
+
+msgid "Entry letter count"
+msgstr "གནད་གཞུགསའི་ཡིག་འབྱུང་གྲངས"
+
+msgid "Evil"
+msgstr "བཅད"
+
+msgid "Fire"
+msgstr "བུམ"
+
+msgid "For entered data"
+msgstr "གནད་གཞུགས་གཏན"
+
+msgid "Frequency in Quran"
+msgstr "འཇམ་མཚམས་ ཕྱོགས"
+
+msgid "Gematria"
+msgstr "གནད་གཞུགསའི་ནང་བརྟེན"
+
+msgid "Hebrew"
+msgstr "ཁུདོག"
+
+msgid "Hebrew alphabet elements"
+msgstr "ཤེའུདའི་ ཡིག་གཞན་གྱི་ གནད་དོན"
+
+msgid "Hebrew letters"
+msgstr "ཤེའུདའི་ ཡིག་ཚུ"
+
+msgid "High"
+msgstr "གཙོད"
+
+msgid "Hija order"
+msgstr "ཧི་ཇ་ འགོད"
+
+msgid "Hisab al jumal"
+msgstr "Hisab al jumal"
+
+msgid "Huddam"
+msgstr "Huddam"
+
+msgid "Huddam names hidden"
+msgstr "Huddam མཚམས་ གཞན"
+
+msgid "Huddam not calculated"
+msgstr "Huddam གནང་ མིགཞན"
+
+msgid "Iklil's order"
+msgstr "ཨིཀ་ལིལ་གི་ འགོད"
+
+msgid "Increase keyboard size"
+msgstr "ཁོང་པའི་ ནུས་པའི་ ཚད་ལྡན་"
+
+msgid "Indian numbers"
+msgstr "གནད་རིགས་"
+
+msgid "Interface language"
+msgstr "འབྲེལ་ཐོའི་ དབྱེ་བ"
+
+msgid "Let character quantity decide"
+msgstr "རྩིགས་ འདུལ་ གནད་གྱངས་ གནང་བ"
+
+msgid "Letter count"
+msgstr "ཡིག་གནད་གྱངས་"
+
+msgid "Like my projects? Buy me a coffee!"
+msgstr "ངའི་ ལོགས་འཛུལ་རེད་? ཁོད་ཁང་ སྐུན་ གཏོང་"
+
+msgid "Low"
+msgstr "གནད་"
+
+msgid "Maghribian abjad"
+msgstr "Maghribian abjad"
+
+msgid "Maghribian hija order"
+msgstr "Maghribian hija order"
+
+msgid "Minimum"
+msgstr "གཉིད་"
+
+msgid "Muhiyyiddin Ibn Arabi"
+msgstr "Muhiyyiddin Ibn Arabi"
+
+msgid "Number reading language"
+msgstr "གྲངས་རིགས་ ནུས་པ"
+
+msgid "Numerical values"
+msgstr "གྲངས་འདུན་གཞི"
+
+msgid "Open"
+msgstr "ཁ་ཕྱེ"
+
+msgid "Order"
+msgstr "འགོད"
+
+msgid "Possible phrases"
+msgstr "གནད་འཛུལ་བའི་ ཁེངས་བཅུག"
+
+msgid "Program settings"
+msgstr "ལས་འགན་ ཚདན་"
+
+msgid "Pronunciation"
+msgstr "ཁྱད་པར་"
+
+msgid "Regular expression"
+msgstr "གཞུག་བརྟེན་ འགེལ་བ"
+
+msgid "Regularly preferred classification"
+msgstr "དབུས་ འདུག་ གནད་གཏུག"
+
+msgid "Reset"
+msgstr "བཤོལ"
+
+msgid "Separators"
+msgstr "གཞན་མཁན་"
+
+msgid "Settings"
+msgstr "གཞིའི་སྒྲིག་སྒེད"
+
+msgid "Shamsee abjad order"
+msgstr "ཤམསིའི་ཚོད་ཁོངས་"
+
+msgid "Show numpad"
+msgstr "གྲངས་འཛུལ་གཏོད་"
+
+msgid "Show virtual keyboard"
+msgstr "འདིག་བའི་བཀོད་ལག་"
+
+msgid "Small"
+msgstr "ཆུང"
+
+msgid "Small + letter count"
+msgstr "ཆུང + གནད་མཚན་གང"
+
+msgid "Sulayman al Huseyni"
+msgstr "Sulayman al Huseyni"
+
+msgid "Support"
+msgstr "གཏོགས་ནུས་"
+
+msgid "Taken (letter)"
+msgstr "གདེད་(གནད་མཚན)"
+
+msgid "Taken (letter; abjad)"
+msgstr "གདེད་(གནད་མཚན;ཚོད་ཁོངས)"
+
+msgid "Taken Letters"
+msgstr "གདེད་པའི་གནད་མཚན་ཚུད"
+
+msgid "Text or number cell"
+msgstr "ཚིག་འཕྲིན་དང་ གྲངས་ཁག་"
+
+msgid "Thank you for your support!"
+msgstr "ཁྱེད་ཀྱི་གཏོགས་ནུས་ལེགས་གཏུག!"
+
+msgid "Total"
+msgstr "དུས་མཚན"
+
+msgid "Turkish"
+msgstr "གཞན་གྱི་ཡིག་སྒྲུལ"
+
+msgid "Turkish Alphabet Abjad"
+msgstr "གཞན་གྱི་ཡིག་སྒྲུལ་ཚོད་ཁོངས"
+
+msgid "Turkish alphabet elements"
+msgstr "གཞན་གྱི་ཡིག་སྒྲུལ་གནས་ཚོད"
+
+msgid "Turkish letters"
+msgstr "གཞན་གྱི་གནད་མཚན"
+
+msgid "Undefined characters"
+msgstr "མཛུད་མེད་པའི་འབྲུག"
+
+msgid "Value"
+msgstr "བདུན་ཁུངས"
+
+msgid "Value & Detail"
+msgstr "བདུན་ཁུངས & བརྗེད"
+
+msgid "Version"
+msgstr "ཐོན་གྱི་གནད་འཛིན"
+
+msgid "Water"
+msgstr "ལུས་"
+
+msgid "When data is entered"
+msgstr "གནད་སྐྱེལ་གཞན་པར་བཞག་"
+
+msgid "When reading large digits"
+msgstr "ཆེན་པོའི་གྲངས་གཏོད་གི་ཚིགས"
+
+msgid "[apostrophe]"
+msgstr "[apostrophe]"
+
+msgid "[arabic comma]"
+msgstr "[arabic comma]"
+
+msgid "[arabic parenthesis close]"
+msgstr "[arabic parenthesis close]"
+
+msgid "[arabic parenthesis open]"
+msgstr "[arabic parenthesis open]"
+
+msgid "[arabic semicolon]"
+msgstr "[arabic semicolon]"
+
+msgid "[close parenthesis]"
+msgstr "[close parenthesis]"
+
+msgid "[comma]"
+msgstr "[comma]"
+
+msgid "[dot]"
+msgstr "[dot]"
+
+msgid "[end of ayah]"
+msgstr "[end of ayah]"
+
+msgid "[new-line]"
+msgstr "[new-line]"
+
+msgid "[open parenthesis]"
+msgstr "[open parenthesis]"
+
+msgid "[parenthesis]"
+msgstr "[parenthesis]"
+
+msgid "[quote]"
+msgstr "[quote]"
+
+msgid "[semicolon]"
+msgstr "[semicolon]"
+
+msgid "[space]"
+msgstr "[space]"
+
+msgid "[tab]"
+msgstr "[tab]"
+
+msgid "abjad calculated and letter count added"
+msgstr "abjad གཏན་འདེགས་དང་ཚིགས་གྲངས་བསྒྲགས་"
+
+msgid "abjad() functions settings"
+msgstr "abjad() ལས་འགན་ཚོད་དག"
+
+msgid "add to initial value"
+msgstr "གཞི་ཁུངས་ལུའི་གདངས་འདུག"
+
+msgid "and"
+msgstr "དང་"
+
+msgid "auto calculate immediately"
+msgstr "རང་འདེགས་རྟག་པའི་དུས་སུ"
+
+msgid "bast"
+msgstr "bast"
+
+msgid "bastet() and nutket() functions settings"
+msgstr "bastet() དང་ nutket() ལས་འགན་ཚོད་དག"
+
+msgid "count once"
+msgstr "གྱིད་ནི་གཅིག"
+
+msgid "count twice"
+msgstr "གྱིད་ནི་གཉིས"
+
+msgid "display with Arabic numbers"
+msgstr "ཨར་བིཀཚོག་གྲངས་གཏོགས་"
+
+msgid "display with Indian numbers"
+msgstr "རྒྱ་ནང་གྲངས་གཏོགས་"
+
+msgid "do not add to initial value"
+msgstr "གཞི་ཁུངས་ལུའི་གདངས་མི་བསྒྲགས"
+
+msgid "do not force to other functions"
+msgstr "གཞུན་འགུལ་བར་མིནའོ"
+
+msgid "do not purify"
+msgstr "སྤུན་མིནའོ"
+
+msgid "force to other functions"
+msgstr "གཞུན་འགུལ་བར"
+
+msgid "group multiplier letters"
+msgstr "གཞི་བརྟགས་ཀྱི་ཚིགས་"
+
+msgid "hide"
+msgstr "གསལ་མེད"
+
+msgid "hide abjad values"
+msgstr "abjad གནས་ཚུལ་གསལ་མེད"
+
+msgid "hide bast results"
+msgstr "གདོག་bastའདུད"
+
+msgid "hide huddam names"
+msgstr "གདོག huddamགནད"
+
+msgid "huddam() function settings"
+msgstr "huddam() function settings"
+
+msgid "no bast applied."
+msgstr "མེད bast applied."
+
+msgid "no data entered"
+msgstr "མེད data entered"
+
+msgid "other suffix"
+msgstr "གཞན suffix"
+
+msgid "purify data"
+msgstr "purify data"
+
+msgid "repeat multiplier for each digit"
+msgstr "repeat multiplier for each digit"
+
+msgid "show"
+msgstr "གཏོག"
+
+msgid "show abjad values"
+msgstr "གཏོག abjad values"
+
+msgid "show bast results"
+msgstr "གཏོག bastའདུད"
+
+msgid "show huddam names"
+msgstr "གཏོག huddamགནད"
+
+msgid "suffix"
+msgstr "suffix"
+
+msgid "times bast applied."
+msgstr "times bast applied."
+
+msgid "use calculated abjad results"
+msgstr "use calculated abjad results"
+
+msgid "use calculated abjad total"
+msgstr "use calculated abjad total"
+
+msgid "use calculated bast results"
+msgstr "use calculated bast results"
+
+msgid "use entered data directly"
+msgstr "use entered data directly"
+
+msgid "use entered data total"
+msgstr "use entered data total"
+
+msgid "use in all bast repetitions"
+msgstr "use in all bast repetitions"
+
+msgid "use only at beginning if possible"
+msgstr "use only at beginning if possible"
+
+msgid "wait for settings and data entry"
+msgstr "wait for settings and data entry"
+
+msgid "Abjad Table"
+msgstr "Abjad Table"
+
+msgid "Shadda"
+msgstr "Shadda"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Element Classification"
+msgstr "Element Classification"
+
+msgid "Abjad Order"
+msgstr "Abjad Order"
+
+msgid "Abjad Widget"
+msgstr "Abjad Widget"
+
+msgid "Add custom CSS to customize the widget appearance."
+msgstr "Add custom CSS to customize the widget appearance."
+
+msgid ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+msgstr ""
+"Add custom JavaScript to modify widget behavior. Wrong code may break the "
+"widget!"
+
+msgid "An error occurred while loading content."
+msgstr "བརྟེན་པའི་སྐབས་ གདན་འདུག"
+
+msgid "Button"
+msgstr "དངུལ"
+
+msgid "Button Color"
+msgstr "དངུལའི་ཚོས་གཞི"
+
+msgid "Button Emoji"
+msgstr "དངུལའི Emoji"
+
+msgid "Button Message"
+msgstr "དངུལའི འགྱུར་འདོད"
+
+msgid "Button Settings"
+msgstr "དངུལའི ຍགོད་འདི"
+
+msgid "Button Type"
+msgstr "དངུལའི དབྱེ་རིག"
+
+msgid "CSS saved successfully."
+msgstr "CSS ཉུལ་གཞིས་བཟོས་བཟོས་པའི་རང་"
+
+msgid "Check this box to activate the widget."
+msgstr "འདིའི་ཚོགས་ གཞན་གནོད་པའི་གདུག"
+
+msgid "Code Editor"
+msgstr "གནད་རིམ་ཞུན་དག"
+
+msgid "Custom CSS"
+msgstr "སྦེམ་གཏོད་བཅུད་པའི CSS"
+
+msgid "Custom JavaScript"
+msgstr "སྦེམ་གཏོད་བཅུད་པའི JavaScript"
+
+msgid "Description"
+msgstr "བཀོད་གཏན"
+
+msgid "Emoji"
+msgstr "Emoji"
+
+msgid "Enter image URL"
+msgstr "འབོད་རིས་ URL བཙུགས།"
+
+msgid "Example: 🔮, ☯️, ✨"
+msgstr "Example: 🔮, ☯️, ✨"
+
+msgid "General"
+msgstr "ཀུན་གཉེར"
+
+msgid "JavaScript saved successfully."
+msgstr "JavaScript ཉུལ་གཞིས་བཟོས་པར་བཏུབ"
+
+msgid "Left"
+msgstr "གཡོན"
+
+msgid "Live Preview"
+msgstr "ཕྱིན་ལུངམའི་ལྟ"
+
+msgid "Loading..."
+msgstr "བརྟེན་འདི་"
+
+msgid "PNG Image URL"
+msgstr "PNG གནོན་རིས་ URL"
+
+msgid "Paste SVG code"
+msgstr "SVG གནད་དུམ་བཙུགས།"
+
+msgid "Please enter a valid URL."
+msgstr "དབྱེད་པའི་ URL བཙུགས་པའི་མདོར།"
+
+msgid "Position"
+msgstr "གནས་སྐོར"
+
+msgid "Reset to Default"
+msgstr "སོར་བསྐར་བསྐུར"
+
+msgid "Right"
+msgstr "གཡོག"
+
+msgid "SVG Code"
+msgstr "SVG གནད་རིག"
+
+msgid "Save CSS"
+msgstr "CSS ཉུལ་གཞི"
+
+msgid "Save JavaScript"
+msgstr "JavaScript ཉུལ་གཞི"
+
+msgid "Save Settings"
+msgstr "ཚུལ་གཞི་སྲུངས།"
+
+msgid "Settings saved successfully."
+msgstr "ཚུལ་གཞི་སྲུངས་གནད་རེ་མེད།"
+
+msgid "Style Editor"
+msgstr "ཚུལ་བཟོ་བཞིད།"
+
+msgid "WARNING"
+msgstr "གནད་པ།"
+
+msgid "Welcome! You can follow widget news and announcements from this panel."
+msgstr "བཀྲ་ཤིས! ཁྱེད་རང་གི་ཕབ་གནས་གནང་གི་བརྡ་ཚུན་གཏོད་རུའི་ཁྱད་པར་བཤད།"
+
+msgid "Widget Settings"
+msgstr "ཕབ་གནས་ཚུལ་གཞི།"
+
+msgid "Widget Status"
+msgstr "ཕབ་གནས་གནད་དོན།"
+
+msgid "Widget active"
+msgstr "ཕབ་གནས་སྤྱོད་ཚུལ།"
+
+msgid ""
+"Wrong JavaScript code may break the widget. Backup before making changes."
+msgstr ""
+"འཛིན་པའི་ JavaScript ཁོད་རྒྱུར་གྱིས་ ཕབ་གནས་འདུག "
+"བརྟེན་བསྐུར་པའི་བསྟན་པའི་དབང་འགུལ་བཏུབ།"
+
+msgid "Your Buy Me a Coffee username"
+msgstr "ཁྱེད་ཀྱི་ Buy Me a Coffee ནང་དུབ་གནང་བའི་ལག་ཁྱབ།"
+
+msgid ""
+"Your changes will directly affect the widget appearance. If you don't know "
+"CSS, it's recommended to use default settings."
+msgstr ""
+"ཁྱེད་རང་གི་བསྒུར་བའི་དབྱེ་བའི་ ཕབ་གནས་འགོད་པའི་འདིར་ གནད་ཡོད་པའི་བཟུན་པ་འདུག"
+" འདི་ CSS མི་ཡིན་རེད་པའི་སྐད་པའི་ལོག་ཐོག་གནང་གི་དགོས་སུམ།"
+
+msgid "Abjad Widget - Local Dashboard"
+msgstr "གཏོགས་གནང་པའི་ ཕབ་གནས་-རང་པའི་གནང་དེབ།"
+
+msgid "Spiritual Seekers and Mystics"
+msgstr "བཟོ་རྣམས་སུ་མིན་དུག་རོགས་པའི་འབདོད་རྟེན་"
+
+msgid ""
+"Personality Traits: Curious, introspective, open-minded, and drawn to "
+"esoteric knowledge. They may have a strong interest in uncovering hidden "
+"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
+" astrologers, or individuals involved in New Age practices. Ideological "
+"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
+"see the tools as a way to connect with deeper truths or universal energies."
+msgstr "མཛད་རྟག་: ལྡན་པའི་སྒེར་བཟུད་མཛོད་གཅེད་གནོད་ཡོད་བའི་བརྗེ་གཏན།"
+
+msgid "Numerologists and Gematria Enthusiasts"
+msgstr "འདུག་པའི་ དུས་གྲིག་ལས་འདུག་མཁན།"
+
+msgid ""
+"Personality Traits: Analytical, detail-oriented, and fascinated by the "
+"relationship between numbers and language. They may enjoy decoding symbolic "
+"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
+"or hobbyists exploring numerology. Ideological Spectrum: May range from "
+"those who view numerology as a fun intellectual exercise to those who "
+"believe in its profound spiritual significance."
+msgstr "མཛད་རྟག་: གདམས་འབྱོར་པའི་དུས་དོན་ཚད།"
+
+msgid "Historians and Linguists"
+msgstr "ལིག་གཏིང་གི་འབྱོར་མཁན།"
+
+msgid ""
+"Personality Traits: Scholarly, methodical, and interested in historical or "
+"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
+"researchers, or students studying Middle Eastern languages, history, or "
+"religious texts. Ideological Spectrum: Likely to approach the tools from a "
+"secular, academic perspective, focusing on their historical or linguistic "
+"significance."
+msgstr "མཛད་རྟག་: བཅས་པའི་གནང་གཞི་གནད་པའི་མཚན་མཁན།"
+
+msgid "Religious or Faith-Based Individuals"
+msgstr "བདེན་པའི་རོགས་པའི་དོན་"
+
+msgid ""
+"Personality Traits: Devout, reflective, and seeking deeper connections to "
+"their faith. They may use the tools to explore religious texts or divine "
+"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
+" a strong interest in their faith’s mystical traditions. Ideological "
+"Spectrum: Likely to have a traditional or conservative worldview, using the "
+"tools to reinforce their spiritual beliefs."
+msgstr "མཛད་རྟག་: བཅས་པའི་གནང་འདུག"
+
+msgid "Writers and Artists"
+msgstr "བརྩམ་པའི་དང་པའི་གནད་དོན།"
+
+msgid ""
+"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
+" concepts. They may use the tools for inspiration or to add layers of "
+"meaning to their work. Occupations: Authors, poets, visual artists, or "
+"musicians. Ideological Spectrum: May range from secular creatives to those "
+"with a spiritual or mystical bent."
+msgstr "མཛད་རྟག་: བཅས་པའི་གནག་མཐོང་གིས་བཀར།"
+
+msgid "Puzzle and Riddle Enthusiasts"
+msgstr "གཏོད་འདུག་གི་གཏོད་"
+
+msgid ""
+"Personality Traits: Playful, intellectually curious, and enjoy solving "
+"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
+"designers, or educators. Ideological Spectrum: Likely to approach the tools "
+"as a form of entertainment or mental exercise, with little ideological "
+"attachment."
+msgstr "མཛད་རྟག་: དབྱེད་པའི་སེམས་ཚོད།"
+
+msgid "Conspiracy Theorists and Alternative Thinkers"
+msgstr "ལུགས་བའི་རྟེན་གྱི་མེད་"
+
+msgid ""
+"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
+"hidden truths or patterns in systems. Occupations: Independent researchers, "
+"bloggers, or activists. Ideological Spectrum: May have a more radical or "
+"unconventional worldview, using the tools to support alternative theories or"
+" narratives."
+msgstr "མཛད་རྟག་: ནང་གི་བརྗེ་གཏན།"
+
+msgid "☕ Support the Project"
+msgstr "☕ ཡོན་ཏན་གྱི་རྩིགས་འགལ་བའི་གཞན་གྱི་མཚམས།"
+
+msgid "If you like my project, you can buy me a coffee!"
+msgstr "ཁྱེད་རང་གི་ཡོན་ཏན་འདི་ སྟོན་པ་གདན་པར་ དུས་པའི་ལག་ལེན་པའི་ནང་འཛིན།"
+
+msgid "Buy Me A Coffee"
+msgstr "ཁྱེད་ལག་འཁྱོར་བརྐྱེན་"
+
+msgid "Thank you! 🙏"
+msgstr "ཐོག་མེད་! 🙏"

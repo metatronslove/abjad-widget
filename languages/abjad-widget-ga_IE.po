@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Abjad Widget 1.0.0\n"
 "Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
-"Language-Team: English (US) <en_US>\n"
-"Language: en-US\n"
+"Language-Team: Irish <ga_IE>\n"
+"Language: ga-IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,193 +15,194 @@ msgid "Abjad"
 msgstr "Abjad"
 
 msgid "Abjad Settings"
-msgstr "Abjad Settings"
+msgstr "Socruithe Abjad"
 
 msgid "Abjad Value"
-msgstr "Abjad Value"
+msgstr "Luach Abjad"
 
 msgid "Abjad Widget Dashboard"
-msgstr "Abjad Widget Dashboard"
+msgstr "Painéal Bratach Abjad"
 
 msgid "Abjad calculation results"
-msgstr "Abjad Calculation Results"
+msgstr "Torthaí ar na cómhdhacal Abjad"
 
 msgid "Abjad calculations hidden"
-msgstr "Abjad Calculations Hidden"
+msgstr "Cúlt na cómhdhacal Abjad"
 
 msgid "Abjad not calculated"
-msgstr "Abjad Not Calculated"
+msgstr "Níor comhadhuirt Abjad"
 
 msgid "Abjad order"
-msgstr "Abjad Order"
+msgstr "Eolaíocht Abjad"
 
 msgid "Add elements"
-msgstr "Add Elements"
+msgstr "Cuir eilimintí leis"
 
 msgid "Ahmad al Buni"
 msgstr "Ahmad al Buni"
 
 msgid "Air"
-msgstr "Air"
+msgstr "Éan"
 
 msgid "All"
-msgstr "All"
+msgstr "Uile"
 
 msgid "Arabic"
-msgstr "Arabic"
+msgstr "Arabach"
 
 msgid "Arabic letters"
-msgstr "Arabic Letters"
+msgstr "Litriú Arabach"
 
 msgid "Arabic numbers"
-msgstr "Arabic Numbers"
+msgstr "Uimhir Arabach"
 
 msgid "As data for operation"
-msgstr "As Data for Operation"
+msgstr "Mar sonraí do ghníomhaíocht"
 
 msgid "Bast loop results"
-msgstr "Bast Loop Results"
+msgstr "Torthaí an bhucle Bast"
 
 msgid "Bast not calculated"
-msgstr "Bast Not Calculated"
+msgstr "Níor comhadhuirt Bast"
 
 msgid "Bast repetition count"
-msgstr "Bast Repetition Count"
+msgstr "Líon athchóiri Bast"
 
 msgid "Bast results hidden"
-msgstr "Bast Results Hidden"
+msgstr "Cúlt na torthaí Bast"
 
 msgid "Bastet"
 msgstr "Bastet"
 
 msgid "Bastet order"
-msgstr "Bastet Order"
+msgstr "Eolaíocht Bastet"
 
 msgid "Bastet shadda"
-msgstr "Bastet Shadda"
+msgstr "Bastet shadda"
 
 msgid "Bastet table"
-msgstr "Bastet Table"
+msgstr "Tábla Bastet"
 
 msgid "Big"
-msgstr "Big"
+msgstr "Mór"
 
 msgid "Bigger"
-msgstr "Bigger"
+msgstr "Níos Mór"
 
 msgid "Buy Me a Coffee ID"
 msgstr "Buy Me a Coffee ID"
 
 msgid "Buy me a coffee"
-msgstr "Buy Me a Coffee"
+msgstr "Cuir mo chath"
 
 msgid "Calculate"
-msgstr "Calculate"
+msgstr "Cálún"
 
 msgid "Calculate Abjad"
-msgstr "Calculate Abjad"
+msgstr "Cálún Abjad"
 
 msgid "Calculate Bastet"
-msgstr "Calculate Bastet"
+msgstr "Bastet a Calcula"
 
 msgid "Calculate Huddam"
-msgstr "Calculate Huddam"
+msgstr "Huddam a Calcula"
 
 msgid "Calculation details"
-msgstr "Calculation details"
+msgstr "Mionsonraí na Calcula"
 
 msgid "Choose Keyboard Layout"
-msgstr "Choose Keyboard Layout"
+msgstr "Roghnú Leagan Iarratais"
 
 msgid "Clear text box"
-msgstr "Clear text box"
+msgstr "Glan Bosca Téacs"
 
 msgid "Click row for details"
-msgstr "Click row for details"
+msgstr "Cliceáil aicme le haghaidh mionsonraí"
 
 msgid "Close Keyboard"
-msgstr "Close Keyboard"
+msgstr "Dún Iarratas"
 
 msgid "Closed"
-msgstr "Closed"
+msgstr "Dúnadh"
 
 msgid "Comma is default separator and must remain checked!"
-msgstr "Comma is the default separator and must remain checked!"
+msgstr "Is deighníonn an coma, agus caithfidh sé a bheith marcáilte!"
 
 msgid "Dashboard"
 msgstr "Dashboard"
 
 msgid "Data entry separators:"
-msgstr "Data entry separators:"
+msgstr "Deighníonn Easnaíocht Sannta:"
 
 msgid "Data type profile"
-msgstr "Data type profile"
+msgstr "Próifíl Cineál Sonraí"
 
 msgid "Dead keys"
-msgstr "Dead keys"
+msgstr "Eochair Dúchta"
 
 msgid "Decrease keyboard size"
-msgstr "Decrease keyboard size"
+msgstr "Laghdaigh Méid na Iarratais"
 
 msgid "Don't calculate"
-msgstr "Don't calculate"
+msgstr "Ná cómhlófa"
 
 msgid "Duty entity name results"
-msgstr "Duty entity name results"
+msgstr "Torthaí ainm an nathaiste seo"
 
 msgid "Duty entity type"
-msgstr "Duty entity type"
+msgstr "Cineál nathaiste"
 
 msgid "Earth"
-msgstr "Earth"
+msgstr "Talamh"
 
 msgid "Element classification"
-msgstr "Element classification"
+msgstr "Rangú na nEileamhs"
 
 msgid "Element classification method"
-msgstr "Element classification method"
+msgstr "Modh rangaithe na nEileamhs"
 
 msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
-msgstr "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr ""
+"Cuir téacs isteach... litreacha Arabach, Ibranach, Turcach, uimhreacha"
 
 msgid "Entered data"
-msgstr "Entered data"
+msgstr "Sonraí isteach"
 
 msgid "Entry"
-msgstr "Entry"
+msgstr "Cuir isteach"
 
 msgid "Entry letter count"
-msgstr "Entry letter count"
+msgstr "Cámhar na litreacha"
 
 msgid "Evil"
-msgstr "Evil"
+msgstr "Dioná"
 
 msgid "Fire"
-msgstr "Fire"
+msgstr "Tuar"
 
 msgid "For entered data"
-msgstr "For entered data"
+msgstr "Do réir na sonraí isteach"
 
 msgid "Frequency in Quran"
-msgstr "Frequency in Quran"
+msgstr "Fíricíocht sa Qur'an"
 
 msgid "Gematria"
 msgstr "Gematria"
 
 msgid "Hebrew"
-msgstr "Hebrew"
+msgstr "Ibranach"
 
 msgid "Hebrew alphabet elements"
-msgstr "Hebrew alphabet elements"
+msgstr "Eileamaí lógra Eabhrea"
 
 msgid "Hebrew letters"
-msgstr "Hebrew letters"
+msgstr "Litreacha Eabhrea"
 
 msgid "High"
-msgstr "High"
+msgstr "Ard"
 
 msgid "Hija order"
-msgstr "Hija order"
+msgstr "Ord Hija"
 
 msgid "Hisab al jumal"
 msgstr "Hisab al jumal"
@@ -210,34 +211,34 @@ msgid "Huddam"
 msgstr "Huddam"
 
 msgid "Huddam names hidden"
-msgstr "Huddam names hidden"
+msgstr "Ainmneacha Huddam i bhfol"
 
 msgid "Huddam not calculated"
-msgstr "Huddam not calculated"
+msgstr "Huddam gan cóiriú"
 
 msgid "Iklil's order"
-msgstr "Iklil's order"
+msgstr "Ord Iklil"
 
 msgid "Increase keyboard size"
-msgstr "Increase keyboard size"
+msgstr "Méadaigh méid an méarchláir"
 
 msgid "Indian numbers"
-msgstr "Indian numbers"
+msgstr "Uimhreacha Indiach"
 
 msgid "Interface language"
-msgstr "Interface language"
+msgstr "Teanga an Interface"
 
 msgid "Let character quantity decide"
-msgstr "Let character quantity decide"
+msgstr "Lig líon na gcarachtair a shanrú"
 
 msgid "Letter count"
-msgstr "Letter count"
+msgstr "Líon na litreacha"
 
 msgid "Like my projects? Buy me a coffee!"
-msgstr "Like my projects? Buy me a coffee!"
+msgstr "Ar mhaith leat mo thionscadail? Cuir cabáiste dom!"
 
 msgid "Low"
-msgstr "Low"
+msgstr "Íseal"
 
 msgid "Maghribian abjad"
 msgstr "Maghribian abjad"
@@ -246,118 +247,118 @@ msgid "Maghribian hija order"
 msgstr "Maghribian hija order"
 
 msgid "Minimum"
-msgstr "Minimum"
+msgstr "Íochtarach"
 
 msgid "Muhiyyiddin Ibn Arabi"
 msgstr "Muhiyyiddin Ibn Arabi"
 
 msgid "Number reading language"
-msgstr "Number reading language"
+msgstr "Teanga léitheoireachta uimhreacha"
 
 msgid "Numerical values"
-msgstr "Numerical values"
+msgstr "Luachanna uimhir"
 
 msgid "Open"
-msgstr "Open"
+msgstr "Oscail"
 
 msgid "Order"
-msgstr "Order"
+msgstr "Ord"
 
 msgid "Possible phrases"
-msgstr "Possible phrases"
+msgstr "Frásaí féideartha"
 
 msgid "Program settings"
-msgstr "Program settings"
+msgstr "Socruithe an chrogram"
 
 msgid "Pronunciation"
-msgstr "Pronunciation"
+msgstr "Fhoirmléas"
 
 msgid "Regular expression"
-msgstr "Regular expression"
+msgstr "Ionad rialaithe"
 
 msgid "Regularly preferred classification"
-msgstr "Regularly preferred classification"
+msgstr "Aicmeacht coitianta"
 
 msgid "Reset"
-msgstr "Reset"
+msgstr "Athshocraigh"
 
 msgid "Separators"
-msgstr "Separators"
+msgstr "Deighilíní"
 
 msgid "Settings"
-msgstr "Settings"
+msgstr "Socruithe"
 
 msgid "Shamsee abjad order"
-msgstr "Shamsee abjad order"
+msgstr "Eagraíocht Shamsee abjad"
 
 msgid "Show numpad"
-msgstr "Show numpad"
+msgstr "Taispeáin numpad"
 
 msgid "Show virtual keyboard"
-msgstr "Show virtual keyboard"
+msgstr "Taispeáin cláirín fíorúil"
 
 msgid "Small"
-msgstr "Small"
+msgstr "Beag"
 
 msgid "Small + letter count"
-msgstr "Small + letter count"
+msgstr "Beag + líon na gcaidil"
 
 msgid "Sulayman al Huseyni"
 msgstr "Sulayman al Huseyni"
 
 msgid "Support"
-msgstr "Support"
+msgstr "Tacaíocht"
 
 msgid "Taken (letter)"
-msgstr "Taken (letter)"
+msgstr "Baineadh (litir)"
 
 msgid "Taken (letter; abjad)"
-msgstr "Taken (letter; abjad)"
+msgstr "Baineadh (litir; abjad)"
 
 msgid "Taken Letters"
-msgstr "Taken Letters"
+msgstr "Litriú a bhainfear"
 
 msgid "Text or number cell"
-msgstr "Text or number cell"
+msgstr "Céilí téacs nó uimhir"
 
 msgid "Thank you for your support!"
-msgstr "Thank you for your support!"
+msgstr "Go raibh maith agat as do thacaíocht!"
 
 msgid "Total"
-msgstr "Total"
+msgstr "Iomlán"
 
 msgid "Turkish"
-msgstr "Turkish"
+msgstr "Turcach"
 
 msgid "Turkish Alphabet Abjad"
-msgstr "Turkish Alphabet Abjad"
+msgstr "Abjad Alfabé Turcach"
 
 msgid "Turkish alphabet elements"
-msgstr "Turkish alphabet elements"
+msgstr "Eileamaí alfabé Turcach"
 
 msgid "Turkish letters"
-msgstr "Turkish letters"
+msgstr "Litriú Turcach"
 
 msgid "Undefined characters"
-msgstr "Undefined characters"
+msgstr "Carachtair neamhshainiúla"
 
 msgid "Value"
-msgstr "Value"
+msgstr "Luach"
 
 msgid "Value & Detail"
-msgstr "Value & Detail"
+msgstr "Luach & Mionsonraí"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Leagan"
 
 msgid "Water"
-msgstr "Water"
+msgstr "Uisce"
 
 msgid "When data is entered"
-msgstr "When data is entered"
+msgstr "Nuair a cuireann sonraí isteach"
 
 msgid "When reading large digits"
-msgstr "When reading large digits"
+msgstr "Nuair a léann tú uimhreacha mhóra"
 
 msgid "[apostrophe]"
 msgstr "[apostrophe]"
@@ -408,288 +409,291 @@ msgid "[tab]"
 msgstr "[tab]"
 
 msgid "abjad calculated and letter count added"
-msgstr "abjad calculated and letter count added"
+msgstr "abjad á ríomh agus líon na litreacha curtha leis"
 
 msgid "abjad() functions settings"
-msgstr "abjad() functions settings"
+msgstr "Socruithe feidhmeanna abjad()"
 
 msgid "add to initial value"
-msgstr "add to initial value"
+msgstr "uirigh le luach tosaithe"
 
 msgid "and"
-msgstr "and"
+msgstr "agus"
 
 msgid "auto calculate immediately"
-msgstr "auto calculate immediately"
+msgstr "ríomhaigh go hiomaíoch go díreach"
 
 msgid "bast"
 msgstr "bast"
 
 msgid "bastet() and nutket() functions settings"
-msgstr "bastet() and nutket() functions settings"
+msgstr "Socruithe feidhmeanna bastet() agus nutket()"
 
 msgid "count once"
-msgstr "count once"
+msgstr "coimriú uair amháin"
 
 msgid "count twice"
-msgstr "count twice"
+msgstr "coimriú dá thiarra"
 
 msgid "display with Arabic numbers"
-msgstr "display with Arabic numbers"
+msgstr "taispeáin le huimhreacha árabacha"
 
 msgid "display with Indian numbers"
-msgstr "display with Indian numbers"
+msgstr "taispeáin le huimhreacha na hIndia"
 
 msgid "do not add to initial value"
-msgstr "do not add to initial value"
+msgstr "ná cuir leis an luach tosaithe"
 
 msgid "do not force to other functions"
-msgstr "do not force to other functions"
+msgstr "ná n-iarra ar fhírmhóradh go feidhm eile"
 
 msgid "do not purify"
-msgstr "do not purify"
+msgstr "ná neartaigh"
 
 msgid "force to other functions"
-msgstr "force to other functions"
+msgstr "iarra ar fhírmhóradh go feidhm eile"
 
 msgid "group multiplier letters"
-msgstr "group multiplier letters"
+msgstr "litir mhultúir a ghrúpa"
 
 msgid "hide"
-msgstr "hide"
+msgstr "fola"
 
 msgid "hide abjad values"
-msgstr "hide abjad values"
+msgstr "fola luachanna abjad"
 
 msgid "hide bast results"
-msgstr "bast sonuçlarını gizle"
+msgstr "folaigh torthaí bast"
 
 msgid "hide huddam names"
-msgstr "huddam adlarını gizle"
+msgstr "folaigh ainmneacha huddam"
 
 msgid "huddam() function settings"
-msgstr "huddam() fonksiyon ayarları"
+msgstr "socruithe fheidhm huddam()"
 
 msgid "no bast applied."
-msgstr "hiç bir bast uygulanmadı."
+msgstr "níl bast bainte úsáid."
 
 msgid "no data entered"
-msgstr "veri girilmedi"
+msgstr "níor ghabhadh sonraí isteach"
 
 msgid "other suffix"
-msgstr "diğer ek"
+msgstr "sufis eile"
 
 msgid "purify data"
-msgstr "veriyi temizle"
+msgstr "bánaigh sonraí"
 
 msgid "repeat multiplier for each digit"
-msgstr "her basamağa ait çarpanı tekrarla"
+msgstr "aurmúlacht athchóirithe do gach digit"
 
 msgid "show"
-msgstr "göster"
+msgstr "taispeáin"
 
 msgid "show abjad values"
-msgstr "abjad değerlerini göster"
+msgstr "taispeáin luachanna Abjad"
 
 msgid "show bast results"
-msgstr "bast sonuçlarını göster"
+msgstr "taispeáin torthaí bast"
 
 msgid "show huddam names"
-msgstr "huddam adlarını göster"
+msgstr "taispeáin ainmneacha huddam"
 
 msgid "suffix"
-msgstr "ek"
+msgstr "sufis"
 
 msgid "times bast applied."
-msgstr "kadar bast uygulandı."
+msgstr "bast gníomhaíodh."
 
 msgid "use calculated abjad results"
-msgstr "hesaplanan abjad sonuçlarını kullan"
+msgstr "úsáid torthaí Abjad rabhtha"
 
 msgid "use calculated abjad total"
-msgstr "hesaplanan abjad toplamını kullan"
+msgstr "úsáid iomlán Abjad rabhtha"
 
 msgid "use calculated bast results"
-msgstr "hesaplanan bast sonuçlarını kullan"
+msgstr "úsáid torthaí bast rabhtha"
 
 msgid "use entered data directly"
-msgstr "girilen veriyi doğrudan kullan"
+msgstr "úsáid sonraí isteach go díreach"
 
 msgid "use entered data total"
-msgstr "girilen verinin toplamını kullan"
+msgstr "úsáid iomlán sonraí isteach"
 
 msgid "use in all bast repetitions"
-msgstr "tüm bast tekrarlarda kullan"
+msgstr "úsáid i ngach athchóirithe bast"
 
 msgid "use only at beginning if possible"
-msgstr "mümkünse sadece başta kullan"
+msgstr "úsáid ach ag an tús mura bhfuil sé in ann"
 
 msgid "wait for settings and data entry"
-msgstr "ayarların ve veri girişinin beklenmesi"
+msgstr "fan le socruithe agus iontráil sonraí"
 
 msgid "Abjad Table"
-msgstr "Abjad Tablosu"
+msgstr "Tábla Abjad"
 
 msgid "Shadda"
-msgstr "Şedde"
+msgstr "Shadda"
 
 msgid "Details"
-msgstr "Detaylar"
+msgstr "Mionsonraí"
 
 msgid "Element Classification"
-msgstr "Element Sınıflandırması"
+msgstr "Classúin na nElement"
 
 msgid "Abjad Order"
-msgstr "Abjad Sırası"
+msgstr "Ord Abjad"
 
 msgid "Abjad Widget"
-msgstr "Abjad Widget'i"
+msgstr "Uirlis Abjad"
 
 msgid "Add custom CSS to customize the widget appearance."
-msgstr "Özel CSS ekleyerek widget görünümünü özelleştir."
+msgstr "Cuir CSS saincheaptha leis chun cuma an uirlis a shaincheapadh."
 
 msgid ""
 "Add custom JavaScript to modify widget behavior. Wrong code may break the "
 "widget!"
 msgstr ""
-"Özel JavaScript ekleyerek widget davranışını değiştir. Yanlış kod widget'ı "
-"kırabilir!"
+"Cuir JavaScript saincheaptha leis chun gníomhaíocht an uirlis a athrú. "
+"D'fhéadfadh cód mícheart an uirlis a briseadh!"
 
 msgid "An error occurred while loading content."
-msgstr "İçerik yüklenirken bir hata oluştu."
+msgstr "Tharla earráid le linn luchtú an t-ábhar."
 
 msgid "Button"
-msgstr "Düğme"
+msgstr "Cnaipe"
 
 msgid "Button Color"
-msgstr "Düğme Rengi"
+msgstr "Dath an chnaipe"
 
 msgid "Button Emoji"
-msgstr "Düğme Emoji"
+msgstr "Emoji an chnaipe"
 
 msgid "Button Message"
-msgstr "Düğme Mesajı"
+msgstr "Teachtaireacht an chnaipe"
 
 msgid "Button Settings"
-msgstr "Düğme Ayarları"
+msgstr "Socruithe an chnaipe"
 
 msgid "Button Type"
-msgstr "Düğme Türü"
+msgstr "Cineál an chnaipe"
 
 msgid "CSS saved successfully."
-msgstr "CSS başarıyla kaydedildi."
+msgstr "Sábháladh CSS go rathúil."
 
 msgid "Check this box to activate the widget."
-msgstr "Bileşeni etkinleştirmek için bu kutuyu işaretleyin."
+msgstr "Cuir tic ar an bhhosca seo chun an t-úirt a ghníomhachtú."
 
 msgid "Code Editor"
-msgstr "Kod Düzenleyici"
+msgstr "Eagarthóir Cód"
 
 msgid "Custom CSS"
-msgstr "Özel CSS"
+msgstr "CSS Saincheaptha"
 
 msgid "Custom JavaScript"
-msgstr "Özel JavaScript"
+msgstr "JavaScript Saincheaptha"
 
 msgid "Description"
-msgstr "Açıklama"
+msgstr "Tuairisc"
 
 msgid "Emoji"
 msgstr "Emoji"
 
 msgid "Enter image URL"
-msgstr "Resim URL'sini girin"
+msgstr "Cuir isteach URL na híomhá"
 
 msgid "Example: 🔮, ☯️, ✨"
-msgstr "Örnek: 🔮, ☯️, ✨"
+msgstr "Sampla: 🔮, ☯️, ✨"
 
 msgid "General"
-msgstr "Genel"
+msgstr "Ginearálta"
 
 msgid "JavaScript saved successfully."
-msgstr "JavaScript başarıyla kaydedildi."
+msgstr "Sábháladh JavaScript go rathúil."
 
 msgid "Left"
-msgstr "Sol"
+msgstr "Ar chlé"
 
 msgid "Live Preview"
-msgstr "Canlı Önizleme"
+msgstr "Réamhamharc Breá"
 
 msgid "Loading..."
-msgstr "Yükleniyor..."
+msgstr "Ag Luchtú..."
 
 msgid "PNG Image URL"
-msgstr "PNG Resim URL'si"
+msgstr "URL Iomhair PNG"
 
 msgid "Paste SVG code"
-msgstr "SVG kodunu yapıştırın"
+msgstr "Cuir isteach cód SVG"
 
 msgid "Please enter a valid URL."
-msgstr "Geçerli bir URL girin."
+msgstr "Cuir isteach URL bailí le do thoil."
 
 msgid "Position"
-msgstr "Konum"
+msgstr "Ionad"
 
 msgid "Reset to Default"
-msgstr "Varsayılana Sıfırla"
+msgstr "Athshocraigh go Réamhshocrú"
 
 msgid "Right"
-msgstr "Sağ"
+msgstr "Ar dheis"
 
 msgid "SVG Code"
-msgstr "SVG Kodu"
+msgstr "Cód SVG"
 
 msgid "Save CSS"
-msgstr "CSS Kaydet"
+msgstr "Sábháil CSS"
 
 msgid "Save JavaScript"
-msgstr "JavaScript Kaydet"
+msgstr "Sábháil JavaScript"
 
 msgid "Save Settings"
-msgstr "Save Settings"
+msgstr "Sábháil Socruithe"
 
 msgid "Settings saved successfully."
-msgstr "Settings saved successfully."
+msgstr "Socruithe sábháilte go rathúil."
 
 msgid "Style Editor"
-msgstr "Style Editor"
+msgstr "Eagarthóir Stíle"
 
 msgid "WARNING"
-msgstr "WARNING"
+msgstr "RABHAMH"
 
 msgid "Welcome! You can follow widget news and announcements from this panel."
 msgstr ""
-"Welcome! You can follow widget news and announcements from this panel."
+"Fáilte! Is féidir leat naidheacht agus fógraí na gcluiche a leanúint ón "
+"bharr na painéal seo."
 
 msgid "Widget Settings"
-msgstr "Widget Settings"
+msgstr "Socruithe na Gcluiche"
 
 msgid "Widget Status"
-msgstr "Widget Status"
+msgstr "Stádas na Gcluiche"
 
 msgid "Widget active"
-msgstr "Widget active"
+msgstr "Gníomhach"
 
 msgid ""
 "Wrong JavaScript code may break the widget. Backup before making changes."
 msgstr ""
-"Wrong JavaScript code may break the widget. Backup before making changes."
+"Seoladh JavaScript mícheart d'fhéadfadh an cluiche a bhriseadh. Coimeád "
+"roimh athruithe a dhéanamh."
 
 msgid "Your Buy Me a Coffee username"
-msgstr "Your Buy Me a Coffee username"
+msgstr "Do ainm úsáideora Buy Me a Coffee"
 
 msgid ""
 "Your changes will directly affect the widget appearance. If you don't know "
 "CSS, it's recommended to use default settings."
 msgstr ""
-"Your changes will directly affect the widget appearance. If you don't know "
-"CSS, it's recommended to use default settings."
+"Beidh do athruithe ag tiontú go díreach ar thaispeántas na gcluiche. Mura "
+"bhfuil eolas agat ar CSS, moltar úsáid a bhaint as socruithe "
+"réamhshocraithe."
 
 msgid "Abjad Widget - Local Dashboard"
-msgstr "Abjad Widget - Local Dashboard"
+msgstr "Abjad Widget - Painéal Logánta"
 
 msgid "Spiritual Seekers and Mystics"
-msgstr "Spiritual Seekers and Mystics"
+msgstr "Lorgaitheoirí Spiritúla agus Misticeacha"
 
 msgid ""
 "Personality Traits: Curious, introspective, open-minded, and drawn to "
@@ -699,15 +703,16 @@ msgid ""
 "Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
 "see the tools as a way to connect with deeper truths or universal energies."
 msgstr ""
-"Personality Traits: Curious, introspective, open-minded, and drawn to "
-"esoteric knowledge. They may have a strong interest in uncovering hidden "
-"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
-" astrologers, or individuals involved in New Age practices. Ideological "
-"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
-"see the tools as a way to connect with deeper truths or universal energies."
+"Traidhes pearsantachta: Curárach, introspectif, sionartach, agus áirithe le "
+"h-eolas esoteric. D'fhéadfadh sé bheith acu le tábhacht láidir ar mhíniú "
+"rúnda nó patrúin i saol. Gníomhaíochtaí: Coachanna spiritúla, léitheoirí "
+"tarot, astrolagóirí, nó daoine a bhuaileann i ngníomhaíochtaí New Age. "
+"Spectrum eolaíoch: Is dócha go leanfaidh sé i dtaobh creideamh spiritúil nó "
+"meta-fisiciúil. D'fhéadfadh sé leagadh ar na huirlisí mar bhealach chun "
+"ceangal le fíorachtí níos doimhne nó le fuinneoga universal."
 
 msgid "Numerologists and Gematria Enthusiasts"
-msgstr "Numerologists and Gematria Enthusiasts"
+msgstr "Númaraíochtóirí agus Enthusiast Gematria"
 
 msgid ""
 "Personality Traits: Analytical, detail-oriented, and fascinated by the "
@@ -717,15 +722,16 @@ msgid ""
 "those who view numerology as a fun intellectual exercise to those who "
 "believe in its profound spiritual significance."
 msgstr ""
-"Personality Traits: Analytical, detail-oriented, and fascinated by the "
-"relationship between numbers and language. They may enjoy decoding symbolic "
-"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
-"or hobbyists exploring numerology. Ideological Spectrum: May range from "
-"those who view numerology as a fun intellectual exercise to those who "
-"believe in its profound spiritual significance."
+"Traidhes pearsantachta: Anailíseach, cáilithe le sonraí, agus spreagtha ag "
+"na béartais idir na n-uimhreacha agus na teangacha. D'fhéadfadh siad "
+"taitneamh a bhaint as deacrachtaí simbóil. Gníomhaíochtaí: Númaraíochtóirí "
+"saoránach, scríbhneoirí ar ábhair esoteric, nó séascairí ag fiosrú "
+"númaraíocht. Spectrum eolaíoch: Is féidir go bhfuil sé óna n-aire a "
+"fhéachann ar númaraíocht mar ealaín intéireachtúil spraoi go dtí na n-aire a"
+" bhfuil creideamh acu i bhfíordhúchán spiritúil aird."
 
 msgid "Historians and Linguists"
-msgstr "Historians and Linguists"
+msgstr "Stáireoirí agus Gaeltóirí"
 
 msgid ""
 "Personality Traits: Scholarly, methodical, and interested in historical or "
@@ -735,15 +741,15 @@ msgid ""
 "secular, academic perspective, focusing on their historical or linguistic "
 "significance."
 msgstr ""
-"Personality Traits: Scholarly, methodical, and interested in historical or "
-"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
-"researchers, or students studying Middle Eastern languages, history, or "
-"religious texts. Ideological Spectrum: Likely to approach the tools from a "
-"secular, academic perspective, focusing on their historical or linguistic "
-"significance."
+"Traidhes pearsantachta: Leabharlann, ciallaithe, agus ag interest i "
+"gcúiseanna stairiúla nó cultúrtha den chóras uimhreacha cosúil le Abjad. "
+"Gníomhaíochtaí: Academics, researchers, nó mhic léinn ag léirmhíniú "
+"teangacha na hÁise, stair, nó téacsanna muintir. Spectrum eolaíoch: Is dócha"
+" go ndéanfad sé léirmhíniú ar na huirlisí ó thaobh aiseolas, le chéile le "
+"stair nó teanga."
 
 msgid "Religious or Faith-Based Individuals"
-msgstr "Religious or Faith-Based Individuals"
+msgstr "Buidhneacha nó Fíoraíocht bunaithe ar Dhoine"
 
 msgid ""
 "Personality Traits: Devout, reflective, and seeking deeper connections to "
@@ -753,15 +759,15 @@ msgid ""
 "Spectrum: Likely to have a traditional or conservative worldview, using the "
 "tools to reinforce their spiritual beliefs."
 msgstr ""
-"Personality Traits: Devout, reflective, and seeking deeper connections to "
-"their faith. They may use the tools to explore religious texts or divine "
-"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
-" a strong interest in their faith’s mystical traditions. Ideological "
-"Spectrum: Likely to have a traditional or conservative worldview, using the "
-"tools to reinforce their spiritual beliefs."
+"Traidhes pearsantachta: Dúchúir, reflaxt, agus ag lorg ceangal níos doimhne "
+"le creideamh. D'fhéadfadh siad na huirlisí a úsáid chun téacsanna muintir nó"
+" teachtaireachtaí diocht a fhiosrú. Gníomhaíochtaí: Scholar muintir, imáim, "
+"sacerdóit, nó foirne le tábhacht mhór ag tradúirí misticeacha creideamh. "
+"Spectrum eolaíoch: Is dócha go bhfuil sé ina domhan fhiontraíoch nó "
+"traidisiúnta, ag úsáid na huirlisí chun creideamh spiritúil a chumasú."
 
 msgid "Writers and Artists"
-msgstr "Writers and Artists"
+msgstr "Scriobhair agus Ealaíontóirí"
 
 msgid ""
 "Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
@@ -770,14 +776,15 @@ msgid ""
 "musicians. Ideological Spectrum: May range from secular creatives to those "
 "with a spiritual or mystical bent."
 msgstr ""
-"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
-" concepts. They may use the tools for inspiration or to add layers of "
-"meaning to their work. Occupations: Authors, poets, visual artists, or "
-"musicians. Ideological Spectrum: May range from secular creatives to those "
-"with a spiritual or mystical bent."
+"Traidhes pearsantachta: Cruthaitheach, imníse, agus áirithe le conceptú "
+"simbóil nó abstract. D'fhéadfadh siad na huirlisí a úsáid mar inspiortás nó "
+"chun tús maith a chur le a n-obra. Gníomhaíochtaí: Údair, dhlíora, "
+"ealaíontóirí infheicthe, nó muinínte. Spectrum eolaíoch: Is féidir go bhfuil"
+" sé ó chruthaitheoirí secúla go dtí na n-aire a bhfuil buntáiste spiritúil "
+"nó misticeach."
 
 msgid "Puzzle and Riddle Enthusiasts"
-msgstr "Puzzle and Riddle Enthusiasts"
+msgstr "Enthusiast Puzzle agus Riddle"
 
 msgid ""
 "Personality Traits: Playful, intellectually curious, and enjoy solving "
@@ -786,14 +793,13 @@ msgid ""
 "as a form of entertainment or mental exercise, with little ideological "
 "attachment."
 msgstr ""
-"Personality Traits: Playful, intellectually curious, and enjoy solving "
-"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
-"designers, or educators. Ideological Spectrum: Likely to approach the tools "
-"as a form of entertainment or mental exercise, with little ideological "
-"attachment."
+"Traidhes pearsantachta: Spóirt, ag iarraidh intelleachtúil, agus ag baint "
+"taitnimh as fuinneog mhór nó giniúint patrúin. Gníomhaíochtaí: Hobbyist, "
+"dearbhálaí puzzlear, nó oiliúna. Spectrum eolaíoch: Is dócha go ndéanfaidh "
+"sé léiriú ar na huirlisí mar bhall de bhall, le beagán aipeacht eolaíoch."
 
 msgid "Conspiracy Theorists and Alternative Thinkers"
-msgstr "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Conspiracy Theorists agus Alternative Thinkers"
 
 msgid ""
 "Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
@@ -802,20 +808,20 @@ msgid ""
 "unconventional worldview, using the tools to support alternative theories or"
 " narratives."
 msgstr ""
-"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
-"hidden truths or patterns in systems. Occupations: Independent researchers, "
-"bloggers, or activists. Ideological Spectrum: May have a more radical or "
-"unconventional worldview, using the tools to support alternative theories or"
-" narratives."
+"Traidhes pearsantachta: Skeptical of mainstream narratives, drawn to "
+"uncovering hidden truths or patterns in systems. Gníomhaíochtaí: Taighdeoirí"
+" anaonta, blogaireanna, nó gníomhairí. Spectrum eolaíoch: Is féidir a bheith"
+" ag cur i dteanga an domhan níos radical nó neamhspleách, ag úsáid na "
+"huirlisí chun teorainneacha nó nárúraí a thacaíocht a thabhairt."
 
 msgid "☕ Support the Project"
-msgstr "☕ Support the Project"
+msgstr "☕ Tacaigh le an Tionscnamh"
 
 msgid "If you like my project, you can buy me a coffee!"
-msgstr "If you like my project, you can buy me a coffee!"
+msgstr "Má thaitníonn mo thionscnamh leat, is féidir leat mo ghá a cheannach!"
 
 msgid "Buy Me A Coffee"
-msgstr "Buy Me A Coffee"
+msgstr "Cinn mo Ghá"
 
 msgid "Thank you! 🙏"
-msgstr "Thank you! 🙏"
+msgstr "Go raibh maith agat! 🙏"

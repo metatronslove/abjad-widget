@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Abjad Widget 1.0.0\n"
 "Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
-"Language-Team: English (US) <en_US>\n"
-"Language: en-US\n"
+"Language-Team: English (South Africa) <en_ZA>\n"
+"Language: en-ZA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,19 +24,19 @@ msgid "Abjad Widget Dashboard"
 msgstr "Abjad Widget Dashboard"
 
 msgid "Abjad calculation results"
-msgstr "Abjad Calculation Results"
+msgstr "Abjad calculation results"
 
 msgid "Abjad calculations hidden"
-msgstr "Abjad Calculations Hidden"
+msgstr "Abjad calculations hidden"
 
 msgid "Abjad not calculated"
-msgstr "Abjad Not Calculated"
+msgstr "Abjad not calculated"
 
 msgid "Abjad order"
-msgstr "Abjad Order"
+msgstr "Abjad order"
 
 msgid "Add elements"
-msgstr "Add Elements"
+msgstr "Add elements"
 
 msgid "Ahmad al Buni"
 msgstr "Ahmad al Buni"
@@ -51,37 +51,37 @@ msgid "Arabic"
 msgstr "Arabic"
 
 msgid "Arabic letters"
-msgstr "Arabic Letters"
+msgstr "Arabic letters"
 
 msgid "Arabic numbers"
-msgstr "Arabic Numbers"
+msgstr "Arabic numbers"
 
 msgid "As data for operation"
-msgstr "As Data for Operation"
+msgstr "As data for operation"
 
 msgid "Bast loop results"
-msgstr "Bast Loop Results"
+msgstr "Bast loop results"
 
 msgid "Bast not calculated"
-msgstr "Bast Not Calculated"
+msgstr "Bast not calculated"
 
 msgid "Bast repetition count"
-msgstr "Bast Repetition Count"
+msgstr "Bast repetition count"
 
 msgid "Bast results hidden"
-msgstr "Bast Results Hidden"
+msgstr "Bast results hidden"
 
 msgid "Bastet"
 msgstr "Bastet"
 
 msgid "Bastet order"
-msgstr "Bastet Order"
+msgstr "Bastet order"
 
 msgid "Bastet shadda"
-msgstr "Bastet Shadda"
+msgstr "Bastet shadda"
 
 msgid "Bastet table"
-msgstr "Bastet Table"
+msgstr "Bastet table"
 
 msgid "Big"
 msgstr "Big"
@@ -93,7 +93,7 @@ msgid "Buy Me a Coffee ID"
 msgstr "Buy Me a Coffee ID"
 
 msgid "Buy me a coffee"
-msgstr "Buy Me a Coffee"
+msgstr "Buy me a coffee"
 
 msgid "Calculate"
 msgstr "Calculate"
@@ -126,7 +126,7 @@ msgid "Closed"
 msgstr "Closed"
 
 msgid "Comma is default separator and must remain checked!"
-msgstr "Comma is the default separator and must remain checked!"
+msgstr "Comma is default separator and must remain checked!"
 
 msgid "Dashboard"
 msgstr "Dashboard"
@@ -435,10 +435,10 @@ msgid "count twice"
 msgstr "count twice"
 
 msgid "display with Arabic numbers"
-msgstr "display with Arabic numbers"
+msgstr "display with Arabic numerals"
 
 msgid "display with Indian numbers"
-msgstr "display with Indian numbers"
+msgstr "display with Indian numerals"
 
 msgid "do not add to initial value"
 msgstr "do not add to initial value"
@@ -462,188 +462,178 @@ msgid "hide abjad values"
 msgstr "hide abjad values"
 
 msgid "hide bast results"
-msgstr "bast sonuçlarını gizle"
+msgstr "hide bast results"
 
 msgid "hide huddam names"
-msgstr "huddam adlarını gizle"
+msgstr "hide huddam names"
 
 msgid "huddam() function settings"
-msgstr "huddam() fonksiyon ayarları"
+msgstr "huddam() function settings"
 
 msgid "no bast applied."
-msgstr "hiç bir bast uygulanmadı."
+msgstr "no bast applied."
 
 msgid "no data entered"
-msgstr "veri girilmedi"
+msgstr "no data entered"
 
 msgid "other suffix"
-msgstr "diğer ek"
+msgstr "other suffix"
 
 msgid "purify data"
-msgstr "veriyi temizle"
+msgstr "purify data"
 
 msgid "repeat multiplier for each digit"
-msgstr "her basamağa ait çarpanı tekrarla"
+msgstr "repeat multiplier for each digit"
 
 msgid "show"
-msgstr "göster"
+msgstr "show"
 
 msgid "show abjad values"
-msgstr "abjad değerlerini göster"
+msgstr "show abjad values"
 
 msgid "show bast results"
-msgstr "bast sonuçlarını göster"
+msgstr "show bast results"
 
 msgid "show huddam names"
-msgstr "huddam adlarını göster"
+msgstr "show huddam names"
 
 msgid "suffix"
-msgstr "ek"
+msgstr "suffix"
 
 msgid "times bast applied."
-msgstr "kadar bast uygulandı."
+msgstr "times bast applied."
 
 msgid "use calculated abjad results"
-msgstr "hesaplanan abjad sonuçlarını kullan"
+msgstr "use calculated abjad results"
 
 msgid "use calculated abjad total"
-msgstr "hesaplanan abjad toplamını kullan"
+msgstr "use calculated abjad total"
 
 msgid "use calculated bast results"
-msgstr "hesaplanan bast sonuçlarını kullan"
+msgstr "use calculated bast results"
 
 msgid "use entered data directly"
-msgstr "girilen veriyi doğrudan kullan"
+msgstr "use entered data directly"
 
 msgid "use entered data total"
-msgstr "girilen verinin toplamını kullan"
+msgstr "use entered data total"
 
 msgid "use in all bast repetitions"
-msgstr "tüm bast tekrarlarda kullan"
+msgstr "use in all bast repetitions"
 
 msgid "use only at beginning if possible"
-msgstr "mümkünse sadece başta kullan"
+msgstr "use only at beginning if possible"
 
 msgid "wait for settings and data entry"
-msgstr "ayarların ve veri girişinin beklenmesi"
+msgstr "wait for settings and data entry"
 
 msgid "Abjad Table"
-msgstr "Abjad Tablosu"
+msgstr "Abjad Table"
 
 msgid "Shadda"
-msgstr "Şedde"
+msgstr "Shadda"
 
 msgid "Details"
-msgstr "Detaylar"
+msgstr "Details"
 
 msgid "Element Classification"
-msgstr "Element Sınıflandırması"
+msgstr "Element Classification"
 
 msgid "Abjad Order"
-msgstr "Abjad Sırası"
+msgstr "Abjad Order"
 
 msgid "Abjad Widget"
-msgstr "Abjad Widget'i"
-
-msgid "Add custom CSS to customize the widget appearance."
-msgstr "Özel CSS ekleyerek widget görünümünü özelleştir."
-
-msgid ""
-"Add custom JavaScript to modify widget behavior. Wrong code may break the "
-"widget!"
-msgstr ""
-"Özel JavaScript ekleyerek widget davranışını değiştir. Yanlış kod widget'ı "
-"kırabilir!"
+msgstr "Abjad Widget"
 
 msgid "An error occurred while loading content."
-msgstr "İçerik yüklenirken bir hata oluştu."
+msgstr "An error occurred while loading content."
 
 msgid "Button"
-msgstr "Düğme"
+msgstr "Button"
 
 msgid "Button Color"
-msgstr "Düğme Rengi"
+msgstr "Button Colour"
 
 msgid "Button Emoji"
-msgstr "Düğme Emoji"
+msgstr "Button Emoji"
 
 msgid "Button Message"
-msgstr "Düğme Mesajı"
+msgstr "Button Message"
 
 msgid "Button Settings"
-msgstr "Düğme Ayarları"
+msgstr "Button Settings"
 
 msgid "Button Type"
-msgstr "Düğme Türü"
+msgstr "Button Type"
 
 msgid "CSS saved successfully."
-msgstr "CSS başarıyla kaydedildi."
+msgstr "CSS saved successfully."
 
 msgid "Check this box to activate the widget."
-msgstr "Bileşeni etkinleştirmek için bu kutuyu işaretleyin."
+msgstr "Check this box to activate the widget."
 
 msgid "Code Editor"
-msgstr "Kod Düzenleyici"
+msgstr "Code Editor"
 
 msgid "Custom CSS"
-msgstr "Özel CSS"
+msgstr "Custom CSS"
 
 msgid "Custom JavaScript"
-msgstr "Özel JavaScript"
+msgstr "Custom JavaScript"
 
 msgid "Description"
-msgstr "Açıklama"
+msgstr "Description"
 
 msgid "Emoji"
 msgstr "Emoji"
 
 msgid "Enter image URL"
-msgstr "Resim URL'sini girin"
+msgstr "Enter image URL"
 
 msgid "Example: 🔮, ☯️, ✨"
-msgstr "Örnek: 🔮, ☯️, ✨"
+msgstr "Example: 🔮, ☯️, ✨"
 
 msgid "General"
-msgstr "Genel"
+msgstr "General"
 
 msgid "JavaScript saved successfully."
-msgstr "JavaScript başarıyla kaydedildi."
+msgstr "JavaScript saved successfully."
 
 msgid "Left"
-msgstr "Sol"
+msgstr "Left"
 
 msgid "Live Preview"
-msgstr "Canlı Önizleme"
+msgstr "Live Preview"
 
 msgid "Loading..."
-msgstr "Yükleniyor..."
+msgstr "Loading..."
 
 msgid "PNG Image URL"
-msgstr "PNG Resim URL'si"
+msgstr "PNG Image URL"
 
 msgid "Paste SVG code"
-msgstr "SVG kodunu yapıştırın"
+msgstr "Paste SVG code"
 
 msgid "Please enter a valid URL."
-msgstr "Geçerli bir URL girin."
+msgstr "Please enter a valid URL."
 
 msgid "Position"
-msgstr "Konum"
+msgstr "Position"
 
 msgid "Reset to Default"
-msgstr "Varsayılana Sıfırla"
+msgstr "Reset to Default"
 
 msgid "Right"
-msgstr "Sağ"
+msgstr "Right"
 
 msgid "SVG Code"
-msgstr "SVG Kodu"
+msgstr "SVG Code"
 
 msgid "Save CSS"
-msgstr "CSS Kaydet"
+msgstr "Save CSS"
 
 msgid "Save JavaScript"
-msgstr "JavaScript Kaydet"
+msgstr "Save JavaScript"
 
 msgid "Save Settings"
 msgstr "Save Settings"

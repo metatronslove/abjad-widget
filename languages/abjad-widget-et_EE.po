@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Abjad Widget 1.0.0\n"
 "Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
-"Language-Team: English (US) <en_US>\n"
-"Language: en-US\n"
+"Language-Team: Estonian <et_EE>\n"
+"Language: et-EE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,193 +15,193 @@ msgid "Abjad"
 msgstr "Abjad"
 
 msgid "Abjad Settings"
-msgstr "Abjad Settings"
+msgstr "Abjad seaded"
 
 msgid "Abjad Value"
-msgstr "Abjad Value"
+msgstr "Abjad väärtus"
 
 msgid "Abjad Widget Dashboard"
 msgstr "Abjad Widget Dashboard"
 
 msgid "Abjad calculation results"
-msgstr "Abjad Calculation Results"
+msgstr "Abjad arvutuse tulemused"
 
 msgid "Abjad calculations hidden"
-msgstr "Abjad Calculations Hidden"
+msgstr "Abjad arvutused peidetud"
 
 msgid "Abjad not calculated"
-msgstr "Abjad Not Calculated"
+msgstr "Abjad arvutamata"
 
 msgid "Abjad order"
-msgstr "Abjad Order"
+msgstr "Abjad järjekord"
 
 msgid "Add elements"
-msgstr "Add Elements"
+msgstr "Lisa elemendid"
 
 msgid "Ahmad al Buni"
 msgstr "Ahmad al Buni"
 
 msgid "Air"
-msgstr "Air"
+msgstr "Õhk"
 
 msgid "All"
-msgstr "All"
+msgstr "Kõik"
 
 msgid "Arabic"
-msgstr "Arabic"
+msgstr "Araabia"
 
 msgid "Arabic letters"
-msgstr "Arabic Letters"
+msgstr "Araabia tähed"
 
 msgid "Arabic numbers"
-msgstr "Arabic Numbers"
+msgstr "Araabia numbrid"
 
 msgid "As data for operation"
-msgstr "As Data for Operation"
+msgstr "Andmeoperatsiooni jaoks"
 
 msgid "Bast loop results"
-msgstr "Bast Loop Results"
+msgstr "Bast tsükli tulemused"
 
 msgid "Bast not calculated"
-msgstr "Bast Not Calculated"
+msgstr "Bast arvutamata"
 
 msgid "Bast repetition count"
-msgstr "Bast Repetition Count"
+msgstr "Bast kordamise arv"
 
 msgid "Bast results hidden"
-msgstr "Bast Results Hidden"
+msgstr "Bast tulemused peidetud"
 
 msgid "Bastet"
 msgstr "Bastet"
 
 msgid "Bastet order"
-msgstr "Bastet Order"
+msgstr "Bastet järjekord"
 
 msgid "Bastet shadda"
-msgstr "Bastet Shadda"
+msgstr "Bastet shadda"
 
 msgid "Bastet table"
-msgstr "Bastet Table"
+msgstr "Bastet tabel"
 
 msgid "Big"
-msgstr "Big"
+msgstr "Suur"
 
 msgid "Bigger"
-msgstr "Bigger"
+msgstr "Suurem"
 
 msgid "Buy Me a Coffee ID"
 msgstr "Buy Me a Coffee ID"
 
 msgid "Buy me a coffee"
-msgstr "Buy Me a Coffee"
+msgstr "Osta mulle kohv"
 
 msgid "Calculate"
-msgstr "Calculate"
+msgstr "Arvuta"
 
 msgid "Calculate Abjad"
-msgstr "Calculate Abjad"
+msgstr "Arvuta Abjad"
 
 msgid "Calculate Bastet"
-msgstr "Calculate Bastet"
+msgstr "Arvuta Bastet"
 
 msgid "Calculate Huddam"
-msgstr "Calculate Huddam"
+msgstr "Arvuta Huddam"
 
 msgid "Calculation details"
-msgstr "Calculation details"
+msgstr "Arvutuse üksikasjad"
 
 msgid "Choose Keyboard Layout"
-msgstr "Choose Keyboard Layout"
+msgstr "Vali klaviatuuri paigutus"
 
 msgid "Clear text box"
-msgstr "Clear text box"
+msgstr "Puhasta tekstikast"
 
 msgid "Click row for details"
-msgstr "Click row for details"
+msgstr "Klõpsake rea üksikasjade jaoks"
 
 msgid "Close Keyboard"
-msgstr "Close Keyboard"
+msgstr "Sulge klaviatuur"
 
 msgid "Closed"
-msgstr "Closed"
+msgstr "Suletud"
 
 msgid "Comma is default separator and must remain checked!"
-msgstr "Comma is the default separator and must remain checked!"
+msgstr "Koma on vaikimisi eraldaja ja see peab olema valitud!"
 
 msgid "Dashboard"
-msgstr "Dashboard"
+msgstr "Armatuurlau"
 
 msgid "Data entry separators:"
-msgstr "Data entry separators:"
+msgstr "Andme sisestamise eraldajad:"
 
 msgid "Data type profile"
-msgstr "Data type profile"
+msgstr "Andmete tüüpiprofiil"
 
 msgid "Dead keys"
-msgstr "Dead keys"
+msgstr "Surmatastid"
 
 msgid "Decrease keyboard size"
-msgstr "Decrease keyboard size"
+msgstr "Vähenda klaviatuuri suurust"
 
 msgid "Don't calculate"
-msgstr "Don't calculate"
+msgstr "Ära arvuta"
 
 msgid "Duty entity name results"
-msgstr "Duty entity name results"
+msgstr "Võtuga üksuse nimi tulemused"
 
 msgid "Duty entity type"
-msgstr "Duty entity type"
+msgstr "Võtuga üksuse tüüp"
 
 msgid "Earth"
-msgstr "Earth"
+msgstr "Maade"
 
 msgid "Element classification"
-msgstr "Element classification"
+msgstr "Elemendi klassifikatsioon"
 
 msgid "Element classification method"
-msgstr "Element classification method"
+msgstr "Elemendi klassifikatsiooni meetod"
 
 msgid "Enter text... Arabic, Hebrew, Turkish letters, numbers"
-msgstr "Enter text... Arabic, Hebrew, Turkish letters, numbers"
+msgstr "Sisesta tekst... Araabia, heebrea, Türgi tähed, numbrid"
 
 msgid "Entered data"
-msgstr "Entered data"
+msgstr "Sisestatud andmed"
 
 msgid "Entry"
-msgstr "Entry"
+msgstr "Sisestus"
 
 msgid "Entry letter count"
-msgstr "Entry letter count"
+msgstr "Sisestatud tähe arv"
 
 msgid "Evil"
-msgstr "Evil"
+msgstr "Halune"
 
 msgid "Fire"
-msgstr "Fire"
+msgstr "Tuli"
 
 msgid "For entered data"
-msgstr "For entered data"
+msgstr "Sisestatud andmete jaoks"
 
 msgid "Frequency in Quran"
-msgstr "Frequency in Quran"
+msgstr "Küurrani sagedus"
 
 msgid "Gematria"
 msgstr "Gematria"
 
 msgid "Hebrew"
-msgstr "Hebrew"
+msgstr "Heebrea"
 
 msgid "Hebrew alphabet elements"
-msgstr "Hebrew alphabet elements"
+msgstr "Ibrahimi tähestiku elemendid"
 
 msgid "Hebrew letters"
-msgstr "Hebrew letters"
+msgstr "Ibrahimi tähted"
 
 msgid "High"
-msgstr "High"
+msgstr "Kõrge"
 
 msgid "Hija order"
-msgstr "Hija order"
+msgstr "Hija järjekord"
 
 msgid "Hisab al jumal"
 msgstr "Hisab al jumal"
@@ -210,154 +210,154 @@ msgid "Huddam"
 msgstr "Huddam"
 
 msgid "Huddam names hidden"
-msgstr "Huddam names hidden"
+msgstr "Huddamin nimed on peidetud"
 
 msgid "Huddam not calculated"
-msgstr "Huddam not calculated"
+msgstr "Huddamit ei arvutatud"
 
 msgid "Iklil's order"
-msgstr "Iklil's order"
+msgstr "Iklili järjekord"
 
 msgid "Increase keyboard size"
-msgstr "Increase keyboard size"
+msgstr "Klaviatuuri suuruse suurendamine"
 
 msgid "Indian numbers"
-msgstr "Indian numbers"
+msgstr "India numbrid"
 
 msgid "Interface language"
-msgstr "Interface language"
+msgstr "Kasutajaliidesi keel"
 
 msgid "Let character quantity decide"
-msgstr "Let character quantity decide"
+msgstr "Laske sümbolite kogus otsustada"
 
 msgid "Letter count"
-msgstr "Letter count"
+msgstr "Tähtedega arv"
 
 msgid "Like my projects? Buy me a coffee!"
-msgstr "Like my projects? Buy me a coffee!"
+msgstr "Kas teile minu projektid meeldivad? Ostke mulle kohvi!"
 
 msgid "Low"
-msgstr "Low"
+msgstr "Madal"
 
 msgid "Maghribian abjad"
 msgstr "Maghribian abjad"
 
 msgid "Maghribian hija order"
-msgstr "Maghribian hija order"
+msgstr "Maghribian hija järjekord"
 
 msgid "Minimum"
-msgstr "Minimum"
+msgstr "Miimimum"
 
 msgid "Muhiyyiddin Ibn Arabi"
 msgstr "Muhiyyiddin Ibn Arabi"
 
 msgid "Number reading language"
-msgstr "Number reading language"
+msgstr "Arvude lugemiskeel"
 
 msgid "Numerical values"
-msgstr "Numerical values"
+msgstr "Arvulised väärtused"
 
 msgid "Open"
-msgstr "Open"
+msgstr "Ava"
 
 msgid "Order"
-msgstr "Order"
+msgstr "Järjekord"
 
 msgid "Possible phrases"
-msgstr "Possible phrases"
+msgstr "Võimalikud fraasid"
 
 msgid "Program settings"
-msgstr "Program settings"
+msgstr "Programmi seaded"
 
 msgid "Pronunciation"
-msgstr "Pronunciation"
+msgstr "Helendamine"
 
 msgid "Regular expression"
-msgstr "Regular expression"
+msgstr "Regulaarne väljend"
 
 msgid "Regularly preferred classification"
-msgstr "Regularly preferred classification"
+msgstr "Tihti eelistatud klassifikatsioon"
 
 msgid "Reset"
-msgstr "Reset"
+msgstr "Nulli"
 
 msgid "Separators"
-msgstr "Separators"
+msgstr "Eraldajad"
 
 msgid "Settings"
-msgstr "Settings"
+msgstr "Seaded"
 
 msgid "Shamsee abjad order"
-msgstr "Shamsee abjad order"
+msgstr "Shamsee abjad järjestus"
 
 msgid "Show numpad"
-msgstr "Show numpad"
+msgstr "Näita numpadit"
 
 msgid "Show virtual keyboard"
-msgstr "Show virtual keyboard"
+msgstr "Näita virtuaalklaviatuuri"
 
 msgid "Small"
-msgstr "Small"
+msgstr "Väike"
 
 msgid "Small + letter count"
-msgstr "Small + letter count"
+msgstr "Väike + tähe arv"
 
 msgid "Sulayman al Huseyni"
 msgstr "Sulayman al Huseyni"
 
 msgid "Support"
-msgstr "Support"
+msgstr "Toetus"
 
 msgid "Taken (letter)"
-msgstr "Taken (letter)"
+msgstr "Võetud (täht)"
 
 msgid "Taken (letter; abjad)"
-msgstr "Taken (letter; abjad)"
+msgstr "Võetud (täht; abjad)"
 
 msgid "Taken Letters"
-msgstr "Taken Letters"
+msgstr "Võetud tähted"
 
 msgid "Text or number cell"
-msgstr "Text or number cell"
+msgstr "Tekst või number lahter"
 
 msgid "Thank you for your support!"
-msgstr "Thank you for your support!"
+msgstr "Tänan teie toetuse eest!"
 
 msgid "Total"
-msgstr "Total"
+msgstr "Kokku"
 
 msgid "Turkish"
-msgstr "Turkish"
+msgstr "Türgi"
 
 msgid "Turkish Alphabet Abjad"
-msgstr "Turkish Alphabet Abjad"
+msgstr "Türgi tähestik abjad"
 
 msgid "Turkish alphabet elements"
-msgstr "Turkish alphabet elements"
+msgstr "Türgi tähestiku elemendid"
 
 msgid "Turkish letters"
-msgstr "Turkish letters"
+msgstr "Türgi tähed"
 
 msgid "Undefined characters"
-msgstr "Undefined characters"
+msgstr "Määratlemata sümbolid"
 
 msgid "Value"
-msgstr "Value"
+msgstr "Väärtus"
 
 msgid "Value & Detail"
-msgstr "Value & Detail"
+msgstr "Väärtus & üksikasjad"
 
 msgid "Version"
-msgstr "Version"
+msgstr "Versioon"
 
 msgid "Water"
-msgstr "Water"
+msgstr "Vesi"
 
 msgid "When data is entered"
-msgstr "When data is entered"
+msgstr "Kui andmed sisestatakse"
 
 msgid "When reading large digits"
-msgstr "When reading large digits"
+msgstr "Suurte numbrite lugemisel"
 
 msgid "[apostrophe]"
 msgstr "[apostrophe]"
@@ -408,288 +408,290 @@ msgid "[tab]"
 msgstr "[tab]"
 
 msgid "abjad calculated and letter count added"
-msgstr "abjad calculated and letter count added"
+msgstr "abjad arvutatud ja tähe arvu lisatud"
 
 msgid "abjad() functions settings"
-msgstr "abjad() functions settings"
+msgstr "abjad() funktsioonide seaded"
 
 msgid "add to initial value"
-msgstr "add to initial value"
+msgstr "lisada algväärtusele"
 
 msgid "and"
-msgstr "and"
+msgstr "ja"
 
 msgid "auto calculate immediately"
-msgstr "auto calculate immediately"
+msgstr "arvuta automaatselt kohe"
 
 msgid "bast"
 msgstr "bast"
 
 msgid "bastet() and nutket() functions settings"
-msgstr "bastet() and nutket() functions settings"
+msgstr "bastet() ja nutket() funktsioonide seaded"
 
 msgid "count once"
-msgstr "count once"
+msgstr "loenda üks kord"
 
 msgid "count twice"
-msgstr "count twice"
+msgstr "loenda kaks korda"
 
 msgid "display with Arabic numbers"
-msgstr "display with Arabic numbers"
+msgstr "näita araabia numbritega"
 
 msgid "display with Indian numbers"
-msgstr "display with Indian numbers"
+msgstr "näita India numbritega"
 
 msgid "do not add to initial value"
-msgstr "do not add to initial value"
+msgstr "ära lisa algväärtusele"
 
 msgid "do not force to other functions"
-msgstr "do not force to other functions"
+msgstr "ära sundi teisi funktsioone"
 
 msgid "do not purify"
-msgstr "do not purify"
+msgstr "ära puhasta"
 
 msgid "force to other functions"
-msgstr "force to other functions"
+msgstr "sundige teistesse funktsioonidesse"
 
 msgid "group multiplier letters"
-msgstr "group multiplier letters"
+msgstr "gruppi korrutajate tähed"
 
 msgid "hide"
-msgstr "hide"
+msgstr "peita"
 
 msgid "hide abjad values"
-msgstr "hide abjad values"
+msgstr "peita abjad väärtused"
 
 msgid "hide bast results"
-msgstr "bast sonuçlarını gizle"
+msgstr "peida bast tulemused"
 
 msgid "hide huddam names"
-msgstr "huddam adlarını gizle"
+msgstr "peida huddam nimekiri"
 
 msgid "huddam() function settings"
-msgstr "huddam() fonksiyon ayarları"
+msgstr "huddam() funktsiooni seaded"
 
 msgid "no bast applied."
-msgstr "hiç bir bast uygulanmadı."
+msgstr "bast ei rakendatud."
 
 msgid "no data entered"
-msgstr "veri girilmedi"
+msgstr "andmeid ei sisestatud"
 
 msgid "other suffix"
-msgstr "diğer ek"
+msgstr "muu suffiks"
 
 msgid "purify data"
-msgstr "veriyi temizle"
+msgstr "puhasta andmed"
 
 msgid "repeat multiplier for each digit"
-msgstr "her basamağa ait çarpanı tekrarla"
+msgstr "korrata kordaja iga numbri jaoks"
 
 msgid "show"
-msgstr "göster"
+msgstr "näita"
 
 msgid "show abjad values"
-msgstr "abjad değerlerini göster"
+msgstr "näita abjad väärtused"
 
 msgid "show bast results"
-msgstr "bast sonuçlarını göster"
+msgstr "näita bast tulemused"
 
 msgid "show huddam names"
-msgstr "huddam adlarını göster"
+msgstr "näita huddam nimekiri"
 
 msgid "suffix"
-msgstr "ek"
+msgstr "suffiks"
 
 msgid "times bast applied."
-msgstr "kadar bast uygulandı."
+msgstr "kordad bast rakendatud."
 
 msgid "use calculated abjad results"
-msgstr "hesaplanan abjad sonuçlarını kullan"
+msgstr "kasuta arvutatud abjad tulemusi"
 
 msgid "use calculated abjad total"
-msgstr "hesaplanan abjad toplamını kullan"
+msgstr "kasuta arvutatud abjad kogusummat"
 
 msgid "use calculated bast results"
-msgstr "hesaplanan bast sonuçlarını kullan"
+msgstr "kasuta arvutatud bast tulemusi"
 
 msgid "use entered data directly"
-msgstr "girilen veriyi doğrudan kullan"
+msgstr "kasuta sisestatud andmeid otse"
 
 msgid "use entered data total"
-msgstr "girilen verinin toplamını kullan"
+msgstr "kasuta sisestatud andmete kogusummat"
 
 msgid "use in all bast repetitions"
-msgstr "tüm bast tekrarlarda kullan"
+msgstr "kasuta kõigis bast kordustes"
 
 msgid "use only at beginning if possible"
-msgstr "mümkünse sadece başta kullan"
+msgstr "kasuta ainult alguses, kui võimalik"
 
 msgid "wait for settings and data entry"
-msgstr "ayarların ve veri girişinin beklenmesi"
+msgstr "oota seadeid ja andmete sisestamist"
 
 msgid "Abjad Table"
-msgstr "Abjad Tablosu"
+msgstr "Abjad Tabel"
 
 msgid "Shadda"
-msgstr "Şedde"
+msgstr "Shadda"
 
 msgid "Details"
-msgstr "Detaylar"
+msgstr "Detailid"
 
 msgid "Element Classification"
-msgstr "Element Sınıflandırması"
+msgstr "Elemendi Klassifikatsioon"
 
 msgid "Abjad Order"
-msgstr "Abjad Sırası"
+msgstr "Abjad Järjekord"
 
 msgid "Abjad Widget"
-msgstr "Abjad Widget'i"
+msgstr "Abjad Vidin"
 
 msgid "Add custom CSS to customize the widget appearance."
-msgstr "Özel CSS ekleyerek widget görünümünü özelleştir."
+msgstr "Lisa kohandatud CSS vidini välimuse kohandamiseks."
 
 msgid ""
 "Add custom JavaScript to modify widget behavior. Wrong code may break the "
 "widget!"
 msgstr ""
-"Özel JavaScript ekleyerek widget davranışını değiştir. Yanlış kod widget'ı "
-"kırabilir!"
+"Lisa kohandatud JavaScript vidini käitumise muutmiseks. Vigane kood võib "
+"vidin kahjustada!"
 
 msgid "An error occurred while loading content."
-msgstr "İçerik yüklenirken bir hata oluştu."
+msgstr "Sisu laadimisel ilmus viga."
 
 msgid "Button"
-msgstr "Düğme"
+msgstr "Nupp"
 
 msgid "Button Color"
-msgstr "Düğme Rengi"
+msgstr "Nupu värv"
 
 msgid "Button Emoji"
-msgstr "Düğme Emoji"
+msgstr "Nupu emojik"
 
 msgid "Button Message"
-msgstr "Düğme Mesajı"
+msgstr "Nupu sõnum"
 
 msgid "Button Settings"
-msgstr "Düğme Ayarları"
+msgstr "Nupu seaded"
 
 msgid "Button Type"
-msgstr "Düğme Türü"
+msgstr "Nupu tüüp"
 
 msgid "CSS saved successfully."
-msgstr "CSS başarıyla kaydedildi."
+msgstr "CSS salvestati edukalt."
 
 msgid "Check this box to activate the widget."
-msgstr "Bileşeni etkinleştirmek için bu kutuyu işaretleyin."
+msgstr "Märgi see ruut, et aktiveerida vidin."
 
 msgid "Code Editor"
-msgstr "Kod Düzenleyici"
+msgstr "Koodiredaktor"
 
 msgid "Custom CSS"
-msgstr "Özel CSS"
+msgstr "Kohandatud CSS"
 
 msgid "Custom JavaScript"
-msgstr "Özel JavaScript"
+msgstr "Kohandatud JavaScript"
 
 msgid "Description"
-msgstr "Açıklama"
+msgstr "Kirjeldus"
 
 msgid "Emoji"
 msgstr "Emoji"
 
 msgid "Enter image URL"
-msgstr "Resim URL'sini girin"
+msgstr "Sisesta pildi URL"
 
 msgid "Example: 🔮, ☯️, ✨"
-msgstr "Örnek: 🔮, ☯️, ✨"
+msgstr "Näide: 🔮, ☯️, ✨"
 
 msgid "General"
-msgstr "Genel"
+msgstr "Üldine"
 
 msgid "JavaScript saved successfully."
-msgstr "JavaScript başarıyla kaydedildi."
+msgstr "JavaScript salvestati edukalt."
 
 msgid "Left"
-msgstr "Sol"
+msgstr "Vasak"
 
 msgid "Live Preview"
-msgstr "Canlı Önizleme"
+msgstr "Otsevaade"
 
 msgid "Loading..."
-msgstr "Yükleniyor..."
+msgstr "Laadimine..."
 
 msgid "PNG Image URL"
-msgstr "PNG Resim URL'si"
+msgstr "PNG pildi URL"
 
 msgid "Paste SVG code"
-msgstr "SVG kodunu yapıştırın"
+msgstr "Kleebi SVG kood"
 
 msgid "Please enter a valid URL."
-msgstr "Geçerli bir URL girin."
+msgstr "Sisesta kehtiv URL."
 
 msgid "Position"
-msgstr "Konum"
+msgstr "Positsioon"
 
 msgid "Reset to Default"
-msgstr "Varsayılana Sıfırla"
+msgstr "Lähtesta vaikimisi"
 
 msgid "Right"
-msgstr "Sağ"
+msgstr "Parem"
 
 msgid "SVG Code"
-msgstr "SVG Kodu"
+msgstr "SVG kood"
 
 msgid "Save CSS"
-msgstr "CSS Kaydet"
+msgstr "Salvesta CSS"
 
 msgid "Save JavaScript"
-msgstr "JavaScript Kaydet"
+msgstr "Salvesta JavaScript"
 
 msgid "Save Settings"
-msgstr "Save Settings"
+msgstr "Salvesta sätted"
 
 msgid "Settings saved successfully."
-msgstr "Settings saved successfully."
+msgstr "Sätted salvestati edukalt."
 
 msgid "Style Editor"
-msgstr "Style Editor"
+msgstr "Stiili redaktor"
 
 msgid "WARNING"
-msgstr "WARNING"
+msgstr "HOIATUS"
 
 msgid "Welcome! You can follow widget news and announcements from this panel."
 msgstr ""
-"Welcome! You can follow widget news and announcements from this panel."
+"Tere tulemast! Sa võid selle paneeli kaudu jälgida vidina uudiseid ja "
+"teateid."
 
 msgid "Widget Settings"
-msgstr "Widget Settings"
+msgstr "Vidina sätted"
 
 msgid "Widget Status"
-msgstr "Widget Status"
+msgstr "Vidina olek"
 
 msgid "Widget active"
-msgstr "Widget active"
+msgstr "Vidina aktiivne"
 
 msgid ""
 "Wrong JavaScript code may break the widget. Backup before making changes."
 msgstr ""
-"Wrong JavaScript code may break the widget. Backup before making changes."
+"Vale JavaScripti kood võib vidinat rikkuda. Varunda enne muudatuste "
+"tegemist."
 
 msgid "Your Buy Me a Coffee username"
-msgstr "Your Buy Me a Coffee username"
+msgstr "Sinu Buy Me a Coffee kasutajanimi"
 
 msgid ""
 "Your changes will directly affect the widget appearance. If you don't know "
 "CSS, it's recommended to use default settings."
 msgstr ""
-"Your changes will directly affect the widget appearance. If you don't know "
-"CSS, it's recommended to use default settings."
+"Su muudatused mõjutavad otse vidina välimust. Kui sa ei tunne CSS-i, "
+"soovitame kasutada vaikimisi seadeid."
 
 msgid "Abjad Widget - Local Dashboard"
-msgstr "Abjad Widget - Local Dashboard"
+msgstr "Abjad Vidin - Kohalik armatuurlaud"
 
 msgid "Spiritual Seekers and Mystics"
-msgstr "Spiritual Seekers and Mystics"
+msgstr "Spirituaalsed otsijad ja mistikaid"
 
 msgid ""
 "Personality Traits: Curious, introspective, open-minded, and drawn to "
@@ -699,15 +701,16 @@ msgid ""
 "Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
 "see the tools as a way to connect with deeper truths or universal energies."
 msgstr ""
-"Personality Traits: Curious, introspective, open-minded, and drawn to "
-"esoteric knowledge. They may have a strong interest in uncovering hidden "
-"meanings or patterns in life. Occupations: Spiritual coaches, tarot readers,"
-" astrologers, or individuals involved in New Age practices. Ideological "
-"Spectrum: Likely to lean toward spiritual or metaphysical beliefs. They may "
-"see the tools as a way to connect with deeper truths or universal energies."
+"Iseloomujooned: uudishimulik, introspektiivne, avatudmeelne ja meelitab "
+"esoteerilise teadmiste poole. Neil võib olla tugev huvi peidetud tähenduste "
+"või mustrite avastamisel elus. Ametid: Spirituaalsed treenerid, "
+"tarotikäsitajad, astroloogid või isikud, kes on seotud New Age praktikaga. "
+"Ideoloogiline spektr: Tõenäoliselt kallutatud spirituaalsetele või "
+"metafoorselõpule uskumistele. Nad võivad näha tööriistu viisil sügavamate "
+"tõdede või universaalsete energiatega ühendamiseks."
 
 msgid "Numerologists and Gematria Enthusiasts"
-msgstr "Numerologists and Gematria Enthusiasts"
+msgstr "Nummeroloogid ja Gematria entusiastid"
 
 msgid ""
 "Personality Traits: Analytical, detail-oriented, and fascinated by the "
@@ -717,15 +720,15 @@ msgid ""
 "those who view numerology as a fun intellectual exercise to those who "
 "believe in its profound spiritual significance."
 msgstr ""
-"Personality Traits: Analytical, detail-oriented, and fascinated by the "
-"relationship between numbers and language. They may enjoy decoding symbolic "
-"meanings. Occupations: Freelance numerologists, writers on esoteric topics, "
-"or hobbyists exploring numerology. Ideological Spectrum: May range from "
-"those who view numerology as a fun intellectual exercise to those who "
-"believe in its profound spiritual significance."
+"Iseloomujooned: analüütiline, detailidele keskenduv ja fascineeritud arvude "
+"ja keelevahelistest suhetest. Nad võivad nautida sümboolsete tähenduste "
+"dekodeerimist. Ametid: Iseseisvad nummeroloogid, esoteeriliste teemade "
+"kirjutajad või hobiistid, kes uurivad nummeroloogiat. Ideoloogiline spektr: "
+"Võib ulatuda neist, kes näevad nummeroloogiat lõbusaks intellektuaalseks "
+"harjutuseks, kuni nende, kes usuvad selle sügavas spirituaalses tähenduses."
 
 msgid "Historians and Linguists"
-msgstr "Historians and Linguists"
+msgstr "Ajaloograafid ja keelteadlased"
 
 msgid ""
 "Personality Traits: Scholarly, methodical, and interested in historical or "
@@ -735,15 +738,15 @@ msgid ""
 "secular, academic perspective, focusing on their historical or linguistic "
 "significance."
 msgstr ""
-"Personality Traits: Scholarly, methodical, and interested in historical or "
-"cultural contexts of numerical systems like Abjad. Occupations: Academics, "
-"researchers, or students studying Middle Eastern languages, history, or "
-"religious texts. Ideological Spectrum: Likely to approach the tools from a "
-"secular, academic perspective, focusing on their historical or linguistic "
-"significance."
+"Iseloomujooned: teaduslik, meetodipõhine ja huvitub arvusüsteemide, nagu "
+"Abjad, ajaloolistest või kultuurilistest kontekstidest. Ametid: Akadeemikud,"
+" uurijad või üliõpilased, kes uurivad Läänemere keeli, ajalugu või usulisi "
+"tekste. Ideoloogiline spektr: Tõenäoliselt läheneb tööriistadele "
+"sekulaarsest, akadeemilisest vaatenurgast, keskendudes nende ajaloolisele "
+"või keelelisele tähtsusele."
 
 msgid "Religious or Faith-Based Individuals"
-msgstr "Religious or Faith-Based Individuals"
+msgstr "Religioossed või usulised isikud"
 
 msgid ""
 "Personality Traits: Devout, reflective, and seeking deeper connections to "
@@ -753,15 +756,16 @@ msgid ""
 "Spectrum: Likely to have a traditional or conservative worldview, using the "
 "tools to reinforce their spiritual beliefs."
 msgstr ""
-"Personality Traits: Devout, reflective, and seeking deeper connections to "
-"their faith. They may use the tools to explore religious texts or divine "
-"messages. Occupations: Religious scholars, imams, priests, or laypeople with"
-" a strong interest in their faith’s mystical traditions. Ideological "
-"Spectrum: Likely to have a traditional or conservative worldview, using the "
-"tools to reinforce their spiritual beliefs."
+"Iseloomujooned: pühased, läbimõtlikud ja otsivad sügavamate ühenduste oma "
+"usu poole. Nad võivad kasutada tööriistu religioosseste tekstide või "
+"jumalikute sõnumite uurimiseks. Ametid: Religioossed teadlased, imamid, "
+"pühaõppekorid või tavapärased inimesed, kellel on tugev huvi usu mistiliste "
+"traditsioonide vastu. Ideoloogiline spektr: Tõenäoliselt traditsiooniline "
+"või konservatiivne maailmavaade, kasutades tööriistu oma spirituaalsete "
+"uskumuste tugevdamiseks."
 
 msgid "Writers and Artists"
-msgstr "Writers and Artists"
+msgstr "Kirjanikud ja kunstnikud"
 
 msgid ""
 "Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
@@ -770,14 +774,15 @@ msgid ""
 "musicians. Ideological Spectrum: May range from secular creatives to those "
 "with a spiritual or mystical bent."
 msgstr ""
-"Personality Traits: Creative, imaginative, and drawn to symbolic or abstract"
-" concepts. They may use the tools for inspiration or to add layers of "
-"meaning to their work. Occupations: Authors, poets, visual artists, or "
-"musicians. Ideological Spectrum: May range from secular creatives to those "
-"with a spiritual or mystical bent."
+"Iseloomujooned: loomingulised, kujutlusvõimelised ja meelitavad sümboolsete "
+"või abstraktsete kontseptsioonide poole. Nad võivad kasutada tööriistu "
+"inspiratsiooniks või oma tööde tähenduste tasandite lisamiseks. Ametid: "
+"Autorid, luuletajad, visuaalid või muusikud. Ideoloogiline spektr: Võib "
+"ulatuda sekulaarsest loojast kuni nende, kellel on spirituaalne või "
+"mistiline kald."
 
 msgid "Puzzle and Riddle Enthusiasts"
-msgstr "Puzzle and Riddle Enthusiasts"
+msgstr "Puzle- ja räiskepüha entusiastid"
 
 msgid ""
 "Personality Traits: Playful, intellectually curious, and enjoy solving "
@@ -786,14 +791,14 @@ msgid ""
 "as a form of entertainment or mental exercise, with little ideological "
 "attachment."
 msgstr ""
-"Personality Traits: Playful, intellectually curious, and enjoy solving "
-"complex problems or decoding patterns. Occupations: Hobbyists, puzzle "
-"designers, or educators. Ideological Spectrum: Likely to approach the tools "
-"as a form of entertainment or mental exercise, with little ideological "
-"attachment."
+"Iseloomujooned: mängulised, intellektuaalselt uudishimulikud ja naudivad "
+"keeruliste probleemide lahendamist või mustrite dekodeerimist. Ametid: "
+"Hobiistid, puzletehnikud või õpetajad. Ideoloogiline spektr: Tõenäoliselt "
+"käsitlevad tööriistu meelelahutuse või vaimse treeningu vormina, vähe "
+"ideoloogilise seosega."
 
 msgid "Conspiracy Theorists and Alternative Thinkers"
-msgstr "Conspiracy Theorists and Alternative Thinkers"
+msgstr "Konspiratsiooni teoorid ja alternatiivsed mõtlejad"
 
 msgid ""
 "Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
@@ -802,20 +807,20 @@ msgid ""
 "unconventional worldview, using the tools to support alternative theories or"
 " narratives."
 msgstr ""
-"Personality Traits: Skeptical of mainstream narratives, drawn to uncovering "
-"hidden truths or patterns in systems. Occupations: Independent researchers, "
-"bloggers, or activists. Ideological Spectrum: May have a more radical or "
-"unconventional worldview, using the tools to support alternative theories or"
-" narratives."
+"Iseloomujooned: skeptilised peamistest narratiividest, meelitavad peidetud "
+"tõdede või mustrite avastamise poole süsteemides. Ametid: Iseseisvad "
+"uurijad, blogijad või aktivistid. Ideoloogiline spektr: Võib omada "
+"radikaalsemat või ebaselget maailmavaadet, kasutades tööriistu "
+"alternatiivsete teooriate või narratiivide toetamiseks."
 
 msgid "☕ Support the Project"
-msgstr "☕ Support the Project"
+msgstr "☕ Toeta projekt"
 
 msgid "If you like my project, you can buy me a coffee!"
-msgstr "If you like my project, you can buy me a coffee!"
+msgstr "Kui sulle minu projekt meeldib, võid mulle kohvi ostma!"
 
 msgid "Buy Me A Coffee"
-msgstr "Buy Me A Coffee"
+msgstr "Osta mulle kohv"
 
 msgid "Thank you! 🙏"
-msgstr "Thank you! 🙏"
+msgstr "Aitäh! 🙏"
