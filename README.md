@@ -8,6 +8,8 @@ A powerful, customizable floating widget for Abjad (Ebced), Bastet, and Huddam c
 
 ## Features
 
+[![Abjad Widget Tanıtım Videosu](https://img.youtube.com/vi/d_J6CNJZCSI/0.jpg)](https://www.youtube.com/watch?v=d_J6CNJZCSI)
+
 - 🔮 **Abjad Calculation** - Traditional Arabic alphanumeric system
 - 📿 **Bastet Calculation** - Advanced numeric transformations with loop support
 - 👤 **Huddam Generation** - Spiritual entity name generation
