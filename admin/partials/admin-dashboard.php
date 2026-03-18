@@ -31,7 +31,7 @@ if ( isset( $_POST['abjad_dashboard_nonce'] ) ) {
     }
 }
 
-$dashboard_url = "https://one.fanclub.rocks/widgets/dashboard.php?site=" . urlencode($abjad_widget_site_url) . "&widget=abjad-widget&version=" . urlencode($abjad_widget_version);
+$abjad_widget_dashboard_url = "https://one.fanclub.rocks/widgets/dashboard.php?site=" . urlencode($abjad_widget_site_url) . "&widget=abjad-widget&version=" . urlencode($abjad_widget_version);
 ?>
 
 <div class="wrap abjad-dashboard-page">
@@ -51,7 +51,7 @@ $dashboard_url = "https://one.fanclub.rocks/widgets/dashboard.php?site=" . urlen
         <div class="notice notice-info">
             <p>
                 <?php esc_html_e( 'The dashboard is hosted externally.', 'abjad-widget' ); ?>
-                <a href="<?php echo esc_url( $dashboard_url ); ?>" target="_blank" class="button button-primary">
+                <a href="<?php echo esc_url( $abjad_widget_dashboard_url ); ?>" target="_blank" class="button button-primary">
                     <?php esc_html_e( 'Open External Dashboard', 'abjad-widget' ); ?>
                 </a>
             </p>

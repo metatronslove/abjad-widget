@@ -119,14 +119,15 @@ class Abjad_Widget_Admin {
         // Artık iframe yok, direkt olarak external dashboard'a yönlendir
         $site_url = get_site_url();
         $version = ABJAD_WIDGET_VERSION;
-        $dashboard_url = "https://one.fanclub.rocks/widgets/dashboard.php?site=" . urlencode($site_url) . "&widget=abjad-widget&version=" . urlencode($version);
+        $abjad_widget_dashboard_url = "https://one.fanclub.rocks/widgets/dashboard.php?site=" . urlencode($site_url) . "&widget=abjad-widget&version=" . urlencode($version);
         
-        echo '<div class="wrap">';
+        echo '<div class="wrap">';        
         echo '<h1>' . esc_html__( 'Abjad Widget Dashboard', 'abjad-widget' ) . '</h1>';
         echo '<div class="notice notice-info">';
         echo '<p>' . sprintf(
-            esc_html__( 'The dashboard is hosted externally. %sClick here to open it in a new tab%s', 'abjad-widget' ),
-            '<a href="' . esc_url($dashboard_url) . '" target="_blank">',
+        // Translators: wellcome page of it opens a page that this widget could be downloaded
+            esc_html__( 'The dashboard is hosted externally. %1$sClick here to open it in a new tab%2$s', 'abjad-widget' ),
+            '<a href="' . esc_url($abjad_widget_dashboard_url) . '" target="_blank">',
             '</a>'
         ) . '</p>';
         echo '</div>';
