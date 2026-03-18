@@ -26,7 +26,7 @@ class Abjad_Widget_Admin {
 
         wp_enqueue_style(
             $this->plugin_name . '-admin',
-            plugin_dir_url( __FILE__ ) . '/css/abjad-widget-admin.css',
+            plugin_dir_url( __FILE__ ) . 'css/abjad-widget-admin.css',
             array(),
             $this->version,
             'all'
@@ -51,7 +51,7 @@ class Abjad_Widget_Admin {
 
         wp_enqueue_script(
             $this->plugin_name . '-admin',
-            plugin_dir_url( __FILE__ ) . '/js/abjad-widget-admin.js',
+            plugin_dir_url( __FILE__ ) . 'js/abjad-widget-admin.js',
             array( 'jquery', 'wp-codemirror' ),
             $this->version,
             false
@@ -60,7 +60,7 @@ class Abjad_Widget_Admin {
         // Localize strings used in admin JavaScript.
         wp_localize_script(
             $this->plugin_name . '-admin',
-            'abjad-widget',
+            'abjad_widget',
             array(
                 'invalid_url' => esc_html__( 'Please enter a valid URL.', 'abjad-widget' ),
             )
@@ -116,7 +116,24 @@ class Abjad_Widget_Admin {
     }
 
     public function display_dashboard_page() {
-        include_once 'partials/admin-dashboard.php';
+        // Artık iframe yok, direkt olarak external dashboard'a yönlendir
+        $site_url = get_site_url();
+        $version = ABJAD_WIDGET_VERSION;
+        $dashboard_url = "https://one.fanclub.rocks/widgets/dashboard.php?site=" . urlencode($site_url) . "&widget=abjad-widget&version=" . urlencode($version);
+        
+        echo '<div class="wrap">';
+        echo '<h1>' . esc_html__( 'Abjad Widget Dashboard', 'abjad-widget' ) . '</h1>';
+        echo '<div class="notice notice-info">';
+        echo '<p>' . sprintf(
+            esc_html__( 'The dashboard is hosted externally. %sClick here to open it in a new tab%s', 'abjad-widget' ),
+            '<a href="' . esc_url($dashboard_url) . '" target="_blank">',
+            '</a>'
+        ) . '</p>';
+        echo '</div>';
+        
+        // Local dashboard içeriğini göster
+        include_once 'partials/dashboard-local.php';
+        echo '</div>';
     }
 
     public function display_settings_page() {
@@ -153,9 +170,12 @@ class Abjad_Widget_Admin {
 
     public function sanitize_widget_settings( $input ) {
         $sanitized = array();
-        $sanitized['id']          = sanitize_text_field( $input['id'] );
+        // ID sabitlendi, kullanıcı değiştiremez.
+        $sanitized['id']          = 'metatronslove';
         $sanitized['color']       = sanitize_hex_color( $input['color'] );
         $sanitized['position']    = in_array( $input['position'], array( 'left', 'right' ) ) ? $input['position'] : 'right';
+        $sanitized['margin_x']    = intval( $input['margin_x'] );
+        $sanitized['margin_y']    = intval( $input['margin_y'] );
         $sanitized['message']     = sanitize_text_field( $input['message'] );
         $sanitized['description'] = sanitize_text_field( $input['description'] );
         $sanitized['enabled']     = isset( $input['enabled'] ) ? 1 : 0;

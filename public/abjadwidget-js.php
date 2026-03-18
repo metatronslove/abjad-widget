@@ -35,6 +35,8 @@ $abjad_widget_options = get_option( 'abjad_widget_settings', array(
 	'id'			=> 'metatronslove',
 	'color'		 => '#FFDD00',
 	'position'	  => 'right',
+	'margin_x'      => 18,
+    'margin_y'      => 18,
 	'message'	   => 'Like my projects? Buy me a coffee!',
 	'description'   => 'Support occult tools',
 	'enabled'	   => 1,
@@ -80,6 +82,8 @@ $abjad_widget_default_js = <<<'EOT'
  *   data-id="metatronslove"	   (Buy Me a Coffee username)
  *   data-color="#FFDD00"		   (button color)
  *   data-position="right"		  (left/right)
+ *   data-margin_x="18"             (horizontal margin)
+ *   data-margin_y="18"             (vertical margin)
  *   data-message="Support me"	  (button message)
  *   data-description="Like my work?" (description)
  */
@@ -98,6 +102,8 @@ $abjad_widget_default_js = <<<'EOT'
 			el.style.opacity = progress;
 			if (progress < 1) {
 				requestAnimationFrame(animate);
+			} else {
+				el.style.opacity = 1;
 			}
 		}
 		
@@ -116,25 +122,11 @@ $abjad_widget_default_js = <<<'EOT'
 				requestAnimationFrame(animate);
 			} else {
 				el.style.display = 'none';
+				el.style.opacity = 0;
 			}
 		}
 		
 		requestAnimationFrame(animate);
-	}
-
-	function HideAndSeek(tohide, toshow, duration, delay) {
-		setTimeout(() => {
-			tohide.forEach(function(sel) {
-				document.querySelectorAll(sel).forEach(function(el) {
-					fadeOut(el, duration);
-				});
-			});
-			toshow.forEach(function(sel) {
-				document.querySelectorAll(sel).forEach(function(el) {
-					fadeIn(el, duration);
-				});
-			});
-		}, delay);
 	}
 
 	function HideAndView(order) {
@@ -171,6 +163,25 @@ $abjad_widget_default_js = <<<'EOT'
 			hideNext();
 		}
 	}
+	
+	function HideAndSeek(tohide, toshow, duration, delay) {
+        setTimeout(function() {
+            tohide.forEach(function(sel) {
+                document.querySelectorAll(sel).forEach(function(el) {
+                    el.style.transition = 'opacity ' + duration + 'ms';
+                    el.style.opacity = '0';
+                    setTimeout(function() { el.style.display = 'none'; }, duration);
+                });
+            });
+            toshow.forEach(function(sel) {
+                document.querySelectorAll(sel).forEach(function(el) {
+                    el.style.display = '';
+                    el.style.transition = 'opacity ' + duration + 'ms';
+                    el.style.opacity = '1';
+                });
+            });
+        }, delay);
+    }
 
 (function(global, $) {
 	'use strict';
@@ -1980,8 +1991,8 @@ function calculations(identity) {
 
 .${window.widgetId}-container {
 	position: fixed;
-	bottom: 24px;
-	${window.config.position}: 24px;
+	bottom: ${window.config.margin_y}px;
+	${window.config.position}: ${window.config.margin_x}px;
 	z-index: 4900;
 	font-size: 14px;
 }
@@ -2962,11 +2973,12 @@ if ( ! empty( $abjad_widget_style_options['custom_css'] ) ) {
 }
 
 // Yapılandırmayı ekle
-echo "window.widgetId = " . wp_json_encode( $widget_id ) . ";\n";
 $abjad_widget_config = array(
 	'id'			=> $abjad_widget_options['id'],
 	'color'		 => $abjad_widget_options['color'],
 	'position'	  => $abjad_widget_options['position'],
+	'margin_x'      => intval( $abjad_widget_options['margin_x'] ),
+	'margin_y'      => intval( $abjad_widget_options['margin_y'] ),
 	'message'	   => $abjad_widget_options['message'],
 	'description'   => $abjad_widget_options['description'],
 	'button_content' => $abjad_widget_button_content,

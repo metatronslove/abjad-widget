@@ -14,6 +14,8 @@ $abjad_widget_options = get_option( 'abjad_widget_settings', array(
     'id'            => 'metatronslove',
     'color'         => '#FFDD00',
     'position'      => 'right',
+    'margin_x'      => 18,
+    'margin_y'      => 18,
     'message'       => 'Like my projects? Buy me a coffee!',
     'description'   => 'Support occult tools',
     'enabled'       => 1,
@@ -55,8 +57,8 @@ $abjad_widget_options = get_option( 'abjad_widget_settings', array(
                                    id="abjad_id" 
                                    name="abjad_widget_settings[id]" 
                                    value="<?php echo esc_attr( $abjad_widget_options['id'] ); ?>" 
-                                   class="regular-text" />
-                            <p class="description"><?php esc_html_e( 'Your Buy Me a Coffee username', 'abjad-widget' ); ?></p>
+                                   class="regular-text" readonly disabled />
+                            <p class="description"><?php esc_html_e( 'This ID is fixed to support the developer.', 'abjad-widget' ); ?></p>
                         </td>
                     </tr>
                     <tr>
@@ -70,12 +72,40 @@ $abjad_widget_options = get_option( 'abjad_widget_settings', array(
                         </td>
                     </tr>
                     <tr>
-                        <th scope="row"><label for="abjad_position"><?php esc_html_e( 'Position', 'abjad-widget' ); ?></label></th>
+                        <th scope="row"><?php esc_html_e( 'Button Position', 'abjad-widget' ); ?></th>
                         <td>
-                            <select id="abjad_position" name="abjad_widget_settings[position]">
-                                <option value="left" <?php selected( $abjad_widget_options['position'], 'left' ); ?>><?php esc_html_e( 'Left', 'abjad-widget' ); ?></option>
-                                <option value="right" <?php selected( $abjad_widget_options['position'], 'right' ); ?>><?php esc_html_e( 'Right', 'abjad-widget' ); ?></option>
-                            </select>
+                            <fieldset>
+                                <label>
+                                    <input type="radio" name="abjad_widget_settings[position]" value="left" <?php checked( $abjad_widget_options['position'], 'left' ); ?> />
+                                    <?php esc_html_e( 'Left', 'abjad-widget' ); ?>
+                                </label><br>
+                                <label>
+                                    <input type="radio" name="abjad_widget_settings[position]" value="right" <?php checked( $abjad_widget_options['position'], 'right' ); ?> />
+                                    <?php esc_html_e( 'Right', 'abjad-widget' ); ?>
+                                </label>
+                            </fieldset>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="abjad_margin_x"><?php esc_html_e( 'Horizontal Margin (px)', 'abjad-widget' ); ?></label></th>
+                        <td>
+                            <input type="number" 
+                                   id="abjad_margin_x" 
+                                   name="abjad_widget_settings[margin_x]" 
+                                   value="<?php echo esc_attr( $abjad_widget_options['margin_x'] ); ?>" 
+                                   class="small-text" min="0" step="1" />
+                            <p class="description"><?php esc_html_e( 'Distance from the left or right edge.', 'abjad-widget' ); ?></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th scope="row"><label for="abjad_margin_y"><?php esc_html_e( 'Vertical Margin (px)', 'abjad-widget' ); ?></label></th>
+                        <td>
+                            <input type="number" 
+                                   id="abjad_margin_y" 
+                                   name="abjad_widget_settings[margin_y]" 
+                                   value="<?php echo esc_attr( $abjad_widget_options['margin_y'] ); ?>" 
+                                   class="small-text" min="0" step="1" />
+                            <p class="description"><?php esc_html_e( 'Distance from the bottom edge.', 'abjad-widget' ); ?></p>
                         </td>
                     </tr>
                     <tr>
